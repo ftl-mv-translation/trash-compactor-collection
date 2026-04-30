@@ -1,38 +1,53 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-01 18:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"trash-compactor-collection/dataevents_sector_showdownxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_showdown.xml.append:6
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Спросить об этом Лию."
 
 #: src-en/data/events_sector_showdown.xml.append:10
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Спросить об этом ТРЕКЕР'а."
 
 #: src-en/data/events_sector_showdown.xml.append:14
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Спросить об этом Флагман."
 
 #: src-en/data/events_sector_showdown.xml.append:18
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Спросить об этом Пожирателя мусора."
 
 #: src-en/data/events_sector_showdown.xml.append:24
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_LEAH\"]/text"
 msgstr ""
+"\"Мы вместе через многое прошли, правда?\" Лия отворачивается от вас и "
+"смотрит на обломки Флагмана. \"Я не думаю, что Витэр прав. Конечно, "
+"двигатели Мультивселенной опасны, но посмотри на нас! Подумай, сколько "
+"потрясающих, как в кино, соперничеств мы разрушим, если взорвем эту бомбу! "
+"Если мы существуем, значит, там еще полно всего такого\". Лия делает паузу, "
+"прежде чем повернуться к вам: \"Из всех бесконечных соперничеств во "
+"вселенной, это особенное - ты не просто какая-то там сучка, ты МОЯ сцука\"."
 
 #: src-en/data/events_sector_showdown.xml.append:27
 msgid ""
@@ -43,6 +58,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_FLAGSHIP\"]/text"
 msgstr ""
+"Как только вы произносите это вслух, вы тут же задаетесь вопросом, почему вы "
+"только что спросили свой корабль - неодушевленный объект - о том, что вам "
+"делать с этим устройством, способным положить конец Мультивселенной. Как раз "
+"когда вы собираетесь покинуть штурвал корабля, не понимая, как вы сюда "
+"попали, внезапно включается система связи, из которой вырывается поток "
+"непонятного бреда, а затем она снова отключается. Однако, как только она "
+"затихает, компьютер корабля сообщает вам, что вы только что загрузили "
+"чертежи корабля. \"Ты, возможно, никогда не узнаешь, что это было, если "
+"решишь уничтожить Мультивселенную\", - думаете вы про себя."
 
 #: src-en/data/events_sector_showdown.xml.append:36
 msgid ""
@@ -53,6 +77,10 @@ msgstr "Продолжить?.."
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRACKER\"]/text"
 msgstr ""
+"\"Мы сделали это\", - говорит Трекер, выглядя крайне довольным. \"Проект "
+"Протоген знатно надавал восстанию по заднице - и давно пора было. Пойдем, "
+"посмотрим на обломки. Я хочу забрать столько трофеев, сколько поместится в "
+"трюме\"."
 
 #: src-en/data/events_sector_showdown.xml.append:44
 msgid ""
@@ -63,6 +91,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRASH\"]/text"
 msgstr ""
+"\"ЭТО ЕЩЕ НЕ КОНЕЦ... ЭТО ЕЩЕ НЕ КОНЕЦ... В ТЕНИ СКРЫВАЕТСЯ ЧТО-ТО ЕЩЕ "
+"СТРАШНЕЕ...\" - Пожиратель мусора выглядит потрясенным. Но что вообще может "
+"быть хуже этого?"
 
 #: src-en/data/events_sector_showdown.xml.append:52
 msgid ""
