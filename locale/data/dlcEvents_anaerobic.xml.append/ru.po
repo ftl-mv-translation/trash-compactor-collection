@@ -1,24 +1,39 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-01 18:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"trash-compactor-collection/datadlcevents_anaerobicxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:4
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/text"
 msgstr ""
+"Рядом с маяком находится корабль Сварщиков лаунисов, но он не нападает. "
+"Вместо этого он вызывают вас: "
+"\"Продажа рабов, скрапперы. Враги Роя. Купить?\" Затем камера переключается "
+"на грузовой отсек, в котором находится множество скрапперов."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:7
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[1]/text"
-msgstr ""
+msgstr "Купить скраппера Солдата."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:9
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[1]/event/text"
 msgstr ""
+"Вы отправляете им лом, а Сварщики присылают капсулу. Внутри капсулы "
+"находится заказанный вами скраппер». Вы освобождаете его от пут, а затем "
+"уходите."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:17
 msgid ""
@@ -29,6 +44,9 @@ msgstr ""
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[2]/event/text"
 msgstr ""
+"Вы отправляете им лом, а Сварщики присылают капсулу. Внутри капсулы "
+"находится заказанный вами скраппер». Вы освобождаете его от пут, а затем "
+"уходите."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:27
 msgid ""
@@ -39,6 +57,9 @@ msgstr ""
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[3]/event/text"
 msgstr ""
+"Вы отправляете им лом, а Сварщики присылают капсулу. Внутри капсулы "
+"находится заказанный вами скраппер». Вы освобождаете его от пут, а затем "
+"уходите."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:37
 msgid ""
@@ -49,6 +70,9 @@ msgstr ""
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[4]/event/text"
 msgstr ""
+"Вы отправляете им лом, а Сварщики присылают капсулу. Внутри капсулы "
+"находится заказанный вами скраппер». Вы освобождаете его от пут, а затем "
+"уходите."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:47
 msgid ""
@@ -59,6 +83,9 @@ msgstr ""
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[5]/event/text"
 msgstr ""
+"Вы отправляете им лом, а Сварщики присылают капсулу. Внутри капсулы "
+"находится заказанный вами скраппер». Вы освобождаете его от пут, а затем "
+"уходите."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:57
 msgid ""
