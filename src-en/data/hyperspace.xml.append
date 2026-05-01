@@ -8014,8 +8014,4 @@ SPEED          Changes gamespeed
 
 <metaVariable name="prof_z_boon_tcc_scrapper" op="set" val="0"/>
 <variable name="ach_boon_tcc_scrapper" op="set" val="0"/>
-
-<mod:findLike type="scripts" limit="1">
-    <mod-append:script>data/trc_scripts/trc_weaponFunctions.lua</mod-append:script>
-</mod:findLike>
 </FTL>
