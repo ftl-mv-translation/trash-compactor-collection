@@ -1,0 +1,44 @@
+<FTL>
+<nameList race="human" sex="male" language="ru">
+	<name>Далвест</name>
+	<name>Крис</name>
+	<name>Уолтер</name>
+	<name>Типерим</name>
+	<name>Зугго</name>
+	<name short="Нитрон">НитронEXE</name>
+	<name>КонМэн</name>
+	<name>Лэндгрин</name>
+	<name>Лекс</name>
+	<name>Вабблз</name>
+	<name>Каньо</name>
+	<name>Педросян</name>
+	<name>Чоосчи</name>
+	<name>Энхантер</name>
+	<name>Зандоваре</name>
+	<name>Ньютон</name>
+	<name>Силли</name>
+	<name>Рауль</name>
+	<name>Джеймс</name>
+	<name short="ДФГ">ДемонФьюжн</name>
+	<name short="Кринт">Кринтолов</name>
+	<name short="Верт">Вертаалфоут</name>
+	<name short="Джалк">Комм Джалк</name>
+	<name>Флориан</name>
+	<name>Трев</name>
+</nameList>
+
+<nameList race="human" sex="female" language="ru">
+	<name>Скай</name>
+	<name>Эшли</name>
+	<name>Кеттей</name>
+	<name>Анастасия</name>
+	<name short="Робин">Робин-дракон</name>
+	<name short="Робин">Робин-мамочка</name>
+	<name>Остин</name>
+	<name>Ванесса</name>
+	<name>Эмми</name>
+	<name>Триша</name>
+	<name>Аутумм</name>
+	<name>ДжейДжей</name>
+</nameList>
+</FTL>
