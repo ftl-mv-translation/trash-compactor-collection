@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-01 18:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "trash-compactor-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -2555,6 +2555,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AUTOGUNBOAT\"]/desc"
 msgstr ""
+"Неприметный корабль, вооруженный столь же неприметной, но надежной "
+"артиллерией, которая после полной модернизации может стать весьма мощной - "
+"любезно предоставлен верьфями Эшелон, партнером АПС. Вперед, к звездам, брат."
 
 #: src-en/data/blueprints.xml.append:7459
 msgid ""
