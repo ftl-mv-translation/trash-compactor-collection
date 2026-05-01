@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-01 18:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-05-02 10:27+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "trash-compactor-collection/dataevents_avalixml/ru/>\n"
 "Language: ru\n"
@@ -21,11 +21,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_avali.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_AVALI\"]/text[1]"
 msgstr ""
+"Корабль повстанцев у этого маяка сообщает: \"Наконец-то передышка от того, "
+"чтобы перемалывать этих пернатых уродов в кашу. Я гораздо больше предпочитаю "
+"федеральную мразь!\""
 
 #: src-en/data/events_avali.xml:36
 msgid ""
 "data/events_avali.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_AVALI\"]/text[2]"
 msgstr ""
+"Едва ваш корабль снизил скорость до подсветовой, как вы получили вызов от "
+"корабля повстанцев. \"Ты тот наемник, которого наняли федералы! Я уже думал, "
+"что застряну в этом ужасном секторе навсегда, а тут наконец-то появился шанс "
+"получить повышение!\""
 
 #: src-en/data/events_avali.xml:38
 msgid ""
@@ -65,7 +72,7 @@ msgstr "текст"
 #: src-en/data/events_avali.xml:57
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH\"]/choice[1]/text"
-msgstr ""
+msgstr "Связаться с Затерянными Солнцами"
 
 #: src-en/data/events_avali.xml:62
 msgid ""
@@ -75,12 +82,12 @@ msgstr "Оставить их заниматься своими делами."
 #: src-en/data/events_avali.xml:64
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы оставляете Затерянные Солнца в покое."
 
 #: src-en/data/events_avali.xml:66
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Заняться чем-нибудь на борту корабля."
 
 #: src-en/data/events_avali.xml:70
 msgid ""
@@ -124,6 +131,7 @@ msgstr "текст"
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_NO2\"]/choice[1]/text"
 msgstr ""
+"Затерянные Солнца не позволят вам стать волонтером. У вас нет кислорода."
 
 #: src-en/data/events_avali.xml:111
 msgid ""
@@ -217,6 +225,12 @@ msgstr "текст"
 #: src-en/data/events_avali.xml:185
 msgid "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/text"
 msgstr ""
+"Как только вы переместились к этому маяку, вас сразу же встречают два "
+"стоящих на месте корабля. Слева от вас находится корабльРенегетов "
+"Мультивселенной конструкции Инженеров с серьезными повреждениями корпуса, "
+"вооружение которого находится в боевой готовности. С другой стороны вас ждет "
+"корабль Иллюминатов с запущенными дронами. Как только вы попадаете в зону "
+"действия маяка, оба корабля одновременно выходят с вами на связь."
 
 #: src-en/data/events_avali.xml:187
 msgid "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/text"
@@ -255,7 +269,7 @@ msgstr ""
 #: src-en/data/events_avali.xml:217
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Заняться чем-нибудь на борту корабля."
 
 #: src-en/data/events_avali.xml:221
 msgid ""
@@ -274,7 +288,7 @@ msgstr "У вас есть дела поважнее."
 #: src-en/data/events_avali.xml:233
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Заняться чем-нибудь на борту корабля."
 
 #: src-en/data/events_avali.xml:237
 msgid ""
