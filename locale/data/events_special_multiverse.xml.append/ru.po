@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-01 18:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"trash-compactor-collection/dataevents_special_multiversexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_multiverse.xml.append:23
 msgid ""
@@ -1693,6 +1701,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/text"
 msgstr ""
+"Перед вами первый Мусоропресс. Принц скрапперов, Пожиратель мусора, уже "
+"здесь. Его завоевательная кампания по захвату мира начинается с вашего "
+"корабля. Давайте не дадим его планам осуществиться!"
 
 #: src-en/data/events_special_multiverse.xml.append:1748
 msgid ""
@@ -2057,12 +2068,22 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"SYLVAN_ROYAL_NORMAL\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Пусть Лия встанет рядом с вами, пока вы отвечаете на ее вызов."
 
 #: src-en/data/events_special_multiverse.xml.append:2100
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SYLVAN_ROYAL_LEAH_DIALOGUE\"]/text"
 msgstr ""
+"\"Не может быть. Не может быть, чтобы ты это сделал. Не может быть, чтобы ты "
+"нашел… ЕЩЕ ОДНУ ЛИЮ? А как же мы? А как же наше соперничество, самое "
+"легендарное соперничество в истории, а ты нашел ДРУГУЮ меня? Я думала, у нас "
+"было что-то особенное, мы столько раз сражались друг с другом, пережили "
+"столько потрясающих моментов, а ты... ты... ты меня обманул!"
+"\" Лия с силой ударила кулаком по столу и вскочила со стула. \"Хватит игр, "
+"капитан, наше соперничество закончилось, и только одна из нас выберется "
+"отсюда живой. Ооо, но что, если мы обе умрем одновременно, разве это не "
+"будет таким крутым и эпическим мо...\" Вы отключаете связь и начинаете "
+"заряжать свое оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:2103
 msgid ""
