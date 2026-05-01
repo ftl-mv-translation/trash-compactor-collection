@@ -1,153 +1,161 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-02 10:27+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"trash-compactor-collection/dataautoblueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/autoBlueprints.xml.append:1263
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR1\"]/class"
-msgstr ""
+msgstr "Мусоропресс"
 
 #: src-en/data/autoBlueprints.xml.append:1293
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR2\"]/class"
-msgstr ""
+msgstr "Мусоропресс"
 
 #: src-en/data/autoBlueprints.xml.append:1326
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR3\"]/class"
-msgstr ""
+msgstr "Мусоропресс"
 
 #: src-en/data/autoBlueprints.xml.append:1365
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR4\"]/class"
-msgstr ""
+msgstr "Мусоропресс"
 
 #: src-en/data/autoBlueprints.xml.append:1405
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR5\"]/class"
-msgstr ""
+msgstr "(Блестящий) Мусоропресс"
 
 #: src-en/data/autoBlueprints.xml.append:1453
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR6\"]/class"
-msgstr ""
+msgstr "Вселенная 0 Мусоропресс"
 
 #: src-en/data/autoBlueprints.xml.append:1507
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_MINER\"]/class"
-msgstr ""
+msgstr "Уплотнитель мусора ТРЕКЕР'а"
 
 #: src-en/data/autoBlueprints.xml.append:1544
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_MINER_QUEST\"]/class"
-msgstr ""
+msgstr "Уплотнитель мусора ТРЕКЕР'а"
 
 #: src-en/data/autoBlueprints.xml.append:1582
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SCRAPPER_SCOUT\"]/class"
-msgstr ""
+msgstr "Разведчик скрапперов"
 
 #: src-en/data/autoBlueprints.xml.append:1606
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SCRAPPER_SHOP\"]/class"
-msgstr ""
+msgstr "Продавец скрапперов"
 
 #: src-en/data/autoBlueprints.xml.append:1644
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SCRAPPER_BOMBER\"]/class"
-msgstr ""
+msgstr "Бомбардировщик скрапперов"
 
 #: src-en/data/autoBlueprints.xml.append:1668
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SCRAPPER_CRUISER\"]/class"
-msgstr ""
+msgstr "Крейсер скрапперов"
 
 #: src-en/data/autoBlueprints.xml.append:1696
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_FIGHTER\"]/class"
-msgstr ""
+msgstr "Истребитель киви"
 
 #: src-en/data/autoBlueprints.xml.append:1720
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_FIGHTER_ENGI\"]/class"
-msgstr ""
+msgstr "Истребитель киви"
 
 #: src-en/data/autoBlueprints.xml.append:1744
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_BOMBER\"]/class"
-msgstr ""
+msgstr "Бомбардировщик киви"
 
 #: src-en/data/autoBlueprints.xml.append:1771
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_BOMBER_SPIDER\"]/class"
-msgstr ""
+msgstr "Бомбардировщик киви"
 
 #: src-en/data/autoBlueprints.xml.append:1797
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_SCOUT\"]/class"
-msgstr ""
+msgstr "Разведчик киви"
 
 #: src-en/data/autoBlueprints.xml.append:1820
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_SCOUT_ENGI\"]/class"
-msgstr ""
+msgstr "Разведчик киви"
 
 #: src-en/data/autoBlueprints.xml.append:1843
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_FIGHTER_PIRATE\"]/class"
-msgstr ""
+msgstr "Истребитель киви"
 
 #: src-en/data/autoBlueprints.xml.append:1870
 msgid "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_AUTO\"]/class"
-msgstr ""
+msgstr "Авто киви"
 
 #: src-en/data/autoBlueprints.xml.append:1895
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_SCRAPPER_CORVETTE\"]/class"
-msgstr ""
+msgstr "Корвет скрапперов"
 
 #: src-en/data/autoBlueprints.xml.append:1926
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_SCRAPPER_HUNTER\"]/class"
-msgstr ""
+msgstr "Охотники скрапперов"
 
 #: src-en/data/autoBlueprints.xml.append:1955
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_SCRAPPER_SUPPORT\"]/class"
-msgstr ""
+msgstr "Поддержка скрапперов"
 
 #: src-en/data/autoBlueprints.xml.append:1989
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SYLVAN_LODGE\"]/class"
-msgstr ""
+msgstr "Военная гостиничная станция"
 
 #: src-en/data/autoBlueprints.xml.append:2019
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_RENTAFLAGSHIP\"]/class"
-msgstr ""
+msgstr "Флагман Напрокат"
 
 #: src-en/data/autoBlueprints.xml.append:2051
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AVALI_SKIRMISHER\"]/class"
-msgstr ""
+msgstr "Застрельщик авали"
 
 #: src-en/data/autoBlueprints.xml.append:2074
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"ARS_FED_AUTOSHIP\"]/class"
-msgstr ""
+msgstr "Автомат лапши быстрого приготовления"
 
 #: src-en/data/autoBlueprints.xml.append:2094
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RSA_ASSAULT\"]/class"
-msgstr ""
+msgstr "Штурмовик АПС"
 
 #: src-en/data/autoBlueprints.xml.append:2122
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RSA_DROPSHIP\"]/class"
-msgstr ""
+msgstr "Челнок АПС"
 
 #: src-en/data/autoBlueprints.xml.append:2155
 msgid ""
@@ -157,4 +165,4 @@ msgstr "Крейсер Ренегатов"
 #: src-en/data/autoBlueprints.xml.append:2189
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"ECHELON_MEETUP_MERCHANT\"]/class"
-msgstr ""
+msgstr "Торговое судно Эшелон(ТМ)"
