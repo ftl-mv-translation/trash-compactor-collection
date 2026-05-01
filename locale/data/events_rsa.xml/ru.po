@@ -1,22 +1,38 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-01 18:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"trash-compactor-collection/dataevents_rsaxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_rsa.xml:4
 msgid "data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/text"
 msgstr ""
+"К вам обращается вежливый, но вызывающе одетый робот-гуманоид: \"Здравствуйте"
+", дорогой путешественник, меня зовут БЛК-Р053. Я на 93.64% рада "
+"познакомиться с вами. У вас есть ресурсы, которые были бы более полезны в "
+"моем распоряжении. Вы желаете передать их мне, или мне забрать их после "
+"вашего прекращения существования?\" Вам трудно не заметить, что ее "
+"пиксельная матрица выражает особую радость от того, что она сказала."
 
 #: src-en/data/events_rsa.xml:7
 msgid "data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[1]/text"
-msgstr ""
+msgstr "Хорошо."
 
 #: src-en/data/events_rsa.xml:9
 msgid ""
 "data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[1]/event/text"
 msgstr ""
+"\"Это совершенно логично - вы цените [ЖИЗНЬ] и хотите продолжать свою "
+"деятельность. Спасибо, что пришли к разумному выводу. [:D]\""
 
 #: src-en/data/events_rsa.xml:18
 msgid "data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[2]/text"
@@ -26,18 +42,24 @@ msgstr "Нет."
 msgid ""
 "data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[2]/event/text"
 msgstr ""
+"\"Вероятность такого исхода оценивалась в 93.51%. Сейчас я приступлю к "
+"силовому захвату ваших ресурсов - прошу не сопротивляться! [:(]\""
 
 #: src-en/data/events_rsa.xml:25
 msgid ""
 "data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(Улучш. Взломщик) Ни то, ни другое."
 
 #: src-en/data/events_rsa.xml:27
 msgid ""
 "data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[@req=\"hacking\"]/event/text"
 msgstr ""
+"\"Похоже, вы неправильно поняли те варианты, которые я п-предложила в-в-вам "
+"[рассчитала] в качестве возможных. Интересно, что ваше поведение не "
+"совпадает ни с одним из результатов, которые я смоделировала. Появились "
+"новые сведения, которые нужно собрать! [;)]\""
 
 #: src-en/data/events_rsa.xml:28
 msgid ""
 "data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[@req=\"hacking\"]/event/crewMember"
-msgstr ""
+msgstr "Черная роза"
