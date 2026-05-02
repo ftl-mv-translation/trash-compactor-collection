@@ -1,17 +1,17 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-02 10:27+0000\n"
+"PO-Revision-Date: 2026-05-03 09:08+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"trash-compactor-collection/datablueprintsxmlappend/ru/>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
+"collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -2908,7 +2908,7 @@ msgstr "Мастер Лучей"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_NEWTONBEAMA\"]/desc"
 msgstr ""
-"Корабль печально известного Мастера Лучей, более известного как Лео... или, "
+"Корабль печально известной Мастера Лучей, более известной как Лео... или, "
 "постойте, это был Лиам? Левитикус? Лиззи???"
 
 #: src-en/data/blueprints.xml.append:9191
@@ -3138,11 +3138,11 @@ msgstr "1.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10232
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_zog\"]/title"
-msgstr ""
+msgstr "Зог"
 
 #: src-en/data/blueprints.xml.append:10233
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_zog\"]/short"
-msgstr ""
+msgstr "Зог"
 
 #: src-en/data/blueprints.xml.append:10234
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_zog\"]/desc"
@@ -5370,7 +5370,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11165
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_black_rose\"]/short"
-msgstr ""
+msgstr "Черная роза"
 
 #: src-en/data/blueprints.xml.append:11170
 msgid ""
@@ -5410,7 +5410,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11183
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_freebusiness\"]/short"
-msgstr ""
+msgstr "Бизнесмантис"
 
 #: src-en/data/blueprints.xml.append:11188
 msgid ""
@@ -5461,11 +5461,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:11222
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_kora\"]/title"
-msgstr ""
+msgstr "Кора"
 
 #: src-en/data/blueprints.xml.append:11223
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_kora\"]/short"
-msgstr ""
+msgstr "Кора"
 
 #: src-en/data/blueprints.xml.append:11226
 msgid ""
@@ -5656,12 +5656,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11376
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"protogen_tracker\"]/title"
-msgstr ""
+msgstr "ТРЕКЕР"
 
 #: src-en/data/blueprints.xml.append:11377
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"protogen_tracker\"]/short"
-msgstr ""
+msgstr "ТРЕКЕР"
 
 #: src-en/data/blueprints.xml.append:11380
 msgid ""
@@ -5690,12 +5690,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11390
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"primagen_raptor\"]/title"
-msgstr ""
+msgstr "РАПТОР"
 
 #: src-en/data/blueprints.xml.append:11391
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"primagen_raptor\"]/short"
-msgstr ""
+msgstr "РАПТОР"
 
 #: src-en/data/blueprints.xml.append:11394
 msgid ""
@@ -5730,12 +5730,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11405
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clonefail_lancer\"]/title"
-msgstr ""
+msgstr "Лансер"
 
 #: src-en/data/blueprints.xml.append:11406
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clonefail_lancer\"]/short"
-msgstr ""
+msgstr "Лансер"
 
 #: src-en/data/blueprints.xml.append:11409
 msgid ""
@@ -5800,11 +5800,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:11464
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"sergal_cheese\"]/title"
-msgstr ""
+msgstr "Чиз"
 
 #: src-en/data/blueprints.xml.append:11465
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"sergal_cheese\"]/short"
-msgstr ""
+msgstr "Чиз"
 
 #: src-en/data/blueprints.xml.append:11468
 msgid ""
@@ -5973,11 +5973,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:11615
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_skygirr\"]/title"
-msgstr ""
+msgstr "Скайгирр"
 
 #: src-en/data/blueprints.xml.append:11616
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_skygirr\"]/short"
-msgstr ""
+msgstr "Скайгирр"
 
 #: src-en/data/blueprints.xml.append:11619
 msgid ""
