@@ -1,79 +1,116 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-03 09:08+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
+"collection/dataevents_sector_hivexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_hive.xml.append:5
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"BOMB_FLAK_TRANSPORT_DESTROYED\"]/text"
 msgstr ""
+"Вы успешно уничтожили транспорт. К сожалению, ни одна из осколочных бомбовых "
+"пушек не уцелела в бою. Это разочаровывает, но, по крайней мере, вы все еще "
+"можете разобрать обломки корабля на лом."
 
 #: src-en/data/events_sector_hive.xml.append:10
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"BOMB_FLAK_TRANSPORT_CAPTURE\"]/text"
 msgstr ""
+"На транспортном корабле больше не обнаруживается никаких признаков жизни. Вы "
+"и ваш экипаж открываете грузовой отсек и обнаруживаете там осколочные "
+"бомбовые пушки. Ваше внимание привлекает одна особенно крупная осколочная "
+"бомбовая пушка. Должно быть, это и есть та самая Осколочная бомбовая пушка "
+"мод. IV, о котором все говорили! Вы и ваш экипаж поднимаете ее на свой "
+"корабль, а затем разбираете обломки на лом."
 
 #: src-en/data/events_sector_hive.xml.append:16
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/text"
 msgstr ""
+"Вы замечаете неподалеку транспорт богомолов, передающий сообщение по всей "
+"системе: \"Продаются осколочные бомбовые пушки! Мод. I, мод. II, мод. III и "
+"даже новые мод. IV! Отлично подходят для уничтожения надоедливых систем на "
+"кораблях Федерации!\" Судя по их сообщению, вряд ли они захотят продавать "
+"вам эту технику, но, может быть, вам повезет?"
 
 #: src-en/data/events_sector_hive.xml.append:19
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[1]/text"
-msgstr ""
+msgstr "Спросить, можно ли купить осколочную бомбовую пушку."
 
 #: src-en/data/events_sector_hive.xml.append:23
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/text"
-msgstr ""
+msgstr "(Член экипажа-богомол Улья) Связаться с ними через вашего богомола."
 
 #: src-en/data/events_sector_hive.xml.append:25
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/text"
 msgstr ""
+"\"Богомол на корабле Федерации? Тебе нужны осколочные бомбовые пушки?\" - с "
+"усмешкой спрашивает богомол. \"Улей не одобряет продажу Федерации, но я не "
+"против. В конце концов, лом - это лом!\" Даже несмотря на то, что у вас в "
+"экипаже есть член экипажа-богомол, вы удивлены, что они готовы торговать с "
+"вами. Вы просматриваете их каталог."
 
 #: src-en/data/events_sector_hive.xml.append:27
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Купить Осколочную бомбовую пушку мод. I."
 
 #: src-en/data/events_sector_hive.xml.append:29
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[1]/event/text"
 msgstr ""
+"\"Спасибо за сделку, но больше не возвращайтесь. Не хочу злить Улей\". "
+"Надеюсь, ваше новое оружие того стоит."
 
 #: src-en/data/events_sector_hive.xml.append:37
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Купить Осколочную бомбовую пушку мод. II."
 
 #: src-en/data/events_sector_hive.xml.append:39
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[2]/event/text"
 msgstr ""
+"\"Спасибо за сделку, но больше не возвращайтесь. Не хочу злить Улей\". "
+"Надеюсь, ваше новое оружие того стоит."
 
 #: src-en/data/events_sector_hive.xml.append:47
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Купить Осколочную бомбовую пушку мод. III."
 
 #: src-en/data/events_sector_hive.xml.append:49
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[3]/event/text"
 msgstr ""
+"\"Спасибо за сделку, но больше не возвращайтесь. Не хочу злить Улей\". "
+"Надеюсь, ваше новое оружие того стоит."
 
 #: src-en/data/events_sector_hive.xml.append:57
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Купить Осколочную бомбовую пушку мод. IV."
 
 #: src-en/data/events_sector_hive.xml.append:59
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[4]/event/text"
 msgstr ""
+"\"Вы хотите Осколочную бомбовую пушку мод. IV\"? Хех, я так и думал. Спасибо "
+"за покупку, но больше не возвращайтесь. Не хочу злить Улей\". Вы никогда "
+"раньше не видели Осколочную бомбовую пушку мод. IV, и надеетесь, что покупка "
+"того стоила."
 
 #: src-en/data/events_sector_hive.xml.append:67
 msgid ""
@@ -84,6 +121,10 @@ msgstr "Атаковать их."
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[5]/event/text"
 msgstr ""
+"Несмотря на готовность богомолов торговать с вами, вы все равно решаете "
+"напасть на них. Вы активируете оружие, и богомол отвечает: \"Нападаете на "
+"нас из-за цены? Ха! А Федерация еще говорит, что это мы плохие! Это вы - "
+"злодеи!\""
 
 #: src-en/data/events_sector_hive.xml.append:72
 msgid ""
@@ -99,6 +140,8 @@ msgstr "Неважно."
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[6]/event/text"
 msgstr ""
+"\"Вам нечем заплатить? Хм, какая трата времени. Не смейте возвращаться\". "
+"Богомол прерывает связь."
 
 #: src-en/data/events_sector_hive.xml.append:82
 msgid ""
@@ -114,51 +157,66 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/text"
 msgstr ""
+"(Член экипажа-элита богомолов Улья) Связаться с ними через вашего элитного "
+"богомола."
 
 #: src-en/data/events_sector_hive.xml.append:96
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/text"
 msgstr ""
+"Вы просите своего члена экипажа из элиты Улья связаться с богомолами. \"Не "
+"знаю, зачем это нужно на корабле Федерации, но, наверное, это важно! "
+"Конечно, вы можете купить осколочную бомбовую пушку! Даже со скидкой!\" Вы "
+"просматриваете каталог со скидками."
 
 #: src-en/data/events_sector_hive.xml.append:98
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Купить Осколочную бомбовую пушку мод. I."
 
 #: src-en/data/events_sector_hive.xml.append:100
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[1]/event/text"
 msgstr ""
+"\"Спасибо за покупку и удачной охоты!\" Надеюсь, ваше новое оружие оправдает "
+"ожидания."
 
 #: src-en/data/events_sector_hive.xml.append:108
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Купить Осколочную бомбовую пушку мод. II."
 
 #: src-en/data/events_sector_hive.xml.append:110
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[2]/event/text"
 msgstr ""
+"\"Спасибо за покупку и удачной охоты!\" Надеюсь, ваше новое оружие оправдает "
+"ожидания."
 
 #: src-en/data/events_sector_hive.xml.append:118
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Купить Осколочную бомбовую пушку мод. III."
 
 #: src-en/data/events_sector_hive.xml.append:120
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[3]/event/text"
 msgstr ""
+"\"Спасибо за покупку и удачной охоты!\" Надеюсь, ваше новое оружие оправдает "
+"ожидания."
 
 #: src-en/data/events_sector_hive.xml.append:128
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Купить Осколочную бомбовую пушку мод. IV."
 
 #: src-en/data/events_sector_hive.xml.append:130
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[4]/event/text"
 msgstr ""
+"\"Вы хотите Осколочную бомбовую пушку мод. IV?\" Хе-хе, я так и думал. "
+"Спасибо за покупку, удачной охоты!\" Вы никогда раньше не видели Осколочную "
+"бомбовую пушку мод. IV, и надеетесь, что покупка того стоила."
 
 #: src-en/data/events_sector_hive.xml.append:138
 msgid ""
@@ -169,6 +227,10 @@ msgstr "Атаковать их."
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[5]/event/text"
 msgstr ""
+"Несмотря на готовность богомолов торговать с вами, вы все равно решаете "
+"атаковать их. Вы активируете оружие, и богомол отвечает: \"Зачем атаковать? "
+"Цена слишком высокая? Я снижу ее! Я дам вам...\" Вы отключаете связь и "
+"готовитесь к бою."
 
 #: src-en/data/events_sector_hive.xml.append:143
 msgid ""
@@ -184,6 +246,8 @@ msgstr "Неважно."
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[6]/event/text"
 msgstr ""
+"\"Вы не любите подарки? Не волнуйтесь, в следующий раз у нас будут "
+"осколочные бомбовые пушки получше!\" Вы отключаете связь."
 
 #: src-en/data/events_sector_hive.xml.append:153
 msgid ""
@@ -198,12 +262,18 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_hive.xml.append:165
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[4]/text"
-msgstr ""
+msgstr "Просто атаковать их."
 
 #: src-en/data/events_sector_hive.xml.append:167
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[4]/event/text"
 msgstr ""
+"Даже если этот корабль и не убивает никого напрямую - в чем вы несколько "
+"сомневаетесь - он все равно продает опасное оружие другим богомолам и тем "
+"самым представляет угрозу. Когда вы приближаетесь, транспорт выходит на "
+"связь: \"Думаешь, сможешь нас победить? Ха! Другой транспорт с осколочными "
+"бомбовыми пушками уже был атаковал раньше - они слабые и проиграли. Мы не "
+"такие, как они, мы не проиграем тебе!\""
 
 #: src-en/data/events_sector_hive.xml.append:170
 msgid ""
@@ -213,12 +283,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_hive.xml.append:176
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[5]/text"
-msgstr ""
+msgstr "Не обращать внимания на транспорт."
 
 #: src-en/data/events_sector_hive.xml.append:178
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[5]/event/text"
-msgstr ""
+msgstr "Вы решаете, что лучше не связываться с транспортом."
 
 #: src-en/data/events_sector_hive.xml.append:180
 msgid ""
@@ -234,46 +304,60 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/text"
 msgstr ""
+"\"Федерация ищет осколочные бомбовые пушки?\" - с ухмылкой говорит богомол. "
+"\"Улей против, но я согласен. В конце концов, лом - это лом! Но скидки не "
+"жди\". Вы удивлены, что они готовы торговать с вами, но потом смотрите на "
+"цены. Они просто заоблачные!"
 
 #: src-en/data/events_sector_hive.xml.append:194
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[1]/text"
-msgstr ""
+msgstr "Купить Осколочную бомбовую пушку мод. I."
 
 #: src-en/data/events_sector_hive.xml.append:196
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[1]/event/text"
 msgstr ""
+"\"Спасибо за сделку, но больше не возвращайтесь. Не хочу злить Улей\". Цена "
+"была очень высокая, но хочется верить, что новое оружие того стоит."
 
 #: src-en/data/events_sector_hive.xml.append:204
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[2]/text"
-msgstr ""
+msgstr "Купить Осколочную бомбовую пушку мод. II."
 
 #: src-en/data/events_sector_hive.xml.append:206
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[2]/event/text"
 msgstr ""
+"\"Спасибо за сделку, но больше не возвращайтесь. Не хочу злить Улей\". Цена "
+"была очень высокая, но хочется верить, что новое оружие того стоит."
 
 #: src-en/data/events_sector_hive.xml.append:214
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[3]/text"
-msgstr ""
+msgstr "Купить Осколочную бомбовую пушку мод. III."
 
 #: src-en/data/events_sector_hive.xml.append:216
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[3]/event/text"
 msgstr ""
+"\"Спасибо за сделку, но больше не возвращайтесь. Не хочу злить Улей\". Цена "
+"была очень высокая, но хочется верить, что новое оружие того стоит."
 
 #: src-en/data/events_sector_hive.xml.append:224
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[4]/text"
-msgstr ""
+msgstr "Купить Осколочную бомбовую пушку мод. IV."
 
 #: src-en/data/events_sector_hive.xml.append:226
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[4]/event/text"
 msgstr ""
+"\"Вы хотите Осколочную бомбовую пушку мод. IV\"? Хех, я так и думал. Спасибо "
+"за покупку, но больше не возвращайтесь. Не хочу злить Улей\". Вы никогда "
+"раньше не видели Осколочную бомбовую пушку мод. IV, и надеетесь, что покупка "
+"того стоила."
 
 #: src-en/data/events_sector_hive.xml.append:234
 msgid ""
@@ -284,6 +368,10 @@ msgstr "Атаковать!"
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[5]/event/text"
 msgstr ""
+"Это просто оскорбительно! Если бы вы знали, что они попытаются вас так "
+"обмануть, вы бы сразу же на них напали. Вы активируйте свое оружие, и "
+"богомол отвечает:\"Нападаешь на нас из-за цены? Ха! А Федерация еще говорит, "
+"что это мы плохие! Это вы - злодеи!\""
 
 #: src-en/data/events_sector_hive.xml.append:239
 msgid ""
@@ -299,6 +387,8 @@ msgstr "Неважно."
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[6]/event/text"
 msgstr ""
+"\"Вам нечем заплатить? Хм, какая трата времени. Не смейте возвращаться\". "
+"Богомол прерывает связь."
 
 #: src-en/data/events_sector_hive.xml.append:249
 msgid ""
@@ -314,6 +404,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_DENIED\"]/text"
 msgstr ""
+"\"Федерация хочет осколочную бомбовую пушку?\" - с ухмылкой говорит богомол. "
+"\"А Как насчет того, чтобы получить осколочную бомбовую пушку ПРЯМО В ЛИЦО! "
+"От нас вы их никогда не получите!\" Транспорт активирует оружие и атакует!"
 
 #: src-en/data/events_sector_hive.xml.append:264
 msgid ""
