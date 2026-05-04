@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-04 09:01+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-05-05 01:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -2135,11 +2135,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:5808
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"robo_mant\"]/title"
-msgstr ""
+msgstr "Боевой дрон \"Богомол\""
 
 #: src-en/data/blueprints.xml.append:5809
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"robo_mant\"]/short"
-msgstr ""
+msgstr "Боевой дрон \"Богомол\""
 
 #: src-en/data/blueprints.xml.append:5810
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"robo_mant\"]/desc"
@@ -2186,11 +2186,11 @@ msgstr "Вы не должны этого видеть!"
 
 #: src-en/data/blueprints.xml.append:5859
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"silica\"]/title"
-msgstr ""
+msgstr "Кремнезем"
 
 #: src-en/data/blueprints.xml.append:5860
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"silica\"]/short"
-msgstr ""
+msgstr "Кремнезем"
 
 #: src-en/data/blueprints.xml.append:5865
 msgid ""
@@ -2199,11 +2199,11 @@ msgstr "Дрон"
 
 #: src-en/data/blueprints.xml.append:5878
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"SILICA_BATTLE\"]/title"
-msgstr ""
+msgstr "Кремнезем"
 
 #: src-en/data/blueprints.xml.append:5879
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"SILICA_BATTLE\"]/short"
-msgstr ""
+msgstr "Кремнезем"
 
 #: src-en/data/blueprints.xml.append:5880
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"SILICA_BATTLE\"]/desc"
@@ -2212,12 +2212,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5896
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"SILICA_BOARDER\"]/title"
-msgstr ""
+msgstr "Кремнезем"
 
 #: src-en/data/blueprints.xml.append:5897
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"SILICA_BOARDER\"]/short"
-msgstr ""
+msgstr "Кремнезем"
 
 #: src-en/data/blueprints.xml.append:5898
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"SILICA_BOARDER\"]/desc"
@@ -3106,7 +3106,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:10217
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"trash_eater\"]/title"
-msgstr ""
+msgstr "Пожиратель мусора"
 
 #: src-en/data/blueprints.xml.append:10218
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"trash_eater\"]/short"
@@ -6167,7 +6167,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11711
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_TCC_SCRAPPER\"]/title"
-msgstr ""
+msgstr "Благо переработки"
 
 #: src-en/data/blueprints.xml.append:11712
 msgid ""
