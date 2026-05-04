@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-03 09:08+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2026-05-04 09:01+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -3417,12 +3417,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10365
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_soldier\"]/powerList/power[1]"
-msgstr ""
+msgstr "[Специализация] Наносит 1.35x урона в бою"
 
 #: src-en/data/blueprints.xml.append:10366
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_soldier\"]/powerList/power[2]"
-msgstr ""
+msgstr "[Специализация] 2.0x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10367
 msgid ""
@@ -3467,12 +3467,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10386
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_engineer\"]/powerList/power[1]"
-msgstr ""
+msgstr "[Специализация] 1х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10387
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_engineer\"]/powerList/power[2]"
-msgstr ""
+msgstr "[Специализация] 2х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10388
 msgid ""
@@ -3502,7 +3502,7 @@ msgstr "Наносит 0.5x урона в бою"
 #: src-en/data/blueprints.xml.append:10393
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_engineer\"]/powerList/power[8]"
-msgstr ""
+msgstr "Не может саботировать"
 
 #: src-en/data/blueprints.xml.append:10398
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_medic\"]/title"
@@ -3539,7 +3539,7 @@ msgstr "Получает 0.5х урона от пожаров"
 #: src-en/data/blueprints.xml.append:10412
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_medic\"]/powerList/power[5]"
-msgstr ""
+msgstr "0.5x поглощение кислорода"
 
 #: src-en/data/blueprints.xml.append:10413
 msgid ""
@@ -3554,12 +3554,12 @@ msgstr "0.5x скорость саботажа"
 #: src-en/data/blueprints.xml.append:10415
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_medic\"]/powerList/power[8]"
-msgstr ""
+msgstr "1.2х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10416
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_medic\"]/powerList/power[9]"
-msgstr ""
+msgstr "Не может ремонтировать"
 
 #: src-en/data/blueprints.xml.append:10421
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_heavy\"]/title"
@@ -3576,12 +3576,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10431
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_heavy\"]/powerList/power[1]"
-msgstr ""
+msgstr "[Специализация] Наносит 1.75x урона в бою"
 
 #: src-en/data/blueprints.xml.append:10432
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_heavy\"]/powerList/power[2]"
-msgstr ""
+msgstr "[Специализация] 2x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10433
 msgid ""
@@ -3596,7 +3596,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10435
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_heavy\"]/powerList/power[5]"
-msgstr ""
+msgstr "150 здоровья"
 
 #: src-en/data/blueprints.xml.append:10436
 msgid ""
@@ -3611,7 +3611,7 @@ msgstr "0.5x поглощение кислорода"
 #: src-en/data/blueprints.xml.append:10438
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_heavy\"]/powerList/power[8]"
-msgstr ""
+msgstr "0.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10443
 msgid ""
@@ -3631,12 +3631,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10453
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_heavy_mk2\"]/powerList/power[1]"
-msgstr ""
+msgstr "[Специализация] Наносит 2x урона в бою"
 
 #: src-en/data/blueprints.xml.append:10454
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_heavy_mk2\"]/powerList/power[2]"
-msgstr ""
+msgstr "[Специализация] 2.25х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10455
 msgid ""
@@ -3646,12 +3646,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10456
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_heavy_mk2\"]/powerList/power[4]"
-msgstr ""
+msgstr "Не может обслуживать и ремонтировать системы"
 
 #: src-en/data/blueprints.xml.append:10457
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_heavy_mk2\"]/powerList/power[5]"
-msgstr ""
+msgstr "150 здоровья"
 
 #: src-en/data/blueprints.xml.append:10458
 msgid ""
@@ -3666,7 +3666,7 @@ msgstr "0.5x поглощение кислорода"
 #: src-en/data/blueprints.xml.append:10460
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_heavy_mk2\"]/powerList/power[8]"
-msgstr ""
+msgstr "0.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10465
 msgid ""
@@ -3686,17 +3686,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10475
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_scavenger\"]/powerList/power[1]"
-msgstr ""
+msgstr "[Специализация] 2.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10476
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_scavenger\"]/powerList/power[2]"
-msgstr ""
+msgstr "[Специализация] 1.25х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10477
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_scavenger\"]/powerList/power[3]"
-msgstr ""
+msgstr "[Специализация] 2х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10478
 msgid ""
@@ -3736,17 +3736,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10496
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_scavenger_mk2\"]/powerList/power[1]"
-msgstr ""
+msgstr "[Специализация] 3x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10497
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_scavenger_mk2\"]/powerList/power[2]"
-msgstr ""
+msgstr "[Специализация] 1.25х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10498
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_scavenger_mk2\"]/powerList/power[3]"
-msgstr ""
+msgstr "[Специализация] 3х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10499
 msgid ""
@@ -3786,7 +3786,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10517
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_defender\"]/powerList/power[1]"
-msgstr ""
+msgstr "[Специализация] 200 здоровья"
 
 #: src-en/data/blueprints.xml.append:10518
 msgid ""
@@ -3826,12 +3826,12 @@ msgstr "0.75х скорость передвижения"
 #: src-en/data/blueprints.xml.append:10525
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_defender\"]/powerList/power[9]"
-msgstr ""
+msgstr "0.75x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10526
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_defender\"]/powerList/power[10]"
-msgstr ""
+msgstr "Не может ремонтировать"
 
 #: src-en/data/blueprints.xml.append:10531
 msgid ""
@@ -3851,7 +3851,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10541
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_defender_mk2\"]/powerList/power[1]"
-msgstr ""
+msgstr "[Специализация] 200 здоровья"
 
 #: src-en/data/blueprints.xml.append:10542
 msgid ""
@@ -3881,7 +3881,7 @@ msgstr "0.75х скорость передвижения"
 #: src-en/data/blueprints.xml.append:10547
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_defender_mk2\"]/powerList/power[7]"
-msgstr ""
+msgstr "0.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10548
 msgid ""
@@ -3896,7 +3896,7 @@ msgstr "0.5x поглощение кислорода"
 #: src-en/data/blueprints.xml.append:10550
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_defender_mk2\"]/powerList/power[10]"
-msgstr ""
+msgstr "Не может ремонтировать"
 
 #: src-en/data/blueprints.xml.append:10557
 msgid ""
@@ -3916,12 +3916,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10568
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper\"]/powerList/power[1]"
-msgstr ""
+msgstr "125 здоровья"
 
 #: src-en/data/blueprints.xml.append:10569
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper\"]/powerList/power[2]"
-msgstr ""
+msgstr "Иммунитет к огню"
 
 #: src-en/data/blueprints.xml.append:10570
 msgid ""
@@ -3936,7 +3936,7 @@ msgstr "Наносит 0.5x урона в бою"
 #: src-en/data/blueprints.xml.append:10572
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper\"]/powerList/power[5]"
-msgstr ""
+msgstr "2х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10573
 msgid ""
@@ -3951,12 +3951,12 @@ msgstr "0.75х скорость передвижения"
 #: src-en/data/blueprints.xml.append:10575
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper\"]/powerList/power[8]"
-msgstr ""
+msgstr "Дает 1 единицу энергии"
 
 #: src-en/data/blueprints.xml.append:10576
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper\"]/powerList/power[9]"
-msgstr ""
+msgstr "Сопротивляется контролю разума"
 
 #: src-en/data/blueprints.xml.append:10577
 msgid ""
@@ -3981,12 +3981,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10593
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_2\"]/powerList/power[1]"
-msgstr ""
+msgstr "150 здоровья"
 
 #: src-en/data/blueprints.xml.append:10594
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_2\"]/powerList/power[2]"
-msgstr ""
+msgstr "Иммунитет к огню"
 
 #: src-en/data/blueprints.xml.append:10595
 msgid ""
@@ -4001,7 +4001,7 @@ msgstr "Наносит 0.5x урона в бою"
 #: src-en/data/blueprints.xml.append:10597
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_2\"]/powerList/power[5]"
-msgstr ""
+msgstr "2.5х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10598
 msgid ""
@@ -4011,17 +4011,17 @@ msgstr "0.5x скорость саботажа"
 #: src-en/data/blueprints.xml.append:10599
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_2\"]/powerList/power[7]"
-msgstr ""
+msgstr "1х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10600
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_2\"]/powerList/power[8]"
-msgstr ""
+msgstr "Дает 2 единицы энергии"
 
 #: src-en/data/blueprints.xml.append:10601
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_2\"]/powerList/power[9]"
-msgstr ""
+msgstr "Сопротивляется контролю разума"
 
 #: src-en/data/blueprints.xml.append:10602
 msgid ""
@@ -4046,12 +4046,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10618
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_3\"]/powerList/power[1]"
-msgstr ""
+msgstr "200 здоровья"
 
 #: src-en/data/blueprints.xml.append:10619
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_3\"]/powerList/power[2]"
-msgstr ""
+msgstr "Иммунитет к огню"
 
 #: src-en/data/blueprints.xml.append:10620
 msgid ""
@@ -4066,7 +4066,7 @@ msgstr "Наносит 1x урона в бою"
 #: src-en/data/blueprints.xml.append:10622
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_3\"]/powerList/power[5]"
-msgstr ""
+msgstr "3х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10623
 msgid ""
@@ -4076,17 +4076,17 @@ msgstr "1x скорость саботажа"
 #: src-en/data/blueprints.xml.append:10624
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_3\"]/powerList/power[7]"
-msgstr ""
+msgstr "1.25х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10625
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_3\"]/powerList/power[8]"
-msgstr ""
+msgstr "Дает 3 единицы энергии"
 
 #: src-en/data/blueprints.xml.append:10626
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_3\"]/powerList/power[9]"
-msgstr ""
+msgstr "Сопротивляется контролю разума"
 
 #: src-en/data/blueprints.xml.append:10627
 msgid ""
@@ -4116,7 +4116,7 @@ msgstr "115 здоровья"
 #: src-en/data/blueprints.xml.append:10644
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_engineer\"]/powerList/power[2]"
-msgstr ""
+msgstr "Иммунитет к огню"
 
 #: src-en/data/blueprints.xml.append:10645
 msgid ""
@@ -4131,27 +4131,27 @@ msgstr "Наносит 0.5x урона в бою"
 #: src-en/data/blueprints.xml.append:10647
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_engineer\"]/powerList/power[5]"
-msgstr ""
+msgstr "Не может саботировать"
 
 #: src-en/data/blueprints.xml.append:10648
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_engineer\"]/powerList/power[6]"
-msgstr ""
+msgstr "[Специализация] 1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10649
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_engineer\"]/powerList/power[7]"
-msgstr ""
+msgstr "[Специализация] 3х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10650
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_engineer\"]/powerList/power[8]"
-msgstr ""
+msgstr "Дает 1 единицу энергии"
 
 #: src-en/data/blueprints.xml.append:10651
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_engineer\"]/powerList/power[9]"
-msgstr ""
+msgstr "Сопротивляется контролю разума"
 
 #: src-en/data/blueprints.xml.append:10652
 msgid ""
@@ -4176,12 +4176,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10668
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger\"]/powerList/power[1]"
-msgstr ""
+msgstr "135 здоровья"
 
 #: src-en/data/blueprints.xml.append:10669
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger\"]/powerList/power[2]"
-msgstr ""
+msgstr "Иммунитет к огню"
 
 #: src-en/data/blueprints.xml.append:10670
 msgid ""
@@ -4196,27 +4196,27 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10672
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger\"]/powerList/power[5]"
-msgstr ""
+msgstr "[Специализация] 1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10673
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger\"]/powerList/power[6]"
-msgstr ""
+msgstr "[Специализация] 3х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10674
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger\"]/powerList/power[7]"
-msgstr ""
+msgstr "[Специализация] 3x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10675
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger\"]/powerList/power[8]"
-msgstr ""
+msgstr "Дает 2 единицы энергии"
 
 #: src-en/data/blueprints.xml.append:10676
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger\"]/powerList/power[9]"
-msgstr ""
+msgstr "Сопротивляется контролю разума"
 
 #: src-en/data/blueprints.xml.append:10677
 msgid ""
@@ -4241,12 +4241,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10693
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger_mk2\"]/powerList/power[1]"
-msgstr ""
+msgstr "165 здоровья"
 
 #: src-en/data/blueprints.xml.append:10694
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger_mk2\"]/powerList/power[2]"
-msgstr ""
+msgstr "Иммунитет к огню"
 
 #: src-en/data/blueprints.xml.append:10695
 msgid ""
@@ -4261,27 +4261,27 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10697
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger_mk2\"]/powerList/power[5]"
-msgstr ""
+msgstr "[Специализация] 1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10698
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger_mk2\"]/powerList/power[6]"
-msgstr ""
+msgstr "[Специализация] 4х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10699
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger_mk2\"]/powerList/power[7]"
-msgstr ""
+msgstr "[Специализация] 4х скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10700
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger_mk2\"]/powerList/power[8]"
-msgstr ""
+msgstr "Дает 3 единицы энергии. Высасывает 1 единицу энергии."
 
 #: src-en/data/blueprints.xml.append:10701
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_scavenger_mk2\"]/powerList/power[9]"
-msgstr ""
+msgstr "Сопротивляется контролю разума"
 
 #: src-en/data/blueprints.xml.append:10702
 msgid ""
@@ -4306,12 +4306,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10720
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper\"]/powerList/power[1]"
-msgstr ""
+msgstr "125 здоровья"
 
 #: src-en/data/blueprints.xml.append:10721
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper\"]/powerList/power[2]"
-msgstr ""
+msgstr "4x получаемый урон от огня"
 
 #: src-en/data/blueprints.xml.append:10722
 msgid ""
@@ -4326,7 +4326,7 @@ msgstr "Наносит 0.75x урона в бою"
 #: src-en/data/blueprints.xml.append:10724
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper\"]/powerList/power[5]"
-msgstr ""
+msgstr "0.75х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10725
 msgid ""
@@ -4361,17 +4361,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10743
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_2\"]/powerList/power[1]"
-msgstr ""
+msgstr "150 здоровья"
 
 #: src-en/data/blueprints.xml.append:10744
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_2\"]/powerList/power[2]"
-msgstr ""
+msgstr "2.5x получаемый урон от огня"
 
 #: src-en/data/blueprints.xml.append:10745
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_2\"]/powerList/power[3]"
-msgstr ""
+msgstr "2x поглощение кислорода"
 
 #: src-en/data/blueprints.xml.append:10746
 msgid ""
@@ -4381,7 +4381,7 @@ msgstr "Наносит 1x урона в бою"
 #: src-en/data/blueprints.xml.append:10747
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_2\"]/powerList/power[5]"
-msgstr ""
+msgstr "1х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10748
 msgid ""
@@ -4391,7 +4391,7 @@ msgstr "Ломает системы со скоростью 2x"
 #: src-en/data/blueprints.xml.append:10749
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_2\"]/powerList/power[7]"
-msgstr ""
+msgstr "1х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10750
 msgid ""
@@ -4416,17 +4416,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10766
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_3\"]/powerList/power[1]"
-msgstr ""
+msgstr "200 здоровья"
 
 #: src-en/data/blueprints.xml.append:10767
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_3\"]/powerList/power[2]"
-msgstr ""
+msgstr "1x получаемый урон от огня"
 
 #: src-en/data/blueprints.xml.append:10768
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_3\"]/powerList/power[3]"
-msgstr ""
+msgstr "4x поглощение кислорода"
 
 #: src-en/data/blueprints.xml.append:10769
 msgid ""
@@ -4436,7 +4436,7 @@ msgstr "Наносит 1.25x урона в бою"
 #: src-en/data/blueprints.xml.append:10770
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_3\"]/powerList/power[5]"
-msgstr ""
+msgstr "1х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10771
 msgid ""
@@ -4446,7 +4446,7 @@ msgstr "Ломает системы со скоростью 3x"
 #: src-en/data/blueprints.xml.append:10772
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_3\"]/powerList/power[7]"
-msgstr ""
+msgstr "1.25х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10773
 msgid ""
@@ -4471,12 +4471,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10790
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_soldier\"]/powerList/power[1]"
-msgstr ""
+msgstr "Не может обслуживать и ремонтировать системы"
 
 #: src-en/data/blueprints.xml.append:10791
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_soldier\"]/powerList/power[2]"
-msgstr ""
+msgstr "135 здоровья"
 
 #: src-en/data/blueprints.xml.append:10792
 msgid ""
@@ -4486,17 +4486,17 @@ msgstr "Получает 4х урона от пожаров"
 #: src-en/data/blueprints.xml.append:10793
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_soldier\"]/powerList/power[4]"
-msgstr ""
+msgstr "1x поглощение кислорода"
 
 #: src-en/data/blueprints.xml.append:10794
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_soldier\"]/powerList/power[5]"
-msgstr ""
+msgstr "[Специализация] Наносит 1.35x урона в бою"
 
 #: src-en/data/blueprints.xml.append:10795
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_soldier\"]/powerList/power[6]"
-msgstr ""
+msgstr "[Специализация] 2x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10796
 msgid ""
@@ -4526,12 +4526,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10813
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_heavy_soldier\"]/powerList/power[1]"
-msgstr ""
+msgstr "Не может обслуживать и ремонтировать системы"
 
 #: src-en/data/blueprints.xml.append:10814
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_heavy_soldier\"]/powerList/power[2]"
-msgstr ""
+msgstr "175 здоровья"
 
 #: src-en/data/blueprints.xml.append:10815
 msgid ""
@@ -4541,22 +4541,22 @@ msgstr "Получает 4х урона от пожаров"
 #: src-en/data/blueprints.xml.append:10816
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_heavy_soldier\"]/powerList/power[4]"
-msgstr ""
+msgstr "1x поглощение кислорода"
 
 #: src-en/data/blueprints.xml.append:10817
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_heavy_soldier\"]/powerList/power[5]"
-msgstr ""
+msgstr "[Специализация] Наносит 1.75x урона в бою"
 
 #: src-en/data/blueprints.xml.append:10818
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_heavy_soldier\"]/powerList/power[6]"
-msgstr ""
+msgstr "[Специализация] 2x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10819
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_heavy_soldier\"]/powerList/power[7]"
-msgstr ""
+msgstr "0.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10820
 msgid ""
@@ -4586,12 +4586,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10837
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_heavy_soldier_mk2\"]/powerList/power[1]"
-msgstr ""
+msgstr "Не может обслуживать и ремонтировать системы"
 
 #: src-en/data/blueprints.xml.append:10838
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_heavy_soldier_mk2\"]/powerList/power[2]"
-msgstr ""
+msgstr "225 здоровья"
 
 #: src-en/data/blueprints.xml.append:10839
 msgid ""
@@ -4601,22 +4601,22 @@ msgstr "Получает 2х урона от пожаров"
 #: src-en/data/blueprints.xml.append:10840
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_heavy_soldier_mk2\"]/powerList/power[4]"
-msgstr ""
+msgstr "4x поглощение кислорода"
 
 #: src-en/data/blueprints.xml.append:10841
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_heavy_soldier_mk2\"]/powerList/power[5]"
-msgstr ""
+msgstr "[Специализация] Наносит 2.25x урона в бою"
 
 #: src-en/data/blueprints.xml.append:10842
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_heavy_soldier_mk2\"]/powerList/power[6]"
-msgstr ""
+msgstr "[Специализация] 2.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10843
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_heavy_soldier_mk2\"]/powerList/power[7]"
-msgstr ""
+msgstr "0.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10844
 msgid ""
@@ -4645,12 +4645,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10863
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper\"]/powerList/power[1]"
-msgstr ""
+msgstr "100 здоровья"
 
 #: src-en/data/blueprints.xml.append:10864
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper\"]/powerList/power[2]"
-msgstr ""
+msgstr "0.5x получаемый урон от огня"
 
 #: src-en/data/blueprints.xml.append:10865
 msgid ""
@@ -4665,7 +4665,7 @@ msgstr "Наносит 1.25x урона в бою"
 #: src-en/data/blueprints.xml.append:10867
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper\"]/powerList/power[5]"
-msgstr ""
+msgstr "1.5х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10868
 msgid ""
@@ -4681,6 +4681,7 @@ msgstr "0.75х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper\"]/powerList/power[8]"
 msgstr ""
+"Дает 1 единицу энергии. Высасывает 1 единицу энергии из вражеской системы."
 
 #: src-en/data/blueprints.xml.append:10871
 msgid ""
@@ -4705,12 +4706,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10887
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_2\"]/powerList/power[1]"
-msgstr ""
+msgstr "125 здоровья"
 
 #: src-en/data/blueprints.xml.append:10888
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_2\"]/powerList/power[2]"
-msgstr ""
+msgstr "0.5x получаемый урон от огня"
 
 #: src-en/data/blueprints.xml.append:10889
 msgid ""
@@ -4725,7 +4726,7 @@ msgstr "Наносит 1.5x урона в бою"
 #: src-en/data/blueprints.xml.append:10891
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_2\"]/powerList/power[5]"
-msgstr ""
+msgstr "2х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10892
 msgid ""
@@ -4735,12 +4736,13 @@ msgstr "Ломает системы со скоростью 2x"
 #: src-en/data/blueprints.xml.append:10893
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_2\"]/powerList/power[7]"
-msgstr ""
+msgstr "1х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10894
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_2\"]/powerList/power[8]"
 msgstr ""
+"Дает 2 единицы энергии. Высасывает 2 единицы энергии из вражеской системы."
 
 #: src-en/data/blueprints.xml.append:10895
 msgid ""
@@ -4765,12 +4767,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10911
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_3\"]/powerList/power[1]"
-msgstr ""
+msgstr "150 здоровья"
 
 #: src-en/data/blueprints.xml.append:10912
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_3\"]/powerList/power[2]"
-msgstr ""
+msgstr "0.5x получаемый урон от огня"
 
 #: src-en/data/blueprints.xml.append:10913
 msgid ""
@@ -4785,7 +4787,7 @@ msgstr "Наносит 2x урона в бою"
 #: src-en/data/blueprints.xml.append:10915
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_3\"]/powerList/power[5]"
-msgstr ""
+msgstr "2.5х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10916
 msgid ""
@@ -4795,12 +4797,13 @@ msgstr "Ломает системы со скоростью 2.5x"
 #: src-en/data/blueprints.xml.append:10917
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_3\"]/powerList/power[7]"
-msgstr ""
+msgstr "1.25х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10918
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_3\"]/powerList/power[8]"
 msgstr ""
+"Дает 3 единицы энергии. Высасывает 3 единицы энергии из вражеской системы."
 
 #: src-en/data/blueprints.xml.append:10919
 msgid ""
@@ -4825,7 +4828,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10935
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_medic\"]/powerList/power[1]"
-msgstr ""
+msgstr "100 здоровья"
 
 #: src-en/data/blueprints.xml.append:10936
 msgid ""
@@ -4835,7 +4838,7 @@ msgstr "Получает 4х урона от пожаров"
 #: src-en/data/blueprints.xml.append:10937
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_medic\"]/powerList/power[3]"
-msgstr ""
+msgstr "0.5x поглощение кислорода"
 
 #: src-en/data/blueprints.xml.append:10938
 msgid ""
@@ -4850,17 +4853,17 @@ msgstr "1x скорость саботажа"
 #: src-en/data/blueprints.xml.append:10940
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_medic\"]/powerList/power[6]"
-msgstr ""
+msgstr "1х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10941
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_medic\"]/powerList/power[7]"
-msgstr ""
+msgstr "1х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10942
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_medic\"]/powerList/power[8]"
-msgstr ""
+msgstr "Дает/Высасывает 1 единицу энергии."
 
 #: src-en/data/blueprints.xml.append:10943
 msgid ""
@@ -4895,7 +4898,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10961
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_defender\"]/powerList/power[1]"
-msgstr ""
+msgstr "150 здоровья"
 
 #: src-en/data/blueprints.xml.append:10962
 msgid ""
@@ -4905,7 +4908,7 @@ msgstr "Получает 0.5х урона от пожаров"
 #: src-en/data/blueprints.xml.append:10963
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_defender\"]/powerList/power[3]"
-msgstr ""
+msgstr "0.5x поглощение кислорода"
 
 #: src-en/data/blueprints.xml.append:10964
 msgid ""
@@ -4920,17 +4923,17 @@ msgstr "1x скорость саботажа"
 #: src-en/data/blueprints.xml.append:10966
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_defender\"]/powerList/power[6]"
-msgstr ""
+msgstr "1х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10967
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_defender\"]/powerList/power[7]"
-msgstr ""
+msgstr "1х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10968
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_defender\"]/powerList/power[8]"
-msgstr ""
+msgstr "Дает/Высасывает 1 единицу энергии."
 
 #: src-en/data/blueprints.xml.append:10969
 msgid ""
