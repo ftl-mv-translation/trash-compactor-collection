@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-05 01:40+0000\n"
+"PO-Revision-Date: 2026-05-05 14:57+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_multiversexmlappend/ru/>\n"
@@ -553,7 +553,7 @@ msgid ""
 msgstr ""
 "Корабль скрапперов теперь разорван на куски, и судно Пустельга-шахтер "
 "вызывает вас: \"Просто супер, мы всегда рады помощи! ЧИИИИЗ! ТЕЛЕПОРТИРУЙ "
-"ИМ, э-э-э... ЧЕРТЕЖИ НАШЕГО КОРАБЛЯ! И ЭТО УЖАСНОЕ ОРУЖИЕ, КОТОРОЕ СДЕЛАЛ "
+"ИМ, э-э-э... ЧЕРТЕЖИ НАШЕГО КОРАБЛЯ! И ТО ОРУЖИЕ ИЗ МУСОРА, КОТОРОЕ СДЕЛАЛ "
 "ЛАНСЕР!\".\n"
 "\t\t\tОбыскивая обломки корабля, вы находите раненого Пожирателя мусора, "
 "сжимающего в руках продвинутую осколочную пушку. Вы знаете, что раненые "
@@ -609,6 +609,15 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:479
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/text"
 msgstr ""
+"Корабль cкрапперов теперь затих, и Пустельга-шахтер вызывает вас: "
+"\"Потрясающе, мы всегда рады помощи! ЧИИИИЗ! ТЕЛЕПОРТИРУЙ ИМ, э-э-э... "
+"ЧЕРТЕЖИ НАШЕГО КОРАБЛЯ! И ТО ОРУЖИЕ ИЗ МУСОРА, КОТОРОЕ СДЕЛАЛ ЛАНСЕР!\".\n"
+"\t\t\tОбыскивая пустые коридоры корабля, вы находите раненого Пожирателя "
+"мусора, сжимающего в руках продвинутую осколочную пушку. Вы знаете, что "
+"раненые скрапперы пожирают оружие, чтобы выжить, но Пожиратель мусора просто "
+"держит его, уставившись на вас.\n"
+"\t\t\tВы можете предложить ему место на вашем корабле, хотя это может вам "
+"дорого обойтись."
 
 #: src-en/data/events_special_multiverse.xml.append:485
 msgid ""
@@ -657,16 +666,23 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/text"
 msgstr ""
+"Пустельга-шахтер теперь превратился в кучу обломков. Какими бы ни были "
+"мотивы или убеждения экипажа, теперь они превратились в звездную пыль. "
+"Мусоропресс выходит на связь и, что удивительно, предлагает вам награду на "
+"ваш выбор."
 
 #: src-en/data/events_special_multiverse.xml.append:524
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[1]/text"
-msgstr ""
+msgstr "Запросить золотое оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:526
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[1]/event/text"
 msgstr ""
+"Вы получили оружие - и оно сделано из золота!\n"
+"\t\t\t\t\tПожиратель мусора из этой вселенной впечатлен вашими действиями и "
+"присоединяется к вашему экипажу."
 
 #: src-en/data/events_special_multiverse.xml.append:530
 msgid ""
@@ -676,12 +692,15 @@ msgstr "Пожиратель мусора"
 #: src-en/data/events_special_multiverse.xml.append:535
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[2]/text"
-msgstr ""
+msgstr "Запросить золотого дрона."
 
 #: src-en/data/events_special_multiverse.xml.append:537
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[2]/event/text"
 msgstr ""
+"Вы получили дрон - и он сделан из золота!\n"
+"\t\t\t\t\tПожиратель мусора из этой вселенной впечатлен вашими действиями и "
+"присоединяется к вашему экипажу."
 
 #: src-en/data/events_special_multiverse.xml.append:541
 msgid ""
@@ -691,16 +710,23 @@ msgstr "Пожиратель мусора"
 #: src-en/data/events_special_multiverse.xml.append:548
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/text"
 msgstr ""
+"Пустельга-шахтер теперь замолк, как и то чудовище, которое они везли на "
+"борту. Какими бы ни были мотивы или убеждения экипажа, теперь они "
+"превратились в звездную пыль. Мусоропресс выходит на связь и, что "
+"удивительно, предлагает вам награду на ваш выбор."
 
 #: src-en/data/events_special_multiverse.xml.append:553
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[1]/text"
-msgstr ""
+msgstr "Запросить золотое оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:555
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[1]/event/text"
 msgstr ""
+"Вы получили оружие - и оно сделано из золота!\n"
+"\t\t\t\t\tПожиратель мусора из этой вселенной впечатлен вашими действиями и "
+"присоединяется к вашему экипажу."
 
 #: src-en/data/events_special_multiverse.xml.append:559
 msgid ""
@@ -710,12 +736,15 @@ msgstr "Пожиратель мусора"
 #: src-en/data/events_special_multiverse.xml.append:564
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[2]/text"
-msgstr ""
+msgstr "Запросить золотого дрона."
 
 #: src-en/data/events_special_multiverse.xml.append:566
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[2]/event/text"
 msgstr ""
+"Вы получили дрон - и он сделан из золота!\n"
+"\t\t\t\t\tПожиратель мусора из этой вселенной впечатлен вашими действиями и "
+"присоединяется к вашему экипажу."
 
 #: src-en/data/events_special_multiverse.xml.append:570
 msgid ""
@@ -726,63 +755,81 @@ msgstr "Пожиратель мусора"
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC5_DESTROY\"]/text"
 msgstr ""
+"Мы раз за разом побеждали их, но они все равно возвращаются. Следующий бой "
+"будет самым тяжелым - и последним. Давайте покончим с этим."
 
 #: src-en/data/events_special_multiverse.xml.append:586
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC5_CREW\"]/text"
 msgstr ""
+"Мы раз за разом побеждали их, но они все равно возвращаются. Следующий бой "
+"будет самым тяжелым - и последним. Давайте покончим с этим."
 
 #: src-en/data/events_special_multiverse.xml.append:595
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC6_DESTROY\"]/text"
 msgstr ""
+"Мусоропресс нашел свой последний пристанище среди звезд; среди обломков, "
+"плавающих вокруг вашего корабля, вы также находите странное устройство и "
+"несколько чертежей кораблей, которые можно забрать!"
 
 #: src-en/data/events_special_multiverse.xml.append:606
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC6_CREW\"]/text"
 msgstr ""
+"Мусоропресс теперь пуст - навсегда. Среди обломков, разбросанных вокруг "
+"вашего корабля, вы также находите странное устройство и несколько чертежей "
+"кораблей, которые можно забрать!"
 
 #: src-en/data/events_special_multiverse.xml.append:617
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"DESTROYED_BLACK_ROSE_ENCOUNTER\"]/text"
 msgstr ""
+"Корросус исчез - среди моря гофрированного металла вам удается подобрать "
+"странную машину."
 
 #: src-en/data/events_special_multiverse.xml.append:623
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"DEAD_CREW_BLACK_ROSE_ENCOUNTER\"]/text"
 msgstr ""
+"Корросус теперь замолк - среди моря гофрированного металла вам удается "
+"подобрать странную машину."
 
 #: src-en/data/events_special_multiverse.xml.append:631
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_DESTROY\"]/text"
 msgstr ""
+"Вы уничтожили большой корабль... и захватили их груз. Будем надеяться, что "
+"это того стоило."
 
 #: src-en/data/events_special_multiverse.xml.append:634
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_DESTROY\"]/choice/text"
-msgstr ""
+msgstr "Круто"
 
 #: src-en/data/events_special_multiverse.xml.append:636
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_DESTROY\"]/choice/event/text"
-msgstr ""
+msgstr "Вот и все, ребята!"
 
 #: src-en/data/events_special_multiverse.xml.append:643
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"KM_CREW\"]/text"
 msgstr ""
+"Вы зачистили большой корабль... и забрали их вещи. Оттуда несет запахом "
+"разложившихся трупов. Будем надеяться, что это того стоило."
 
 #: src-en/data/events_special_multiverse.xml.append:646
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_CREW\"]/choice/text"
-msgstr ""
+msgstr "Итак"
 
 #: src-en/data/events_special_multiverse.xml.append:648
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_CREW\"]/choice/event/text"
-msgstr ""
+msgstr "ВОЗМОЖНО"
 
 #: src-en/data/events_special_multiverse.xml.append:659
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/text"
-msgstr ""
+msgstr "Какое осколочное оружие вы хотите создать?"
 
 #: src-en/data/events_special_multiverse.xml.append:662
 msgid ""
@@ -792,7 +839,7 @@ msgstr "Оскол. оруд. I"
 #: src-en/data/events_special_multiverse.xml.append:664
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:673
 msgid ""
@@ -802,7 +849,7 @@ msgstr "Оскол. оруд. II"
 #: src-en/data/events_special_multiverse.xml.append:675
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:684
 msgid ""
@@ -812,7 +859,7 @@ msgstr "Оскол. оруд. III"
 #: src-en/data/events_special_multiverse.xml.append:686
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:695
 msgid ""
@@ -822,7 +869,7 @@ msgstr "Оскол. оруд. IV"
 #: src-en/data/events_special_multiverse.xml.append:697
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[4]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:706
 msgid ""
@@ -832,17 +879,17 @@ msgstr "Цепн. оск."
 #: src-en/data/events_special_multiverse.xml.append:708
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[5]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:717
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[6]/text"
-msgstr ""
+msgstr "Зарядная осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:719
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:728
 msgid ""
@@ -852,7 +899,7 @@ msgstr "Упр. оскол. оруд."
 #: src-en/data/events_special_multiverse.xml.append:730
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[7]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:739
 msgid ""
@@ -862,7 +909,7 @@ msgstr "Подж. оскол. оруд."
 #: src-en/data/events_special_multiverse.xml.append:741
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[8]/event/text"
-msgstr ""
+msgstr "м"
 
 #: src-en/data/events_special_multiverse.xml.append:750
 msgid ""
@@ -872,67 +919,67 @@ msgstr "Ион. оскол. оруд."
 #: src-en/data/events_special_multiverse.xml.append:752
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[9]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:761
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[10]/text"
-msgstr ""
+msgstr "Токсичная осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:763
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[10]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:772
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[11]/text"
-msgstr ""
+msgstr "Переключаемая зажигательная осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:774
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[11]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:783
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[12]/text"
-msgstr ""
+msgstr "Переключаемая ионная осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:785
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[12]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:794
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[13]/text"
-msgstr ""
+msgstr "Переключаемая токсичная осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:796
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[13]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:805
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[14]/text"
-msgstr ""
+msgstr "Кристаллическая рассеивающая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:807
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[14]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:816
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[15]/text"
-msgstr ""
+msgstr "Элитная кристаллическая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:818
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[15]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:827
 msgid ""
@@ -942,47 +989,47 @@ msgstr "Неважно."
 #: src-en/data/events_special_multiverse.xml.append:833
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/text"
-msgstr ""
+msgstr "Выберите осколочную пушку:"
 
 #: src-en/data/events_special_multiverse.xml.append:836
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[1]/text"
-msgstr ""
+msgstr "Взрывная"
 
 #: src-en/data/events_special_multiverse.xml.append:838
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:847
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[2]/text"
-msgstr ""
+msgstr "Нестабильная"
 
 #: src-en/data/events_special_multiverse.xml.append:849
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:858
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[3]/text"
-msgstr ""
+msgstr "Свинцовая"
 
 #: src-en/data/events_special_multiverse.xml.append:860
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:869
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[4]/text"
-msgstr ""
+msgstr "Золотая"
 
 #: src-en/data/events_special_multiverse.xml.append:871
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[4]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:880
 msgid ""
@@ -992,27 +1039,29 @@ msgstr "Луч с БП"
 #: src-en/data/events_special_multiverse.xml.append:882
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[5]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:902
+#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[6]/text"
-msgstr ""
+msgstr "Черт возьми"
 
 #: src-en/data/events_special_multiverse.xml.append:904
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:913
+#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[7]/text"
-msgstr ""
+msgstr "РК-ЛД осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:915
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[7]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:924
 msgid ""
@@ -1022,147 +1071,147 @@ msgstr "Неважно."
 #: src-en/data/events_special_multiverse.xml.append:933
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/text"
-msgstr ""
+msgstr "Какое оружие из серии бомбовых осколочных пушек вы хотите создать?"
 
 #: src-en/data/events_special_multiverse.xml.append:936
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[1]/text"
-msgstr ""
+msgstr "Бомбовая осколочная пушка мод. I"
 
 #: src-en/data/events_special_multiverse.xml.append:938
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:947
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[2]/text"
-msgstr ""
+msgstr "Бомбовая осколочная пушка мод. II"
 
 #: src-en/data/events_special_multiverse.xml.append:949
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:958
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[3]/text"
-msgstr ""
+msgstr "Бомбовая осколочная пушка мод. III"
 
 #: src-en/data/events_special_multiverse.xml.append:960
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[3]/event/text"
-msgstr ""
+msgstr "м"
 
 #: src-en/data/events_special_multiverse.xml.append:969
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[4]/text"
-msgstr ""
+msgstr "Бомбовая осколочная пушка мод. IV"
 
 #: src-en/data/events_special_multiverse.xml.append:971
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[4]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:980
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[5]/text"
-msgstr ""
+msgstr "Пробойная бомбовая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:982
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[5]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:991
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[6]/text"
-msgstr ""
+msgstr "Цепная бомбовая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:993
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1002
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[7]/text"
-msgstr ""
+msgstr "Зарядная бомбовая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:1004
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[7]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1013
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[8]/text"
-msgstr ""
+msgstr "Репликационная бомбовая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:1015
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[8]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1024
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[9]/text"
-msgstr ""
+msgstr "Консервативная бомбовая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:1026
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[9]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1035
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[10]/text"
-msgstr ""
+msgstr "Упреждающая бомбовая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:1037
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[10]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1046
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[11]/text"
-msgstr ""
+msgstr "Зажигательная бомбовая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:1048
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[11]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1057
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[12]/text"
-msgstr ""
+msgstr "Ионная бомбовая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:1059
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[12]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1068
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[13]/text"
-msgstr ""
+msgstr "Радиационная бомбовая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:1070
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[13]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1079
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[14]/text"
-msgstr ""
+msgstr "Запирающая бомбовая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:1081
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[14]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1090
 msgid ""
@@ -1172,17 +1221,17 @@ msgstr "Неважно."
 #: src-en/data/events_special_multiverse.xml.append:1096
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/text"
-msgstr ""
+msgstr "Выберите осколочную пушку:"
 
 #: src-en/data/events_special_multiverse.xml.append:1099
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[1]/text"
-msgstr ""
+msgstr "ЭМИ"
 
 #: src-en/data/events_special_multiverse.xml.append:1101
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1110
 msgid ""
@@ -1192,7 +1241,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1112
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1121
 msgid ""
@@ -1202,7 +1251,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1123
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1132
 msgid ""
@@ -1212,7 +1261,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1134
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[4]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1143
 msgid ""
@@ -1222,7 +1271,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1145
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[5]/event/text"
-msgstr ""
+msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:1154
 msgid ""
