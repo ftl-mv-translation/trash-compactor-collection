@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-05 01:40+0000\n"
+"PO-Revision-Date: 2026-05-05 14:57+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
@@ -400,17 +400,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1064
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_LEAD\"]/title"
-msgstr ""
+msgstr "Свинцовая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:1065
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_LEAD\"]/short"
-msgstr ""
+msgstr "Свинцовая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:1067
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_LEAD\"]/desc"
 msgstr ""
+"Свинцовая осколочная пушка, выпускающая плотные свинцовые заряды. Ее снаряды "
+"довольно тяжелые и инертные."
 
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
@@ -576,7 +578,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1631
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_1\"]/short"
-msgstr ""
+msgstr "Бомб. оск. I"
 
 #: src-en/data/blueprints.xml.append:1633
 msgid ""
@@ -591,7 +593,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1677
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_1_ENEMY\"]/short"
-msgstr ""
+msgstr "Бомб. оск. I"
 
 #: src-en/data/blueprints.xml.append:1679
 msgid ""
@@ -606,7 +608,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1722
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_2\"]/short"
-msgstr ""
+msgstr "Бомб. оск. II"
 
 #: src-en/data/blueprints.xml.append:1724
 msgid ""
@@ -621,7 +623,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1768
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_2_ENEMY\"]/short"
-msgstr ""
+msgstr "Бомб. оск. II"
 
 #: src-en/data/blueprints.xml.append:1770
 msgid ""
@@ -636,7 +638,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1813
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_3\"]/short"
-msgstr ""
+msgstr "Бомб. оск. III"
 
 #: src-en/data/blueprints.xml.append:1815
 msgid ""
@@ -651,7 +653,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1859
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_3_ENEMY\"]/short"
-msgstr ""
+msgstr "Бомб. оск. III"
 
 #: src-en/data/blueprints.xml.append:1861
 msgid ""
@@ -666,7 +668,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1904
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_4\"]/short"
-msgstr ""
+msgstr "Бомб. оск. IV"
 
 #: src-en/data/blueprints.xml.append:1906
 msgid ""
@@ -681,7 +683,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1950
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_4_ENEMY\"]/short"
-msgstr ""
+msgstr "Бомб. оск. IV"
 
 #: src-en/data/blueprints.xml.append:1952
 msgid ""
@@ -751,7 +753,7 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:2186
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHARGE\"]/title"
-msgstr ""
+msgstr "Зарядная бомбовая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:2187
 msgid ""
@@ -766,7 +768,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2234
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHARGE_ENEMY\"]/title"
-msgstr ""
+msgstr "Зарядная бомбовая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:2235
 msgid ""
@@ -811,7 +813,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2371
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_INSTANT\"]/title"
-msgstr ""
+msgstr "Упреждающая бомбовая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:2372
 msgid ""
