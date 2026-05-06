@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-06 14:10+0000\n"
+"PO-Revision-Date: 2026-05-07 01:49+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_multiversexmlappend/ru/>\n"
@@ -1540,7 +1540,7 @@ msgid ""
 msgstr ""
 "Вы пытаетесь настроить компьютер, чтобы создать что-то полезное, но после "
 "нескольких минут бесконечного перезагрузки оказывается, что все, что у вас "
-"получилось, - это фигурка из протогена. Или, другими словами, хлам."
+"получилось, - это фигурка из протогена. Или, другими словами, лом."
 
 #: src-en/data/events_special_multiverse.xml.append:1430
 msgid ""
@@ -1551,18 +1551,17 @@ msgstr ""
 "Осколочная пушка мод. II! Как... впечатляюще."
 
 #: src-en/data/events_special_multiverse.xml.append:1435
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_SUCCESS_BETTER\"]/text"
 msgstr ""
-"Вы создали... нечто адское. Компактор явно дымится. Давайте подожжем им "
+"Вы создали... нечто адское. Уплотнитель явно дымится. Давайте подожжем им "
 "вражеские корабли."
 
 #: src-en/data/events_special_multiverse.xml.append:1440
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_SUCCESS_BETTER2\"]/text"
 msgstr ""
-"Компактор выдает вам несколько ошибок, большинство из которых - 719: "
+"Уплотнитель выдает вам несколько ошибок, большинство из которых - 719: "
 "НЕПРАВИЛЬНЫЙ МАТЕРИАЛ. Однако громкий звуковой сигнал указывает на то, что "
 "что-то действительно было создано..."
 
@@ -1587,7 +1586,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1453
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "М11 ВсЕ ЕщЕ ЗдЕСЬ"
 
 #: src-en/data/events_special_multiverse.xml.append:1456
 msgid ""
@@ -1600,28 +1599,33 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"TC1_DEAD\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Странный корабль ланиусов появляется в поле зрения, подбирает отправленный "
+"вами лом и атакует!"
 
 #: src-en/data/events_special_multiverse.xml.append:1461
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"TC1_DEAD\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "Приготовиться к бою!"
 
 #: src-en/data/events_special_multiverse.xml.append:1467
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"TC1_DEAD\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Странное дежавю: создается ощущение, что вы уже проходили через все это."
 
 #: src-en/data/events_special_multiverse.xml.append:1471
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Попробовать сбежать от ланиусов."
 
 #: src-en/data/events_special_multiverse.xml.append:1473
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
+"Вам удается успешно сбежать, и у вас появляется возможность заняться чем-"
+"нибудь на борту."
 
 #: src-en/data/events_special_multiverse.xml.append:1475
 msgid ""
@@ -1637,6 +1641,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/text"
 msgstr ""
+"Вы прибыли по новым координатам. Это корабль, похожий на тот, что был "
+"раньше. Неясно, это те же самые существа, что и раньше, или они прибыли из "
+"другой вселенной..."
 
 #: src-en/data/events_special_multiverse.xml.append:1490
 msgid ""
@@ -1651,7 +1658,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1492
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "М11 ВсЕ ЕщЕ ЗдЕСЬ"
 
 #: src-en/data/events_special_multiverse.xml.append:1495
 msgid ""
@@ -1664,6 +1671,8 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"TC2_DEAD\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Странный корабль ланиусов появляется в поле вашего зрения и приводит в "
+"боевую готовность оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:1500
 msgid ""
@@ -1675,17 +1684,19 @@ msgstr "Приготовиться к бою."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"TC2_DEAD\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Они уже ушли. Правда? ...правда?"
 
 #: src-en/data/events_special_multiverse.xml.append:1510
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Не каждый бой - это наш бой."
 
 #: src-en/data/events_special_multiverse.xml.append:1512
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
+"Вам удалось отвлечь скрапперов абсурдным способом - похоже, старый трюк с "
+"\"ржавыми локомотивами поблизости\" все еще работает."
 
 #: src-en/data/events_special_multiverse.xml.append:1514
 msgid ""
@@ -1701,6 +1712,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/text"
 msgstr ""
+"Прибыв к маяку, вы замечаете четыре корабля, все из которых нацелили на вас "
+"оружие. Вам не удастся уйти, не вступив в бой хотя бы с одним из них."
 
 #: src-en/data/events_special_multiverse.xml.append:1570
 msgid ""
@@ -1715,31 +1728,33 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1572
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "М11 ВсЕ ЕщЕ ЗдЕСЬ"
 
 #: src-en/data/events_special_multiverse.xml.append:1575
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Приблизиться..."
 
 #: src-en/data/events_special_multiverse.xml.append:1577
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "Четыре корабля загнали вас в угол - на кого вы нападете?"
 
 #: src-en/data/events_special_multiverse.xml.append:1579
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Атаковать корабль класса \"Корвет\"."
 
 #: src-en/data/events_special_multiverse.xml.append:1581
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"Корвет начинает заряжать оружие, отрывается от мусорного флота и занимает "
+"позицию для обстрела вашего корабля!"
 
 #: src-en/data/events_special_multiverse.xml.append:1584
 msgid ""
@@ -1751,13 +1766,15 @@ msgstr "Приготовиться к бою."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Атаковать корабль класса \"Охотник\"."
 
 #: src-en/data/events_special_multiverse.xml.append:1592
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
+"Охотник использует свою систему телепортации на вашем корабле. Приготовьтесь "
+"к вторжению!"
 
 #: src-en/data/events_special_multiverse.xml.append:1595
 msgid ""
@@ -1769,13 +1786,15 @@ msgstr "Приготовиться к бою."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Атаковать корабль класса \"Поддержка\"."
 
 #: src-en/data/events_special_multiverse.xml.append:1603
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[3]/event/text"
 msgstr ""
+"Корабль Поддержки маневрирует, приближаясь к вашему кораблю, и запускает "
+"свои дроны!"
 
 #: src-en/data/events_special_multiverse.xml.append:1606
 msgid ""
@@ -1787,34 +1806,45 @@ msgstr "Приготовиться к бою."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Не обращать внимания на мелкие корабли и атаковать сам Мусоропресс."
 
 #: src-en/data/events_special_multiverse.xml.append:1614
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[4]/event/text"
 msgstr ""
+"Мусоропресс ждал вас, словно предвидя ваши действия. Вы слышите от него "
+"невнятный, плохо переведенный вызов: \"МЫ не 0ДИН ЮН1верс. Мы умНЕЕ другИх "
+"СкРапперов, мЫ уБ1ВАЕм юНиверс и ПРЕДСТАВляем лидеру ДЛЯ поедАНИЯ. ВСТАЕШь "
+"на путИ - ТЫ, уМИР4еШЬ...\". Но эти парни не собираются разговаривать, так "
+"как уже зарядили оружие!"
 
 #: src-en/data/events_special_multiverse.xml.append:1617
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[4]/event/choice/text"
-msgstr ""
+msgstr "Давайте покончим с этим. Снова."
 
 #: src-en/data/events_special_multiverse.xml.append:1625
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[2]/text"
 msgstr ""
+"Остальные корабли флота разбегаются, увидев устроенную вами бойню. Пока что "
+"вы в безопасности..."
 
 #: src-en/data/events_special_multiverse.xml.append:1629
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "(Улучшенная маскировка) Скрыться."
 
 #: src-en/data/events_special_multiverse.xml.append:1631
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"cloaking\"]/event/text"
 msgstr ""
+"Несмотря на то, что они загнали вас в угол, ваша продвинутая система "
+"Маскировки позволяет вам исчезнуть и проскользнуть прямо между вражескими "
+"кораблями. Возможно, вам удастся что-то сделать у маяка, оставаясь "
+"незамеченным."
 
 #: src-en/data/events_special_multiverse.xml.append:1633
 msgid ""
@@ -1829,12 +1859,16 @@ msgstr "Ничего не делать."
 #: src-en/data/events_special_multiverse.xml.append:1643
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[4]/text"
-msgstr ""
+msgstr "Нам здесь нечего делать..."
 
 #: src-en/data/events_special_multiverse.xml.append:1649
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/text"
 msgstr ""
+"Эй, тут еще один корабль. И он не враждебен. Более того, это даже не "
+"скрапперы. Судя по его ужасно поврежденному и грязному корпусу, это какой-то "
+"мусороуборочный корабль. Он явно окрашен как мусороуборочный корабль, но "
+"вооружен слишком хорошо, чтобы быть таковым на самом деле."
 
 #: src-en/data/events_special_multiverse.xml.append:1652
 msgid ""
@@ -1849,71 +1883,89 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1654
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "М11 ВсЕ ЕщЕ ЗдЕСЬ"
 
 #: src-en/data/events_special_multiverse.xml.append:1657
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Попробовать вмешаться."
 
 #: src-en/data/events_special_multiverse.xml.append:1659
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Вы получаете сигнал с Пустельги. На консоли связи появляется изображение "
+"протогена. \"Я ТРЕКЕР, пилот Федерации. Приятно познакомиться и все такое. "
+"Эти ублю... то есть, эти грубые типы пытаются нас убить, и я не знаю, "
+"сколько мы еще продержимся. Помогите. Я позабочусь, чтобы вы получили "
+"достойную нагр... ЧЕРТ, МЫ ПОТЕРЯЛИ ЛЕВЫЙ АФТЕРБЕРНЕР, НЕМЕДЛЕННО ПОЧИНИТЕ "
+"ЕГО!\""
 
 #: src-en/data/events_special_multiverse.xml.append:1661
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Помочь ТРЕКЕРУ!"
 
 #: src-en/data/events_special_multiverse.xml.append:1663
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"Странный корабль ланиусов снова появляется в поле зрения (как он умудряется "
+"возвращаться?) и готовится покончить с вами раз и навсегда. Несмотря на "
+"полученные повреждения, корабль ТРЕКЕРА тоже продолжает сражаться!"
 
 #: src-en/data/events_special_multiverse.xml.append:1667
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Давайте начнем."
 
 #: src-en/data/events_special_multiverse.xml.append:1673
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Помочь скрапперам!"
 
 #: src-en/data/events_special_multiverse.xml.append:1675
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
+"\"Эй, чем МЫ это заслужили? А, да, теперь вспомнил. Ну и ладно\". Когда "
+"протоген прерывает связь и активирует все вооружение своего корабля, вы "
+"готовитесь к бою с ним."
 
 #: src-en/data/events_special_multiverse.xml.append:1678
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Будем надеяться, что скрапперы не нападут на нас после этого."
 
 #: src-en/data/events_special_multiverse.xml.append:1686
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Индикаторы передатчика лома беспорядочно мигают. Похоже, он принимает мощный "
+"сигнал... Это с самого начала была ловушка. Он действует как приманка для "
+"других вселенных, пытаясь привлечь к вам еще больше скрапперов... Интересно, "
+"может быть, охотники скоро сами окажутся на месте добычи."
 
 #: src-en/data/events_special_multiverse.xml.append:1690
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Давайте сваливать отсюда."
 
 #: src-en/data/events_special_multiverse.xml.append:1692
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
+"Похоже, ТРЕКЕР... как-то справится с этой проблемой. Вы уходите, оставляя их "
+"сражаться."
 
 #: src-en/data/events_special_multiverse.xml.append:1694
 msgid ""
@@ -1944,7 +1996,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1711
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "М11 ВсЕ ЕщЕ ЗдЕСЬ"
 
 #: src-en/data/events_special_multiverse.xml.append:1714
 msgid ""
@@ -1956,7 +2008,7 @@ msgstr "Атаковать."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"TC5_DEAD\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "Цель захвачена, открыть огонь со всех орудий!"
 
 #: src-en/data/events_special_multiverse.xml.append:1719
 msgid ""
@@ -1969,16 +2021,21 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"TC5_DEAD\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Передатчик лома издает громкий скрежет, словно разрываемый на части корабль. "
+"В последнее время вы слышали это не раз. Может быть, вам удастся устроить "
+"последнюю ловушку..."
 
 #: src-en/data/events_special_multiverse.xml.append:1729
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Этот другой - по логике вещей он должен быть сильнее. Лучше бежать."
 
 #: src-en/data/events_special_multiverse.xml.append:1731
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
+"Каким-то образом вам удается ускользнуть. Или, может быть, они пощадили вас? "
+"Странно... Однако у вас не так много времени, чтобы об этом задумываться."
 
 #: src-en/data/events_special_multiverse.xml.append:1733
 msgid ""
@@ -2011,7 +2068,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1750
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "М11 ВсЕ ЕщЕ ЗдЕСЬ"
 
 #: src-en/data/events_special_multiverse.xml.append:1753
 msgid ""
@@ -2024,6 +2081,8 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"TC6_DEAD\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Корабль скрапперов версии Вселенной 0 - самый сильный противник, с которым "
+"вам приходилось сталкиваться до сих пор. Вы не выживете. Удачи."
 
 #: src-en/data/events_special_multiverse.xml.append:1758
 msgid ""
@@ -2036,6 +2095,9 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"TC6_DEAD\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Все кончено. Наконец-то. Последние скрапперы окончательно замолчали. Вам "
+"кажется, что вы спасли от этих парней немало Ренегатов. Вы не знаете, каким "
+"был их план - если он вообще у них был."
 
 #: src-en/data/events_special_multiverse.xml.append:1768
 msgid ""
@@ -2045,7 +2107,7 @@ msgstr "Мы не можем это сделать."
 #: src-en/data/events_special_multiverse.xml.append:1770
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"pilot\"]/event/text"
-msgstr ""
+msgstr "Вам удалось уйти; сами не совсем понимаете, как это удалось."
 
 #: src-en/data/events_special_multiverse.xml.append:1772
 msgid ""
@@ -2061,11 +2123,13 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/text"
 msgstr ""
+"ТРЕКЕР уже здесь - правда, он, похоже, занят. \"О, привет, это снова вы... "
+"Пожалуйста, э-э, помогите мне\"."
 
 #: src-en/data/events_special_multiverse.xml.append:1787
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "ПОМОГИТЕ, ПОЖАЛУЙСТА."
 
 #: src-en/data/events_special_multiverse.xml.append:1788
 msgid ""
@@ -2075,42 +2139,44 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1789
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "ПОМОГИТЕ, ПОЖАЛУЙСТА."
 
 #: src-en/data/events_special_multiverse.xml.append:1792
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[1]/text"
-msgstr ""
+msgstr "ПОМОLи Мусоропрессу"
 
 #: src-en/data/events_special_multiverse.xml.append:1794
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "ггг"
 
 #: src-en/data/events_special_multiverse.xml.append:1797
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "ок"
 
 #: src-en/data/events_special_multiverse.xml.append:1803
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[2]/text"
-msgstr ""
+msgstr "не, бро, я ухожу"
 
 #: src-en/data/events_special_multiverse.xml.append:1805
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Тну, наверное1"
 
 #: src-en/data/events_special_multiverse.xml.append:1807
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "ок"
 
 #: src-en/data/events_special_multiverse.xml.append:1860
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/text"
 msgstr ""
+"В этом секторе находится судно скрапперов. Оно передает сигнал с просьбой о "
+"передачи лома. Возможно, они хотят заключить сделку?"
 
 #: src-en/data/events_special_multiverse.xml.append:1863
 msgid ""
@@ -2120,12 +2186,14 @@ msgstr "Атаковать их!"
 #: src-en/data/events_special_multiverse.xml.append:1865
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[1]/event/text[1]"
-msgstr ""
+msgstr "\"11ЗВИНИТЕ М3НЯ!?!\""
 
 #: src-en/data/events_special_multiverse.xml.append:1866
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[1]/event/text[2]"
 msgstr ""
+"Похоже, на ваш корабль проник отряд абордажников. Может быть, у них был "
+"способ обойти суперщит?"
 
 #: src-en/data/events_special_multiverse.xml.append:1872
 msgid ""
@@ -2135,22 +2203,27 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_multiverse.xml.append:1878
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[2]/text"
-msgstr ""
+msgstr "Связаться с ними и поинтересоваться, не нужен ли им лом."
 
 #: src-en/data/events_special_multiverse.xml.append:1880
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"НАW НУЖЕН ЛОМ!\""
 
 #: src-en/data/events_special_multiverse.xml.append:1885
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
 msgstr ""
+"Ваш скраппер машет руками и посылает сигнал на корабль скрапперов: \"К0Д "
+"КУПОН4!!!\" Он вводит короткий код, и вы замечаете, что цены в магазине "
+"падают!"
 
 #: src-en/data/events_special_multiverse.xml.append:1891
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_BOMBER\"]/text"
 msgstr ""
+"В этом секторе находится судно скрапперов. Оно активирует оружие, выходит на "
+"связь и кричит что-то про лом."
 
 #: src-en/data/events_special_multiverse.xml.append:1894
 msgid ""
@@ -2161,6 +2234,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_CRUISER\"]/text"
 msgstr ""
+"В этом секторе находится судно скрапперов. Оно активирует оружие, выходит на "
+"связь и кричит что-то про лом."
 
 #: src-en/data/events_special_multiverse.xml.append:1903
 msgid ""
@@ -2171,11 +2246,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/text"
 msgstr ""
+"В этом секторе находится судно скрапперов. Похоже, оно вас не замечает, а "
+"может, и замечает, но ему все равно."
 
 #: src-en/data/events_special_multiverse.xml.append:1912
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[1]/text"
 msgstr ""
+"Атаковать корабль, пока у него не появились какие-нибудь гениальные идеи."
 
 #: src-en/data/events_special_multiverse.xml.append:1915
 msgid ""
@@ -2185,47 +2263,61 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_multiverse.xml.append:1920
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
-msgstr ""
+msgstr "Обратиться к своему скрапперу."
 
 #: src-en/data/events_special_multiverse.xml.append:1922
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/text"
 msgstr ""
+"Ваш скраппер сообщает, что, судя по всему, корабль поддержки пропал. Он "
+"должен был находиться вместе с другими кораблями в составе флота, но этот "
+"остался в одиночестве. Возможно, им нужна помощь, но они не могут об этом "
+"попросить. \n"
+"\t\t\tВаш скраппер советует вам связаться с ними, так как скрапперы, как "
+"правило, заботятся только об одном и обычно не проявляют особой враждебности "
+"по отношению к пришельцам или людям."
 
 #: src-en/data/events_special_multiverse.xml.append:1925
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Связаться с кораблем поддержки скрапперов и предложить помощь."
 
 #: src-en/data/events_special_multiverse.xml.append:1927
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/text[1]"
 msgstr ""
+"Капитан скрапперов отвечает вам слегка растерянным тоном: \"РАДЫ ВАС "
+"В11Д3ТЬ, МRСН0Й К@ПИТ4Н! НАМ НУЖЕН Р3М0НТ!! М0ЖЕТЕ Л11 ВЫ ПЬЕД0СТ4ВИТЬ "
+"Л0W??\""
 
 #: src-en/data/events_special_multiverse.xml.append:1928
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/text[2]"
-msgstr ""
+msgstr "Похоже, у этих скрапперов действительно только одна мысль на уме."
 
 #: src-en/data/events_special_multiverse.xml.append:1930
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
-msgstr ""
+msgstr "Спросить у своего скраппера, что он об этом думает."
 
 #: src-en/data/events_special_multiverse.xml.append:1932
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/text"
 msgstr ""
+"Ваш скраппер говорит, что капитан скрапперов кажется искренним, но в этом "
+"нельзя быть полностью уверенным, ведь, конечно же, он просит лом.\n"
+"\t\t\t\t\t\t\tНо если у вас есть возможность кому-то помочь, разве не стоит "
+"это сделать?"
 
 #: src-en/data/events_special_multiverse.xml.append:1935
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice/text"
-msgstr ""
+msgstr "Передать скрапперам немного лома, чтобы помочь им в ремонте."
 
 #: src-en/data/events_special_multiverse.xml.append:1937
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice/event/text"
-msgstr ""
+msgstr "Вы отправляете им лом..."
 
 #: src-en/data/events_special_multiverse.xml.append:1942
 msgid ""
@@ -2236,11 +2328,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice/event/choice/event/text"
 msgstr ""
+"\"СП@СИБ0, КАПИТ@Н! М11 СН0ВА МОЖЕW З@ПУСТ11ТЬ ДВ11ГАТ3ЛИ!! В0ЗЬМ11ТЕ ЭТУ "
+"КРУТУЮ М@ШИНУ, КОТ0РУЮ М11 Н4ШЛИ\""
 
 #: src-en/data/events_special_multiverse.xml.append:1955
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Приказать своему экипажу приготовиться к бою!"
 
 #: src-en/data/events_special_multiverse.xml.append:1959
 msgid ""
@@ -2261,6 +2355,8 @@ msgstr "Оставить их в покое."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_HUNTER\"]/text"
 msgstr ""
+"В этом секторе находится судно скрапперов. Оно активирует оружие, выходит на "
+"связь и кричит что-то про лом."
 
 #: src-en/data/events_special_multiverse.xml.append:1980
 msgid ""
@@ -2271,6 +2367,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_CORVETTE\"]/text"
 msgstr ""
+"В этом секторе находится судно скрапперов. Оно активирует оружие, выходит на "
+"связь и кричит что-то про лом."
 
 #: src-en/data/events_special_multiverse.xml.append:1989
 msgid ""
@@ -2281,6 +2379,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SCOUT\"]/text"
 msgstr ""
+"В этом секторе находится судно скрапперов. Оно активирует оружие, выходит на "
+"связь и кричит что-то про лом."
 
 #: src-en/data/events_special_multiverse.xml.append:1998
 msgid ""
@@ -2291,71 +2391,92 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_SCOUT_DESTROYED\"]/text"
 msgstr ""
+"Судно скрапперов взрывается, оставив после себя большое количество лома."
 
 #: src-en/data/events_special_multiverse.xml.append:2009
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_SCOUT_DEADCREW\"]/text"
 msgstr ""
+"Судно скрапперов опустело, так что у вас есть достаточно времени, чтобы "
+"разобрать корабль на лом."
 
 #: src-en/data/events_special_multiverse.xml.append:2014
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_BOMBER_DESTROYED\"]/text"
 msgstr ""
+"Судно скрапперов взрывается, оставив после себя большое количество лома."
 
 #: src-en/data/events_special_multiverse.xml.append:2019
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_BOMBER_DEADCREW\"]/text"
 msgstr ""
+"Судно скрапперов опустело, так что у вас есть достаточно времени, чтобы "
+"разобрать корабль на лом."
 
 #: src-en/data/events_special_multiverse.xml.append:2024
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_SHOP_DESTROYED\"]/text"
 msgstr ""
+"Судно скрапперов взрывается, оставив после себя большое количество лома."
 
 #: src-en/data/events_special_multiverse.xml.append:2029
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_SHOP_DEADCREW\"]/text"
 msgstr ""
+"Судно скрапперов опустело, так что у вас есть достаточно времени, чтобы "
+"разобрать корабль на лом."
 
 #: src-en/data/events_special_multiverse.xml.append:2034
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_CORVETTE_DESTROYED\"]/text"
 msgstr ""
+"Судно скрапперов взрывается, оставив после себя большое количество лома."
 
 #: src-en/data/events_special_multiverse.xml.append:2041
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_CORVETTE_DEADCREW\"]/text"
 msgstr ""
+"Судно скрапперов опустело, так что у вас есть достаточно времени, чтобы "
+"разобрать корабль на лом."
 
 #: src-en/data/events_special_multiverse.xml.append:2048
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_HUNTER_DESTROYED\"]/text"
 msgstr ""
+"Судно скрапперов взрывается, оставив после себя большое количество лома."
 
 #: src-en/data/events_special_multiverse.xml.append:2055
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_HUNTER_DEADCREW\"]/text"
 msgstr ""
+"Судно скрапперов опустело, так что у вас есть достаточно времени, чтобы "
+"разобрать корабль на лом."
 
 #: src-en/data/events_special_multiverse.xml.append:2062
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_SUPPORT_DESTROYED\"]/text"
 msgstr ""
+"Судно скрапперов взрывается, оставив после себя большое количество лома."
 
 #: src-en/data/events_special_multiverse.xml.append:2069
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_SUPPORT_DEADCREW\"]/text"
 msgstr ""
+"Судно скрапперов опустело, так что у вас есть достаточно времени, чтобы "
+"разобрать корабль на лом."
 
 #: src-en/data/events_special_multiverse.xml.append:2076
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_CRUISER_DESTROYED\"]/text"
 msgstr ""
+"Судно скрапперов взрывается, оставив после себя большое количество лома."
 
 #: src-en/data/events_special_multiverse.xml.append:2081
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_CRUISER_DEADCREW\"]/text"
 msgstr ""
+"Судно скрапперов опустело, так что у вас есть достаточно времени, чтобы "
+"разобрать корабль на лом."
 
 #: src-en/data/events_special_multiverse.xml.append:2092
 msgid ""
@@ -2386,13 +2507,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Представить скраппера."
 
 #: src-en/data/events_special_multiverse.xml.append:2112
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"\"Эти... скряги ланиусов. Их жажда... лома изменила их. Пригласить одного из "
+"них на свой корабль - это... удивительно. Да, я... впечатлен. Молодец, "
+"путник. Ожидай... награду перед следующим путешествием\"."
 
 #: src-en/data/events_special_multiverse.xml.append:2117
 msgid ""
