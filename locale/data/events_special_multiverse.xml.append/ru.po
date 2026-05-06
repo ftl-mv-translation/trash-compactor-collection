@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-05 15:02+0000\n"
+"PO-Revision-Date: 2026-05-06 13:54+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_multiversexmlappend/ru/>\n"
@@ -1042,10 +1042,9 @@ msgid ""
 msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:902
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[6]/text"
-msgstr "Черт возьми"
+msgstr "Осколочный ад"
 
 #: src-en/data/events_special_multiverse.xml.append:904
 msgid ""
