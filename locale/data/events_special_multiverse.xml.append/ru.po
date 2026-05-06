@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-06 13:54+0000\n"
+"PO-Revision-Date: 2026-05-06 14:10+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_multiversexmlappend/ru/>\n"
@@ -1052,10 +1052,9 @@ msgid ""
 msgstr "Готово!"
 
 #: src-en/data/events_special_multiverse.xml.append:913
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[7]/text"
-msgstr "РК-ЛД осколочная пушка"
+msgstr "РК-ЛД пусковая осколочная пушка"
 
 #: src-en/data/events_special_multiverse.xml.append:915
 msgid ""
@@ -1290,184 +1289,218 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1169
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[1]/text"
-msgstr ""
+msgstr "МАРКЕР ОПОЛЧЕНИЯ"
 
 #: src-en/data/events_special_multiverse.xml.append:1171
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[1]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1180
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "АЛЬТЕРНАТИВНАЯ ВЕРСИЯ -> МАРКЕР АПС"
 
 #: src-en/data/events_special_multiverse.xml.append:1182
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[2]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1191
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[3]/text"
-msgstr ""
+msgstr "ОСКОЛОЧНАЯ ПУШКА ОПОЛЧЕНИЯ ОДИН"
 
 #: src-en/data/events_special_multiverse.xml.append:1193
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[3]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1202
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[4]/text"
-msgstr ""
+msgstr "ОСКОЛОЧНАЯ ПУШКА ОПОЛЧЕНИЯ ДВА"
 
 #: src-en/data/events_special_multiverse.xml.append:1204
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[4]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1213
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[5]/text"
-msgstr ""
+msgstr "МИНИГАН МАРК ОДИН"
 
 #: src-en/data/events_special_multiverse.xml.append:1215
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[5]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1224
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[6]/text"
-msgstr ""
+msgstr "МИНИГАН МАРК ДВА"
 
 #: src-en/data/events_special_multiverse.xml.append:1226
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[6]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1235
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[7]/text"
-msgstr ""
+msgstr "МИНИГАН МАРК ТРИ"
 
 #: src-en/data/events_special_multiverse.xml.append:1237
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[7]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1246
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[8]/text"
-msgstr ""
+msgstr "ЛАЗЕР \"ЦЕНТРИФУГА\""
 
 #: src-en/data/events_special_multiverse.xml.append:1248
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[8]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1257
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[9]/text"
-msgstr ""
+msgstr "ЛАЗЕР \"ЛЕГИОН\""
 
 #: src-en/data/events_special_multiverse.xml.append:1259
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[9]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1268
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[10]/text"
-msgstr ""
+msgstr "ЛАЗЕР \"СНАЙПЕР\""
 
 #: src-en/data/events_special_multiverse.xml.append:1270
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[10]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1279
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[11]/text"
-msgstr ""
+msgstr "РОТАЦИОННАЯ АВТОМАТИЧЕСКАЯ ПУШКА \"ВУЛКАН\""
 
 #: src-en/data/events_special_multiverse.xml.append:1281
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[11]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1290
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[12]/text"
-msgstr ""
+msgstr "ИМПУЛЬСНЫЙ ЛАЗЕР \"ЭПСИЛОН\""
 
 #: src-en/data/events_special_multiverse.xml.append:1292
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[12]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1301
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[13]/text"
-msgstr ""
+msgstr "ИМПУЛЬСНЫЙ ЛАЗЕР \"СИГМА\""
 
 #: src-en/data/events_special_multiverse.xml.append:1303
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[13]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1312
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[14]/text"
-msgstr ""
+msgstr "ЛУЧ \"ЭСКА\""
 
 #: src-en/data/events_special_multiverse.xml.append:1314
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[14]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1323
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[15]/text"
-msgstr ""
+msgstr "МИНИ-ПУШКА АПС"
 
 #: src-en/data/events_special_multiverse.xml.append:1325
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[15]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1334
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[16]/text"
-msgstr ""
+msgstr "ИОННЫЙ ЛУЧ \"ТОНФА\""
 
 #: src-en/data/events_special_multiverse.xml.append:1336
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[16]/event/text"
 msgstr ""
+"Машина принимает ваш лом, прогоняет его через несколько секций, громко "
+"гудит - и выдает вам ваше новое оружие..."
 
 #: src-en/data/events_special_multiverse.xml.append:1345
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[17]/text"
-msgstr ""
+msgstr "////ОТМЕНИТЬ ТРАНЗАКЦИЮ////"
 
 #: src-en/data/events_special_multiverse.xml.append:1351
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM\"]/text"
-msgstr ""
+msgstr "Создать случайное количество топлива от 1 до 10?"
 
 #: src-en/data/events_special_multiverse.xml.append:1353
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM\"]/choice[@req=\"tcc_loc_has_fuelreservoir\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Создать случайное количество топлива от 1 до 10. Это можно будет сделать "
+"только один раз в каждом секторе."
 
 #: src-en/data/events_special_multiverse.xml.append:1357
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM\"]/choice[@req=\"tcc_loc_has_fuelreservoir\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вы уже создали топливо в этом секторе."
 
 #: src-en/data/events_special_multiverse.xml.append:1361
 msgid ""
@@ -1478,51 +1511,73 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM_LOW\"]/text"
 msgstr ""
+"В топливном баке образовался резервуар, заполненный небольшим количеством "
+"топлива."
 
 #: src-en/data/events_special_multiverse.xml.append:1388
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM_MED\"]/text"
 msgstr ""
+"В топливном баке образовался резервуар, заполненный средним количеством "
+"топлива."
 
 #: src-en/data/events_special_multiverse.xml.append:1396
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM_HIGH\"]/text"
 msgstr ""
+"В топливном баке образовался резервуар, заполненный большим количеством "
+"топлива."
 
 #: src-en/data/events_special_multiverse.xml.append:1404
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM_FULL\"]/text"
 msgstr ""
+"В топливном баке образовался резервуар, заполненный полным объемом топлива."
 
 #: src-en/data/events_special_multiverse.xml.append:1423
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_FAIL\"]/text"
 msgstr ""
+"Вы пытаетесь настроить компьютер, чтобы создать что-то полезное, но после "
+"нескольких минут бесконечного перезагрузки оказывается, что все, что у вас "
+"получилось, - это фигурка из протогена. Или, другими словами, хлам."
 
 #: src-en/data/events_special_multiverse.xml.append:1430
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_SUCCESS\"]/text"
 msgstr ""
+"Вы запускаете машину. После сложной диагностики неисправностей и того, как "
+"все экраны на ней стали синими, вам удается заставить ее что-то создать. "
+"Осколочная пушка мод. II! Как... впечатляюще."
 
 #: src-en/data/events_special_multiverse.xml.append:1435
+#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_SUCCESS_BETTER\"]/text"
 msgstr ""
+"Вы создали... нечто адское. Компактор явно дымится. Давайте подожжем им "
+"вражеские корабли."
 
 #: src-en/data/events_special_multiverse.xml.append:1440
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_SUCCESS_BETTER2\"]/text"
 msgstr ""
+"Компактор выдает вам несколько ошибок, большинство из которых - 719: "
+"НЕПРАВИЛЬНЫЙ МАТЕРИАЛ. Однако громкий звуковой сигнал указывает на то, что "
+"что-то действительно было создано..."
 
 #: src-en/data/events_special_multiverse.xml.append:1448
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/text"
 msgstr ""
+"Вы прибыли по указанным координатам, но там вас встретил тот же корабль "
+"ланиусов, что и раньше. Похоже, это ловушка, но они не нападают на вас, и их "
+"оружие пока не активно..."
 
 #: src-en/data/events_special_multiverse.xml.append:1451
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "ПРиХОДИ и ЗАБЕри"
 
 #: src-en/data/events_special_multiverse.xml.append:1452
 msgid ""
@@ -1586,7 +1641,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1490
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "ПРиХОДИ и ЗАБЕри"
 
 #: src-en/data/events_special_multiverse.xml.append:1491
 msgid ""
@@ -1650,7 +1705,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1570
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "ПРиХОДИ и ЗАБЕри"
 
 #: src-en/data/events_special_multiverse.xml.append:1571
 msgid ""
@@ -1784,7 +1839,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1652
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "ПРиХОДИ и ЗАБЕри"
 
 #: src-en/data/events_special_multiverse.xml.append:1653
 msgid ""
@@ -1879,7 +1934,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1709
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "ПРиХОДИ и ЗАБЕри"
 
 #: src-en/data/events_special_multiverse.xml.append:1710
 msgid ""
@@ -1946,7 +2001,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1748
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "ПРиХОДИ и ЗАБЕри"
 
 #: src-en/data/events_special_multiverse.xml.append:1749
 msgid ""
