@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-08 02:02+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1499,7 +1499,7 @@ msgstr "Улучшение недоступно. Не совместимо с т
 #: src-en/data/events_special_storage.xml.append:1174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL3\"]/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Вам нужна маскировка 2-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:1178
 msgid ""
@@ -1549,7 +1549,7 @@ msgstr "Улучшение недоступно. Не совместимо с т
 #: src-en/data/events_special_storage.xml.append:1214
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL4\"]/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Вам нужна маскировка 3-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:1218
 msgid ""
@@ -1599,7 +1599,7 @@ msgstr "Улучшение недоступно. Не совместимо с т
 #: src-en/data/events_special_storage.xml.append:1254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL5\"]/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Вам нужна маскировка 4-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:1258
 msgid ""
