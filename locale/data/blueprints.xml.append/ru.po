@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-07 01:49+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2026-05-07 07:06+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -4984,7 +4984,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10988
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_defender_mk2\"]/powerList/power[1]"
-msgstr ""
+msgstr "200 здоровья"
 
 #: src-en/data/blueprints.xml.append:10989
 msgid ""
@@ -4994,7 +4994,7 @@ msgstr "Получает 0.5х урона от пожаров"
 #: src-en/data/blueprints.xml.append:10990
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_defender_mk2\"]/powerList/power[3]"
-msgstr ""
+msgstr "0.5x поглощение кислорода"
 
 #: src-en/data/blueprints.xml.append:10991
 msgid ""
@@ -5009,17 +5009,17 @@ msgstr "1x скорость саботажа"
 #: src-en/data/blueprints.xml.append:10993
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_defender_mk2\"]/powerList/power[6]"
-msgstr ""
+msgstr "1х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:10994
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_defender_mk2\"]/powerList/power[7]"
-msgstr ""
+msgstr "1х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10995
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_defender_mk2\"]/powerList/power[8]"
-msgstr ""
+msgstr "Дает/Высасывает 2 единицы энергии."
 
 #: src-en/data/blueprints.xml.append:10996
 msgid ""
