@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-08 02:02+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -5069,12 +5069,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11012
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_phoenix\"]/powerList/power[1]"
-msgstr ""
+msgstr "Наносит 1.5x урона в бою"
 
 #: src-en/data/blueprints.xml.append:11013
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_phoenix\"]/powerList/power[2]"
-msgstr ""
+msgstr "Ремонтирует со скоростью 0.6x"
 
 #: src-en/data/blueprints.xml.append:11014
 msgid ""
@@ -5126,7 +5126,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11031
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_hazmat\"]/powerList/power[5]"
-msgstr ""
+msgstr "Обучен навыкам 1 уровня"
 
 #: src-en/data/blueprints.xml.append:11038
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"kiviekith\"]/desc"
@@ -5143,7 +5143,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11045
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"kiviekith\"]/powerList/power[1]"
-msgstr ""
+msgstr "Получает половину урона от опасностей"
 
 #: src-en/data/blueprints.xml.append:11046
 msgid ""
@@ -5197,7 +5197,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11081
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"robottos\"]/powerList/power[2]"
-msgstr ""
+msgstr "0.7x боевой урон и скорость ремонта."
 
 #: src-en/data/blueprints.xml.append:11082
 msgid ""
@@ -5207,7 +5207,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11083
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"robottos\"]/powerList/power[4]"
-msgstr ""
+msgstr "Получает 1.25х урона от пожаров"
 
 #: src-en/data/blueprints.xml.append:11084
 msgid ""
@@ -5237,7 +5237,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11096
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"robottos_machinist\"]/powerList/power[2]"
-msgstr ""
+msgstr "2x скорость ремонта и 0.7x урон в бою"
 
 #: src-en/data/blueprints.xml.append:11097
 msgid ""
@@ -5301,7 +5301,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11123
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"robottos_gunner\"]/powerList/power[2]"
-msgstr ""
+msgstr "0.7х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:11124
 msgid ""
@@ -5311,7 +5311,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11125
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"robottos_gunner\"]/powerList/power[4]"
-msgstr ""
+msgstr "Получает 1.25х урона от пожаров"
 
 #: src-en/data/blueprints.xml.append:11126
 msgid ""
@@ -5340,7 +5340,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11138
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"robottos_police\"]/powerList/power[2]"
-msgstr ""
+msgstr "0.7х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:11139
 msgid ""
@@ -5350,7 +5350,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11140
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"robottos_police\"]/powerList/power[4]"
-msgstr ""
+msgstr "Получает 1.25х урона от пожаров"
 
 #: src-en/data/blueprints.xml.append:11141
 msgid ""
@@ -5422,7 +5422,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11174
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_black_rose\"]/powerList/power[5]"
-msgstr ""
+msgstr "1.3х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:11181
 msgid ""
@@ -5448,12 +5448,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11189
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_freebusiness\"]/powerList/power[2]"
-msgstr ""
+msgstr "Наносит 1.2x урона в бою"
 
 #: src-en/data/blueprints.xml.append:11190
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_freebusiness\"]/powerList/power[3]"
-msgstr ""
+msgstr "1.3х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:11195
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_rsa\"]/desc"
@@ -5480,7 +5480,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11204
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_rsa\"]/powerList/power[3]"
-msgstr ""
+msgstr "1.3х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:11220
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_kora\"]/desc"
@@ -5534,7 +5534,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11243
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"crewmate\"]/powerList/power[2]"
-msgstr ""
+msgstr "1х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:11280
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"protogen\"]/desc"
@@ -5556,7 +5556,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11287
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"protogen\"]/powerList/power[2]"
-msgstr ""
+msgstr "0.8х скорость передвижения."
 
 #: src-en/data/blueprints.xml.append:11288
 msgid ""
@@ -5596,7 +5596,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11346
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"protogen_space_scavenger\"]/powerList/power[3]"
-msgstr ""
+msgstr "0.8х скорость передвижения."
 
 #: src-en/data/blueprints.xml.append:11347
 msgid ""
@@ -5648,7 +5648,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11364
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"protogen_pete\"]/powerList/power[3]"
-msgstr ""
+msgstr "0.8х скорость передвижения."
 
 #: src-en/data/blueprints.xml.append:11365
 msgid ""
@@ -5804,7 +5804,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11426
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"sergal\"]/powerList/power[1]"
-msgstr ""
+msgstr "1.2х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:11427
 msgid ""
@@ -5814,7 +5814,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11428
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"sergal\"]/powerList/power[3]"
-msgstr ""
+msgstr "80 здоровья"
 
 #: src-en/data/blueprints.xml.append:11429
 msgid ""
@@ -5868,7 +5868,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11484
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"tabaxi\"]/powerList/power[1]"
-msgstr ""
+msgstr "1.2х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:11485
 msgid ""
@@ -5878,7 +5878,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11486
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"tabaxi\"]/powerList/power[3]"
-msgstr ""
+msgstr "80 здоровья"
 
 #: src-en/data/blueprints.xml.append:11487
 msgid ""
@@ -5900,7 +5900,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11527
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"cheetah\"]/powerList/power[1]"
-msgstr ""
+msgstr "Наносит 1.3x урона в бою"
 
 #: src-en/data/blueprints.xml.append:11528
 msgid ""
@@ -5972,7 +5972,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11604
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"avali_illuminant\"]/powerList/power[1]"
-msgstr ""
+msgstr "2х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:11605
 msgid ""
@@ -6041,7 +6041,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11633
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_tori\"]/powerList/power[1]"
-msgstr ""
+msgstr "2х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:11634
 msgid ""
@@ -6087,12 +6087,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:11649
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"avali_technician\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:11650
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"avali_technician\"]/powerList/power[3]"
-msgstr ""
+msgstr "Наносит 0.7x урона в бою"
 
 #: src-en/data/blueprints.xml.append:11651
 msgid ""
