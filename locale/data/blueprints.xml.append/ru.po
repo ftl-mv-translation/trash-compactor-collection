@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-08 02:02+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-05-18 05:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -26,7 +26,7 @@ msgstr "Спасибо за установку Trash Compactor Collection!"
 #: src-en/data/blueprints.xml.append:56
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_CIVILIAN_JUSTICE\"]/title"
-msgstr ""
+msgstr "CDEG Супер Вулкан"
 
 #: src-en/data/blueprints.xml.append:57
 msgid ""
@@ -37,16 +37,21 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_CIVILIAN_JUSTICE\"]/desc"
 msgstr ""
+"Артиллерия: Запускает мощный вулкан, который наносит огромный урон при "
+"достаточном количестве комбо.\n"
+"\t\tБазовая перезарядка: 15"
 
 #: src-en/data/blueprints.xml.append:60
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_CIVILIAN_JUSTICE\"]/tooltip"
 msgstr ""
+"Артиллерия: Запускает огромный вулкан, который, при достаточном количестве "
+"комбо, сеет настоящий хаос."
 
 #: src-en/data/blueprints.xml.append:98
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MILITIAGUNBOAT_C\"]/title"
-msgstr ""
+msgstr "Служба быстрой доставки Эшелон(ТМ)"
 
 #: src-en/data/blueprints.xml.append:99
 msgid ""
@@ -57,16 +62,19 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MILITIAGUNBOAT_C\"]/desc"
 msgstr ""
+"Удобная служба доставки Эшелон, которая телепортирует огромные ящики со "
+"взрывчаткой на корабль противника! Как здорово!\n"
+"\t\tБазовая перезарядка: 30"
 
 #: src-en/data/blueprints.xml.append:103
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MILITIAGUNBOAT_C\"]/tooltip"
-msgstr ""
+msgstr "Артиллерия: Запускает телепорт-бомбу, наносящую значительный урон."
 
 #: src-en/data/blueprints.xml.append:129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MILITIAGUNBOAT_B\"]/title"
-msgstr ""
+msgstr "Стандартный горный лазер АПС мод. 6"
 
 #: src-en/data/blueprints.xml.append:130
 msgid ""
@@ -77,16 +85,21 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MILITIAGUNBOAT_B\"]/desc"
 msgstr ""
+"Артиллерия: Использует ОГРОМНЫЙ МОЩНЫЙ лазер для минирования, наносящий "
+"гигантский урон вражеским кораблям... Кто сказал, что нельзя минировать "
+"вражеские корабли?"
 
 #: src-en/data/blueprints.xml.append:132
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MILITIAGUNBOAT_B\"]/tooltip"
 msgstr ""
+"Артиллерия: Использует мощный горнодобывающий луч, наносящий значительный "
+"урон вражеским кораблям."
 
 #: src-en/data/blueprints.xml.append:153
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MILITIAGUNBOAT_A\"]/title"
-msgstr ""
+msgstr "Артиллерия МСТИТЕЛЬ Миниган"
 
 #: src-en/data/blueprints.xml.append:154
 msgid ""
@@ -97,76 +110,95 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MILITIAGUNBOAT_A\"]/desc"
 msgstr ""
+"Артиллерия: Использует мощный миниган, стреляющий с высокой скоростью. "
+"Покажите им, что такое настоящий ад.\n"
+"        Базовая перезарядка: 25"
 
 #: src-en/data/blueprints.xml.append:157
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MILITIAGUNBOAT_A\"]/tooltip"
 msgstr ""
+"Артиллерия: Использует мощный миниган, стреляющий с высокой скоростью. "
+"Покажите им, что такое настоящий ад."
 
 #: src-en/data/blueprints.xml.append:190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_AUTO_A_MISSILE\"]/title"
-msgstr ""
+msgstr "\"Ружье\""
 
 #: src-en/data/blueprints.xml.append:191
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_AUTO_A_MISSILE\"]/short"
-msgstr ""
+msgstr "Ружье"
 
 #: src-en/data/blueprints.xml.append:192
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_AUTO_A_MISSILE\"]/desc"
 msgstr ""
+"Артиллерия: Выпускает ракету, наносящую приличный урон и никогда не "
+"промахивающуюся.\n"
+"\t\tБазовая перезарядка: 12"
 
 #: src-en/data/blueprints.xml.append:194
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_AUTO_A_MISSILE\"]/tooltip"
 msgstr ""
+"Артиллерия: Выпускает ракету, наносящую приличный урон и никогда не "
+"промахивающуюся."
 
 #: src-en/data/blueprints.xml.append:230
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_AUTO_B_BIO\"]/title"
-msgstr ""
+msgstr "Рельсовая пушка трупов детей орхидей"
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_AUTO_B_BIO\"]/short"
-msgstr ""
+msgstr "Рельс. детей орх."
 
 #: src-en/data/blueprints.xml.append:232
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_AUTO_B_BIO\"]/desc"
 msgstr ""
+"Оружие для тех, кто не уважает мертвых. Выпускает залп из сильно ускоренных "
+"трупов."
 
 #: src-en/data/blueprints.xml.append:233
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_AUTO_B_BIO\"]/tooltip"
 msgstr ""
+"Оружие для тех, кто не уважает мертвых. Выпускает залп из сильно ускоренных "
+"трупов."
 
 #: src-en/data/blueprints.xml.append:275
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_ENERGY_MATH\"]/title"
-msgstr ""
+msgstr "Интегральная артиллерия"
 
 #: src-en/data/blueprints.xml.append:276
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_ENERGY_MATH\"]/short"
-msgstr ""
+msgstr "Интегр. арт."
 
 #: src-en/data/blueprints.xml.append:277
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_ENERGY_MATH\"]/desc"
 msgstr ""
+"Странная математическая артиллерия, которая с каждой очередью стреляет "
+"энергетическими зарядами все быстрее.\n"
+"\t\tБазовая перезарядка: 14.5"
 
 #: src-en/data/blueprints.xml.append:279
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_ENERGY_MATH\"]/tooltip"
 msgstr ""
+"Странная математическая артиллерия, которая с каждой очередью стреляет "
+"энергетическими зарядами все быстрее."
 
 #: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RESONATE_WAVE\"]/title"
-msgstr ""
+msgstr "Проектор резонирующих волн"
 
 #: src-en/data/blueprints.xml.append:325
 msgid ""
@@ -177,16 +209,21 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RESONATE_WAVE\"]/desc"
 msgstr ""
+"Артиллерия: Выпускает серию из 5 энергетических пузырей, которые выводят "
+"системы противника из строя без возможности восстановления.\n"
+"\t\tБазовая перезарядка: 50"
 
 #: src-en/data/blueprints.xml.append:328
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RESONATE_WAVE\"]/tooltip"
 msgstr ""
+"Артиллерия: Выпускает серию из 5 энергетических пузырей, которые выводят "
+"системы противника из строя без возможности восстановления."
 
 #: src-en/data/blueprints.xml.append:402
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_ION\"]/title"
-msgstr ""
+msgstr "Артиллерия спасительных ионов"
 
 #: src-en/data/blueprints.xml.append:403
 msgid ""
@@ -197,16 +234,21 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_ION\"]/desc"
 msgstr ""
+"Артиллерия: Выпускает залп из 4 мощных ионов, наносящих значительный ионный "
+"урон и создающих опасности.\n"
+"\t\tБазовая перезарядка: 30"
 
 #: src-en/data/blueprints.xml.append:406
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_ION\"]/tooltip"
 msgstr ""
+"Артиллерия: Выпускает залп из 4 мощных ионов, наносящих значительный ионный "
+"урон и создающих опасности."
 
 #: src-en/data/blueprints.xml.append:443
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_LASER\"]/title"
-msgstr ""
+msgstr "Артиллерия спасительных ионов"
 
 #: src-en/data/blueprints.xml.append:444
 msgid ""
@@ -217,16 +259,21 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_LASER\"]/desc"
 msgstr ""
+"Артиллерия: Выпускает залп из 3 мощных тяжелых лазеров, которые пробивают 1 "
+"щит и наносят 3 единицы урона системам.\n"
+"\t\tБазовая перезарядка: 40"
 
 #: src-en/data/blueprints.xml.append:447
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_LASER\"]/tooltip"
 msgstr ""
+"Артиллерия: Выпускает залп из 3 мощных тяжелых лазеров, которые пробивают 1 "
+"щит и наносят 3 единицы урона системам."
 
 #: src-en/data/blueprints.xml.append:484
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_FALSE\"]/title"
-msgstr ""
+msgstr "Артиллерия спасительных ионов"
 
 #: src-en/data/blueprints.xml.append:485
 msgid ""
@@ -237,16 +284,21 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_FALSE\"]/desc"
 msgstr ""
+"Артиллерия: Выпускает залп ракет, осколочных снарядов и лазеров, нанося "
+"огромный урон вражескому кораблю.\n"
+"\t\tБазовая перезарядка: 60"
 
 #: src-en/data/blueprints.xml.append:488
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_FALSE\"]/tooltip"
 msgstr ""
+"Артиллерия: Выпускает залп ракет, осколочных снарядов и лазеров, нанося "
+"огромный урон вражескому кораблю."
 
 #: src-en/data/blueprints.xml.append:530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BATTLESHIP_LASER\"]/title"
-msgstr ""
+msgstr "Лазерная артиллерия Легион"
 
 #: src-en/data/blueprints.xml.append:531
 msgid ""
@@ -257,21 +309,26 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BATTLESHIP_LASER\"]/desc"
 msgstr ""
+"Артиллерия: Выпускает серию из 6 мощных лазерных выстрелов, каждый из "
+"которых с вероятностью 20% вызывает возгорание.\n"
+"\t\tБазовая перезарядка: 50"
 
 #: src-en/data/blueprints.xml.append:534
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BATTLESHIP_LASER\"]/tooltip"
 msgstr ""
+"Артиллерия: Выпускает серию из 6 мощных лазерных выстрелов, каждый из "
+"которых с вероятностью 20% вызывает возгорание."
 
 #: src-en/data/blueprints.xml.append:573
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"MISSILES_LEGION\"]/title"
-msgstr ""
+msgstr "Ракеты \"Танатос\""
 
 #: src-en/data/blueprints.xml.append:574
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"MISSILES_LEGION\"]/short"
-msgstr ""
+msgstr "Танатос"
 
 #: src-en/data/blueprints.xml.append:575
 msgid ""
@@ -282,7 +339,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:616
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_LEGION\"]/title"
-msgstr ""
+msgstr "Осколочная пушка \"Легион\""
 
 #: src-en/data/blueprints.xml.append:618
 msgid ""
@@ -299,17 +356,22 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:665
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MINELAUNCHER_ANCALAGON_FAKE\"]/title"
-msgstr ""
+msgstr "Ракетная пусковая установка \"Звездный свет\""
 
 #: src-en/data/blueprints.xml.append:666
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MINELAUNCHER_ANCALAGON_FAKE\"]/short"
-msgstr ""
+msgstr "Звездный свет"
 
 #: src-en/data/blueprints.xml.append:667
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MINELAUNCHER_ANCALAGON_FAKE\"]/desc"
 msgstr ""
+"Оружие, изготовленное из металлов, которые невозможно идентифицировать, и "
+"кристаллов, вибрирующих от аномальной энергии. Оно выпускает 4 мины, "
+"наносящие небольшой урон корпусу, не повреждающими системы и создающими "
+"небольшую опасность. На этикетке написано: \"Собственность подразделения "
+"Анкалагон\"."
 
 #: src-en/data/blueprints.xml.append:744
 msgid ""
@@ -328,17 +390,22 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:770
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MINELAUNCHER_ANCALAGON\"]/title"
-msgstr ""
+msgstr "Ракетная пусковая установка \"Звездный свет\""
 
 #: src-en/data/blueprints.xml.append:771
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MINELAUNCHER_ANCALAGON\"]/short"
-msgstr ""
+msgstr "Звездный свет"
 
 #: src-en/data/blueprints.xml.append:772
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MINELAUNCHER_ANCALAGON\"]/desc"
 msgstr ""
+"Оружие, изготовленное из металлов, которые невозможно идентифицировать, и "
+"кристаллов, вибрирующих от аномальной энергии. Оно выпускает 4 мины, "
+"наносящие небольшой урон корпусу, не повреждающими системы и создающими "
+"небольшую опасность. На этикетке написано: \"Собственность подразделения "
+"Анкалагон\"."
 
 #: src-en/data/blueprints.xml.append:850
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"VOID_LASER3\"]/title"
