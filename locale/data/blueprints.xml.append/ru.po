@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-18 05:40+0000\n"
+"PO-Revision-Date: 2026-05-18 22:09+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
@@ -223,7 +223,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:402
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_ION\"]/title"
-msgstr "Артиллерия спасительных ионов"
+msgstr "Ионная артиллерия Спасательницы"
 
 #: src-en/data/blueprints.xml.append:403
 msgid ""
@@ -248,7 +248,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:443
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_LASER\"]/title"
-msgstr "Артиллерия спасительных ионов"
+msgstr "Ионная артиллерия Спасательницы"
 
 #: src-en/data/blueprints.xml.append:444
 msgid ""
@@ -376,16 +376,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:744
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ANCIENT_LANCE\"]/title"
-msgstr ""
+msgstr "Луч \"Ланс\" мод. II"
 
 #: src-en/data/blueprints.xml.append:745
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ANCIENT_LANCE\"]/short"
-msgstr ""
+msgstr "Ланс II"
 
 #: src-en/data/blueprints.xml.append:746
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"ANCIENT_LANCE\"]/desc"
 msgstr ""
+"Это оружие, представляющее собой значительно модифицированный луч \"Ленс\", "
+"было создано по образцу невероятно мощной древней технологии, что позволило "
+"значительно усилить и без того разрушительную силу этого оружия."
 
 #: src-en/data/blueprints.xml.append:770
 msgid ""
@@ -409,35 +412,45 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:850
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"VOID_LASER3\"]/title"
-msgstr ""
+msgstr "Несущий пустоту"
 
 #: src-en/data/blueprints.xml.append:851
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"VOID_LASER3\"]/short"
-msgstr ""
+msgstr "Нес. пустоту"
 
 #: src-en/data/blueprints.xml.append:853
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"VOID_LASER3\"]/desc"
 msgstr ""
+"Сильно модифицированный импульсный лазер, изначально изготовленный "
+"Дворянами, но переработанный \"Спасительницей\" для охоты и уничтожения всех "
+"древних, с которыми ей приходилось сталкиваться. Выпускает 4 выстрела, "
+"пробивающих любые обычные и золтанские щиты, нанося 1 ед. урона системе и "
+"ограничивая мощность пораженной системы на 1 ед. в течение 20 секунд. Любые "
+"дроны, попадающие в помещение, будут мгновенно разорваны на части, что не "
+"позволит быстро провести ремонт."
 
 #: src-en/data/blueprints.xml.append:916
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_OMEGA\"]/title"
-msgstr ""
+msgstr "Осколочная пушка \"Омега Амальгам\""
 
 #: src-en/data/blueprints.xml.append:917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_OMEGA\"]/short"
-msgstr ""
+msgstr "Оск. Омега"
 
 #: src-en/data/blueprints.xml.append:919
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_OMEGA\"]/desc"
 msgstr ""
+"ТЕСТОВОЕ ОРУЖИЕ, КОТОРОЕ ВЫ НЕ ДОЛЖНЫ УВИДЕТЬ - Нечестивое слияние различных "
+"осколочных пушек - это оружие стреляет самой плотной материей во вселенной и "
+"безжалостно уничтожает вражеские корабли."
 
 #: src-en/data/blueprints.xml.append:970
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD\"]/title"
-msgstr ""
+msgstr "Осколочная пушка \"Плотное золото\""
 
 #: src-en/data/blueprints.xml.append:971
 msgid ""
@@ -448,21 +461,27 @@ msgstr "Зол. оскол. оруд."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD\"]/desc"
 msgstr ""
+"Модифицированная пушка, стреляющая более плотными кусками золота. Ее снаряды "
+"невероятно тяжелые и медлительные. Благодаря своему роскошному внешнему виду "
+"она должна принести значительную прибыль при продаже."
 
 #: src-en/data/blueprints.xml.append:1017
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_ARTILLERY\"]/title"
-msgstr ""
+msgstr "Осколочная артиллерия \"Плотное золото\""
 
 #: src-en/data/blueprints.xml.append:1018
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_ARTILLERY\"]/short"
-msgstr ""
+msgstr "Оск. арт. Золото"
 
 #: src-en/data/blueprints.xml.append:1020
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_ARTILLERY\"]/desc"
 msgstr ""
+"Модифицированная пушка, стреляющая более плотными кусками золота. Ее снаряды "
+"невероятно тяжелые и медлительные. Благодаря своему роскошному внешнему виду "
+"она должна принести значительную прибыль при продаже."
 
 #: src-en/data/blueprints.xml.append:1064
 msgid ""
@@ -484,47 +503,54 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_BOMB\"]/title"
-msgstr ""
+msgstr "Сверхвзрывная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:1112
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_BOMB\"]/short"
-msgstr ""
+msgstr "Взрыв. оск."
 
 #: src-en/data/blueprints.xml.append:1114
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_BOMB\"]/desc"
 msgstr ""
+"Взрывная осколочная пушка, стреляющая сверхвзрывными зарядами с цифровым "
+"детонатором - не путать с минометом или бомбометом."
 
 #: src-en/data/blueprints.xml.append:1153
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_UNSTABLE\"]/title"
-msgstr ""
+msgstr "Нестабильная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:1154
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_UNSTABLE\"]/short"
-msgstr ""
+msgstr "Нестаб. оск."
 
 #: src-en/data/blueprints.xml.append:1156
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_UNSTABLE\"]/desc"
 msgstr ""
+"Экспериментальная осколочная пушка, стреляющая огромным количеством "
+"снарядов. Она чрезвычайно эффективна при уничтожении щитов, однако с трудом "
+"попадает в корабли."
 
 #: src-en/data/blueprints.xml.append:1200
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_BATTERY\"]/title"
-msgstr ""
+msgstr "Аккумуляторная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:1201
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_BATTERY\"]/short"
-msgstr ""
+msgstr "Аккум. оск."
 
 #: src-en/data/blueprints.xml.append:1203
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_BATTERY\"]/desc"
 msgstr ""
+"Осколочная пушка в сочетании с аккумуляторным лучом, которая дает две "
+"единицы энергии к оружию справа, при этом позволяя стрелять в обычном режиме."
 
 #: src-en/data/blueprints.xml.append:1247
 msgid ""
@@ -540,107 +566,126 @@ msgstr "Осколочный ад"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_HELL\"]/desc"
 msgstr ""
+"Странная осколочная пушка, изготовленная из лома. Она очень нестабильна, но "
+"при этом чрезвычайно мощная. Она будет стрелять, пока не исчерпает свой "
+"ресурс"
 
 #: src-en/data/blueprints.xml.append:1295
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_RAPTORS_OWN\"]/title"
-msgstr ""
+msgstr "Осколочная пушка \"Правая рука Раптора\""
 
 #: src-en/data/blueprints.xml.append:1296
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_RAPTORS_OWN\"]/short"
-msgstr ""
+msgstr "Оск. Раптор"
 
 #: src-en/data/blueprints.xml.append:1298
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_RAPTORS_OWN\"]/desc"
 msgstr ""
+"Старая осколочная пушка Ополчения, значительно модернизированная и "
+"доработанная компанией Примаген РАПТОР. Не судите книгу по обложке: эта "
+"скромная на вид осколочная пушка обладает удивительной мощью."
 
 #: src-en/data/blueprints.xml.append:1343
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RC_LD_LAUNCHER\"]/title"
-msgstr ""
+msgstr "Пусковая установка для дронов РК \"Молния\""
 
 #: src-en/data/blueprints.xml.append:1344
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RC_LD_LAUNCHER\"]/short"
-msgstr ""
+msgstr "Уст. Молния"
 
 #: src-en/data/blueprints.xml.append:1346
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RC_LD_LAUNCHER\"]/desc"
 msgstr ""
+"Специализированное оружие, которое при попадании запускает РК-МД - эти дроны "
+"наносят урон корпусу, экипажу и системам вражеского корабля. Попадание также "
+"с умеренной вероятностью может привести к пробоинам и возгораниям."
 
 #: src-en/data/blueprints.xml.append:1401
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SCRAPFLAK\"]/title"
-msgstr ""
+msgstr "ЛОМОПУШКА"
 
 #: src-en/data/blueprints.xml.append:1402
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SCRAPFLAK\"]/short"
-msgstr ""
+msgstr "Ломопушка"
 
 #: src-en/data/blueprints.xml.append:1404
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SCRAPFLAK\"]/desc"
 msgstr ""
+"Эта самодельная пушка, напечатанная на 3D-принтере, швыряет в корабли "
+"противника обломки кораблей - правда, с ужасной точностью."
 
 #: src-en/data/blueprints.xml.append:1447
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_UNSCRAPFLAK\"]/title"
-msgstr ""
+msgstr "ДЕСКРАППУШКА"
 
 #: src-en/data/blueprints.xml.append:1448
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_UNSCRAPFLAK\"]/short"
-msgstr ""
+msgstr "Дескраппушка"
 
 #: src-en/data/blueprints.xml.append:1450
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_UNSCRAPFLAK\"]/desc"
 msgstr ""
+"Почему ополчение усовершенствовало эту конструкцию? Возможно, мы никогда "
+"этого не узнаем, но теперь эта штука стала гораздо точнее."
 
 #: src-en/data/blueprints.xml.append:1495
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MILITIA_1\"]/title"
-msgstr ""
+msgstr "Осколочная пушка Ополчения мод. I"
 
 #: src-en/data/blueprints.xml.append:1496
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MILITIA_1\"]/short"
-msgstr ""
+msgstr "Оск. Опол. I"
 
 #: src-en/data/blueprints.xml.append:1498
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MILITIA_1\"]/desc"
 msgstr ""
+"Слегка модифицированная Осколочная пушка мод. II, доработанная Ополчением - "
+"выпущенные ею снаряды способны пробивать щиты."
 
 #: src-en/data/blueprints.xml.append:1543
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MILITIA_2\"]/title"
-msgstr ""
+msgstr "Осколочная пушка Ополчения мод. II"
 
 #: src-en/data/blueprints.xml.append:1544
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MILITIA_2\"]/short"
-msgstr ""
+msgstr "Оск. Опол. II"
 
 #: src-en/data/blueprints.xml.append:1546
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MILITIA_2\"]/desc"
 msgstr ""
+"Слегка модифицированная Осколочная пушка мод. III, доработанная Ополчением - "
+"выпущенные ею снаряды способны пробивать щиты."
 
 #: src-en/data/blueprints.xml.append:1589
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_BROKEN\"]/title"
-msgstr ""
+msgstr "Полностью сломанная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:1590
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_BROKEN\"]/short"
-msgstr ""
+msgstr "ПСОП"
 
 #: src-en/data/blueprints.xml.append:1591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_BROKEN\"]/desc"
 msgstr ""
+"Совершенно сломанная осколочная пушка - метафорически. По легенде, ее нашли "
+"в мусорном контейнере."
 
 #: src-en/data/blueprints.xml.append:1630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_1\"]/title"
-msgstr ""
+msgstr "Бомбовая пушка мод. I"
 
 #: src-en/data/blueprints.xml.append:1631
 msgid ""
@@ -651,11 +696,15 @@ msgstr "Бомб. оск. I"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_1\"]/desc"
 msgstr ""
+"Небольшая осколочная пушка малой мощности, переоборудованная для стрельбы "
+"бомбами вместо осколочных снарядов; идеально подходит для нанесения "
+"сокрушительного урона системам. Для запуска требуется боеголовка, но с "
+"вероятностью 35% она не будет израсходована. Пробивает только один слой щита."
 
 #: src-en/data/blueprints.xml.append:1676
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_1_ENEMY\"]/title"
-msgstr ""
+msgstr "Бомбовая пушка мод. I"
 
 #: src-en/data/blueprints.xml.append:1677
 msgid ""
@@ -670,7 +719,7 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:1721
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_2\"]/title"
-msgstr ""
+msgstr "Бомбовая пушка мод. II"
 
 #: src-en/data/blueprints.xml.append:1722
 msgid ""
@@ -681,11 +730,16 @@ msgstr "Бомб. оск. II"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_2\"]/desc"
 msgstr ""
+"Осколочная пушка, переоборудованная для стрельбы бомбами по случайной "
+"области, наносящей до 3 единиц урона корпусу и до 6 единиц урона системам. "
+"Хорошо подходит для уничтожения систем, но сложна в наведении. Для запуска "
+"требуется боеголовка, но с вероятностью 35% она не будет израсходована. "
+"Пробивает только один слой щита."
 
 #: src-en/data/blueprints.xml.append:1767
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_2_ENEMY\"]/title"
-msgstr ""
+msgstr "Бомбовая пушка мод. II"
 
 #: src-en/data/blueprints.xml.append:1768
 msgid ""
@@ -700,7 +754,7 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:1812
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_3\"]/title"
-msgstr ""
+msgstr "Бомбовая пушка мод. III"
 
 #: src-en/data/blueprints.xml.append:1813
 msgid ""
@@ -711,11 +765,16 @@ msgstr "Бомб. оск. III"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_3\"]/desc"
 msgstr ""
+"Осколочная пушка, переоборудованная для стрельбы бомбами по случайной "
+"области, наносящей до 5 единиц урона корпусу и до 10 единиц урона системам. "
+"Хорошо подходит для уничтожения систем, но сложна в наведении. Для запуска "
+"требуется боеголовка, но с вероятностью 35% она не будет израсходована. "
+"Пробивает только один слой щита."
 
 #: src-en/data/blueprints.xml.append:1858
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_3_ENEMY\"]/title"
-msgstr ""
+msgstr "Бомбовая пушка мод. III"
 
 #: src-en/data/blueprints.xml.append:1859
 msgid ""
@@ -730,7 +789,7 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:1903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_4\"]/title"
-msgstr ""
+msgstr "Бомбовая пушка мод. IV"
 
 #: src-en/data/blueprints.xml.append:1904
 msgid ""
@@ -741,11 +800,16 @@ msgstr "Бомб. оск. IV"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_4\"]/desc"
 msgstr ""
+"Осколочная пушка, переоборудованная для стрельбы бомбами по случайной "
+"области, наносящей до 8 единиц урона корпусу и до 16 единиц урона системам. "
+"Хорошо подходит для уничтожения систем, но сложна в наведении. Для запуска "
+"требуется боеголовка, но с вероятностью 35% она не будет израсходована. "
+"Пробивает только один слой щита."
 
 #: src-en/data/blueprints.xml.append:1949
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_4_ENEMY\"]/title"
-msgstr ""
+msgstr "Бомбовая пушка мод. IV"
 
 #: src-en/data/blueprints.xml.append:1950
 msgid ""
@@ -760,27 +824,32 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:1994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BREACH\"]/title"
-msgstr ""
+msgstr "Пробойная бомбовая пушка"
 
 #: src-en/data/blueprints.xml.append:1995
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BREACH\"]/short"
-msgstr ""
+msgstr "Проб. бомб."
 
 #: src-en/data/blueprints.xml.append:1997
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BREACH\"]/desc"
 msgstr ""
+"Осколочная пушка, переоборудованная для стрельбы пробойными бомбами по "
+"случайной области, наносящей до 3 единиц урона корпусу и до 6 единиц урона "
+"системам. Хорошо подходит для уничтожения систем, но сложна в наведении. Для "
+"запуска требуется боеголовка, но с вероятностью 35% она не будет "
+"израсходована. Пробивает только один слой щита."
 
 #: src-en/data/blueprints.xml.append:2040
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BREACH_ENEMY\"]/title"
-msgstr ""
+msgstr "Пробойная бомбовая пушка"
 
 #: src-en/data/blueprints.xml.append:2041
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BREACH_ENEMY\"]/short"
-msgstr ""
+msgstr "Проб. бомб."
 
 #: src-en/data/blueprints.xml.append:2043
 msgid ""
@@ -790,27 +859,32 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:2085
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHAIN\"]/title"
-msgstr ""
+msgstr "Цепная бомбовая пушка"
 
 #: src-en/data/blueprints.xml.append:2087
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHAIN\"]/short"
-msgstr ""
+msgstr "Цеп. бомб."
 
 #: src-en/data/blueprints.xml.append:2088
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHAIN\"]/desc"
 msgstr ""
+"Осколочная пушка, переоборудованная для цепными бомбами. Выпускает 3 бомбы в "
+"случайную область, которые отлично подходят для вывода из строя систем. "
+"Каждый выстрел сокращает время перезарядки. Хорошо подходит для уничтожения "
+"систем, но сложна в наведении. Для запуска требуется боеголовка, но с "
+"вероятностью 35% она не будет израсходована. Пробивает только один слой щита."
 
 #: src-en/data/blueprints.xml.append:2136
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHAIN_ENEMY\"]/title"
-msgstr ""
+msgstr "Цепная бомбовая пушка"
 
 #: src-en/data/blueprints.xml.append:2138
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHAIN_ENEMY\"]/short"
-msgstr ""
+msgstr "Цеп. бомб."
 
 #: src-en/data/blueprints.xml.append:2139
 msgid ""
@@ -825,12 +899,15 @@ msgstr "Зарядная бомбовая осколочная пушка"
 #: src-en/data/blueprints.xml.append:2187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHARGE\"]/short"
-msgstr ""
+msgstr "Цеп. бомб."
 
 #: src-en/data/blueprints.xml.append:2189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHARGE\"]/desc"
 msgstr ""
+"Специализированный бомбомет, который можно зарядить до 3 раз! Для запуска "
+"требуется боеголовка, но с вероятностью 35% она не будет израсходована. "
+"Пробивает только один слой щита."
 
 #: src-en/data/blueprints.xml.append:2234
 msgid ""
@@ -840,7 +917,7 @@ msgstr "Зарядная бомбовая осколочная пушка"
 #: src-en/data/blueprints.xml.append:2235
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHARGE_ENEMY\"]/short"
-msgstr ""
+msgstr "Цеп. бомб."
 
 #: src-en/data/blueprints.xml.append:2237
 msgid ""
@@ -850,32 +927,36 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:2281
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_FREE\"]/title"
-msgstr ""
+msgstr "Репликационный бомбомет"
 
 #: src-en/data/blueprints.xml.append:2282
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_FREE\"]/short"
-msgstr ""
+msgstr "Репл. бомб."
 
 #: src-en/data/blueprints.xml.append:2284
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_FREE\"]/desc"
 msgstr ""
+"Бомбомет, превращающий бесполезные материалы в взрывчатые вещества. Имеет "
+"более длительное время перезарядки, но не требует боеприпасов."
 
 #: src-en/data/blueprints.xml.append:2325
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CONSERVATIVE\"]/title"
-msgstr ""
+msgstr "Консервативный бомбомет"
 
 #: src-en/data/blueprints.xml.append:2326
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CONSERVATIVE\"]/short"
-msgstr ""
+msgstr "Консерв. бомб."
 
 #: src-en/data/blueprints.xml.append:2328
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CONSERVATIVE\"]/desc"
 msgstr ""
+"Медленно заряжающаяся 2-зарядный бомбомет. Это оружие не потребляет энергию, "
+"но для его работы требуется другое оружие, обеспечивающее питание."
 
 #: src-en/data/blueprints.xml.append:2371
 msgid ""
@@ -885,37 +966,44 @@ msgstr "Упреждающая бомбовая осколочная пушка"
 #: src-en/data/blueprints.xml.append:2372
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_INSTANT\"]/short"
-msgstr ""
+msgstr "Упр. бомб."
 
 #: src-en/data/blueprints.xml.append:2374
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_INSTANT\"]/desc"
 msgstr ""
+"Этот бомбомет не потребляет энергии, заряжается мгновенно и выстреливает "
+"серией из 7 бомб за раз. Однако его можно использовать только один раз за "
+"сражение. Для запуска требуется боеголовка. Не обладает шансом репликации, "
+"как другие бомбометы. Пробивает только один слой щита."
 
 #: src-en/data/blueprints.xml.append:2421
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_FIRE\"]/title"
-msgstr ""
+msgstr "Зажигательный бомбомет"
 
 #: src-en/data/blueprints.xml.append:2422
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_FIRE\"]/short"
-msgstr ""
+msgstr "Заж. бомб."
 
 #: src-en/data/blueprints.xml.append:2424
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_FIRE\"]/desc"
 msgstr ""
+"Выпускает 4 зажигательные бомбы, которые гарантированно вызывают возгорание "
+"и наносят удвоенный урон по системам. Для запуска требуется боеголовка, но с "
+"вероятностью 35% она не будет израсходована. Пробивает только один слой щита."
 
 #: src-en/data/blueprints.xml.append:2467
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_FIRE_ENEMY\"]/title"
-msgstr ""
+msgstr "Зажигательный бомбомет"
 
 #: src-en/data/blueprints.xml.append:2468
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_FIRE_ENEMY\"]/short"
-msgstr ""
+msgstr "Заж. бомб."
 
 #: src-en/data/blueprints.xml.append:2470
 msgid ""
@@ -925,27 +1013,48 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:2512
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_ION\"]/title"
-msgstr ""
+msgstr "Ионный бомбомет"
 
 #: src-en/data/blueprints.xml.append:2513
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_ION\"]/short"
-msgstr ""
+msgstr "Ион. бомб."
 
 #: src-en/data/blueprints.xml.append:2515
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_ION\"]/descriptionOverride"
 msgstr ""
+"Этот специальный бомбомет выпускает 3 ионные бомбы, каждая из которых "
+"наносит 4 единицы ионного урона! Однако они не могут ионизировать щиты, если "
+"не попадают непосредственно в саму систему. Для запуска требуется "
+"боеголовка, но с вероятностью 35% она не будет израсходована. Пробивает "
+"только один слой щита.\n"
+"\n"
+"\t\tХарактеристики:\n"
+"\n"
+"\t\tНеобходимая мощность: 3\n"
+"\t\tВремя перезарядки: 17 секунд\n"
+"\t\tПотребление боеголовок: 1\n"
+"\t\tВероятность восполнить боеголовку: 35%\n"
+"\n"
+"\t\tРазброс выстрела: 55\n"
+"\t\tВыстрелов в очереди: 3\n"
+"\n"
+"\t\tБазовый урон корпусу: 1\n"
+"\t\tИонный урон: 4\n"
+"\t\tПробивание щитов: 1\n"
+"\n"
+"\t\tПокупка: 90~   -   Продажа: 45~"
 
 #: src-en/data/blueprints.xml.append:2602
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_ION_ENEMY\"]/title"
-msgstr ""
+msgstr "Ионный бомбомет"
 
 #: src-en/data/blueprints.xml.append:2603
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_ION_ENEMY\"]/short"
-msgstr ""
+msgstr "Ион. бомб."
 
 #: src-en/data/blueprints.xml.append:2605
 msgid ""
@@ -955,27 +1064,30 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:2690
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BIO\"]/title"
-msgstr ""
+msgstr "Облучающий бомбомет"
 
 #: src-en/data/blueprints.xml.append:2691
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BIO\"]/short"
-msgstr ""
+msgstr "Обл. бомб."
 
 #: src-en/data/blueprints.xml.append:2693
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BIO\"]/desc"
 msgstr ""
+"Выпускает 4 радиоактивные бомбы, которые наносят обычный урон корпусу, а "
+"также удвоенный урон системам, очень высокий урон экипажу и иногда пробивают "
+"корпус настолько, что образуется пробоина."
 
 #: src-en/data/blueprints.xml.append:2766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BIO_ENEMY\"]/title"
-msgstr ""
+msgstr "Облучающий бомбомет"
 
 #: src-en/data/blueprints.xml.append:2767
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BIO_ENEMY\"]/short"
-msgstr ""
+msgstr "Обл. бомб."
 
 #: src-en/data/blueprints.xml.append:2769
 msgid ""
@@ -985,27 +1097,31 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:2841
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_LOCK\"]/title"
-msgstr ""
+msgstr "Запирающий бомбомет"
 
 #: src-en/data/blueprints.xml.append:2842
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_LOCK\"]/short"
-msgstr ""
+msgstr "Зап. бомб."
 
 #: src-en/data/blueprints.xml.append:2844
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_LOCK\"]/desc"
 msgstr ""
+"Выпускает 4 бомбы, которые запирают помещения, наносят удвоенный урон "
+"системам и с небольшой вероятностью вызывают возгорание и пробоину. Для "
+"запуска требуется боеголовка, но с вероятностью 35% она не будет "
+"израсходована. Пробивает только один слой щита."
 
 #: src-en/data/blueprints.xml.append:2888
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_LOCK_ENEMY\"]/title"
-msgstr ""
+msgstr "Запирающий бомбомет"
 
 #: src-en/data/blueprints.xml.append:2889
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_LOCK_ENEMY\"]/short"
-msgstr ""
+msgstr "Зап. бомб."
 
 #: src-en/data/blueprints.xml.append:2891
 msgid ""
@@ -1749,7 +1865,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5235
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FOCUS_1_LEAH_VENGEANCE\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -1868,7 +1983,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5477
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"NOODLE_RATIONS_UPGRADE\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -1904,7 +2018,6 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_SCRAPPER\"]/title"
 msgstr "Крейсер скрапперов"
 
 #: src-en/data/blueprints.xml.append:5513
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_SCRAPPER\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
@@ -1913,7 +2026,6 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_TRASH\"]/title"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5522
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_TRASH\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
@@ -1922,7 +2034,6 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_ROBOTTOS\"]/title"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5531
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_ROBOTTOS\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
@@ -1931,7 +2042,6 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_RSA\"]/title"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5540
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_RSA\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
@@ -1941,7 +2051,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5549
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_ARMOREDWASP\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
@@ -1951,7 +2060,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5558
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_PROTOGEN_PROJECT\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -1962,7 +2070,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5567
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_MILITARY_FEDERATION\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
@@ -1972,7 +2079,6 @@ msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AVALI\"]/title"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5575
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AVALI\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
@@ -2319,7 +2425,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5982
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_UNSTABLE\"]/short"
-msgstr ""
+msgstr "Нестабильная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:5983
 msgid ""
@@ -6146,7 +6252,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:11648
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"avali_technician\"]/powerList/power[1]"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
