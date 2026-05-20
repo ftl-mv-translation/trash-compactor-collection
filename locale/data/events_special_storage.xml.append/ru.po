@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-18 05:40+0000\n"
+"PO-Revision-Date: 2026-05-20 13:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_storagexmlappend/ru/>\n"
@@ -2692,7 +2692,7 @@ msgstr "Установлено: Генератор защитного поля"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[10]/text"
 msgstr ""
-"[ПРОДВИНУТЫЙ ПРОЦЕССОР ЛОМА] Модернизировать и улучшить своих скрапперов."
+"[ПРОДВИНУТЫЙ ПЕРЕРАБОТЧИК ЛОМА] Модернизировать и улучшить своих скрапперов."
 
 #: src-en/data/events_special_storage.xml.append:2301
 msgid ""
@@ -2832,8 +2832,8 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE\"]/text"
 msgstr ""
-"[Продвинутый процессор лома] Используя этот продвинутый модуль, вы сможете "
-"модернизировать своих скрапперов различными способами."
+"[Продвинутый переработчик лома] Используя этот продвинутый модуль, вы "
+"сможете модернизировать своих скрапперов различными способами."
 
 #: src-en/data/events_special_storage.xml.append:2445
 msgid ""
