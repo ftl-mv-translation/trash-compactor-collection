@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-26 15:52+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2026-06-01 07:35+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -62,9 +62,9 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MILITIAGUNBOAT_C\"]/desc"
 msgstr ""
-"Удобная служба доставки Эшелон, которая телепортирует огромные ящики со "
-"взрывчаткой на корабль противника! Как здорово!\n"
-"\t\tБазовая перезарядка: 30"
+"[Базовая перезарядка: 30] Удобная служба доставки Эшелон, которая "
+"телепортирует огромные ящики со взрывчаткой на корабль противника! Как "
+"здорово!"
 
 #: src-en/data/blueprints.xml.append:103
 msgid ""
@@ -85,9 +85,8 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MILITIAGUNBOAT_B\"]/desc"
 msgstr ""
-"Артиллерия: Использует ОГРОМНЫЙ МОЩНЫЙ лазер для минирования, наносящий "
-"гигантский урон вражеским кораблям... Кто сказал, что нельзя минировать "
-"вражеские корабли?"
+"Использует ОГРОМНЫЙ МОЩНЫЙ лазер для минирования, наносящий гигантский урон "
+"вражеским кораблям... Кто сказал, что нельзя минировать вражеские корабли?"
 
 #: src-en/data/blueprints.xml.append:132
 msgid ""
@@ -110,9 +109,8 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MILITIAGUNBOAT_A\"]/desc"
 msgstr ""
-"Артиллерия: Использует мощный миниган, стреляющий с высокой скоростью. "
-"Покажите им, что такое настоящий ад.\n"
-"\t\tБазовая перезарядка: 25"
+"[Базовая перезарядка: 25] Использует мощный миниган, стреляющий с высокой "
+"скоростью. Покажите им, что такое настоящий ад."
 
 #: src-en/data/blueprints.xml.append:157
 msgid ""
@@ -198,7 +196,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_RESONATE_WAVE\"]/title"
-msgstr "Проектор резонирующих волн"
+msgstr "Проектор резонансных волн"
 
 #: src-en/data/blueprints.xml.append:325
 msgid ""
@@ -223,7 +221,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:402
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_ION\"]/title"
-msgstr "Ионная артиллерия Спасательницы"
+msgstr "Ионная арт. Спасательницы"
 
 #: src-en/data/blueprints.xml.append:403
 msgid ""
@@ -248,7 +246,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:443
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_LASER\"]/title"
-msgstr "Ионная артиллерия Спасательницы"
+msgstr "Лазерная арт. Спасательницы"
 
 #: src-en/data/blueprints.xml.append:444
 msgid ""
@@ -273,7 +271,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:484
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SAVIOR_FALSE\"]/title"
-msgstr "Артиллерия спасительных ионов"
+msgstr "Арт. спасительных ионов"
 
 #: src-en/data/blueprints.xml.append:485
 msgid ""
@@ -468,7 +466,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1017
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_ARTILLERY\"]/title"
-msgstr "Осколочная артиллерия \"Плотное золото\""
+msgstr "Оск. арт. \"Плотное золото\""
 
 #: src-en/data/blueprints.xml.append:1018
 msgid ""
@@ -520,7 +518,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1153
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_UNSTABLE\"]/title"
-msgstr "Нестабильная осколочная пушка"
+msgstr "Нестабильная оск. пушка"
 
 #: src-en/data/blueprints.xml.append:1154
 msgid ""
@@ -1338,7 +1336,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3492
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MFK_BATTERY\"]/title"
-msgstr "Украденная артиллерийская батарея МФК"
+msgstr "Украденная арт. батарея МФК"
 
 #: src-en/data/blueprints.xml.append:3494
 msgid ""
@@ -2054,7 +2052,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:5401
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LEGION_LOADER\"]/title"
-msgstr "Оверклокер Легионеров"
+msgstr "Разгонщик Легионеров"
 
 #: src-en/data/blueprints.xml.append:5402
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LEGION_LOADER\"]/desc"
@@ -2789,7 +2787,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6399
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER\"]/class"
-msgstr "Класс \"Пустельга\" Мусорной коллекции"
+msgstr "\"Пустельга\" Мусорной коллекции"
 
 #: src-en/data/blueprints.xml.append:6400
 msgid ""
@@ -2810,7 +2808,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6477
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER_2\"]/class"
-msgstr "Класс \"Пустельга\" Мусорной коллекции"
+msgstr "\"Пустельга\" Мусорной коллекции"
 
 #: src-en/data/blueprints.xml.append:6478
 msgid ""
@@ -2829,7 +2827,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6555
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER_3\"]/class"
-msgstr "Класс \"Пустельга\" Мусорной коллекции"
+msgstr "\"Пустельга\" Мусорной коллекции"
 
 #: src-en/data/blueprints.xml.append:6556
 msgid ""
@@ -2885,7 +2883,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6783
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ECHO\"]/class"
-msgstr "Гибридный корабль класса \"ЛПЦ\""
+msgstr "Гибридный корабль \"ЛПЦ\""
 
 #: src-en/data/blueprints.xml.append:6784
 msgid ""
@@ -2903,7 +2901,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6857
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ECHO_2\"]/class"
-msgstr "Гибридный корабль класса \"ЛПЦ\""
+msgstr "Гибридный корабль \"ЛПЦ\""
 
 #: src-en/data/blueprints.xml.append:6858
 msgid ""
@@ -3141,7 +3139,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7835
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_SLOT2\"]/class"
-msgstr "Элитная автоматическая канонерка"
+msgstr "Элитная авто-канонерка"
 
 #: src-en/data/blueprints.xml.append:7836
 msgid ""
@@ -3502,7 +3500,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9335
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_MILSPEC\"]/class"
-msgstr "Экспериментальный грузовой лайнер"
+msgstr "Эксперимент. грузовой лайнер"
 
 #: src-en/data/blueprints.xml.append:9336
 msgid ""
@@ -3520,7 +3518,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9409
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_MILSPEC_2\"]/class"
-msgstr "Экспериментальный грузовой лайнер"
+msgstr "Эксперимент. грузовой лайнер"
 
 #: src-en/data/blueprints.xml.append:9410
 msgid ""
@@ -3537,7 +3535,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9486
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_POTENTIAL\"]/class"
-msgstr "Нестабильный крейсер Федерации"
+msgstr "Нестабильный крейсер Фед."
 
 #: src-en/data/blueprints.xml.append:9487
 msgid ""
@@ -3556,7 +3554,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9562
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_POTENTIAL_2\"]/class"
-msgstr "Нестабильный крейсер Федерации"
+msgstr "Нестабильный крейсер Фед."
 
 #: src-en/data/blueprints.xml.append:9563
 msgid ""
@@ -3575,7 +3573,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9641
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_POTENTIAL_3\"]/class"
-msgstr "Нестабильный крейсер Федерации"
+msgstr "Нестабильный крейсер Фед."
 
 #: src-en/data/blueprints.xml.append:9642
 msgid ""
@@ -3594,7 +3592,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9718
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SDM\"]/class"
-msgstr "Модифицированный транспортник"
+msgstr "Модифициров. транспортник"
 
 #: src-en/data/blueprints.xml.append:9719
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SDM\"]/name"
@@ -3665,7 +3663,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10015
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_DEFENSE\"]/class"
-msgstr "Восстановленный крейсер Федерации"
+msgstr "Восстановленный крейсер Фед."
 
 #: src-en/data/blueprints.xml.append:10016
 msgid ""
@@ -3684,7 +3682,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10097
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FEDERATION_CARRIER\"]/class"
-msgstr "Авианосец обеспечения флота Федерации"
+msgstr "Авианосец поддержки флота Фед."
 
 #: src-en/data/blueprints.xml.append:10098
 msgid ""
