@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-25 12:36+0000\n"
+"PO-Revision-Date: 2026-06-01 07:36+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datatext_blueprintsxmlappend/ru/>\n"
@@ -736,7 +736,7 @@ msgstr "Доберитесь до 5 сектора на типе Б или вы�
 
 #: src-en/data/text_blueprints.xml.append:204
 msgid "data/text_blueprints.xml.append$/dummyroot/text[131]"
-msgstr "Экспериментальный грузовой лайнер"
+msgstr "Эксперимент. грузовой лайнер"
 
 #: src-en/data/text_blueprints.xml.append:205
 msgid ""
@@ -758,7 +758,7 @@ msgstr "Пройдите игру на любом типе крейсера Ха
 
 #: src-en/data/text_blueprints.xml.append:209
 msgid "data/text_blueprints.xml.append$/dummyroot/text[135]"
-msgstr "Экспериментальный грузовой лайнер"
+msgstr "Эксперимент. грузовой лайнер"
 
 #: src-en/data/text_blueprints.xml.append:210
 msgid ""
@@ -933,7 +933,7 @@ msgstr "Победите Флагман, используя тип A элитн�
 
 #: src-en/data/text_blueprints.xml.append:263
 msgid "data/text_blueprints.xml.append$/dummyroot/text[166]"
-msgstr "Гибридный корабль класса \"ЛПЦ\""
+msgstr "Гибридный корабль \"ЛПЦ\""
 
 #: src-en/data/text_blueprints.xml.append:264
 msgid ""
@@ -949,7 +949,7 @@ msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:267
 msgid "data/text_blueprints.xml.append$/dummyroot/text[169]"
-msgstr "Гибридный корабль класса \"ЛПЦ\""
+msgstr "Гибридный корабль \"ЛПЦ\""
 
 #: src-en/data/text_blueprints.xml.append:268
 msgid ""
