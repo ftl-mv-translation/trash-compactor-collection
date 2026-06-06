@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-01 07:35+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-06-06 13:37+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -2520,7 +2520,7 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный "
 "эффект, но занимает слот модуля. Может быть бесплатно конвертировано во "
-"встроенную версию из категории Клон-отсека."
+"внутреннюю версию из категории Клон-отсека."
 
 #: src-en/data/blueprints.xml.append:5808
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"robo_mant\"]/title"
