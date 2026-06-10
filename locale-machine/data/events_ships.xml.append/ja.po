@@ -1,0 +1,16 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_ships.xml.append:83
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_ECHELON_MERCHANT\"]/destroyed/text"
+msgstr "船を破壊したところ、明らかにプレースホルダーのテキストに遭遇した。誰かに報告した方がよさそうだ。"
+
+#: src-en/data/events_ships.xml.append:87
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_ECHELON_MERCHANT\"]/deadCrew/text"
+msgstr "船のクルーを倒したところ、明らかにプレースホルダーのテキストに遭遇した。誰かに報告した方がよさそうだ。"

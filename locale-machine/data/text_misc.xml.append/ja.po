@@ -1,0 +1,48 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:2
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_trash\"]"
+msgstr "ゴミ"
+
+#: src-en/data/text_misc.xml.append:4
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_store_rsa\"]"
+msgstr "ショップ [RSA]"
+
+#: src-en/data/text_misc.xml.append:6
+msgid "data/text_misc.xml.append$//text[@name=\"tip_bomb_flak\"]"
+msgstr ""
+"爆弾フラックは標準的なフラックと似ているが、2倍のシステムダメージを与え、ミサイルを消費する。システムの無効化に最適だが、他の弾道兵器のようにシールドを貫通はしない。"
+
+#: src-en/data/text_misc.xml.append:8
+msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_tcc\"]"
+msgstr ""
+"トラッシュ・コンパクター・コレクション\n"
+"\t有効。\n"
+"\tクリックで詳細を表示。"
+
+#: src-en/data/text_misc.xml.append:11
+msgid "data/text_misc.xml.append$//text[@name=\"info_addon_tcc\"]"
+msgstr ""
+"トラッシュ・コンパクター・コレクション\n"
+"\t開発: Zuggo, Dalvest, Enchanter, Cryntolov, Ashley, NitronEXE, LandGreen, Choosechee, ConMan, Kommandant_Julk, Vertaalfout, Pedrosian96\n"
+"\t有効。\n"
+"\n"
+"新兵器\n"
+"    特異点プロジェクター、巨大ガトリング銃、あらゆる種類・サイズのフラックなど！\n"
+"\n"
+"新艦船\n"
+"    スクラッパー・ラニウス船団に加え、プロトゲン・プロジェクト、アヴァリ、RSA、エシュロン造船所などを収録！\n"
+"    高難易度かつ強力なセットアップで特定の標的を追うエクストラエリートパックも！\n"
+"\n"
+"新種族\n"
+"    ラニウス・スクラッパー、プロトゲン、アヴァリ、セルガル、センチエント、キヴィ、タバクシが参戦！\n"
+"\n"
+"新セクター・イベント\n"
+"    アヴァリ集合体セクター（アヴァリとプロトゲンに友好なセクター）が近日登場！\n"
+"\n"
+"RSC、アヴァリ、爆弾フラック、キヴィ・テイクオーバー、インスタント・フレアなど、他のMODも多数同梱！"

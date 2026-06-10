@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_addon_icon.xml.append:12
+msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TCC\"]/hover-text"
+msgstr ""
+"ゴミ圧縮機コレクション\n"
+"クリックで詳細を表示。"
+
+#: src-en/data/events_addon_icon.xml.append:16
+msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TCC\"]/text"
+msgstr ""
+"ゴミ圧縮機コレクション\n"
+"現在Zuggoが開発中。\n"
+"\n"
+"過去の開発者：Zuggo, Dalvest, Enchanter, Cryntolov, Ashley, NitronEXE, LandGreen, Choosechee, ConMan, Kommandant_Julk, Vertaalfout, Pedrosian96\n"
+"\n"
+"新しい武器\n"
+"特異点プロジェクター、大型ガトリングガン、あらゆる種類のフラックなど多数！\n"
+"\n"
+"新しい船\n"
+"スクラッパーラニウス船シリーズ、プロトジェンプロジェクト、アヴァリ、RECLAIM and SALVAGE、エシュロン造船所などを特集！\n"
+"さらにExtraeliteパックも収録 - 特殊で強力な装備を持つターゲットを狩れ！\n"
+"\n"
+"新しい種族\n"
+"ラニウススクラッパー、プロトジェン、アヴァリ、セルガル、センチエントロボット、キヴィ、タバクシが参戦！\n"
+"\n"
+"新しいイベント\n"
+"ゴミ圧縮機クエストライン！"

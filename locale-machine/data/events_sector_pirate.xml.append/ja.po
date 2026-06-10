@@ -1,0 +1,32 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_pirate.xml.append:11
+msgid ""
+"data/events_sector_pirate.xml.append$//event[@name=\"KIVIE_FIGHTER_PIRATE_FIGHT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_pirate.xml.append:18
+msgid ""
+"data/events_sector_pirate.xml.append$//ship[@name=\"KIVIE_FIGHTER_PIRATE\"]/destroyed/text"
+msgstr "海賊を壊滅させると笑みがこぼれる。相手がキヴィの船だったこともあり、気分は最高だ。"
+
+#: src-en/data/events_sector_pirate.xml.append:22
+msgid ""
+"data/events_sector_pirate.xml.append$//ship[@name=\"KIVIE_FIGHTER_PIRATE\"]/deadCrew/text"
+msgstr "盗んだ船から海賊のゴミを排除することこそ、連邦の存在意義だ。"
+
+#: src-en/data/events_sector_pirate.xml.append:29
+msgid ""
+"data/events_sector_pirate.xml.append$//textList[@name=\"KIVIE_FIGHTER_PIRATE_TUSSLE\"]/text[1]"
+msgstr ""
+"マンティスがキヴィの死体を操り人形のように動かしているメッセージを受け取る。「スクラップをよこせ！」マンティスはまるで死体自体が喋っているかのように言っている。あいにくだが、君はキヴィも海賊も恐れていない。"
+
+#: src-en/data/events_sector_pirate.xml.append:30
+msgid ""
+"data/events_sector_pirate.xml.append$//textList[@name=\"KIVIE_FIGHTER_PIRATE_TUSSLE\"]/text[2]"
+msgstr "海賊とはただの泥棒であり殺人鬼だ。利益のために何でも奪い取る。キヴィでさえ彼らの略奪からは逃れられない。"

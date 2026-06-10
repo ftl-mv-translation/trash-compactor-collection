@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_droppoint.xml.append:3
+msgid "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_CALL\"]/text"
+msgstr "地図上の場所から奇妙な信号が発信されているのを見つける。確認する必要がある。"
+
+#: src-en/data/events_sector_droppoint.xml.append:8
+msgid "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/text"
+msgstr ""
+"このビーコンには、記録にない奇妙な設計のラニウス船以外何もない。君が近づくと、かつて命を吹き込まれていた彼らの武器が沈黙する。戦いたくないようだ。通信にも反応がないが、そもそも理解できるのかも不明だ。"
+
+#: src-en/data/events_sector_droppoint.xml.append:11
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/beaconType/unvisitedTooltip"
+msgstr "取りに来い"
+
+#: src-en/data/events_sector_droppoint.xml.append:12
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/beaconType/visitedTooltip"
+msgstr "探索済み。興味のあるものは残っていない。"
+
+#: src-en/data/events_sector_droppoint.xml.append:13
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/beaconType/undiscoveredTooltip"
+msgstr "我々はまだここにいる"
+
+#: src-en/data/events_sector_droppoint.xml.append:18
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/text"
+msgstr "正体不明のラニウス艦に近づく..."
+
+#: src-en/data/events_sector_droppoint.xml.append:20
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/text"
+msgstr ""
+"奇妙なラニウス艦は、マンティスの海賊船と思われる残骸からスクラップを集めている。センサーのスキャンによると、彼らは高度なフラック兵器を搭載している。彼らは君に気づいていないか、無視しているようだ。"
+
+#: src-en/data/events_sector_droppoint.xml.append:22
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/text"
+msgstr "接近する。"
+
+#: src-en/data/events_sector_droppoint.xml.append:24
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"船はエンジンを起動しながら君の存在を無視し続ける。しばらくしてジャンプで去り、奇妙な装置が残された。彼らはそれを取り戻したくなるだろうか..."
+
+#: src-en/data/events_sector_droppoint.xml.append:26
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[1]/text"
+msgstr "掴む。"
+
+#: src-en/data/events_sector_droppoint.xml.append:28
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"特注の送信機らしい - 燃料やドローンパーツを使って輸送ポッドを送れる。画面には先ほどのラニウス艦と思われる場所がライブ表示され、奇妙なメッセージがある - \"COME AND GET IT\"。スクラップで誘えば戻ってくるだろうか？\n"
+"\n"
+"[ストレージチェックで使用]"
+
+#: src-en/data/events_sector_droppoint.xml.append:37
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[2]/text"
+msgstr "実際のゴミには興味がない。"
+
+#: src-en/data/events_sector_droppoint.xml.append:39
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[2]/event/text"
+msgstr "罠かもしれないし、ただのゴミかもしれない。ラニウスは獲物を置き去りにしない、たとえそれが無害に見える機械であっても。立ち去ることにする。"
+
+#: src-en/data/events_sector_droppoint.xml.append:46
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[2]/text"
+msgstr "おい、そんな時間はない。"
+
+#: src-en/data/events_sector_droppoint.xml.append:48
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[2]/event/text"
+msgstr "船も同じくジャンプで立ち去る。少なくとも攻撃はされなかった。"
+
+#: src-en/data/events_sector_droppoint.xml.append:58
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"START_BEACON_PRESELECT\"]/mod-"
+"append:choice/text"
+msgstr "シールドの試作エーテルバッテリーを起動する。（エネルギーシールド再チャージ）"

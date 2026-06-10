@@ -1,0 +1,159 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_lightspeed.xml.append:5
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"FMCORE_ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/text"
+msgstr "トラッシュコンパクターに連絡する。"
+
+#: src-en/data/events_special_lightspeed.xml.append:12
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"FMCORE_ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[2]/text"
+msgstr "すでにトラッシュコンパクターには連絡済みだ。"
+
+#: src-en/data/events_special_lightspeed.xml.append:26
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/text"
+msgstr "トラッシュコンパクターに連絡しますか？ (警告 - ハイリスク・ハイリターン)"
+
+#: src-en/data/events_special_lightspeed.xml.append:28
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"0\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_lightspeed.xml.append:30
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"0\"]/event/text"
+msgstr "トランスミッターを使用して、スクラップを明示する信号を送る。しばらくして、マップに次の宙域にある船の座標が表示された。"
+
+#: src-en/data/events_special_lightspeed.xml.append:37
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_lightspeed.xml.append:45
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"1\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_lightspeed.xml.append:47
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"燃料と長距離通信ミサイル、そしてスクラップを使用する。しばらくして、マップに船の座標が表示された。おそらく先ほどのスクラッパーたちだろう。彼らは一体何が目的なのか？"
+
+#: src-en/data/events_special_lightspeed.xml.append:55
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_lightspeed.xml.append:63
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"2\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_lightspeed.xml.append:65
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"スクラップを積んだ重量級貨物ドローンを送り出す。このスクラッパーたちは他にもいるに違いない、また信号を受信したからだ！狩るべき獲物がまた増えた……"
+
+#: src-en/data/events_special_lightspeed.xml.append:73
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"2\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_lightspeed.xml.append:81
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"3\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_lightspeed.xml.append:83
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"3\"]/event/text"
+msgstr "トランスミッターを使って、できる限りのスクラップを転送する。以前と同じ繰り返しだ。信号、スクラッパー、そして虐殺。楽しいな。"
+
+#: src-en/data/events_special_lightspeed.xml.append:90
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"3\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_lightspeed.xml.append:98
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"4\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_lightspeed.xml.append:100
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"4\"]/event/text"
+msgstr "スクラップ輸送ポッドを完成させて燃料を満タンにすると、重武装した危険極まりないスクラッパー船の注目を集めてしまった。"
+
+#: src-en/data/events_special_lightspeed.xml.append:109
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"4\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_lightspeed.xml.append:117
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"5\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_lightspeed.xml.append:119
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"5\"]/event/text"
+msgstr ""
+"トランスミッターを使用して、スクラップを明示する信号を送る。しばらくして、マップに船の座標が表示された。おそらく先ほどのスクラッパー船だろう。"
+
+#: src-en/data/events_special_lightspeed.xml.append:126
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"5\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_lightspeed.xml.append:134
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"6\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_lightspeed.xml.append:136
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"6\"]/event/text"
+msgstr ""
+"送信機を使ってスクラップを表示する信号を送る。\n"
+"\t\t\t\tしかし誰も来なかった。"
+
+#: src-en/data/events_special_lightspeed.xml.append:138
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"6\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_lightspeed.xml.append:146
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[8]/text"
+msgstr "何でもない。"

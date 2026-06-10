@@ -1,0 +1,319 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_socialize.xml.append:59
+msgid ""
+"data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_TRASH_EATER_NOTHING\"]/text"
+msgstr ""
+"トラッシュ・イーターが客室で休んでいる。全く動かない。一見眠っているように見えるが、彼が喋り出す。「アタマカラッポ。アタマニゴミナイ。アタマニゴミ、クダサイ。オネガイ。」放っておくのが一番良さそうだ……"
+
+#: src-en/data/events_special_socialize.xml.append:69
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRASH_EATER_GENERIC_1\"]/text"
+msgstr ""
+"廊下を歩いていると、トラッシュ・イーターにぶつかった。彼らは食べるゴミを探しているようだ。なぜそんなにゴミが重要なのか尋ねると、彼はただこう答えた……「私と忠実なる家臣は一度、迎撃された。死にかけていた。死んでいたのかもしれない。我々は船と、その中にあったものすべてを食った。あれが我々の糧だった。もちろん、家臣の元へ帰還したのだが……彼らは……変わっていた。」"
+
+#: src-en/data/events_special_socialize.xml.append:73
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRASH_EATER_GENERIC_2\"]/text"
+msgstr ""
+"トラッシュ・イーターの居住区に入り、「ワールド・フィーダー（世界喰らい）」の伝説について尋ねる。彼は興奮気味に言った。「ああ、そうだな！ワールド・フィーダーは……私だ。あるいは、他のマルチバースにいる私の分身だ！アーティファクトが存在する。ビーコンだ。活性化させれば、宇宙を餌食として指定する。ビーコンがなければ、食うことはない。」情報をくれた礼を言う。"
+
+#: src-en/data/events_special_socialize.xml.append:79
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRASH_EATER_GENERIC_3\"]/text"
+msgstr ""
+"レクリエーションルームで、トラッシュ・イーターに「ビーコン・フィーダー（ビーコン喰らい）」を知っているか尋ねる。彼はひどく動揺した様子だ。「あれが王だ。私は王子だ。称号は力によって与えられる。奴が最大の力を持っている。私は近い。ワールド・フィーダーこそが、最強中の最強だ。それが私の目標だ。」"
+
+#: src-en/data/events_special_socialize.xml.append:84
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRASH_EATER_GENERIC_4\"]/text"
+msgstr "トラッシュ・イーターが何食わぬ顔で自室に入ってきた。旗艦をゼロから作り直すには、空き缶がいくつ必要か考えているらしい。"
+
+#: src-en/data/events_special_socialize.xml.append:86
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRASH_EATER_GENERIC_4\"]/choice[1]/text"
+msgstr "奴の悩みを解消するために、不釣り合いに大きな数字を教える。"
+
+#: src-en/data/events_special_socialize.xml.append:88
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRASH_EATER_GENERIC_4\"]/choice[1]/event/text"
+msgstr "「50ガジリオン！？それは3より大きいか？」あなたは「ガジリオン」は確かに3より大きいとトラッシュ・イーターを安心させる。"
+
+#: src-en/data/events_special_socialize.xml.append:92
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRASH_EATER_GENERIC_4\"]/choice[2]/text"
+msgstr "謝って出ていくよう伝える。"
+
+#: src-en/data/events_special_socialize.xml.append:97
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRASH_EATER_GENERIC_5\"]/text"
+msgstr ""
+"食堂に酸素が足りないと思ったら、トラッシュ・イーターがいた。普通の豆の缶詰を食べているようだ……「人間の食い物は興味深い。もちろん、人間は食わない。お前も私も不快だろ。缶が旨いし、社会的な受容だと思う」……どうやら缶ごと食べているらしい。"
+
+#: src-en/data/events_special_socialize.xml.append:110
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRASH_EATER_EATER_1\"]/text"
+msgstr ""
+"ビーコン・フィーダーとトラッシュ・イーターが激しく口論し、殴り合いになろうとしているところに遭遇する。王が叫ぶ。「貴様はゴミだ、偽の王子！正真正銘のゴミめ！」王子が言い返す。「ワールド・フィーダーへの変態が完了すれば、私が王だ！今の王より強くなる！」二人はすぐにこちらの存在に気づく。「俺は……キャプテンがいるぞ。やめろ。目障りだ。」二人は最後にもう一度憎々しげに見つめ合い、元の任務に戻った。"
+
+#: src-en/data/events_special_socialize.xml.append:122
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRASH_EATER_TRACKER_1\"]/text"
+msgstr ""
+"トラッシュ・イーターがトラッカーの居住区に座り込んでいる。また喧嘩の仲裁かと思いきや、珍しく普通に会話をしているようだ。「なあ、俺はワールド・フィーダーの伝説に興味があるんだ」トラッカーは椅子にだらしなく座り、イーターをじっと見ている。「それについて何を教えてくれる？」\n"
+"「オオ、プロトゲンハ興味シンシンカ！他人が注目スルノハキライデハナイ。ワールド・フィーダーとは、船を吸収できた時の私だ。私は船になる。巨大な船だ。宇宙を食う……すべてだ。それがワールド・フィーダーだ。」トラッシュ・イーターはプロトゲンを厳かに見つめる。\n"
+"「ああ、だが、なぜだ？それだと……かなり……孤独にならないか？」トラッカーは姿勢を正す。「仮定の話だがな。俺は孤独でも構わんが。」\n"
+"「いやいや、逆だ。私は皆と一つになるのだ。宇宙全体が一つになる。争いも、何もない。」\n"
+"「どうやってそれを達成するんだ？」トラッカーは椅子の上でソワソワし、少し困惑しているようだ。\n"
+"「アーティファクトが活性化すれば、第一段階へ変態する。船だ。ブラックホールになるまで食う。ブラックホールをエネルギーにして……そのエネルギーで誰でも倒せる。」\n"
+"「それには俺も含まれるのか？お前の……（溜息）友人である俺も？」\n"
+"「完全なる統合にこそ、偉大なる友情がある。」\n"
+"「なるほど。」トラッカーはイーターを部屋から追い出し、こちらを横に呼んで話す。「こいつは正気じゃない。少しでも変な動きをしたら、躊躇なく叩き潰す。分かったな？」トラッカーはあなたも追い出し、いつもの不安そうな様子に戻った。"
+
+#: src-en/data/events_special_socialize.xml.append:176
+msgid ""
+"data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_TRACKER_NOTHING\"]/text"
+msgstr "トラッカーは完全に上の空だ。表情のないバイザーには感情がほとんど浮かんでいない……それとも眠っているのか？充電中なのかもしれない。"
+
+#: src-en/data/events_special_socialize.xml.append:186
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_1\"]/text"
+msgstr "トラッカーが不安げにこちらに寄ってくる。「おい、俺の充電器を見なかったか？最後に確認したときは部屋にあったんだが……」"
+
+#: src-en/data/events_special_socialize.xml.append:188
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_1\"]/choice[1]/text"
+msgstr "首を振って否定し、別の充電方法はないのか尋ねる。"
+
+#: src-en/data/events_special_socialize.xml.append:190
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_1\"]/choice[1]/event/text"
+msgstr ""
+"「ああ、あるさ。飯を食うことだよ。消化器官はまだあるんでね……まあ、充電器の方がいいんだがな」トラッカーは溜息をつく。「冷蔵庫でも漁りに行くか」"
+
+#: src-en/data/events_special_socialize.xml.append:194
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_1\"]/choice[2]/text"
+msgstr "首を振って見ていないと伝える。"
+
+#: src-en/data/events_special_socialize.xml.append:196
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_1\"]/choice[2]/event/text"
+msgstr ""
+"「分かった。サンキュー」トラッカーは頷いて部屋に戻っていく。「自分の居住区に置き忘れたのかな……」トラッカーは不安そうな表情のまま去っていった。"
+
+#: src-en/data/events_special_socialize.xml.append:201
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_2\"]/text"
+msgstr ""
+"トラッカーにプロトゲン革命について尋ねる。彼は頷き、溜息をつく。「ああ、そうだな。数人の人質を取らなきゃならなかった。俺たちは5人、反乱軍は至る所に何十人もいた。探照灯、頭の中で鳴り響くノイズ……俺は壊れたんだ。完全に。」"
+
+#: src-en/data/events_special_socialize.xml.append:203
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_2\"]/choice[1]/text"
+msgstr "壊れたのか？"
+
+#: src-en/data/events_special_socialize.xml.append:205
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_2\"]/choice[1]/event/text"
+msgstr ""
+"「ああ、そうだ。精神疾患さ。今もまだ抱えてる。パニック発作か、あるいは……分からない。プツンと切れたんだ。壊れてしまった。何が起きたのか自分でも分からない。ラプターに聞いてくれ。あいつはそこにいたし、俺よりよっぽどしっかりしていた。」"
+
+#: src-en/data/events_special_socialize.xml.append:209
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_2\"]/choice[2]/text"
+msgstr "5人いたのか？"
+
+#: src-en/data/events_special_socialize.xml.append:211
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_2\"]/choice[2]/event/text"
+msgstr ""
+"「その通りだ。俺、ラプター、チーズ……当時はファイアブランドって呼んでたが、それも本名じゃない。シックスは船にいた……そしてロットは貨物室で出血多量で死にかけていた。スクラップフェイスはすでに10フィート下の土の中だった。」"
+
+#: src-en/data/events_special_socialize.xml.append:216
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_3\"]/text"
+msgstr ""
+"トラッカーがアサルトライフルを磨いているのを見つける。正直、こんなもの見つけてほしくなかった……弾薬が希少すぎる。改造爆発弾を使用するカスタムメイドのSCARのようで、不釣り合いに巨大なダブルドラムマガジンが付いている。"
+
+#: src-en/data/events_special_socialize.xml.append:219
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_4\"]/text"
+msgstr ""
+"トラッカーが分解された、かなり古いアナログの回転式電話機を調べている。改造を加えたようだ。「古い機械の中に最先端技術を隠すのが好きなんだ……それに、レトロなアイテムも大好きでね。使われていた頃に生きていたわけじゃないのに、なぜかすごく懐かしいんだ。」"
+
+#: src-en/data/events_special_socialize.xml.append:222
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_GENERIC_5\"]/text"
+msgstr ""
+"トラッカーが地球規格の拳銃弾の箱を床にぶちまけてしまった。全部拾い集めるには時間がかかりそうだ。箱には.50 "
+"AEと書いてあるが……彼のライフルは別の弾を使っていたはずだ。"
+
+#: src-en/data/events_special_socialize.xml.append:231
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_RAPTOR_1\"]/text"
+msgstr ""
+"トラッカーとラプターがトランプをしながら話をしている。「レイズ。で、本当に機関銃を直接撃ち込まれる中を逃げ切ったのか？」トラッカーが感心したように頷き、自分の手札を見る。「レイズ。ああ、俺はほぼ無敵だ。かなりの攻撃を受けたが、倒すにはそれ以上が必要だ」ラプターは感情を一切見せず、冷静を保っている。「コール……なんだと、マジかよ」トラッカーの様子がおかしい。「カードを見せろ」ラプターがテーブルにカードを置く。「スリーカードだ」トラッカーが勝ち誇った顔で言う。「フルハウスだ。俺の勝ちだ」ラプターが相変わらず無表情で言う。ラプターはテーブルにあったカップ麺を3つ、自分の横に引き寄せる。顔がないというのは、最高のポーカーフェイスというわけだ。"
+
+#: src-en/data/events_special_socialize.xml.append:248
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_LANCER_1\"]/text"
+msgstr ""
+"トラッカーがランサーの出血している胴体の手当てをしている。「大気分析により友人の存在を確認」ランサーがいつものぶっきらぼうな口調で言う。「ああ、分かってる。じっとしてろ」トラッカーが変形した仲間の左脇腹を修理しようとしている。「ソフトウェアの不具合が発生した場合は、2番を押してください！」あなたは二人をそのままにしておくことにした。今回、ランサーがどうやって怪我をしたのかは誰にも分からない。"
+
+#: src-en/data/events_special_socialize.xml.append:257
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_LANCER_2\"]/text"
+msgstr ""
+"トラッカーがPCで猛烈にタイピングしている。ランサーが一体どんなソフトウェアを使っているのか調べようとしているようだ。プロトゲンの機構はほとんど揃っているが、ほとんど機能していないと言っている……ランサーが自己修復する方法を見つけられるかもしれないが、旗艦を倒すまでは成功しないだろう。"
+
+#: src-en/data/events_special_socialize.xml.append:268
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_CHEESE_1\"]/text"
+msgstr ""
+"トラッカーがチーズの居住区のドア越しに叫ぶ。「おいチーズ！お前のことをファイアブランドって呼んでもいいか？」「やめてくれ、古いコードネームはそっとしておいてくれ」中から整備士が答える。「分かった」トラッカーは、チーズの過去のコードネームについて問いただす前に去ってしまった。"
+
+#: src-en/data/events_special_socialize.xml.append:281
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_KAZ_1\"]/text"
+msgstr ""
+"カズがトラッカーの居住区に入っていくのに驚く。マンティスがプロトゲンに近づき、質問する。「プロトゲン、貴様らは殺しの時、何か感じるのか？」プロトゲンは呆れたように溜息をつき、「ああ。大抵は罪悪感だ。時々恐怖。誇れるようなことじゃないんだよ」と言う。カズが興奮した様子で叫ぶ。「答えは重要ではない！これは『修辞的問い』というものだ！」「なあ、お前が何を喋ってるのかさっぱり分からん」トラッカーが混乱して言い返す。「ならば貴様はカズのようになるべきだ。強く、誇り高く。皆、カズを見ればひざまずく。特に魅力的な雌のマンティスはな」マンティスは自信満々だ。自分の支配力を誇示したつもりらしい。"
+
+#: src-en/data/events_special_socialize.xml.append:297
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_KORA_1\"]/text"
+msgstr ""
+"トラッカーの居住区に入ると、コーラがいて驚く。「あら。ハイ。トラッカーがマルチバース的な上昇現象について何か突き止めたか確認したかったの」コーラが溜息をつく。"
+
+#: src-en/data/events_special_socialize.xml.append:300
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_KORA_1\"]/choice[1]/text"
+msgstr "トラッカーは何か突き止めたのか？"
+
+#: src-en/data/events_special_socialize.xml.append:302
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_KORA_1\"]/choice[1]/event/text"
+msgstr ""
+"「いいえ。全然。でも、彼なりに助けようとはしてくれてるわ。ただ、視線が変なの。たまにあのバイザーを叩き割ってやりたくなるわ」コーラが再び溜息をつく。"
+
+#: src-en/data/events_special_socialize.xml.append:306
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_KORA_1\"]/choice[2]/text"
+msgstr "君は何か知らないのか？"
+
+#: src-en/data/events_special_socialize.xml.append:308
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_KORA_1\"]/choice[2]/event/text"
+msgstr ""
+"「ええ。理論だけ。私のいた宇宙は特に狂っていて、マルチバースの裂け目がたくさんあったの。私は短い距離なら簡単に移動できる。戦闘で役立つはずよ」"
+
+#: src-en/data/events_special_socialize.xml.append:319
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_PETE_1\"]/text"
+msgstr ""
+"トラッカーがピートと操縦について語り合っている。「貴様、自分をパイロットだと呼ぶのか？」ピートが宣告する。「俺はプロのパイロットであり、人質取りであり、船修理の愛好家であり、しかも賄賂も受け取る！それについてどう思う？」「真のパイロットは船を敬い、仲間を信じる。戦利品じゃなく仲間にな。この卑怯者め」「ああ、だが……プロにならなきゃな、言ってる意味分かるだろ？」「プロには基準がある。祈るな、金払え。死人に口なしだ。」"
+
+#: src-en/data/events_special_socialize.xml.append:326
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_PETE_1\"]/text/choice/text"
+msgstr "放っておくのが一番だ。"
+
+#: src-en/data/events_special_socialize.xml.append:328
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_TRACKER_PETE_1\"]/text/choice/event/text"
+msgstr ""
+"立ち去る。彼らは気づいてすらいないようだが、議論の声は船の半分まで聞こえている。その後の沈黙は、クルーたちの心の喜びで満たされていることだろう。"
+
+#: src-en/data/events_special_socialize.xml.append:368
+msgid ""
+"data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_SKYGIRR_NOTHING\"]/text"
+msgstr "スカイギルが非常に違法かつ危険そうな機器をいじっているのを見つける。彼女の修理は爆発する傾向があるため、邪魔しない方がいいだろう。"
+
+#: src-en/data/events_special_socialize.xml.append:378
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_SKYGIRR_GENERIC_1\"]/text"
+msgstr ""
+"スカイギルが武器と少し……親密になっている現場を目撃する。彼女は気づいているはずだが、反応も中断もしない。部屋を素早く去る。何を見せられているのか理解したくない。"
+
+#: src-en/data/events_special_socialize.xml.append:381
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_SKYGIRR_GENERIC_2\"]/text"
+msgstr ""
+"スカイギルが歩み寄り、作りたての作動中のミサイルを渡してくる。彼女は嬉しそうだ。こちらはその爆発物を片手に、急な動きをしないよう細心の注意を払う。"
+
+#: src-en/data/events_special_socialize.xml.append:384
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_SKYGIRR_GENERIC_3\"]/text"
+msgstr ""
+"なぜそんなに不安定な機器の扱いに長けているのか尋ねると、彼女は得意げに答える。「ちょっとリスキーだけど、生きているって感じがするの！爆発や銃弾の雨、火炎、そういうスペクタクルが大好き。すごくクールでしょ。だから、ド派手なものばかりいじってきたの。たまに顔で爆発するけど、たまに敵に向かって爆発する。結局はバランスね」機器の扱いについて深くは理解できなかったが、彼女は満足げだ。"
+
+#: src-en/data/events_special_socialize.xml.append:389
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_SKYGIRR_GENERIC_4\"]/text"
+msgstr ""
+"スカイギルが珍しく深刻な顔で近づいてくる。「キャプテン、心の奥底に住み着くような思考を感じたことは？どこか別の場所、あるいは別の時間から爪を立てて侵入してくるような……存在しないもののことを考えてしまうの」珍しく真剣な表情で、アヴァリは答えを待っている。"
+
+#: src-en/data/events_special_socialize.xml.append:391
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_SKYGIRR_GENERIC_4\"]/choice[1]/text"
+msgstr "それはどんなことだ？"
+
+#: src-en/data/events_special_socialize.xml.append:393
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_SKYGIRR_GENERIC_4\"]/choice[1]/event/text"
+msgstr ""
+"考えの内容を尋ねる。「分からないわ。儚い感情なの……存在しない人々、存在しない場所……少なくともここには。他の場所には存在するのかも？もしかしたら、他の宇宙や別の次元から入り込んでくる思考なのかもしれないわ」彼女は首を振って平静を取り戻す。「私には一生分からないかも。あなたなら分かるかもね。時々、会ったばかりなのにとても親近感を覚えるわ」彼女は落ち着かない様子で去っていった。"
+
+#: src-en/data/events_special_socialize.xml.append:397
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_SKYGIRR_GENERIC_4\"]/choice[2]/text"
+msgstr "ああ、いつものことだ。"
+
+#: src-en/data/events_special_socialize.xml.append:399
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_SKYGIRR_GENERIC_4\"]/choice[2]/event/text"
+msgstr ""
+"自分にも同じような思考があると説明すると、彼女は少しだけ安心したようだ。「二人もいるの？少し気が楽になった。いつか正体が分かるといいな」彼女は落ち着かない様子で去っていった。"
+
+#: src-en/data/events_special_socialize.xml.append:403
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_SKYGIRR_GENERIC_4\"]/choice[3]/text"
+msgstr "少し休んだ方がいい。"
+
+#: src-en/data/events_special_socialize.xml.append:405
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_SKYGIRR_GENERIC_4\"]/choice[3]/event/text"
+msgstr "彼女は頭をこすりながら溜息をつく。「そうね、寝不足かもしれないわ。休んでくる」彼女は落ち着かない様子で去っていった。"
+
+#: src-en/data/events_special_socialize.xml.append:410
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_SKYGIRR_GENERIC_5\"]/text"
+msgstr "スカイギルが地球規格の拳銃弾の箱をぶちまけてしまった。掃除には時間がかかりそうだが、彼女は薬莢に残っている推進薬を狙っているに違いない。"
+
+#: src-en/data/events_special_socialize.xml.append:445
+msgid ""
+"data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_BLACK_ROSE_NOTHING\"]/text"
+msgstr "BLK-R053がアイドリング中。彼女の顔であるはずの画面には、アスキーアートの猫が居眠りしている。"
+
+#: src-en/data/events_special_socialize.xml.append:455
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_BLACK_ROSE_GENERIC_1\"]/text"
+msgstr ""
+"ローズが反射面に立ち、誰にもいない場所に向かって話している。「こんにちは、親愛なる旅人さん。私の名前はBLK-R053。『パーセンテージ』％、お会いできて光栄です」彼女は同じことを独り言のように繰り返しているが、そのたびに口調を少しずつ変えている。"
+
+#: src-en/data/events_special_socialize.xml.append:459
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_BLACK_ROSE_GENERIC_2\"]/text"
+msgstr ""
+"ローズが仕事中にロボット工学三原則を呟いているのを見つける。第一原則を口にするだけで画面には「XD」と表示され、第二原則は完全に言い切ることすらできていない。"
+
+#: src-en/data/events_special_socialize.xml.append:462
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/FTL/event[@name=\"SOCIALIZE_BLACK_ROSE_GENERIC_3\"]/text"
+msgstr ""
+"通りかかるとローズが気づく。「ドアの調子が悪かったからメインフレームと話をしてきたわ。まあ、彼はもう……生きてはいないでしょうね」彼女は横にあったドアをちらりと見る。彼女の顔である画面にはニコニコマークが表示されている。「あなたはただの馬鹿じゃないわ。馬鹿になるように設計されたのよ。」"

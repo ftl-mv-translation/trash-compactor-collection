@@ -1,0 +1,442 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_standard.xml.append:5
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STORE_LOAD_RSA\"]/text"
+msgstr "買い物の前に、船内でまだ時間がある。"
+
+#: src-en/data/events_special_standard.xml.append:7
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STORE_LOAD_RSA\"]/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_standard.xml.append:11
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STORE_LOAD_RSA\"]/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_standard.xml.append:21
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESOURCES\"]/text"
+msgstr ""
+"このビーコンには、再生品を販売するRSAステーションがあるようだ。ステーションの近くには、寄せ集めで作られた巨大なドローンがいる。自動メッセージが届く。「ミサイルとドローンパーツが定価の50%OFF！中古品ですが、新品同様です！（注意：RSAは販売するミサイルやドローンパーツの有効性を保証せず、欠陥品に対して一切の責任を負いません。）」"
+
+#: src-en/data/events_special_standard.xml.append:23
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESOURCES\"]/choice[1]/text"
+msgstr "ミサイルの木箱を購入する。"
+
+#: src-en/data/events_special_standard.xml.append:25
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESOURCES\"]/choice[1]/event/text"
+msgstr "ドローンが木箱を転送してくる。騙されていないといいのだが。ほとんど、あるいはすべてのミサイルが使えることを祈ろう。"
+
+#: src-en/data/events_special_standard.xml.append:30
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESOURCES\"]/choice[1]/event/choice/text"
+msgstr "木箱を開ける。"
+
+#: src-en/data/events_special_standard.xml.append:36
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESOURCES\"]/choice[2]/text"
+msgstr "ドローンパーツの木箱を購入する。"
+
+#: src-en/data/events_special_standard.xml.append:38
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESOURCES\"]/choice[2]/event/text"
+msgstr "ドローンが木箱を転送してくる。騙されていないといいのだが。ほとんど、あるいはすべてのパーツが使えることを祈ろう。"
+
+#: src-en/data/events_special_standard.xml.append:43
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESOURCES\"]/choice[2]/event/choice/text"
+msgstr "木箱を開ける。"
+
+#: src-en/data/events_special_standard.xml.append:49
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESOURCES\"]/choice[3]/text"
+msgstr "欠陥品は不要だ。そのまま店に入る。"
+
+#: src-en/data/events_special_standard.xml.append:56
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[1]/text"
+msgstr "残念ながら、中のミサイルのほとんどが使用不可能だ。数少ない作動品を取り出し、残りを慎重に廃棄してから店に向かう。"
+
+#: src-en/data/events_special_standard.xml.append:61
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[1]/choice[1]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:65
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[1]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
+msgstr "(ラニウスクルー) ラニウスに壊れたミサイルを溶かしてスクラップにさせる。"
+
+#: src-en/data/events_special_standard.xml.append:75
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[2]/text"
+msgstr "箱の中のミサイルの半分ほどが使用可能だ。それらを回収し、残りを捨てて店に向かう。"
+
+#: src-en/data/events_special_standard.xml.append:80
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[2]/choice[1]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:84
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[2]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
+msgstr "(ラニウスクルー) ラニウスに壊れたミサイルを溶かしてスクラップにさせる。"
+
+#: src-en/data/events_special_standard.xml.append:94
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[3]/text"
+msgstr "ほとんどのミサイルが使用可能だ！数少ない壊れた分を処分し、店に向かう。"
+
+#: src-en/data/events_special_standard.xml.append:99
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[3]/choice[1]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:103
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[3]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
+msgstr "(ラニウスクルー) ラニウスに壊れたミサイルを溶かしてスクラップにさせる。"
+
+#: src-en/data/events_special_standard.xml.append:113
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[4]/text"
+msgstr "今日はラッキーだ。すべてのミサイルが正常に使える！満足して店に向かう。"
+
+#: src-en/data/events_special_standard.xml.append:118
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[4]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:126
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[1]/text"
+msgstr "残念ながら、ドローンパーツのほとんどが焼き切れている。修理には時間がかかりすぎるため、数少ない作動品を取り出し、店に向かう。"
+
+#: src-en/data/events_special_standard.xml.append:131
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[1]/choice[1]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:135
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[1]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
+msgstr "(ラニウスクルー) ラニウスに壊れたドローンパーツを溶かしてスクラップにさせる。"
+
+#: src-en/data/events_special_standard.xml.append:145
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[2]/text"
+msgstr "ドローンパーツの半分ほどが使用可能だ。これでもマシな方だろう。作動品を回収して店に向かう。"
+
+#: src-en/data/events_special_standard.xml.append:150
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[2]/choice[1]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:154
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[2]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
+msgstr "(ラニウスクルー) ラニウスに壊れたドローンパーツを溶かしてスクラップにさせる。"
+
+#: src-en/data/events_special_standard.xml.append:164
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[3]/text"
+msgstr "ほとんどのドローンパーツが正常だ！壊れた分を処分して店に向かう。"
+
+#: src-en/data/events_special_standard.xml.append:169
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[3]/choice[1]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:173
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[3]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
+msgstr "(ラニウスクルー) ラニウスに壊れたドローンパーツを溶かしてスクラップにさせる。"
+
+#: src-en/data/events_special_standard.xml.append:183
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[4]/text"
+msgstr "今日はラッキーだ。すべてのパーツが正常に使える！満足して店に向かう。"
+
+#: src-en/data/events_special_standard.xml.append:188
+msgid ""
+"data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[4]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:199
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESTORE\"]/text"
+msgstr ""
+"ビーコンジャンプを完了しようとしたところ、付近に「再利用・回収協会（RSA）」の市場があることに気づく。あらゆる種族が売買を行う賑やかなハブのようだ。ステーションにドッキングし、屋台を見て回る。武器や装備品の販売に加え、うさんくさい技術者が修理を持ちかけてくる。聞いてみると、壊れた武器を定価の25%で修理してくれるという。"
+
+#: src-en/data/events_special_standard.xml.append:201
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESTORE\"]/choice[1]/text"
+msgstr "修理は不要だ。他の業者を見る。"
+
+#: src-en/data/events_special_standard.xml.append:205
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESTORE\"]/choice[@req=\"GIFTLIST_RUSTY\"]/text"
+msgstr "錆びた武器がある。修理してもらえるだろうか？"
+
+#: src-en/data/events_special_standard.xml.append:211
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/text"
+msgstr "修理を依頼する。技術者は作業中のタンクドローンを放り出し、こちらのアイテムを確認する準備をする。どの武器を修理したい？"
+
+#: src-en/data/events_special_standard.xml.append:213
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_2\"]/text"
+msgstr "バーストレーザーIを修理する。"
+
+#: src-en/data/events_special_standard.xml.append:215
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_2\"]/event/text"
+msgstr ""
+"商人はまず武器を分解し、ケースを掃除する。彼らが欠陥部品を修理、あるいは交換するのを眺める。少し時間はかかったが、ついに武器は再組み立てされ、新品同様になった！礼を言って、市場の他の場所へ向かう。"
+
+#: src-en/data/events_special_standard.xml.append:222
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_2\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:228
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_3\"]/text"
+msgstr "バーストレーザーIIを修理する。"
+
+#: src-en/data/events_special_standard.xml.append:230
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_3\"]/event/text"
+msgstr ""
+"商人はまず武器を分解し、ケースを掃除する。彼らが欠陥部品を修理、あるいは交換するのを眺める。少し時間はかかったが、ついに武器は再組み立てされ、新品同様になった！礼を言って、市場の他の場所へ向かう。"
+
+#: src-en/data/events_special_standard.xml.append:237
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_3\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:243
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_5\"]/text"
+msgstr "バーストレーザーIIIを修理する。"
+
+#: src-en/data/events_special_standard.xml.append:245
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_5\"]/event/text"
+msgstr ""
+"商人はまず武器を分解し、ケースを掃除する。彼らが欠陥部品を修理、あるいは交換するのを眺める。少し時間はかかったが、ついに武器は再組み立てされ、新品同様になった！礼を言って、市場の他の場所へ向かう。"
+
+#: src-en/data/events_special_standard.xml.append:252
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_5\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:258
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_HEAVY_1\"]/text"
+msgstr "ヘヴィレーザーIを修理する。"
+
+#: src-en/data/events_special_standard.xml.append:260
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_HEAVY_1\"]/event/text"
+msgstr ""
+"商人はまず武器を分解し、ケースを掃除する。彼らが欠陥部品を修理、あるいは交換するのを眺める。少し時間はかかったが、ついに武器は再組み立てされ、新品同様になった！礼を言って、市場の他の場所へ向かう。"
+
+#: src-en/data/events_special_standard.xml.append:267
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_HEAVY_1\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:273
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_1\"]/text"
+msgstr "『レト』ミサイルを修理する。"
+
+#: src-en/data/events_special_standard.xml.append:275
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_1\"]/event/text"
+msgstr ""
+"商人はまず武器を分解し、ケースを掃除する。彼らが欠陥部品を修理、あるいは交換するのを眺める。少し時間はかかったが、ついに武器は再組み立てされ、新品同様になった！礼を言って、市場の他の場所へ向かう。"
+
+#: src-en/data/events_special_standard.xml.append:282
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_1\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:288
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_2\"]/text"
+msgstr "『アルテミス』ミサイルを修理する。"
+
+#: src-en/data/events_special_standard.xml.append:290
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_2\"]/event/text"
+msgstr ""
+"商人はまず武器を分解し、ケースを掃除する。彼らが欠陥部品を修理、あるいは交換するのを眺める。少し時間はかかったが、ついに武器は再組み立てされ、新品同様になった！礼を言って、市場の他の場所へ向かう。"
+
+#: src-en/data/events_special_standard.xml.append:297
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_2\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:303
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_3\"]/text"
+msgstr "『ヘルメス』ミサイルを修理する。"
+
+#: src-en/data/events_special_standard.xml.append:305
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_3\"]/event/text"
+msgstr ""
+"商人はまず武器を分解し、ケースを掃除する。彼らが欠陥部品を修理、あるいは交換するのを眺める。少し時間はかかったが、ついに武器は再組み立てされ、新品同様になった！礼を言って、市場の他の場所へ向かう。"
+
+#: src-en/data/events_special_standard.xml.append:312
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_3\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:318
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_BURST\"]/text"
+msgstr "『ペガサス』バーストミサイルを修理する。"
+
+#: src-en/data/events_special_standard.xml.append:320
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_BURST\"]/event/text"
+msgstr ""
+"商人はまず武器を分解し、ケースを掃除する。彼らが欠陥部品を修理、あるいは交換するのを眺める。少し時間はかかったが、ついに武器は再組み立てされ、新品同様になった！礼を言って、市場の他の場所へ向かう。"
+
+#: src-en/data/events_special_standard.xml.append:327
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_BURST\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_standard.xml.append:333
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[9]/text"
+msgstr "考えを変えて、通常の市場へ向かう。"
+
+#: src-en/data/events_special_standard.xml.append:342
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/text"
+msgstr ""
+"ビーコンに入るとすぐに、近くのRSAマンティス船から呼びかけられる。「爆弾フラック店へようこそ！ここでは爆弾フラックを大量販売中！……と他のものもな。なぜなら、汚い機雷投下機だと勘違いされて売れ残っているからだ！断じて違う！」"
+
+#: src-en/data/events_special_standard.xml.append:345
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_DUMB\"]/text"
+msgstr "(マンティスクルー) 「もっとマシなものはあるか？」"
+
+#: src-en/data/events_special_standard.xml.append:347
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_DUMB\"]/event/text"
+msgstr ""
+"「爆弾フラックを機雷投下機だと思っているのか！？それとも、知性ある立方体か何かが作った特別な古代の爆弾フラックでも持っていると思っているのか？どうせ前者だろ？貴様は馬鹿だ！馬鹿な奴は、マンティスであっても死ぬべきだ！」船は武器を起動し、攻撃してきた！"
+
+#: src-en/data/events_special_standard.xml.append:350
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_DUMB\"]/event/choice/text"
+msgstr "戦闘準備。"
+
+#: src-en/data/events_special_standard.xml.append:356
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"mantis_rsa\"]/text"
+msgstr "(RSAマンティスクルー) 自船のRSAマンティスが、彼らの苦境に同情を示す。"
+
+#: src-en/data/events_special_standard.xml.append:358
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"mantis_rsa\"]/event/text"
+msgstr ""
+"「感謝する！我々RSAマンティスは爆弾フラックの内部構造を誰よりも理解している！他の奴らも分かってくれれば……マーケティングを改善すべきか？いや、マルチバースから馬鹿を減らす必要があるだけだな！これ、スクラップだ」マンティスは補給物資を送り、店へと招待する。"
+
+#: src-en/data/events_special_standard.xml.append:361
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"mantis_rsa\"]/event/choice/text"
+msgstr "店を確認する。"
+
+#: src-en/data/events_special_standard.xml.append:364
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"mantis_rsa\"]/event/choice/event/text"
+msgstr "買い物の前に、船内でまだ時間がある。"
+
+#: src-en/data/events_special_standard.xml.append:366
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"mantis_rsa\"]/event/choice/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_standard.xml.append:370
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"mantis_rsa\"]/event/choice/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_standard.xml.append:378
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_SMART\"]/text"
+msgstr "(インテリマンティスクルー) 自船のマンティスが、機雷投下機と爆弾フラックの違いを理解していると伝える。"
+
+#: src-en/data/events_special_standard.xml.append:380
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_SMART\"]/event/text"
+msgstr ""
+"「RSAの仲間でもないのに、爆弾フラックと機雷投下機の違いを理解しているマンティスだと？信じられん！」マンティスは声をひそめる。「この武器はまだ一般公開されていない、試作型だ。だが、貴様に相応しい。フラックIVベースの爆弾フラックだ！さあ、他にも気に入るはずの爆弾フラックが山ほどある。中へどうぞ！」"
+
+#: src-en/data/events_special_standard.xml.append:383
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_SMART\"]/event/choice/text"
+msgstr "店を確認する。"
+
+#: src-en/data/events_special_standard.xml.append:386
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_SMART\"]/event/choice/event/text"
+msgstr "買い物の前に、船内でまだ時間がある。"
+
+#: src-en/data/events_special_standard.xml.append:388
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_SMART\"]/event/choice/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_standard.xml.append:392
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_SMART\"]/event/choice/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_standard.xml.append:400
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[4]/text"
+msgstr "店を確認する。"
+
+#: src-en/data/events_special_standard.xml.append:403
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[4]/event/text"
+msgstr "買い物の前に、船内でまだ時間がある。"
+
+#: src-en/data/events_special_standard.xml.append:405
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[4]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_standard.xml.append:409
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[4]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_standard.xml.append:417
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"DESTROYED_STOREEVENT_RSA_BOMB_FLAKS\"]/text"
+msgstr ""
+"マンティスにそんな侮辱をさせるべきではなかったが、後の祭りだ。船内の爆弾フラックはすべて破壊されてしまった。せめて船の残骸をスクラップにしよう。"
+
+#: src-en/data/events_special_standard.xml.append:422
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"DEAD_CREW_STOREEVENT_RSA_BOMB_FLAKS\"]/text"
+msgstr ""
+"マンティスにそんな侮辱をさせるべきではなかったが、後の祭りだ。貨物室の中に爆弾フラックがある。何か重要なものが入っていそうな鍵のかかったドアもあるが、開けられない。爆弾フラックを一つ手に入れ、残りの船を解体することで良しとする。"

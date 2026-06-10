@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events.xml.append:11
+msgid ""
+"data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
+"append:choice[1]/text"
+msgstr "(デコンストラクター) 小惑星を採掘しようとする。"
+
+#: src-en/data/events.xml.append:13
+msgid ""
+"data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
+"append:choice[1]/event/text"
+msgstr "FTLチャージを待つ間、近くの小惑星から可能な限り有用な素材を丁寧に抽出する。"
+
+#: src-en/data/events.xml.append:18
+msgid ""
+"data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
+"append:choice[2]/text"
+msgstr "(RSAマイニングビーム) 小惑星を採掘しようとする。"
+
+#: src-en/data/events.xml.append:20
+msgid ""
+"data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"RSAマイニングビームは小惑星からの素材抽出に非常に効果的だ。一振りで巨大な小惑星さえ粉々に砕ける。唯一の問題は、すべてを十分に早く回収できないことだ！すべて回収するには、反乱軍艦隊が追いつく時間があるだろう。"
+
+#: src-en/data/events.xml.append:23
+msgid ""
+"data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
+"append:choice[2]/event/choice[1]/text"
+msgstr "回収しろ、スクラップが必要だ。"
+
+#: src-en/data/events.xml.append:25
+msgid ""
+"data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
+"append:choice[2]/event/choice[1]/event/text"
+msgstr "できる限り多く回収する。価値があることを願おう。"
+
+#: src-en/data/events.xml.append:31
+msgid ""
+"data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
+"append:choice[2]/event/choice[@req=\"MAGNET_ARM\"]/text"
+msgstr "(磁気アーム) アームを使って素早く回収する。"
+
+#: src-en/data/events.xml.append:33
+msgid ""
+"data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
+"append:choice[2]/event/choice[@req=\"MAGNET_ARM\"]/event/text"
+msgstr "磁気アームのおかげで、残りのほとんどを適時に回収できた。電磁気学に感謝！"
+
+#: src-en/data/events.xml.append:38
+msgid ""
+"data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
+"append:choice[2]/event/choice[3]/text"
+msgstr "立ち去れ、リスクは負えない。"
+
+#: src-en/data/events.xml.append:40
+msgid ""
+"data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
+"append:choice[2]/event/choice[3]/event/text"
+msgstr "完全に使えるスクラップを置いていくのは辛いが、反乱軍に追いつかれるわけにはいかない。ジャンプの準備をする。"

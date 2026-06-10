@@ -1,0 +1,382 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_avali.xml:29
+msgid "data/events_avali.xml$//event[@name=\"ENCOUNTER_REBEL_AVALI\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_avali.xml:35
+msgid ""
+"data/events_avali.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_AVALI\"]/text[1]"
+msgstr "ビーコンにいる反乱軍の船が hail してきた：「やっとあの鳥の変人どもを叩き潰す作業から解放されるな。俺は連邦のゴミの方がずっといい！」"
+
+#: src-en/data/events_avali.xml:36
+msgid ""
+"data/events_avali.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_AVALI\"]/text[2]"
+msgstr ""
+"船が亜光速に減速するとすぐ、反乱軍の船から通信が入る。「お前が連邦に雇われた傭兵だな！このひどい宙域に一生閉じ込められたかと思ったぜ、昇進のチャンスだ！」"
+
+#: src-en/data/events_avali.xml:38
+msgid ""
+"data/events_avali.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_AVALI\"]/text[3]"
+msgstr "ビーコンの後ろに反乱軍の船がいることに気づいた時には、戦闘を回避するには遅すぎた。"
+
+#: src-en/data/events_avali.xml:39
+msgid ""
+"data/events_avali.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_AVALI\"]/text[4]"
+msgstr ""
+"反乱軍の船が hail "
+"してきた。「連邦の船一隻のために、より良い銀河という俺たちの夢を打ち砕かせるために戦争をしたわけじゃない！」彼は武器をロックした。"
+
+#: src-en/data/events_avali.xml:40
+msgid ""
+"data/events_avali.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_AVALI\"]/text[5]"
+msgstr ""
+"反乱軍の船が慎重に接近する。「個人的には」と艦長は言う。「連邦に留まっていたよ。だが私は兵士だ、閣下。戦争がなければ使い物にならない。シールドを上げろ！」"
+
+#: src-en/data/events_avali.xml:41
+msgid ""
+"data/events_avali.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_AVALI\"]/text[6]"
+msgstr ""
+"反乱軍の船から通信：「反乱が完了すれば、私たちが提供するより安全な世界を見ることができるだろう。まあ、君は見られないだろうが、言いたいことは分かるな。」彼らは武器を装備した。"
+
+#: src-en/data/events_avali.xml:55
+msgid "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH\"]/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:57
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH\"]/choice[1]/text"
+msgstr "ロスト・サンに通信する"
+
+#: src-en/data/events_avali.xml:62
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH\"]/choice[2]/text"
+msgstr "彼らを放っておく。"
+
+#: src-en/data/events_avali.xml:64
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH\"]/choice[2]/event/text"
+msgstr "ロスト・サンを放っておく。"
+
+#: src-en/data/events_avali.xml:66
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH\"]/choice[2]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_avali.xml:70
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_avali.xml:77
+msgid "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL\"]/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:79
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL\"]/choice[1]/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:83
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL\"]/choice[@req=\"rock_commando\"]/text"
+msgstr "(アリアドネ) テキスト。"
+
+#: src-en/data/events_avali.xml:85
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL\"]/choice[@req=\"rock_commando\"]/event/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:89
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL\"]/choice[@req=\"rock_commando\"]/event/choice/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:98
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL\"]/choice[3]/text"
+msgstr "立ち去る。"
+
+#: src-en/data/events_avali.xml:104
+msgid "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_NO2\"]/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:106
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_NO2\"]/choice[1]/text"
+msgstr "ロスト・サンは君の志願を許可しない。酸素がないからだ。"
+
+#: src-en/data/events_avali.xml:111
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_NO2\"]/choice[@req=\"rock_commando\"]/text"
+msgstr "(アリアドネ) テキスト。"
+
+#: src-en/data/events_avali.xml:113
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_NO2\"]/choice[@req=\"rock_commando\"]/event/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:117
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_NO2\"]/choice[@req=\"rock_commando\"]/event/choice/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:126
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_NO2\"]/choice[3]/text"
+msgstr "立ち去る。"
+
+#: src-en/data/events_avali.xml:131
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER\"]/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:133
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER\"]/choice[@req=\"oxygen\""
+" and @lvl=\"1\"]/text"
+msgstr "同意する。"
+
+#: src-en/data/events_avali.xml:135
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER\"]/choice[@req=\"oxygen\""
+" and @lvl=\"1\"]/event/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:145
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER\"]/choice[@req=\"oxygen\""
+" and @lvl=\"1\"]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:150
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER\"]/choice[@req=\"oxygen\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:156
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER\"]/choice[@req=\"oxygen\""
+" and @lvl=\"0\"]/text"
+msgstr "同意する。"
+
+#: src-en/data/events_avali.xml:161
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER\"]/choice[@req=\"pilot\"]/text"
+msgstr "立ち去る。"
+
+#: src-en/data/events_avali.xml:166
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER_WIN\"]/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:169
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER_WIN\"]/choice[@req=\"UPG_TECH_EXTINGUISHERS\""
+" and @lvl=\"1\"]/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:173
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER_WIN\"]/choice[@req=\"UPG_TECH_EXTINGUISHERS\""
+" and @lvl=\"0\"]/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:175
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER_WIN\"]/choice[@req=\"UPG_TECH_EXTINGUISHERS\""
+" and @lvl=\"0\"]/event/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:178
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER_WIN\"]/choice[@req=\"UPG_TECH_EXTINGUISHERS\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "テキスト"
+
+#: src-en/data/events_avali.xml:185
+msgid "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/text"
+msgstr ""
+"このビーコンにジャンプすると、停泊している2隻の船に挨拶される。左側には船体に大きなダメージを受けたエンジニア設計のマルチバースレネゲイドが武器を起動させて待機している。反対側にはドローンを起動したイルミネイト艦が待機している。ビーコンに到着すると、両者が同時に通信を送ってきた。"
+
+#: src-en/data/events_avali.xml:187
+msgid "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/text"
+msgstr "聞く。"
+
+#: src-en/data/events_avali.xml:189
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/text"
+msgstr ""
+"エンジニア船が先に話し出す。ヘルメットにMの文字が刻まれたエンジニアが画面に現れ、説明を始める。「おい、連邦の船だな？このアヴァリ連邦が民間人に無認可の薬を売っているんだ。止めさせろ！この薬には見たこともないほど不自然な副作用がある！薬が広まる前に破壊してくれ――」イルミネイトが彼を遮る。「黙れ！私は薬を売るために必要な認可はすべて持っている！それに副作用が隠されているわけじゃなく、ラベルに書いてあるだろ！」両船は沈黙し、どちら側につくか君の判断を待っている。"
+
+#: src-en/data/events_avali.xml:202
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[1]/text"
+msgstr "アヴァリ・イルミネイト側につく。"
+
+#: src-en/data/events_avali.xml:204
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"アヴァリは支援を喜ぶ。「わあ、ありがとう！彼を倒してくれたら後で無料サンプルをあげるわ。あ、気をつけて――」イルミネイトはエンジニアに遮られる。「何人の罪のない民間人を毒しているか分かっているのか！」エンジニアは叫び、武器をチャージする。"
+
+#: src-en/data/events_avali.xml:207
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_avali.xml:213
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[2]/text"
+msgstr "両方をミュートして船上で何かをする。"
+
+#: src-en/data/events_avali.xml:215
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[2]/event/text"
+msgstr "君には*はるかに*やるべきことがある。"
+
+#: src-en/data/events_avali.xml:217
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_avali.xml:221
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_avali.xml:229
+msgid "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[2]/text"
+msgstr "いや、これには関わらない。"
+
+#: src-en/data/events_avali.xml:231
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[2]/event/text"
+msgstr "君にはもっとやるべきことがある。"
+
+#: src-en/data/events_avali.xml:233
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[2]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_avali.xml:237
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_avali.xml:254
+msgid "data/events_avali.xml$//event[@name=\"DESTROYED_ENGINEER_RENEGADE\"]/text"
+msgstr "最後の一撃がエンジニアの運命を決し、船はバラバラに壊れた。手早く残骸を回収する。"
+
+#: src-en/data/events_avali.xml:257
+msgid ""
+"data/events_avali.xml$//event[@name=\"DESTROYED_ENGINEER_RENEGADE\"]/choice/text"
+msgstr "アヴァリに連絡する。"
+
+#: src-en/data/events_avali.xml:263
+msgid "data/events_avali.xml$//event[@name=\"DEAD_CREW_ENGINEER_RENEGADE\"]/text"
+msgstr ""
+"最後の生命体反応が消え、強大な巡洋艦のエンジンが停止する。船体を解体中に機能するドローンの設計図を発見した。前の主人の役には立たなかったかもしれないが、君にはうまく機能することを願う。"
+
+#: src-en/data/events_avali.xml:267
+msgid ""
+"data/events_avali.xml$//event[@name=\"DEAD_CREW_ENGINEER_RENEGADE\"]/choice/text"
+msgstr "アヴァリに連絡する。"
+
+#: src-en/data/events_avali.xml:273
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/text"
+msgstr ""
+"イルミネイトが通信してくる：「助けてくれてありがとう、彼とこれ以上戦っていたら危なかったわ。お礼に私が売っていた薬のサンプルをあげる！」ラベルを読むと、これらの薬の副作用には「アヴァリに変身する」とあり、君は気分が悪くなる。本当に正しい方を選んだのだろうか...？"
+
+#: src-en/data/events_avali.xml:275
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/choice[1]/text"
+msgstr "受け入れる。"
+
+#: src-en/data/events_avali.xml:277
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/choice[1]/event/text"
+msgstr "イルミネイトは君に薬を転送し、友好的に手を振ってからジャンプで去っていく。（イベント未完了、まだ薬はない。慰謝料を受け取れ）"
+
+#: src-en/data/events_avali.xml:282
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/choice[2]/text"
+msgstr "いや、これはひどい。"
+
+#: src-en/data/events_avali.xml:284
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/choice[2]/event/text"
+msgstr ""
+"「え、本当に？なら、もし受け取らないなら、ただの旅人ね。でも...旅人なら、私の薬をもっと売れる宙域に連れて行ってくれるわよね！」抗議する間もなく、イルミネイトはすでに船を捨てて君のクルーに加わっている。"
+
+#: src-en/data/events_avali.xml:285
+msgid ""
+"data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/choice[2]/event/crewMember"
+msgstr "ロビン"
+
+#: src-en/data/events_avali.xml:291
+msgid "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/text"
+msgstr ""
+"連邦の自動船がインスタントラーメンを売ろうとして hail してきた... "
+"軍事タイプと思われる自動船がラーメンを売ろうとしているのは奇妙だ。故障もしているようで、武器をパワーアップしようとしているようだ。"
+
+#: src-en/data/events_avali.xml:294
+msgid ""
+"data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_PROTOGEN\"]/text"
+msgstr "(プロトジェンクルー) プロトジェンに自動船を修理させる。"
+
+#: src-en/data/events_avali.xml:296
+msgid ""
+"data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_PROTOGEN\"]/event/text"
+msgstr "君のプロトジェンは故障した自動船を修理し、麺レーションをそこら中に放出した。また、ストアインターフェースへのアクセスも可能になった。"
+
+#: src-en/data/events_avali.xml:302
+msgid ""
+"data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_RSA\"]/text"
+msgstr "(RSAクルー) RSAクルーに自動船を修理させる。"
+
+#: src-en/data/events_avali.xml:304
+msgid ""
+"data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_RSA\"]/event/text"
+msgstr ""
+"RSAのメンバーは長年の経験を生かして故障した自動船を修理し、麺レーションをそこら中に放出した。また、ストアインターフェースへのアクセスも可能になった。"
+
+#: src-en/data/events_avali.xml:310
+msgid ""
+"data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_ENGI\"]/text"
+msgstr "(エンジクルー) エンジクルーに自動船を修理させる。"
+
+#: src-en/data/events_avali.xml:312
+msgid ""
+"data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/text"
+msgstr "君のエンジは故障した自動船を簡単に修理し、麺レーションを放出させた。また、ストアインターフェースへのアクセスも可能になった。"
+
+#: src-en/data/events_avali.xml:318
+msgid ""
+"data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_AVALI\"]/text"
+msgstr "(アヴァリクルー) アヴァリクルーに自動船を修理させる。"
+
+#: src-en/data/events_avali.xml:320
+msgid ""
+"data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_AVALI\"]/event/text"
+msgstr "君のアヴァリはこのような自動販売商人を見たことがあると説明し、故障した自動船を修理しようとする。しかし、実際にはうまくいかなかった..."
+
+#: src-en/data/events_avali.xml:325
+msgid "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[5]/text"
+msgstr "自動船を修理しようとする。"
+
+#: src-en/data/events_avali.xml:327
+msgid ""
+"data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[5]/event/text"
+msgstr "自動船はいくつかの麺レーションを放出した後、自爆した。何が起こったのかは不明だが、少なくとも壊れた自動船から戦利品は得られる..."
+
+#: src-en/data/events_avali.xml:333
+msgid "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[6]/text"
+msgstr "自動船を無視する。"

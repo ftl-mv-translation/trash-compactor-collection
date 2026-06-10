@@ -1,0 +1,346 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_hive.xml.append:5
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"BOMB_FLAK_TRANSPORT_DESTROYED\"]/text"
+msgstr ""
+"輸送船の破壊に成功した。残念ながら、ボムフラックはどれも戦いを生き残れなかった。がっかりだが、少なくとも船の残骸をスクラップにすることはできる。"
+
+#: src-en/data/events_sector_hive.xml.append:10
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"BOMB_FLAK_TRANSPORT_CAPTURE\"]/text"
+msgstr ""
+"輸送船から生命反応は消えた。君とクルーが貨物室を開けると、中にボムフラックがあった。特に大きなボムフラックが目に留まる。これこそ彼らが話していたボムフラック"
+" Mark IVに違いない！君とクルーはそれを船に持ち帰り、外装をスクラップにする。"
+
+#: src-en/data/events_sector_hive.xml.append:16
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/text"
+msgstr ""
+"近くにマンティスの輸送船がいることに気づく。全域に向けて通信が流れている。「ボムフラック販売中！Mark I、Mark II、Mark "
+"III、そして新型Mark "
+"IVもあるぞ！連邦の船の忌々しいシステムを破壊するのに最適だ！」このメッセージからすると、彼らが君に売ってくれるとは思えないが、運が良ければ？"
+
+#: src-en/data/events_sector_hive.xml.append:19
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[1]/text"
+msgstr "ボムフラックを買えないか尋ねる。"
+
+#: src-en/data/events_sector_hive.xml.append:23
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/text"
+msgstr "(ハイブ・マンティス) 君のマンティスで彼らに連絡する。"
+
+#: src-en/data/events_sector_hive.xml.append:25
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/text"
+msgstr ""
+"「連邦の船にマンティスがいるだと？ボムフラックが欲しいのか？」マンティスが笑う。「ハイブは連邦への販売を良しとしないが、俺は構わん。結局のところ、スクラップはスクラップだからな！」マンティスのクルーがいるとはいえ、彼らが売ってくれるとは驚きだ。君はカタログに目を通す。"
+
+#: src-en/data/events_sector_hive.xml.append:27
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[1]/text"
+msgstr "爆弾フラック Mark II を購入。"
+
+#: src-en/data/events_sector_hive.xml.append:29
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[1]/event/text"
+msgstr "「取引ありがとうな。だがもう戻ってくるなよ。ハイブを怒らせたくはないんでね。」君は新しい兵器がその価値に見合うものだといいなと願う。"
+
+#: src-en/data/events_sector_hive.xml.append:37
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[2]/text"
+msgstr "爆弾フラック Mark IV を購入。"
+
+#: src-en/data/events_sector_hive.xml.append:39
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[2]/event/text"
+msgstr "「取引ありがとうな。だがもう戻ってくるなよ。ハイブを怒らせたくはないんでね。」君は新しい兵器がその価値に見合うものだといいなと願う。"
+
+#: src-en/data/events_sector_hive.xml.append:47
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[3]/text"
+msgstr "ボムフラック Mark III を購入する。"
+
+#: src-en/data/events_sector_hive.xml.append:49
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[3]/event/text"
+msgstr "「取引ありがとうな。だがもう戻ってくるなよ。ハイブを怒らせたくはないんでね。」君は新しい兵器がその価値に見合うものだといいなと願う。"
+
+#: src-en/data/events_sector_hive.xml.append:57
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[4]/text"
+msgstr "ボムフラック Mark IV を購入する。"
+
+#: src-en/data/events_sector_hive.xml.append:59
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[4]/event/text"
+msgstr ""
+"「ボムフラック Mark IV "
+"が欲しいのか？へっ、予想はしてたがな。取引ありがとう。だがもう戻ってくるなよ。ハイブを怒らせたくはないんでね。」ボムフラック IV "
+"を見たのは初めてだ。この買い物が無駄にならないことを祈る。"
+
+#: src-en/data/events_sector_hive.xml.append:67
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[5]/text"
+msgstr "彼らを攻撃する。"
+
+#: src-en/data/events_sector_hive.xml.append:69
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[5]/event/text"
+msgstr ""
+"彼らが売ってくれると言ったにもかかわらず、君は攻撃することにした。兵器を起動させると、マンティスが反応する。「値段が折り合わないからって攻撃か？ハッ！連邦は俺たちが悪党だなんて言ってるが、邪悪なのはお前たちの方だ！」"
+
+#: src-en/data/events_sector_hive.xml.append:72
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[5]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_hive.xml.append:78
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[6]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_sector_hive.xml.append:80
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[6]/event/text"
+msgstr "「値段が折り合わないだと？ふん、時間の無駄だ。二度と来るんじゃねえぞ。」マンティスは通信を切った。"
+
+#: src-en/data/events_sector_hive.xml.append:82
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[6]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_sector_hive.xml.append:86
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[6]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_hive.xml.append:94
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/text"
+msgstr "(ハイブ・エリート) 君のエリート・マンティスで彼らに連絡する。"
+
+#: src-en/data/events_sector_hive.xml.append:96
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/text"
+msgstr ""
+"君のハイブ・エリートに連絡させる。「なぜ連邦の船にいるのかは知らんが、重要なんだろう！もちろんだ、ボムフラックを買ってくれ！値引きもしてやる！」君は値引きされたカタログを見る。"
+
+#: src-en/data/events_sector_hive.xml.append:98
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[1]/text"
+msgstr "爆弾フラック Mark II を購入。"
+
+#: src-en/data/events_sector_hive.xml.append:100
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[1]/event/text"
+msgstr "「取引ありがとう。良い狩りを！」君は新しい兵器がその価値に見合うものだといいなと願う。"
+
+#: src-en/data/events_sector_hive.xml.append:108
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[2]/text"
+msgstr "爆弾フラック Mark IV を購入。"
+
+#: src-en/data/events_sector_hive.xml.append:110
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[2]/event/text"
+msgstr "「取引ありがとう。良い狩りを！」君は新しい兵器がその価値に見合うものだといいなと願う。"
+
+#: src-en/data/events_sector_hive.xml.append:118
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[3]/text"
+msgstr "ボムフラック Mark III を購入する。"
+
+#: src-en/data/events_sector_hive.xml.append:120
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[3]/event/text"
+msgstr "「取引ありがとう。良い狩りを！」君は新しい兵器がその価値に見合うものだといいなと願う。"
+
+#: src-en/data/events_sector_hive.xml.append:128
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[4]/text"
+msgstr "ボムフラック Mark IV を購入する。"
+
+#: src-en/data/events_sector_hive.xml.append:130
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[4]/event/text"
+msgstr ""
+"「ボムフラック Mark IV が欲しいのか？へっ、予想はしてたがな。取引ありがとう。良い狩りを！」ボムフラック IV "
+"を見たのは初めてだ。この買い物が無駄にならないことを祈る。"
+
+#: src-en/data/events_sector_hive.xml.append:138
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[5]/text"
+msgstr "彼らを攻撃する。"
+
+#: src-en/data/events_sector_hive.xml.append:140
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[5]/event/text"
+msgstr ""
+"彼らが売る気満々にもかかわらず、君は攻撃することにした。兵器を起動させると、マンティスが反応する。「なぜ攻撃するんだ？値段が高いのか？下げるよ！もっと安く――」君は通信を切り、戦闘準備に入る。"
+
+#: src-en/data/events_sector_hive.xml.append:143
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[5]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_hive.xml.append:149
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[6]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_sector_hive.xml.append:151
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[6]/event/text"
+msgstr "「品揃えが気に入らないのか？心配するな、次はもっと良いボムフラックを用意してやる！」君は通信を切った。"
+
+#: src-en/data/events_sector_hive.xml.append:153
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[6]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_sector_hive.xml.append:157
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[6]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_hive.xml.append:165
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[4]/text"
+msgstr "ただ攻撃する。"
+
+#: src-en/data/events_sector_hive.xml.append:167
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[4]/event/text"
+msgstr ""
+"この船が直接誰かを殺しているわけではないにせよ（それすら疑わしいが）、他のマンティスに危険な武器を売っている以上、脅威であることに変わりはない。接近すると輸送船から通信が入る。「俺たちに勝てるとでも思っているのか？ハッ！前に襲われたボムフラック輸送船は弱かったから負けたんだ。俺たちはあいつらとは違う。お前たちには負けない！」"
+
+#: src-en/data/events_sector_hive.xml.append:170
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[4]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_hive.xml.append:176
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[5]/text"
+msgstr "輸送船を無視する。"
+
+#: src-en/data/events_sector_hive.xml.append:178
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[5]/event/text"
+msgstr "輸送船には関わらない方がいいと判断する。"
+
+#: src-en/data/events_sector_hive.xml.append:180
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[5]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_sector_hive.xml.append:184
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[5]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_hive.xml.append:192
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/text"
+msgstr ""
+"「連邦がボムフラックを欲しがっているだと？」マンティスが笑う。「ハイブは良しとしないが、俺は構わん。結局のところ、スクラップはスクラップだ！だが、値引きは期待するなよ。」売ってくれるとは驚いたが、値段を見て言葉を失う。法外な額だ！"
+
+#: src-en/data/events_sector_hive.xml.append:194
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[1]/text"
+msgstr "爆弾フラック Mark II を購入。"
+
+#: src-en/data/events_sector_hive.xml.append:196
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[1]/event/text"
+msgstr ""
+"「取引ありがとうな。だがもう戻ってくるなよ。ハイブを怒らせたくはないんでね。」痛い出費だが、新しい兵器がその価値に見合うものだといいなと願う。"
+
+#: src-en/data/events_sector_hive.xml.append:204
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[2]/text"
+msgstr "爆弾フラック Mark IV を購入。"
+
+#: src-en/data/events_sector_hive.xml.append:206
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[2]/event/text"
+msgstr ""
+"「取引ありがとうな。だがもう戻ってくるなよ。ハイブを怒らせたくはないんでね。」痛い出費だが、新しい兵器がその価値に見合うものだといいなと願う。"
+
+#: src-en/data/events_sector_hive.xml.append:214
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[3]/text"
+msgstr "ボムフラック Mark III を購入する。"
+
+#: src-en/data/events_sector_hive.xml.append:216
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[3]/event/text"
+msgstr ""
+"「取引ありがとうな。だがもう戻ってくるなよ。ハイブを怒らせたくはないんでね。」痛い出費だが、新しい兵器がその価値に見合うものだといいなと願う。"
+
+#: src-en/data/events_sector_hive.xml.append:224
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[4]/text"
+msgstr "ボムフラック Mark IV を購入する。"
+
+#: src-en/data/events_sector_hive.xml.append:226
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[4]/event/text"
+msgstr ""
+"「ボムフラック Mark IV "
+"が欲しいのか？へっ、予想はしてたがな。取引ありがとう。だがもう戻ってくるなよ。ハイブを怒らせたくはないんでね。」ボムフラック IV "
+"を見たのは初めてだ。この買い物が無駄にならないことを祈る。"
+
+#: src-en/data/events_sector_hive.xml.append:234
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[5]/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_sector_hive.xml.append:236
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[5]/event/text"
+msgstr ""
+"こいつら、馬鹿にしているのか！こんなぼったくりをしようとしていると知っていたら、最初から攻撃していたはずだ。君は兵器を起動させ、マンティスが反応する。「値段が折り合わないからって攻撃か？ハッ！連邦は俺たちが悪党だなんて言ってるが、邪悪なのはお前たちの方だ！」"
+
+#: src-en/data/events_sector_hive.xml.append:239
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[5]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_hive.xml.append:245
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[6]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_sector_hive.xml.append:247
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[6]/event/text"
+msgstr "「値段が折り合わないだと？ふん、時間の無駄だ。二度と来るんじゃねえぞ。」マンティスは通信を切った。"
+
+#: src-en/data/events_sector_hive.xml.append:249
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[6]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_sector_hive.xml.append:253
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[6]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_hive.xml.append:261
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_DENIED\"]/text"
+msgstr ""
+"「連邦がボムフラックを欲しがっているだと？」マンティスが笑う。「ボムフラックを顔面に食らわせてやろうか！お前たちにボムフラックは渡さん！」輸送船は武器を起動し、攻撃を仕掛けてくる！"
+
+#: src-en/data/events_sector_hive.xml.append:264
+msgid ""
+"data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_DENIED\"]/choice/text"
+msgstr "次へ…"

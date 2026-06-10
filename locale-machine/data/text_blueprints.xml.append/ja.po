@@ -1,0 +1,900 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_blueprints.xml.append:5
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR1_class\"]"
+msgstr "ゴミ圧縮機"
+
+#: src-en/data/text_blueprints.xml.append:6
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR2_class\"]"
+msgstr "ゴミ圧縮機"
+
+#: src-en/data/text_blueprints.xml.append:7
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR3_class\"]"
+msgstr "ゴミ圧縮機"
+
+#: src-en/data/text_blueprints.xml.append:8
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR4_class\"]"
+msgstr "ゴミ圧縮機"
+
+#: src-en/data/text_blueprints.xml.append:9
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR5_class\"]"
+msgstr "ゴミ圧縮機"
+
+#: src-en/data/text_blueprints.xml.append:10
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR6_class\"]"
+msgstr "ゴミ圧縮機"
+
+#: src-en/data/text_blueprints.xml.append:11
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_MINER_class\"]"
+msgstr "トラッシュ・マイナー"
+
+#: src-en/data/text_blueprints.xml.append:12
+msgid "data/text_blueprints.xml.append$/dummyroot/text[8]"
+msgstr "キヴィ戦闘機"
+
+#: src-en/data/text_blueprints.xml.append:13
+msgid "data/text_blueprints.xml.append$//text[@name=\"text_KIVIE_BOMBER_class\"]"
+msgstr "キヴィ爆撃機"
+
+#: src-en/data/text_blueprints.xml.append:14
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_KIVIE_BOMBER_SPIDER_class\"]"
+msgstr "キヴィ爆撃機"
+
+#: src-en/data/text_blueprints.xml.append:15
+msgid "data/text_blueprints.xml.append$//text[@name=\"text_KIVIE_SCOUT_class\"]"
+msgstr "キヴィ偵察機"
+
+#: src-en/data/text_blueprints.xml.append:16
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_KIVIE_SCOUT_ENGI_class\"]"
+msgstr "キヴィ偵察機"
+
+#: src-en/data/text_blueprints.xml.append:17
+msgid "data/text_blueprints.xml.append$/dummyroot/text[13]"
+msgstr "キヴィ戦闘機"
+
+#: src-en/data/text_blueprints.xml.append:18
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_KIVIE_FIGHTER_ENGI_class\"]"
+msgstr "キヴィ戦闘機"
+
+#: src-en/data/text_blueprints.xml.append:19
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_MU_ENGI_FIGHTER_KIVIE_class\"]"
+msgstr "エンジ・ファイター"
+
+#: src-en/data/text_blueprints.xml.append:20
+msgid "data/text_blueprints.xml.append$//text[@name=\"text_KIVIE_AUTO_class\"]"
+msgstr "キヴィ自動船"
+
+#: src-en/data/text_blueprints.xml.append:21
+msgid "data/text_blueprints.xml.append$//text[@name=\"text_RSA_ASSAULT_class\"]"
+msgstr "RSA強襲機"
+
+#: src-en/data/text_blueprints.xml.append:22
+msgid "data/text_blueprints.xml.append$//text[@name=\"text_RSA_DROPSHIP_class\"]"
+msgstr "RSA降下艇"
+
+#: src-en/data/text_blueprints.xml.append:26
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAMPLE_unlock\"]"
+msgstr "前述の船のいずれかのレイアウトでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:27
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAMPLE_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:28
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAMPLE_3_unlock\"]"
+msgstr "タイプBでセクター5に到達、またはタイプAで勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:32
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_class\"]"
+msgstr "スクラッパーコルベット"
+
+#: src-en/data/text_blueprints.xml.append:33
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_name\"]"
+msgstr "フィアレ・ヴェキ"
+
+#: src-en/data/text_blueprints.xml.append:34
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_desc\"]"
+msgstr ""
+"我々が手に入れられる中で、最も有能なスクラッパー戦闘艦……だろうな。\r\n"
+"船内のコンパクターでスクラップをリサイクルし、様々なアイテムを3Dプリントできる。"
+
+#: src-en/data/text_blueprints.xml.append:36
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SCRAPPER_unlock\"]"
+msgstr "6種類すべてのトラッシュ・コンパクターを倒す。"
+
+#: src-en/data/text_blueprints.xml.append:38
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_2_class\"]"
+msgstr "スクラッパー・ドレッドノート"
+
+#: src-en/data/text_blueprints.xml.append:39
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_2_name\"]"
+msgstr "レイザーマインド"
+
+#: src-en/data/text_blueprints.xml.append:40
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_2_desc\"]"
+msgstr ""
+"比類なき侵入能力を持つが、巨大なテレポートルームの構築を急ぐあまり、武器スロットをすべてインストールし忘れてしまった。まあ、どのみち使うことはないだろうが。"
+
+#: src-en/data/text_blueprints.xml.append:41
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SCRAPPER_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:45
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_EATER_class\"]"
+msgstr "ゴミ食いの巡洋艦"
+
+#: src-en/data/text_blueprints.xml.append:46
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_EATER_name\"]"
+msgstr "モアルテ・シ・フィエル"
+
+#: src-en/data/text_blueprints.xml.append:47
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_EATER_desc\"]"
+msgstr ""
+"ラニウスの王子は、自分自身のスクラッパー軍を率いている。彼は、最終的には世界を食い尽くすことを目標に、巨大な意思を持った船となるために、大量のスクラップを飲み込もうとしている。今のところ...彼はまだクルーサイズだが。"
+
+#: src-en/data/text_blueprints.xml.append:48
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_EATER_unlock\"]"
+msgstr "スクラッパー・ドレッドノートでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:52
+msgid "data/text_blueprints.xml.append$/dummyroot/text[34]"
+msgstr "ケストレル・マイナー"
+
+#: src-en/data/text_blueprints.xml.append:53
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_name\"]"
+msgstr "ゴミ圧縮機"
+
+#: src-en/data/text_blueprints.xml.append:54
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_desc\"]"
+msgstr ""
+"小規模な小惑星採掘とゴミ除去を目的とした古いケストレル級船。セルガル人技師のチーズによって戦闘用に改装され、そこにプロトゲンのトラッカーとプリマゲンのラプターが加わった。クローンベイのDNAバックアップの誤作動が、ランサーを生み出した。"
+
+#: src-en/data/text_blueprints.xml.append:55
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_MINER_unlock\"]"
+msgstr "トラッシュ・コンパクターとの争いでトラッカーの側につく。"
+
+#: src-en/data/text_blueprints.xml.append:57
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_B_class\"]"
+msgstr "ケストレル・マイナー"
+
+#: src-en/data/text_blueprints.xml.append:58
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_B_name\"]"
+msgstr "アイスクールイオン"
+
+#: src-en/data/text_blueprints.xml.append:59
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_B_desc\"]"
+msgstr ""
+"アイス・アイス・イオン。ランサーはゴミコンパクターを自分の変なニーズに合わせて作り変えることを大いに楽しみ、究極の侵入船を作り上げた。テレポートの小ささを気にしなければの話だが。アイス・アイス・イオン。"
+
+#: src-en/data/text_blueprints.xml.append:60
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_MINER_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:62
+msgid "data/text_blueprints.xml.append$/dummyroot/text[42]"
+msgstr "ケストレル・マイナー"
+
+#: src-en/data/text_blueprints.xml.append:63
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_3_name\"]"
+msgstr "モーニングスター"
+
+#: src-en/data/text_blueprints.xml.append:64
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_3_desc\"]"
+msgstr "RSAの兵士3人がこの船を乗っ取り、少し改造することにした。この最高の船で、炎の電撃戦を繰り広げ、敵を殲滅せよ。"
+
+#: src-en/data/text_blueprints.xml.append:65
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_MINER_3_unlock\"]"
+msgstr "タイプBでセクター5に到達、またはタイプAで勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:69
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_REACTOR_class\"]"
+msgstr "カスタムケストレル・マイナー"
+
+#: src-en/data/text_blueprints.xml.append:70
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_REACTOR_name\"]"
+msgstr "リアクティブコンパクター"
+
+#: src-en/data/text_blueprints.xml.append:71
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_REACTOR_desc\"]"
+msgstr ""
+"ゴミコンパクターと、ゾルタン船およびヘクター船の残骸から再構築された。ヘクター船は奇妙な外骨格の断片を積んでいて、それが我々に役立つかもしれない。塗装は急ごしらえだが、それっぽくは見えている。"
+
+#: src-en/data/text_blueprints.xml.append:72
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_REACTOR_unlock\"]"
+msgstr "ケストレル級ゴミ収集巡洋艦のいずれかのレイアウトでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:73
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_REACTOR_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:77
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_ECHO_unlock\"]"
+msgstr "リアクティブ・コンパクターのいずれかのレイアウトでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:78
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_ECHO_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:82
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SDM_class\"]"
+msgstr "改造済み民間巡洋艦"
+
+#: src-en/data/text_blueprints.xml.append:83
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SDM_name\"]"
+msgstr "サイズは関係ない"
+
+#: src-en/data/text_blueprints.xml.append:84
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SDM_desc\"]"
+msgstr ""
+"重要なのはサイズではない、忠誠心だというのは誰もが知っていることだ。とはいえ、この船のテレポートには明らかに……見栄を張っている問題がある。"
+
+#: src-en/data/text_blueprints.xml.append:85
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SDM_unlock\"]"
+msgstr "リアクティブ・コンパクターのいずれかのレイアウトでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:87
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SDM_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:91
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_CONSTRUCTION_class\"]"
+msgstr "建設クルー・ケストレル"
+
+#: src-en/data/text_blueprints.xml.append:92
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_CONSTRUCTION_name\"]"
+msgstr "オリジナル"
+
+#: src-en/data/text_blueprints.xml.append:93
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_CONSTRUCTION_desc\"]"
+msgstr "トラッカーたちが手に入れる前、実際に採掘に使用されていた当時のケストレル・マイナーの完全機能バージョン。"
+
+#: src-en/data/text_blueprints.xml.append:94
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_CONSTRUCTION_unlock\"]"
+msgstr "RSAドロップシップでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:96
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_CONSTRUCTION_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:100
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_class\"]"
+msgstr "「グラディエーター」コルベット"
+
+#: src-en/data/text_blueprints.xml.append:101
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_name\"]"
+msgstr "装甲ワスプ"
+
+#: src-en/data/text_blueprints.xml.append:102
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_desc\"]"
+msgstr "ガラクタから再構築された船。高速で極めて戦闘能力が高いが、少し手狭で脆い。"
+
+#: src-en/data/text_blueprints.xml.append:103
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_ARMORED_WASP_unlock\"]"
+msgstr "輸送ドロップシップのいずれかのレイアウトでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:105
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_2_class\"]"
+msgstr "「グラディエーター」コルベット"
+
+#: src-en/data/text_blueprints.xml.append:106
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_2_name\"]"
+msgstr "スターセクター"
+
+#: src-en/data/text_blueprints.xml.append:107
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_2_desc\"]"
+msgstr "俊敏で速いコルベット。連邦軍の偵察・軽突撃師団向けに改装されている。"
+
+#: src-en/data/text_blueprints.xml.append:108
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_ARMORED_WASP_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:110
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_3_class\"]"
+msgstr "「グラディエーター」コルベット"
+
+#: src-en/data/text_blueprints.xml.append:111
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_3_name\"]"
+msgstr "鋼鉄の夜明け"
+
+#: src-en/data/text_blueprints.xml.append:112
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_3_desc\"]"
+msgstr "非常にステルス性の高い船だ。だが、被弾しないように気をつけろ。"
+
+#: src-en/data/text_blueprints.xml.append:113
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_ARMORED_WASP_3_unlock\"]"
+msgstr "タイプBでセクター5に到達、またはタイプAで勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:117
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_class\"]"
+msgstr "RSA降下艇"
+
+#: src-en/data/text_blueprints.xml.append:118
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_name\"]"
+msgstr "コロッサス"
+
+#: src-en/data/text_blueprints.xml.append:119
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_desc\"]"
+msgstr "複数の船の残骸から作られた、古く錆びついた寄せ集め船。RSAが、捕らえたスクラッパーを含む多様なクルーを配属させた。"
+
+#: src-en/data/text_blueprints.xml.append:120
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_CORROSUS_unlock\"]"
+msgstr "あるアンドロイドのレネゲイドを仲間に説得する、またはLPCクラス・ハイブリッドジェットのいずれかのレイアウトでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:122
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_2_class\"]"
+msgstr "RSAスカウト"
+
+#: src-en/data/text_blueprints.xml.append:123
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_2_name\"]"
+msgstr "ウェストベント"
+
+#: src-en/data/text_blueprints.xml.append:124
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_2_desc\"]"
+msgstr "軽量で機敏なこのRSAスカウト船は危険だが脆い。ドローンを豊富に積んでいるが、武器システムは皆無だ。"
+
+#: src-en/data/text_blueprints.xml.append:125
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_CORROSUS_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:127
+msgid "data/text_blueprints.xml.append$//text[@name=\"text_TC_CORROSUS_3_class\"]"
+msgstr "RSA艦隊支援船"
+
+#: src-en/data/text_blueprints.xml.append:128
+msgid "data/text_blueprints.xml.append$//text[@name=\"text_TC_CORROSUS_3_name\"]"
+msgstr "ヴァルチャー・カルチャー"
+
+#: src-en/data/text_blueprints.xml.append:129
+msgid "data/text_blueprints.xml.append$//text[@name=\"text_TC_CORROSUS_3_desc\"]"
+msgstr "このタイプの艦隊支援船はRSAで最も一般的な船の一つだが……粗い船体構造のせいで、同じ見た目の船はほとんどない。"
+
+#: src-en/data/text_blueprints.xml.append:130
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_CORROSUS_3_unlock\"]"
+msgstr "タイプBでセクター5に到達、またはタイプAで勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:134
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_class\"]"
+msgstr "レンタル旗艦"
+
+#: src-en/data/text_blueprints.xml.append:135
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_name\"]"
+msgstr "レンタル旗艦"
+
+#: src-en/data/text_blueprints.xml.append:136
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_desc\"]"
+msgstr "【中難易度船】の【体験版】へようこそ！！！今すぐ遊べ、遊べ - 【ビッグショット】になれ！【UWU】を手に入れろ！"
+
+#: src-en/data/text_blueprints.xml.append:137
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SLUGTON_unlock\"]"
+msgstr "RSAドロップシップでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:139
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_2_class\"]"
+msgstr "レンタル旗艦"
+
+#: src-en/data/text_blueprints.xml.append:140
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_2_name\"]"
+msgstr "バンディット・エグゾーディウム"
+
+#: src-en/data/text_blueprints.xml.append:141
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_2_desc\"]"
+msgstr "この船はスラッグ盗賊政治体制のものだった。当然のことながら、今は民間人を食い物にする盗賊船だ。"
+
+#: src-en/data/text_blueprints.xml.append:142
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SLUGTON_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:144
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_3_class\"]"
+msgstr "レンタル旗艦"
+
+#: src-en/data/text_blueprints.xml.append:145
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_3_name\"]"
+msgstr "J4NK-3R"
+
+#: src-en/data/text_blueprints.xml.append:146
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_3_desc\"]"
+msgstr "なぜチーズはこの船を作り直し、連邦艦隊に持ち込んだのか？良い質問だ！"
+
+#: src-en/data/text_blueprints.xml.append:147
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SLUGTON_3_unlock\"]"
+msgstr "タイプBでセクター5に到達、またはタイプAで勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:151
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_class\"]"
+msgstr "捕獲済みスラッグ・ドロップシップ"
+
+#: src-en/data/text_blueprints.xml.append:152
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_name\"]"
+msgstr "中枢"
+
+#: src-en/data/text_blueprints.xml.append:153
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_desc\"]"
+msgstr "この船は美味しそうな貨物をたくさん運ぶために作られた。だからこんなにたくさんのスクラッパーが乗っているのか？いや、そんなはずは..."
+
+#: src-en/data/text_blueprints.xml.append:154
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_unlock\"]"
+msgstr "TCCで追加された1ページ目の他のすべての船をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:156
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_2_class\"]"
+msgstr "ツイステッド・スクラッパー・ドレッドノート"
+
+#: src-en/data/text_blueprints.xml.append:157
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_2_name\"]"
+msgstr "カーペンター"
+
+#: src-en/data/text_blueprints.xml.append:158
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_2_desc\"]"
+msgstr "暗殺のための究極の船。多彩な兵器でマルチバースの敵を殲滅せよ。最も高い報酬を払う者に忠誠を誓う、真の賞金稼ぎだ。"
+
+#: src-en/data/text_blueprints.xml.append:159
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_2_unlock\"]"
+msgstr "タイプAでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:161
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_SLOT2_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:162
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_SLOT2_3_unlock\"]"
+msgstr "タイプBでセクター5に到達、またはタイプAで勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:166
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AVALI_unlock\"]"
+msgstr "オーキッド巡洋艦タイプCをアンロックしてこの船をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:167
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AVALI_2_unlock\"]"
+msgstr "ハリアー巡洋艦タイプAでセクター5に到達してこの船をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:168
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AVALI_3_unlock\"]"
+msgstr "ハリアー巡洋艦タイプBでセクター5に到達、またはタイプAで勝利してこの船をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:170
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FALCON_FRIGATE_unlock\"]"
+msgstr "ハリアー巡洋艦のいずれかのレイアウトでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:175
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_AVALI_SLOT2_desc\"]"
+msgstr "この商用巡洋艦は売るためのガラクタを積んでいる途中だったが、軍務に徴用された。幸いにも、貨物テレポートを攻撃に転用できる。"
+
+#: src-en/data/text_blueprints.xml.append:176
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_AVALI_SLOT2_name\"]"
+msgstr "アクピトリダエ"
+
+#: src-en/data/text_blueprints.xml.append:177
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_AVALI_SLOT2_class\"]"
+msgstr "アヴァリ商用巡洋艦"
+
+#: src-en/data/text_blueprints.xml.append:178
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AVALI_SLOT2_unlock\"]"
+msgstr "ハリアー巡洋艦タイプCでゲームに勝利してこの船をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:180
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SMEW_BATTLECRUISER_unlock\"]"
+msgstr "ファルコンフリゲートのいずれかのレイアウトでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:182
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TECHLANCE_unlock\"]"
+msgstr "建設フェネック船のいずれかのレイアウトでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:187
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_class\"]"
+msgstr "連邦空母"
+
+#: src-en/data/text_blueprints.xml.append:188
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_name\"]"
+msgstr "スタースブリンガー"
+
+#: src-en/data/text_blueprints.xml.append:189
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_desc\"]"
+msgstr "ドローン重視の連邦艦隊支援空母。かなり古い装備だが、まあ使えるだろう……"
+
+#: src-en/data/text_blueprints.xml.append:190
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FEDERATION_CARRIER_unlock\"]"
+msgstr "このページの連邦軍艦船4隻、またはこのページの最初の4隻をアンロックしてこの巡洋艦をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:192
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_2_class\"]"
+msgstr "連邦空母"
+
+#: src-en/data/text_blueprints.xml.append:193
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_2_name\"]"
+msgstr "スキュラ"
+
+#: src-en/data/text_blueprints.xml.append:194
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_2_desc\"]"
+msgstr "民兵グループによって改造された船。チェーンイオン砲とミニガンを搭載している。"
+
+#: src-en/data/text_blueprints.xml.append:195
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FEDERATION_CARRIER_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:197
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_3_class\"]"
+msgstr "連邦空母"
+
+#: src-en/data/text_blueprints.xml.append:198
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_3_name\"]"
+msgstr "インターセプター"
+
+#: src-en/data/text_blueprints.xml.append:199
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_3_desc\"]"
+msgstr "戦争初期に反乱軍で運用されていた酷く使い込まれた巡洋艦。連邦軍が最近奪還し、すぐに改装されて戦線に復帰した。"
+
+#: src-en/data/text_blueprints.xml.append:200
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FEDERATION_CARRIER_3_unlock\"]"
+msgstr "タイプBでセクター5に到達、またはタイプAで勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:204
+msgid "data/text_blueprints.xml.append$/dummyroot/text[131]"
+msgstr "実験的貨物ライナー"
+
+#: src-en/data/text_blueprints.xml.append:205
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_MILSPEC_name\"]"
+msgstr "軍事余剰品"
+
+#: src-en/data/text_blueprints.xml.append:206
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_MILSPEC_desc\"]"
+msgstr "連邦が作った実験的な貨物船。必要に応じてクルーが武器を作成できるよう、自動需品係ユニットが特別に装備されている。"
+
+#: src-en/data/text_blueprints.xml.append:207
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_MILSPEC_unlock\"]"
+msgstr "ハリアー巡洋艦のいずれかのレイアウトでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:209
+msgid "data/text_blueprints.xml.append$/dummyroot/text[135]"
+msgstr "実験的貨物ライナー"
+
+#: src-en/data/text_blueprints.xml.append:210
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_MILSPEC_2_name\"]"
+msgstr "「アウトポスト31」"
+
+#: src-en/data/text_blueprints.xml.append:211
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_MILSPEC_2_desc\"]"
+msgstr "この巡洋艦は廃基地で見つかった異星人の標本を運んでいた。異星人の標本は逃げ出し、クルーを極度のパラノイアに陥れている。"
+
+#: src-en/data/text_blueprints.xml.append:212
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_MILSPEC_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:216
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_class\"]"
+msgstr "リアの巡洋艦"
+
+#: src-en/data/text_blueprints.xml.append:217
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_name\"]"
+msgstr "ビームマスター"
+
+#: src-en/data/text_blueprints.xml.append:218
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_desc\"]"
+msgstr "悪名高きビームマスターの船。レオとして知られる...いや、待て、リアム？レビティカス？リジー？？？"
+
+#: src-en/data/text_blueprints.xml.append:221
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_2_desc\"]"
+msgstr "ビームマスターの船に恒久的なマインドコントロール装置を取り付け、連邦色に塗り替えてマルチバース対応船にした。"
+
+#: src-en/data/text_blueprints.xml.append:222
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_2_name\"]"
+msgstr "ルールブック"
+
+#: src-en/data/text_blueprints.xml.append:223
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_2_class\"]"
+msgstr "リアの巡洋艦"
+
+#: src-en/data/text_blueprints.xml.append:225
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_NEWTONBEAMA_2_unlock\"]"
+msgstr "リアの巡洋艦タイプAでゲームに勝利してこの船をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:227
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_3_desc\"]"
+msgstr ""
+"熟考の末、リアは自分の古い船がマルチバースの挑戦に備えていないことに気づいた。しかし、急いでアップグレードしようとして、シールドとの互換性を持たせることを忘れてしまった。おっと。"
+
+#: src-en/data/text_blueprints.xml.append:228
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_3_name\"]"
+msgstr "セミコンピテント"
+
+#: src-en/data/text_blueprints.xml.append:229
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_3_class\"]"
+msgstr "リアの巡洋艦"
+
+#: src-en/data/text_blueprints.xml.append:231
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_NEWTONBEAMA_3_unlock\"]"
+msgstr "あるアーティファクトについて、あるビーム愛好家の助言を聞いてこの船をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:235
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_ROBOTTO_class\"]"
+msgstr "ロボット燃料タンカー"
+
+#: src-en/data/text_blueprints.xml.append:236
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_ROBOTTO_name\"]"
+msgstr "タンカー"
+
+#: src-en/data/text_blueprints.xml.append:237
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_ROBOTTO_desc\"]"
+msgstr "脆いが驚くほど武装が整ったタンカー船。エンジではなくロボットという種族の知性体のみで構成されている。"
+
+#: src-en/data/text_blueprints.xml.append:238
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_ROBOTTO_unlock\"]"
+msgstr "4隻の民間船すべてをアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:242
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_HEKTAR_REBEL_class\"]"
+msgstr "完全にオリジナルの船(tm)"
+
+#: src-en/data/text_blueprints.xml.append:243
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_HEKTAR_REBEL_name\"]"
+msgstr "無料サンプル"
+
+#: src-en/data/text_blueprints.xml.append:244
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_HEKTAR_REBEL_desc\"]"
+msgstr ""
+"ヘクター社はデザインを借りることに慣れている。反乱軍巡洋艦が戦闘で価値を証明した時、ヘクターがそのデザインを...拝借しても驚きではない。この船は戦闘にも貨物運搬にも適している。"
+
+#: src-en/data/text_blueprints.xml.append:245
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_HEKTAR_REBEL_unlock\"]"
+msgstr "レンタル旗艦のいずれかのレイアウトでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:249
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_DEFENSE_unlock\"]"
+msgstr "あるテロリストの巡洋艦をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:250
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_POTENTIAL_unlock\"]"
+msgstr "ある連邦高官の巡洋艦をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:251
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_POTENTIAL_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:252
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_POTENTIAL_3_unlock\"]"
+msgstr "タイプBでセクター5に到達、またはタイプAで勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:256
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_unlock\"]"
+msgstr "忘れ去られた半神の王族の種族が作った巡洋艦の設計図を使って勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:257
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_2_unlock\"]"
+msgstr "タイプAで勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:258
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_3_unlock\"]"
+msgstr "ある旗艦に、あるデバイスをどうすべきか尋ねる。"
+
+#: src-en/data/text_blueprints.xml.append:259
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_BATTLESHIP_unlock\"]"
+msgstr "エリート反乱軍巡洋艦のタイプAレイアウトで旗艦を倒す。"
+
+#: src-en/data/text_blueprints.xml.append:263
+msgid "data/text_blueprints.xml.append$/dummyroot/text[166]"
+msgstr "LPC級ハイブリッドジェット"
+
+#: src-en/data/text_blueprints.xml.append:264
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_HARD_name\"]"
+msgstr "エコー 1-ライナー"
+
+#: src-en/data/text_blueprints.xml.append:265
+msgid "data/text_blueprints.xml.append$/dummyroot/text[168]"
+msgstr ""
+"このLPCはプロトゲン・プロジェクト革命で悪名高い。トラッカーと彼の寄せ集めチームが数人の反乱軍将校を拉致し、封鎖を突破して連邦へ亡命したときのものだ。"
+
+#: src-en/data/text_blueprints.xml.append:267
+msgid "data/text_blueprints.xml.append$/dummyroot/text[169]"
+msgstr "LPC級ハイブリッドジェット"
+
+#: src-en/data/text_blueprints.xml.append:268
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_ECHO_name\"]"
+msgstr "エコー 1-ライナー"
+
+#: src-en/data/text_blueprints.xml.append:269
+msgid "data/text_blueprints.xml.append$/dummyroot/text[171]"
+msgstr ""
+"これはトラッカー1-1のオリジナルバージョン。目立たないように再塗装される前の姿だ。反乱軍のゴミが乗っているかもしれないが、少なくとも反乱軍の封鎖線を通り抜けるのは簡単だろう。"
+
+#: src-en/data/text_blueprints.xml.append:273
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AUTOGUNBOAT_unlock\"]"
+msgstr "エシュロン・レネゲイドになる。"
+
+#: src-en/data/text_blueprints.xml.append:274
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AUTOGUNBOAT_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:275
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AUTOGUNBOAT_3_unlock\"]"
+msgstr "タイプBでセクター5に到達、またはタイプAで勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:276
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AUTOGUNBOAT_ELITE_unlock\"]"
+msgstr "無人ガンボートのすべてのレイアウトをアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:278
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_MILITIAGUNBOAT_unlock\"]"
+msgstr "無人ガンボートのいずれかのレイアウトでゲームに勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:279
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_MILITIAGUNBOAT_2_unlock\"]"
+msgstr "タイプAでセクター5に到達する。"
+
+#: src-en/data/text_blueprints.xml.append:280
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_MILITIAGUNBOAT_3_unlock\"]"
+msgstr "タイプBでセクター5に到達、またはタイプAで勝利する。"
+
+#: src-en/data/text_blueprints.xml.append:281
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_MILITIAGUNBOAT_ELITE_unlock\"]"
+msgstr "民兵ガンボートのすべてのレイアウトをアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:284
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"text_ECHELON_MEETUP_MERCHANT_class\"]"
+msgstr "エシュロン(TM)商船"

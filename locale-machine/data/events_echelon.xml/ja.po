@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_echelon.xml:2
+msgid "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/text"
+msgstr ""
+"ビーコンに到着すると、民兵の船に似た奇妙な色の船が見える。船には「Ad "
+"Astra（星々へ）」という言葉が書かれた奇妙なロゴも表示されている。次のアクションはどうするか？"
+
+#: src-en/data/events_echelon.xml:6
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/text"
+msgstr "接近する。彼らは十分に友好的に見える。"
+
+#: src-en/data/events_echelon.xml:8
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/text"
+msgstr "船を彼らに向ける前に、船の艦長がすぐに話しかけてくる。「お前だな！連邦が送ったレネゲイドというのは！」"
+
+#: src-en/data/events_echelon.xml:10
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/text"
+msgstr "ああ、なぜ？"
+
+#: src-en/data/events_echelon.xml:12
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/text"
+msgstr "「ついに！お前を探すのに時間がかかりすぎた！」船のテレポートシステムがすぐに大量の物資を転送し、クルーが修復に来る。"
+
+#: src-en/data/events_echelon.xml:21
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/text"
+msgstr "やった！"
+
+#: src-en/data/events_echelon.xml:23
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr "「あ、そうそう。お前に「エシュロン・レネゲイド」クラブ会員アカウントを作る特別なオファーを提示したいんだ！」"
+
+#: src-en/data/events_echelon.xml:25
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "何...だと？"
+
+#: src-en/data/events_echelon.xml:27
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr "「大したことじゃない、ただ登録してタスクをこなせば、うちの船みたいな報酬がもらえるんだ！何より全部無料だ！今すぐアカウントを作るか？」"
+
+#: src-en/data/events_echelon.xml:29
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr "ああ、作ってくれ。"
+
+#: src-en/data/events_echelon.xml:31
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+"「喜んで！」インターンがすぐに君の資格情報を打ち込み始める。どうやって入手したのかは不明だが、連邦データベースからだろうか？「これで完了だ！ミッションをチェックして、登録特典を楽しんでくれ！」小さな船の設計図のファイルがデータベースに現れたことに気づく。たぶん、すぐに役に立つだろう。"
+
+#: src-en/data/events_echelon.xml:36
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/text"
+msgstr "いや、結構だ。"
+
+#: src-en/data/events_echelon.xml:38
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+msgstr "「分かった、また近いうちに！」"
+
+#: src-en/data/events_echelon.xml:52
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[2]/text"
+msgstr "その船はそっとしておくのが最善かもしれない。"
+
+#: src-en/data/events_echelon.xml:54
+msgid ""
+"data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[2]/event/text"
+msgstr "その奇妙な船に時間を費やす価値はないと判断し、別れることにする。彼らが何を持っているのか気になって仕方がない。"

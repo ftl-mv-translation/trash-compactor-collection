@@ -1,0 +1,47 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_rsa.xml:4
+msgid "data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/text"
+msgstr ""
+"礼儀正しいが、際どい服を着たロボットヒューマノイドから hail が来る：「こんにちは、親愛なる旅人。私の名は "
+"BLK-R053。あなたとの出会いに93.64%満足しています。あなたが持つ資源は、私の所有物になった方が有用でしょう。渡しますか、それともあなたが消滅した後に私が回収しましょうか？」彼女のピクセルマトリックスが言葉とは裏腹に喜びを表現していることに気づかざるを得ない。"
+
+#: src-en/data/events_rsa.xml:7
+msgid "data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[1]/text"
+msgstr "分かった。"
+
+#: src-en/data/events_rsa.xml:9
+msgid ""
+"data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[1]/event/text"
+msgstr ""
+"「完全に論理的ですね - あなたは[生きていること]を尊重し、その活動を継続したいと望んでいる。賢明な結論に達してくれて感謝します。[:D]」"
+
+#: src-en/data/events_rsa.xml:18
+msgid "data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[2]/text"
+msgstr "いや。"
+
+#: src-en/data/events_rsa.xml:20
+msgid ""
+"data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[2]/event/text"
+msgstr "「この結果は93.51%の確率で予想されていました。それでは武力を持って資源を回収させていただきます - 抵抗しないでください！[:(]」"
+
+#: src-en/data/events_rsa.xml:25
+msgid ""
+"data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[@req=\"hacking\"]/text"
+msgstr "(アップグレード済みハッキング) どちらもダメだ。"
+
+#: src-en/data/events_rsa.xml:27
+msgid ""
+"data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[@req=\"hacking\"]/event/text"
+msgstr ""
+"「私があなたに与えた選択肢を、交渉可能な[計算された]ものだと誤解しているようですね。興味深いことに、あなたの行動は私がシミュレートしたどの結果とも一致しません。収集すべき新しい情報があるようです！[;)]」"
+
+#: src-en/data/events_rsa.xml:28
+msgid ""
+"data/events_rsa.xml$//event[@name=\"BLACK_ROSE_ENCOUNTER\"]/choice[@req=\"hacking\"]/event/crewMember"
+msgstr "ブラック・ローズ"

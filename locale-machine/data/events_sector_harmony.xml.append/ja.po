@@ -1,0 +1,68 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_harmony.xml.append:11
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"KIVIE_FIGHTER_ENGI_BULLY\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_harmony.xml.append:17
+msgid ""
+"data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_MEAN\"]/text[1]"
+msgstr ""
+"驚いたことに、エンジの船とキヴィの船が通信しているのを見つける。耳を傾けると、キヴィが哀れなエンジを罵倒している声しか聞こえてこない。君は彼らを擁護するために声を上げる。するとキヴィたちは驚き、武器を君に向けた。"
+
+#: src-en/data/events_sector_harmony.xml.append:18
+msgid ""
+"data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_MEAN\"]/text[2]"
+msgstr ""
+"「ロボットめ！……フンフン……今すぐスクラップを渡せ！」通信から怒鳴り声が聞こえてくる。君が急いで振り向くと、キヴィの船がエンジの巡洋艦を追い詰めているのが見える。連邦はこの海賊行為を見過ごさない。君は兵器を起動させる。"
+
+#: src-en/data/events_sector_harmony.xml.append:22
+msgid ""
+"data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DESTROYED\"]/text[1]"
+msgstr "キヴィが死んだことで、この宙域のエンジたちは安全に一歩近づいた。"
+
+#: src-en/data/events_sector_harmony.xml.append:23
+msgid ""
+"data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DESTROYED\"]/text[2]"
+msgstr "キヴィはエンジをカモだと思っている。あいにくだが、君はそうではない。"
+
+#: src-en/data/events_sector_harmony.xml.append:24
+msgid ""
+"data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DESTROYED\"]/text[3]"
+msgstr "エンジにはキヴィの遺伝的欠陥を治療できる可能性がある。キヴィがそれを知っているのか、あるいは気にしているのかはまた別の問題だ。"
+
+#: src-en/data/events_sector_harmony.xml.append:28
+msgid ""
+"data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DEAD_CREW\"]/text[1]"
+msgstr "."
+
+#: src-en/data/events_sector_harmony.xml.append:29
+msgid ""
+"data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DEAD_CREW\"]/text[2]"
+msgstr "キヴィはエンジをカモだと思っている。あいにくだが、君はそうではない。"
+
+#: src-en/data/events_sector_harmony.xml.append:30
+msgid ""
+"data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DEAD_CREW\"]/text[3]"
+msgstr "キヴィがいなくなったので、彼らの船を調べる時間ができた。"
+
+#: src-en/data/events_sector_harmony.xml.append:31
+msgid ""
+"data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DEAD_CREW\"]/text[4]"
+msgstr "キヴィの死体が散乱している中で、君はクルーにマスクを外さないよう警告する。悪夢を再び見たくはないのだ。"
+
+#: src-en/data/events_sector_harmony.xml.append:56
+msgid ""
+"data/events_sector_harmony.xml.append$//eventList[@name=\"ENGI_KIVIE_REWARD\"]/event/text"
+msgstr "エンジは自分たちを苦しめていた連中を倒してくれた君に大喜びしている。彼らは報酬としてドローンパーツを差し出してきた。"
+
+#: src-en/data/events_sector_harmony.xml.append:59
+msgid ""
+"data/events_sector_harmony.xml.append$//eventList[@name=\"ENGI_KIVIE_REWARD\"]/event/choice/text"
+msgstr "次へ…"

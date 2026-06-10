@@ -1,0 +1,131 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_freemantis.xml.append:5
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/text"
+msgstr ""
+"近くのフリーマンティスの船が通信してくる：「やあ連邦の艦長、俺は爆弾フラックを売ってる！そう、奇妙なハイブ船から盗んだのさ。恐ろしい戦いだった、奴らは俺に爆弾フラックを使ってきた。だが最後には俺が勝った！お前も欲しいか？」彼らが爆弾フラックを見せてくるが、それは地雷ランチャーに見える。"
+
+#: src-en/data/events_sector_freemantis.xml.append:8
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[1]/text"
+msgstr "「爆弾フラック」を買う。"
+
+#: src-en/data/events_sector_freemantis.xml.append:10
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[1]/event/text"
+msgstr "「取引に感謝する、良い一日を！」フリーマンティスは別れを告げ、通信を切る。本物の爆弾フラックではないが、十分に役立つはずだ。"
+
+#: src-en/data/events_sector_freemantis.xml.append:18
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[2]/text"
+msgstr "それは地雷ランチャーであり、爆弾フラックではないと説明する。"
+
+#: src-en/data/events_sector_freemantis.xml.append:22
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_BOMB_SHOTGUNS\"]/text"
+msgstr "(爆弾フラック) 本物の爆弾フラックを見せる。"
+
+#: src-en/data/events_sector_freemantis.xml.append:24
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_BOMB_SHOTGUNS\"]/event/text"
+msgstr ""
+"「お前が持ってるのが地雷ランチャーで、これが爆弾フラックだと言ってるのか？」君は頷く。「ああ、違いが分かった！ありがとう艦長！これ、地雷ランチャーをやるし、俺もクルーに加えてくれ！将来もっと爆弾フラックに出会えるかもしれないしな！」"
+
+#: src-en/data/events_sector_freemantis.xml.append:30
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_ROCK\"]/text"
+msgstr "(ロックマンクルー) ロックマンに違いを説明させる。"
+
+#: src-en/data/events_sector_freemantis.xml.append:32
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/text"
+msgstr ""
+"ロックマンは爆発兵器に精通しているので、通信で説明させる。「ああ、今分かった。地雷ランチャーはシールドを貫通するだけで、システムを壊さないんだな。感謝する艦長！お前に加わるよ、もしかしたら本物の爆弾フラックに出会えるかもしれないからな！」"
+
+#: src-en/data/events_sector_freemantis.xml.append:37
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
+msgstr "(ラニウスクルー) ラニウスに違いを説明させる。"
+
+#: src-en/data/events_sector_freemantis.xml.append:39
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/text"
+msgstr ""
+"ラニウスはフラック兵器に精通しているので、通信で説明させる。「ああ、今分かった。地雷ランチャーはシールドを貫通するだけで、システムを壊さないんだな。感謝する艦長！お前に加わるよ、もしかしたら本物の爆弾フラックに出会えるかもしれないからな！」"
+
+#: src-en/data/events_sector_freemantis.xml.append:44
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_LEECH\"]/text"
+msgstr "(リーチクルー) リーチに違いを説明させる。"
+
+#: src-en/data/events_sector_freemantis.xml.append:46
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/text"
+msgstr ""
+"リーチがフラック兵器に精通していることを知っているので、通信回線で説明させる。「あぁ、わかったよ。機雷発射機はシールドを貫通するけど、システムにはダメージを与えないんだね。ありがとう船長！あんたの船に乗るよ。そうすれば本物のボムフラックが見られるかもね！」"
+
+#: src-en/data/events_sector_freemantis.xml.append:51
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_HIVE\"]/text"
+msgstr "(ハイブ・マンティス) ハイブ・マンティスに違いを説明させる。"
+
+#: src-en/data/events_sector_freemantis.xml.append:53
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_HIVE\"]/event/text"
+msgstr ""
+"ボムフラックを開発したのはハイブ・マンティスだ。彼らに説明させるのが一番だと考え、ハイブ・マンティスを通信回線に繋ぐ。「イィッ！連邦の船から降りろ、汚らわしいハイブ・マンティスめ！心配しないで、連邦の船長さん。私が助けてやるよ！」フリー・マンティスの船が攻撃を仕掛けてくる！"
+
+#: src-en/data/events_sector_freemantis.xml.append:56
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_HIVE\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_freemantis.xml.append:62
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[8]/text"
+msgstr "何も買わない。"
+
+#: src-en/data/events_sector_freemantis.xml.append:64
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[8]/event/text"
+msgstr "「オーケー、連邦の船長さん、良い一日を！」フリー・マンティスは手を振って別れを告げ、通信を切った。"
+
+#: src-en/data/events_sector_freemantis.xml.append:66
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[8]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_sector_freemantis.xml.append:70
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[8]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_freemantis.xml.append:79
+msgid ""
+"data/events_sector_freemantis.xml.append$//eventList[@name=\"FREEMANTIS_BOMB_FLAKS_UNDERSTANDING\"]/event[1]/text"
+msgstr ""
+"「あれはボムフラックじゃないのか？」君は機雷発射機とボムフラックの違いを説明する。「あぁ、わかったよ。機雷発射機はシールドを貫通するけど、システムにはダメージを与えないんだね。ありがとう船長！あんたの船に乗るよ。そうすれば本物のボムフラックが見られるかもね！」"
+
+#: src-en/data/events_sector_freemantis.xml.append:83
+msgid ""
+"data/events_sector_freemantis.xml.append$//eventList[@name=\"FREEMANTIS_BOMB_FLAKS_UNDERSTANDING\"]/event[2]/text"
+msgstr ""
+"「あれはボムフラックじゃないのか？」君は機雷発射機とボムフラックの違いを説明する。「よくわかんないな。自分の複眼で見たんだ。ドカンと爆発する爆弾をいくつも撃ち出していたぞ！」さらに説明を試みるが、相手には全く伝わらない。結局、君は諦めて通信を切った。"
+
+#: src-en/data/events_sector_freemantis.xml.append:88
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"DESTROYED_FREEMANTIS_BOMB_FLAKS\"]/text"
+msgstr ""
+"今思えば、フリー・マンティスからの反発は予想すべきだった。船の残骸と「ボムフラック」が周囲に散らばっている。君は残骸をスクラップに変え、機能しているミサイルをいくつか回収して、先へ進む準備をする。"
+
+#: src-en/data/events_sector_freemantis.xml.append:93
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"DEAD_CREW_FREEMANTIS_BOMB_FLAKS\"]/text"
+msgstr ""
+"今思えば、フリー・マンティスからの反発は予想すべきだった。君とクルーはフリー・マンティスの死体を注意深く避けて貨物室へ入る。中には「ボムフラック」とミサイルの山があった。君とクルーはボムフラックを1つ、そして運べるだけのミサイルを回収する。その後、船の外装をスクラップにして、先へ進む準備をする。"

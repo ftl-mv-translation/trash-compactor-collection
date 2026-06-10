@@ -1,0 +1,2192 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_multiverse.xml.append:23
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/text"
+msgstr "トラッシュコンパクターに連絡しますか？ (警告 - ハイリスク・ハイリターン)"
+
+#: src-en/data/events_special_multiverse.xml.append:25
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"0\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_multiverse.xml.append:27
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"0\"]/event/text"
+msgstr "トランスミッターを使用して、スクラップを明示する信号を送る。しばらくして、マップに船の座標が表示された。"
+
+#: src-en/data/events_special_multiverse.xml.append:36
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"1\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_multiverse.xml.append:38
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"燃料と長距離通信ミサイル、そしてスクラップを使用する。しばらくして、マップに船の座標が表示された。おそらく先ほどのスクラッパーたちだろう。彼らは一体何が目的なのか？"
+
+#: src-en/data/events_special_multiverse.xml.append:48
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"2\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_multiverse.xml.append:50
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"スクラップを積んだ重量級貨物ドローンを送り出す。このスクラッパーたちは他にもいるに違いない、また信号を受信したからだ！狩るべき獲物がまた増えた……"
+
+#: src-en/data/events_special_multiverse.xml.append:60
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"3\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_multiverse.xml.append:62
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"3\"]/event/text"
+msgstr "トランスミッターを使って、できる限りのスクラップを転送する。以前と同じ繰り返しだ。信号、スクラッパー、そして虐殺。楽しいな。"
+
+#: src-en/data/events_special_multiverse.xml.append:72
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"4\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_multiverse.xml.append:74
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"4\"]/event/text"
+msgstr "スクラップ輸送ポッドを完成させて燃料を満タンにすると、重武装した危険極まりないスクラッパー船の注目を集めてしまった。"
+
+#: src-en/data/events_special_multiverse.xml.append:84
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"5\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_multiverse.xml.append:86
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"5\"]/event/text"
+msgstr ""
+"トランスミッターを使用して、スクラップを明示する信号を送る。しばらくして、マップに船の座標が表示された。おそらく先ほどのスクラッパー船だろう。"
+
+#: src-en/data/events_special_multiverse.xml.append:96
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"6\"]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_multiverse.xml.append:98
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"6\"]/event/text"
+msgstr ""
+"トランスミッターを使用して、スクラップを明示する信号を送る。\n"
+"\t\t\t\tしかし、誰も来なかった。"
+
+#: src-en/data/events_special_multiverse.xml.append:101
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"6\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_multiverse.xml.append:116
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[8]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_multiverse.xml.append:125
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/text"
+msgstr ""
+"一体何者だったんだ？スクラップで釣って粉々に吹き飛ばしたが、まだ終わりじゃない気がする……おそらく他の場所にもまだいるはずだ……\n"
+"\t\t\t船の残骸を調べていると、死にかけのクルーが船体から引き剥がしたと思われる無傷の兵器を握りしめているのを見つける。どうやらそれをかじっているようだ。\n"
+"\t\t\t兵器を奪うか、二人とも連れて行くか、死ぬまで放っておくことができる。"
+
+#: src-en/data/events_special_multiverse.xml.append:131
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[1]/text"
+msgstr "兵器を奪う。"
+
+#: src-en/data/events_special_multiverse.xml.append:133
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[1]/event/text"
+msgstr "機能している兵器を奪い、クルーを運命に任せることにした。"
+
+#: src-en/data/events_special_multiverse.xml.append:138
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[2]/text"
+msgstr "クルーに兵器を食べさせる。"
+
+#: src-en/data/events_special_multiverse.xml.append:140
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[2]/event/text"
+msgstr ""
+"スクラッパーに労働と壊れていない船での住処、そして追加のスクラップを約束する。転送されてくると、彼らはすぐに兵器を食べ終え、活力を取り戻した。"
+
+#: src-en/data/events_special_multiverse.xml.append:145
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[3]/text"
+msgstr "サルベージにもう少し時間をかける。"
+
+#: src-en/data/events_special_multiverse.xml.append:147
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[3]/event/text"
+msgstr ""
+"君はサルベージにもう少し時間をかけ、振り返らずに転送して去る。\n"
+"\t\t\t\t\t\t傷ついたスクラッパーは君たちが去るのをただ見ている。漂流したまま生き残るのか、それとも死ぬのか。まったく失礼な奴だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:163
+msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/text"
+msgstr ""
+"一体何者だったんだ？クルーは全滅したが、まだ終わりじゃない気がする……おそらく他の場所にもまだいるはずだ……\n"
+"\t\t\t船の残骸を調べていると、死にかけのクルーが船体から引き剥がしたと思われる無傷の兵器を握りしめているのを見つける。どうやらそれをかじっているようだ。\n"
+"\t\t\t兵器を奪うか、二人とも連れて行くか、死ぬまで放っておくことができる。"
+
+#: src-en/data/events_special_multiverse.xml.append:169
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[1]/text"
+msgstr "兵器を奪う。"
+
+#: src-en/data/events_special_multiverse.xml.append:171
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[1]/event/text"
+msgstr "機能している兵器を奪い、クルーを運命に任せることにした。"
+
+#: src-en/data/events_special_multiverse.xml.append:176
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[2]/text"
+msgstr "クルーに兵器を食べさせる。"
+
+#: src-en/data/events_special_multiverse.xml.append:178
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[2]/event/text"
+msgstr ""
+"スクラッパーに労働と壊れていない船での住処、そして追加のスクラップを約束する。転送されてくると、彼らはすぐに兵器を食べ終え、活力を取り戻した。"
+
+#: src-en/data/events_special_multiverse.xml.append:183
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[3]/text"
+msgstr "サルベージにもう少し時間をかける。"
+
+#: src-en/data/events_special_multiverse.xml.append:185
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[3]/event/text"
+msgstr ""
+"君はサルベージにもう少し時間をかけ、振り返らずに転送して去る。\n"
+"\t\t\t\t\t\t傷ついたスクラッパーは君たちが去るのをただ見ている。漂流したまま生き残るのか、それとも死ぬのか。まったく失礼な奴だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:201
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/text"
+msgstr ""
+"勝利するたびに誇りを感じるが、今回は特に気分がいい。ラニウスは連邦に対して公然と敵対しており、強敵だったからだ。\n"
+"\t\t\t残骸を調べていると、頭に赤い十字のマークがある別の死にかけのクルーが、死んだスクラッパーの上に乗り出し、何かを噛んでいるのを見つける。\n"
+"\t\t\tクルーを食べているのかと思ったが、よく見ると高度なフラックキャノンを握りしめている。\n"
+"\t\t\t兵器を奪うか、二人とも連れて行くか、死ぬまで放っておくことができる。"
+
+#: src-en/data/events_special_multiverse.xml.append:208
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[1]/text"
+msgstr "兵器を奪う。"
+
+#: src-en/data/events_special_multiverse.xml.append:210
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[1]/event/text"
+msgstr "機能している兵器を奪い、クルーを運命に任せることにした。"
+
+#: src-en/data/events_special_multiverse.xml.append:215
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[2]/text"
+msgstr "クルーに兵器を食べさせる。"
+
+#: src-en/data/events_special_multiverse.xml.append:217
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[2]/event/text"
+msgstr ""
+"スクラッパーに労働と壊れていない船での住処、そして追加のスクラップを約束する。転送されてくると、彼らはすぐに兵器を食べ終え、活力を取り戻した。"
+
+#: src-en/data/events_special_multiverse.xml.append:222
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[3]/text"
+msgstr "サルベージにもう少し時間をかける。"
+
+#: src-en/data/events_special_multiverse.xml.append:224
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[3]/event/text"
+msgstr ""
+"君はサルベージにもう少し時間をかけ、振り返らずに転送して去る。\n"
+"\t\t\t\t\t\t傷ついたスクラッパーは君たちが去るのをただ見ている。漂流したまま生き残るのか、それとも死ぬのか。まったく失礼な奴だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:240
+msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/text"
+msgstr ""
+"勝利するたびに誇りを感じるが、今回は特に気分がいい。ラニウスは連邦に対して公然と敵対しており、強敵だったからだ。\n"
+"\t\t\t残骸を調べていると、頭に赤い十字のマークがある別の死にかけのクルーが、死んだスクラッパーの上に乗り出し、何かを噛んでいるのを見つける。\n"
+"\t\t\tクルーを食べているのかと思ったが、よく見ると高度なフラックキャノンを握りしめている。\n"
+"\t\t\t兵器を奪うか、二人とも連れて行くか、死ぬまで放っておくことができる。"
+
+#: src-en/data/events_special_multiverse.xml.append:247
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[1]/text"
+msgstr "兵器を奪う。"
+
+#: src-en/data/events_special_multiverse.xml.append:249
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[1]/event/text"
+msgstr "機能している兵器を奪い、クルーを運命に任せることにした。"
+
+#: src-en/data/events_special_multiverse.xml.append:254
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[2]/text"
+msgstr "クルーに兵器を食べさせる。"
+
+#: src-en/data/events_special_multiverse.xml.append:256
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[2]/event/text"
+msgstr ""
+"スクラッパーに労働と壊れていない船での住処、そして追加のスクラップを約束する。転送されてくると、彼らはすぐに兵器を食べ終え、活力を取り戻した。"
+
+#: src-en/data/events_special_multiverse.xml.append:261
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[3]/text"
+msgstr "サルベージにもう少し時間をかける。"
+
+#: src-en/data/events_special_multiverse.xml.append:263
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[3]/event/text"
+msgstr ""
+"君はサルベージにもう少し時間をかけ、振り返らずに転送して去る。\n"
+"\t\t\t\t\t\t傷ついたスクラッパーは君たちが去るのをただ見ている。漂流したまま生き残るのか、それとも死ぬのか。まったく失礼な奴だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:279
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/text"
+msgstr ""
+"トラッシュコンパクターを再び撃破した。小艦隊はなす術もなく散り散りになる。残骸の中から、システムの統合が容易な高度な装備品を見つける。船内ラボに新しい選択肢が追加された。\n"
+"\t\t\t残骸を調べていると、今までよりずっと巨大な死にかけのクルーを見つける。おびえながら高度なフラックキャノンを食べているのを見ても、もはや驚きはしない。\n"
+"\t\t\t兵器を奪うか、二人とも連れて行くか、死ぬまで放っておくことができる。"
+
+#: src-en/data/events_special_multiverse.xml.append:285
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[1]/text"
+msgstr "兵器を奪う。"
+
+#: src-en/data/events_special_multiverse.xml.append:287
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[1]/event/text"
+msgstr "機能している兵器を奪い、クルーを運命に任せることにした。"
+
+#: src-en/data/events_special_multiverse.xml.append:292
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[2]/text"
+msgstr "クルーに兵器を食べさせる。"
+
+#: src-en/data/events_special_multiverse.xml.append:294
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[2]/event/text"
+msgstr ""
+"スクラッパーに労働と壊れていない船での住処、そして追加のスクラップを約束する。転送されてくると、彼らはすぐに兵器を食べ終え、活力を取り戻した。"
+
+#: src-en/data/events_special_multiverse.xml.append:299
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[3]/text"
+msgstr "サルベージにもう少し時間をかける。"
+
+#: src-en/data/events_special_multiverse.xml.append:301
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[3]/event/text"
+msgstr ""
+"君はサルベージにもう少し時間をかけ、振り返らずに転送して去る。\n"
+"\t\t\t\t\t\t傷ついたスクラッパーは君たちが去るのをただ見ている。漂流したまま生き残るのか、それとも死ぬのか。まったく失礼な奴だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:318
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/text"
+msgstr ""
+"艦隊の船が目の前で破壊された。他の船がパニック状態で逃げ惑う中、残骸をスキャンして資材を回収する。\n"
+"\t\t\t残骸の中から、システムの統合が容易な高度な装備品を見つける。船内ラボに新しい選択肢が追加された。\n"
+"\t\t\t残骸を調べていると、今までよりずっと巨大な死にかけのクルーを見つける。おびえながら高度なフラックキャノンを食べているのを見ても、もはや驚きはしない。\n"
+"\t\t\t兵器を奪うか、二人とも連れて行くか、死ぬまで放っておくことができる。"
+
+#: src-en/data/events_special_multiverse.xml.append:325
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[1]/text"
+msgstr "兵器を奪う。"
+
+#: src-en/data/events_special_multiverse.xml.append:327
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[1]/event/text"
+msgstr "機能している兵器を奪い、クルーを運命に任せることにした。"
+
+#: src-en/data/events_special_multiverse.xml.append:332
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[2]/text"
+msgstr "クルーに兵器を食べさせる。"
+
+#: src-en/data/events_special_multiverse.xml.append:334
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[2]/event/text"
+msgstr ""
+"スクラッパーに労働と壊れていない船での住処、そして追加のスクラップを約束する。転送されてくると、彼らはすぐに兵器を食べ終え、活力を取り戻した。"
+
+#: src-en/data/events_special_multiverse.xml.append:339
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[3]/text"
+msgstr "サルベージにもう少し時間をかける。"
+
+#: src-en/data/events_special_multiverse.xml.append:341
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[3]/event/text"
+msgstr ""
+"君はサルベージにもう少し時間をかけ、振り返らずに転送して去る。\n"
+"\t\t\t\t\t\t傷ついたスクラッパーは君たちが去るのをただ見ている。漂流したまま生き残るのか、それとも死ぬのか。まったく失礼な奴だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:358
+msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/text"
+msgstr ""
+"艦隊の船が目の前で破壊された。他の船がパニック状態で逃げ惑う中、残骸をスキャンして資材を回収する。\n"
+"\t\t\t残骸の中から、システムの統合が容易な高度な装備品を見つける。船内ラボに新しい選択肢が追加された。\n"
+"\t\t\t残骸を調べていると、今までよりずっと巨大な死にかけのクルーを見つける。おびえながら高度なフラックキャノンを食べているのを見ても、もはや驚きはしない。\n"
+"\t\t\t兵器を奪うか、二人とも連れて行くか、死ぬまで放っておくことができる。"
+
+#: src-en/data/events_special_multiverse.xml.append:366
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[1]/text"
+msgstr "兵器を奪う。"
+
+#: src-en/data/events_special_multiverse.xml.append:368
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[1]/event/text"
+msgstr "機能している兵器を奪い、クルーを運命に任せることにした。"
+
+#: src-en/data/events_special_multiverse.xml.append:373
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[2]/text"
+msgstr "クルーに兵器を食べさせる。"
+
+#: src-en/data/events_special_multiverse.xml.append:375
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[2]/event/text"
+msgstr ""
+"スクラッパーに労働と壊れていない船での住処、そして追加のスクラップを約束する。転送されてくると、彼らはすぐに兵器を食べ終え、活力を取り戻した。"
+
+#: src-en/data/events_special_multiverse.xml.append:380
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[3]/text"
+msgstr "サルベージにもう少し時間をかける。"
+
+#: src-en/data/events_special_multiverse.xml.append:382
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[3]/event/text"
+msgstr ""
+"君はサルベージにもう少し時間をかけ、振り返らずに転送して去る。\n"
+"\t\t\t\t\t\t傷ついたスクラッパーは君たちが去るのをただ見ている。漂流したまま生き残るのか、それとも死ぬのか。まったく失礼な奴だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:399
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/text"
+msgstr ""
+"艦隊の船が目の前で破壊された。他の船がパニック状態で逃げ惑う中、残骸をスキャンして資材を回収する。\n"
+"\t\t\t残骸の中から、システムの統合が容易な高度な装備品を見つける。船内ラボに新しい選択肢が追加された。\n"
+"\t\t\t残骸を調べていると、今までよりずっと巨大な死にかけのクルーを見つける。おびえながら高度なフラックキャノンを食べているのを見ても、もはや驚きはしない。\n"
+"\t\t\t兵器を奪うか、二人とも連れて行くか、死ぬまで放っておくことができる。"
+
+#: src-en/data/events_special_multiverse.xml.append:406
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[1]/text"
+msgstr "兵器を奪う。"
+
+#: src-en/data/events_special_multiverse.xml.append:408
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[1]/event/text"
+msgstr "機能している兵器を奪い、クルーを運命に任せることにした。"
+
+#: src-en/data/events_special_multiverse.xml.append:413
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[2]/text"
+msgstr "クルーに兵器を食べさせる。"
+
+#: src-en/data/events_special_multiverse.xml.append:415
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[2]/event/text"
+msgstr ""
+"スクラッパーに労働と壊れていない船での住処、そして追加のスクラップを約束する。転送されてくると、彼らはすぐに兵器を食べ終え、活力を取り戻した。"
+
+#: src-en/data/events_special_multiverse.xml.append:420
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[3]/text"
+msgstr "サルベージにもう少し時間をかける。"
+
+#: src-en/data/events_special_multiverse.xml.append:422
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[3]/event/text"
+msgstr ""
+"君はサルベージにもう少し時間をかけ、振り返らずに転送して去る。\n"
+"\t\t\t\t\t\t傷ついたスクラッパーは君たちが去るのをただ見ている。漂流したまま生き残るのか、それとも死ぬのか。まったく失礼な奴だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:439
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/text"
+msgstr ""
+"スクラッパーの船はバラバラになり、ケストレル・マイナーから通信が入る。「最高だ！助けてくれて感謝する！チーズ！……あれだ、俺たちの船の設計図を転送してやれ！あとランサーが作ったあのゴミ武器もだ！」\n"
+"\t\t\t残骸を調べていると、傷ついたトラッシュイーターが高度なフラックキャノンを握りしめているのを見つける。傷ついたスクラッパーが生き延びるために武器を食べることには慣れているが、このトラッシュイーターはそれをただ握りしめて君を見つめているだけだ。\n"
+"\t\t\tコストはかかるかもしれないが、船への招待を持ちかけることができる。"
+
+#: src-en/data/events_special_multiverse.xml.append:445
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[1]/text"
+msgstr "兵器を奪う。"
+
+#: src-en/data/events_special_multiverse.xml.append:447
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[1]/event/text"
+msgstr "機能している兵器を奪い、クルーを運命に任せることにした。"
+
+#: src-en/data/events_special_multiverse.xml.append:452
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[2]/text"
+msgstr "トラッシュイーターをクルーに誘う。"
+
+#: src-en/data/events_special_multiverse.xml.append:454
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[2]/event/text"
+msgstr ""
+"トラッシュイーターに労働と壊れていない船での住処、そして追加のスクラップを約束する。転送されてくると、彼らはフラックキャノンを食べ、独り笑いをしている。"
+
+#: src-en/data/events_special_multiverse.xml.append:455
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[2]/event/crewMember"
+msgstr "ゴミ食い"
+
+#: src-en/data/events_special_multiverse.xml.append:460
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[3]/text"
+msgstr "サルベージにもう少し時間をかける。"
+
+#: src-en/data/events_special_multiverse.xml.append:462
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[3]/event/text"
+msgstr ""
+"君はサルベージにもう少し時間をかけ、振り返らずに転送して去る。\n"
+"\t\t\t\t\t\t傷ついたトラッシュイーターは君たちが去るのをただ見ている。漂流したまま生き残るのか、それとも死ぬのか。まったく失礼な奴だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:479
+msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/text"
+msgstr ""
+"スクラッパーの船は静まり返り、ケストレル・マイナーから通信が入る。「最高だ！助けてくれて感謝する！チーズ！……あれだ、俺たちの船の設計図を転送してやれ！あとランサーが作ったあのゴミ武器もだ！」\n"
+"\t\t\t船内の空の廊下を調べていると、傷ついたトラッシュイーターが高度なフラックキャノンを握りしめているのを見つける。傷ついたスクラッパーが生き延びるために武器を食べることには慣れているが、このトラッシュイーターはそれをただ握りしめて君を見つめているだけだ。\n"
+"\t\t\tコストはかかるかもしれないが、船への招待を持ちかけることができる。"
+
+#: src-en/data/events_special_multiverse.xml.append:485
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[1]/text"
+msgstr "兵器を奪う。"
+
+#: src-en/data/events_special_multiverse.xml.append:487
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[1]/event/text"
+msgstr "機能している兵器を奪い、クルーを運命に任せることにした。"
+
+#: src-en/data/events_special_multiverse.xml.append:492
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[2]/text"
+msgstr "トラッシュイーターをクルーに誘う。"
+
+#: src-en/data/events_special_multiverse.xml.append:494
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[2]/event/text"
+msgstr ""
+"トラッシュイーターに労働と壊れていない船での住処、そして追加のスクラップを約束する。転送されてくると、彼らはフラックキャノンを食べ、独り笑いをしている。"
+
+#: src-en/data/events_special_multiverse.xml.append:495
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[2]/event/crewMember"
+msgstr "ゴミ食い"
+
+#: src-en/data/events_special_multiverse.xml.append:500
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[3]/text"
+msgstr "サルベージにもう少し時間をかける。"
+
+#: src-en/data/events_special_multiverse.xml.append:502
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[3]/event/text"
+msgstr ""
+"君はサルベージにもう少し時間をかけ、振り返らずに転送して去る。\n"
+"\t\t\t\t\t\t傷ついたトラッシュイーターは君たちが去るのをただ見ている。漂流したまま生き残るのか、それとも死ぬのか。まったく失礼な奴だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:519
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/text"
+msgstr ""
+"ケストレル・マイナーはバラバラになった。クルーの動機や忠誠心が何であれ、今はもう宇宙の塵だ。トラッシュコンパクターから通信が入る。驚いたことに、好きな報酬を選べと言う。"
+
+#: src-en/data/events_special_multiverse.xml.append:524
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[1]/text"
+msgstr "黄金の兵器を要求する。"
+
+#: src-en/data/events_special_multiverse.xml.append:526
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[1]/event/text"
+msgstr ""
+"ドローンを手に入れた - しかも金でできている！\n"
+"この宇宙のゴミ食いは君の活躍に感銘を受け、クルーに加わる。"
+
+#: src-en/data/events_special_multiverse.xml.append:530
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[1]/event/crewMember"
+msgstr "ゴミ食い"
+
+#: src-en/data/events_special_multiverse.xml.append:535
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[2]/text"
+msgstr "黄金のドローンを要求する。"
+
+#: src-en/data/events_special_multiverse.xml.append:537
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[2]/event/text"
+msgstr ""
+"ドローンを手に入れた - しかも金でできている！\n"
+"この宇宙のゴミ食いは君の活躍に感銘を受け、クルーに加わる。"
+
+#: src-en/data/events_special_multiverse.xml.append:541
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[2]/event/crewMember"
+msgstr "ゴミ食い"
+
+#: src-en/data/events_special_multiverse.xml.append:548
+msgid "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/text"
+msgstr ""
+"ケストレル・マイナーは静まり返り、彼らが船に乗せていた忌まわしいものも沈黙した。彼らの動機や忠誠心が何であれ、今はもう宇宙の塵だ。トラッシュコンパクターから通信が入る。驚いたことに、好きな報酬を選べと言う。"
+
+#: src-en/data/events_special_multiverse.xml.append:553
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[1]/text"
+msgstr "黄金の兵器を要求する。"
+
+#: src-en/data/events_special_multiverse.xml.append:555
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[1]/event/text"
+msgstr ""
+"ドローンを手に入れた - しかも金でできている！\n"
+"この宇宙のゴミ食いは君の活躍に感銘を受け、クルーに加わる。"
+
+#: src-en/data/events_special_multiverse.xml.append:559
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[1]/event/crewMember"
+msgstr "ゴミ食い"
+
+#: src-en/data/events_special_multiverse.xml.append:564
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[2]/text"
+msgstr "黄金のドローンを要求する。"
+
+#: src-en/data/events_special_multiverse.xml.append:566
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[2]/event/text"
+msgstr ""
+"ドローンを手に入れた。それも黄金でできている！\n"
+"\t\t\t\t\tこの宇宙のトラッシュイーターは君の働きに感銘を受け、クルーに加わる。"
+
+#: src-en/data/events_special_multiverse.xml.append:570
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[2]/event/crewMember"
+msgstr "ゴミ食い"
+
+#: src-en/data/events_special_multiverse.xml.append:577
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC5_DESTROY\"]/text"
+msgstr "何度も何度も粉砕してきたが、それでも彼らは戻ってくる。次は最も困難で、最後になるだろう。終わらせよう。"
+
+#: src-en/data/events_special_multiverse.xml.append:586
+msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC5_CREW\"]/text"
+msgstr "何度も何度も粉砕してきたが、それでも彼らは戻ってくる。次は最も困難で、最後になるだろう。終わらせよう。"
+
+#: src-en/data/events_special_multiverse.xml.append:595
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC6_DESTROY\"]/text"
+msgstr "トラッシュコンパクターは星の海に葬られた。船の周囲に漂う残骸には、奇妙な装置と船の設計図がいくつかあり、回収することができた！"
+
+#: src-en/data/events_special_multiverse.xml.append:606
+msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC6_CREW\"]/text"
+msgstr "トラッシュコンパクターは永遠に空っぽになった。船の周囲に漂う残骸には、奇妙な装置と船の設計図がいくつかあり、回収することができた！"
+
+#: src-en/data/events_special_multiverse.xml.append:617
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"DESTROYED_BLACK_ROSE_ENCOUNTER\"]/text"
+msgstr "コロッサスは去った。波打つ金属の海のただ中で、君は奇妙な機械をサルベージすることに成功する。"
+
+#: src-en/data/events_special_multiverse.xml.append:623
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"DEAD_CREW_BLACK_ROSE_ENCOUNTER\"]/text"
+msgstr "コロッサスは静まり返った。波打つ金属の海のただ中で、君は奇妙な機械をサルベージすることに成功する。"
+
+#: src-en/data/events_special_multiverse.xml.append:631
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_DESTROY\"]/text"
+msgstr "巨大な船を破壊した……そして彼らの戦利品を手に入れた。見合う価値があることを願おう。"
+
+#: src-en/data/events_special_multiverse.xml.append:634
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_DESTROY\"]/choice/text"
+msgstr "最高だ"
+
+#: src-en/data/events_special_multiverse.xml.append:636
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_DESTROY\"]/choice/event/text"
+msgstr "それじゃあ、皆さんさようなら！"
+
+#: src-en/data/events_special_multiverse.xml.append:643
+msgid "data/events_special_multiverse.xml.append$//event[@name=\"KM_CREW\"]/text"
+msgstr "巨大な船の中身を空にした……そして彼らの戦利品を手に入れた。奇形の死体の悪臭が漂っている。見合う価値があることを願おう。"
+
+#: src-en/data/events_special_multiverse.xml.append:646
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_CREW\"]/choice/text"
+msgstr "了解"
+
+#: src-en/data/events_special_multiverse.xml.append:648
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_CREW\"]/choice/event/text"
+msgstr "たぶんね"
+
+#: src-en/data/events_special_multiverse.xml.append:659
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/text"
+msgstr "どのフラック兵器をプリントしますか？"
+
+#: src-en/data/events_special_multiverse.xml.append:662
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[1]/text"
+msgstr "フラック I"
+
+#: src-en/data/events_special_multiverse.xml.append:664
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[1]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:673
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[2]/text"
+msgstr "フラック II"
+
+#: src-en/data/events_special_multiverse.xml.append:675
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[2]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:684
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[3]/text"
+msgstr "フラック III"
+
+#: src-en/data/events_special_multiverse.xml.append:686
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[3]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:695
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[4]/text"
+msgstr "フラック IV"
+
+#: src-en/data/events_special_multiverse.xml.append:697
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[4]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:706
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[5]/text"
+msgstr "チェーン・フラック"
+
+#: src-en/data/events_special_multiverse.xml.append:708
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[5]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:717
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[6]/text"
+msgstr "チャージ・フラック"
+
+#: src-en/data/events_special_multiverse.xml.append:719
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[6]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:728
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[7]/text"
+msgstr "プレ・フラック"
+
+#: src-en/data/events_special_multiverse.xml.append:730
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[7]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:739
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[8]/text"
+msgstr "ファイア・フラック"
+
+#: src-en/data/events_special_multiverse.xml.append:741
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[8]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:750
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[9]/text"
+msgstr "イオン・フラック"
+
+#: src-en/data/events_special_multiverse.xml.append:752
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[9]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:761
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[10]/text"
+msgstr "トキシック・フラック"
+
+#: src-en/data/events_special_multiverse.xml.append:763
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[10]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:772
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[11]/text"
+msgstr "ファイア・フラックの切り替え"
+
+#: src-en/data/events_special_multiverse.xml.append:774
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[11]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:783
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[12]/text"
+msgstr "イオン・フラックの切り替え"
+
+#: src-en/data/events_special_multiverse.xml.append:785
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[12]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:794
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[13]/text"
+msgstr "トキシック・フラックの切り替え"
+
+#: src-en/data/events_special_multiverse.xml.append:796
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[13]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:805
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[14]/text"
+msgstr "クリスタル・スキャター・フラック"
+
+#: src-en/data/events_special_multiverse.xml.append:807
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[14]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:816
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[15]/text"
+msgstr "エリート・クリスタル・フラック"
+
+#: src-en/data/events_special_multiverse.xml.append:818
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[15]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:827
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[16]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_multiverse.xml.append:833
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/text"
+msgstr "フラックを選択："
+
+#: src-en/data/events_special_multiverse.xml.append:836
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[1]/text"
+msgstr "爆発"
+
+#: src-en/data/events_special_multiverse.xml.append:838
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[1]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:847
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[2]/text"
+msgstr "不安定"
+
+#: src-en/data/events_special_multiverse.xml.append:849
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[2]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:858
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[3]/text"
+msgstr "鉛"
+
+#: src-en/data/events_special_multiverse.xml.append:860
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[3]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:869
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[4]/text"
+msgstr "黄金"
+
+#: src-en/data/events_special_multiverse.xml.append:871
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[4]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:880
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[5]/text"
+msgstr "バッテリー"
+
+#: src-en/data/events_special_multiverse.xml.append:882
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[5]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:902
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[6]/text"
+msgstr "フラッキング・ヘル"
+
+#: src-en/data/events_special_multiverse.xml.append:904
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[6]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:913
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[7]/text"
+msgstr "RC-LD ランチャー・フラック"
+
+#: src-en/data/events_special_multiverse.xml.append:915
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[7]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:924
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[8]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_multiverse.xml.append:933
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/text"
+msgstr "どのボムフラック兵器をプリントしますか？"
+
+#: src-en/data/events_special_multiverse.xml.append:936
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[1]/text"
+msgstr "爆弾フラック I"
+
+#: src-en/data/events_special_multiverse.xml.append:938
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[1]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:947
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[2]/text"
+msgstr "爆弾フラック II"
+
+#: src-en/data/events_special_multiverse.xml.append:949
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[2]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:958
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[3]/text"
+msgstr "爆弾フラック III"
+
+#: src-en/data/events_special_multiverse.xml.append:960
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[3]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:969
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[4]/text"
+msgstr "爆弾フラック IV"
+
+#: src-en/data/events_special_multiverse.xml.append:971
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[4]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:980
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[5]/text"
+msgstr "ブリーチ・ボムフラック"
+
+#: src-en/data/events_special_multiverse.xml.append:982
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[5]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:991
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[6]/text"
+msgstr "チェーン・ボムフラック"
+
+#: src-en/data/events_special_multiverse.xml.append:993
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[6]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1002
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[7]/text"
+msgstr "爆弾フラックチャージャー"
+
+#: src-en/data/events_special_multiverse.xml.append:1004
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[7]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1013
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[8]/text"
+msgstr "リサイクラー・ボムフラック"
+
+#: src-en/data/events_special_multiverse.xml.append:1015
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[8]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1024
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[9]/text"
+msgstr "コンサバティブ・ボムフラック"
+
+#: src-en/data/events_special_multiverse.xml.append:1026
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[9]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1035
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[10]/text"
+msgstr "先制爆弾フラック"
+
+#: src-en/data/events_special_multiverse.xml.append:1037
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[10]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1046
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[11]/text"
+msgstr "ファイア・ボムフラック"
+
+#: src-en/data/events_special_multiverse.xml.append:1048
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[11]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1057
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[12]/text"
+msgstr "イオン・ボムフラック"
+
+#: src-en/data/events_special_multiverse.xml.append:1059
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[12]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1068
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[13]/text"
+msgstr "ラッド・ボムフラック"
+
+#: src-en/data/events_special_multiverse.xml.append:1070
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[13]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1079
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[14]/text"
+msgstr "ロックダウン・ボムフラック"
+
+#: src-en/data/events_special_multiverse.xml.append:1081
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[14]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1090
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[15]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1096
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/text"
+msgstr "フラックを選択："
+
+#: src-en/data/events_special_multiverse.xml.append:1099
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[1]/text"
+msgstr "アンプ"
+
+#: src-en/data/events_special_multiverse.xml.append:1101
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[1]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1110
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[2]/text"
+msgstr "黄金"
+
+#: src-en/data/events_special_multiverse.xml.append:1112
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[2]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1121
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[3]/text"
+msgstr "不安定"
+
+#: src-en/data/events_special_multiverse.xml.append:1123
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[3]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1132
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[4]/text"
+msgstr "ヘビー"
+
+#: src-en/data/events_special_multiverse.xml.append:1134
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[4]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1143
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[5]/text"
+msgstr "ボム"
+
+#: src-en/data/events_special_multiverse.xml.append:1145
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[5]/event/text"
+msgstr "完了！"
+
+#: src-en/data/events_special_multiverse.xml.append:1154
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[6]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1162
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/text"
+msgstr ""
+"銃器を選択してください ///// 高品質商品 ///// 素晴らしい選択肢 /////\n"
+"\t\tすべての兵器は焼きたてホヤホヤです ///// スクラップを投入口に入れ、安全クランクを反時計回りに274度回してください /////\n"
+"\t\tch33s3W4sH3r3 ///// RSAよ永遠に\n"
+"\t\t...プリセットの .GCODE ファイルリストから兵器を選択してください..."
+
+#: src-en/data/events_special_multiverse.xml.append:1169
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[1]/text"
+msgstr "民兵タグガン"
+
+#: src-en/data/events_special_multiverse.xml.append:1171
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[1]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1180
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[2]/text"
+msgstr "代替バージョン -> RSAタグガン"
+
+#: src-en/data/events_special_multiverse.xml.append:1182
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[2]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1191
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[3]/text"
+msgstr "民兵フラック I"
+
+#: src-en/data/events_special_multiverse.xml.append:1193
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[3]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1202
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[4]/text"
+msgstr "民兵フラック II"
+
+#: src-en/data/events_special_multiverse.xml.append:1204
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[4]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1213
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[5]/text"
+msgstr "ミニガン Mark I"
+
+#: src-en/data/events_special_multiverse.xml.append:1215
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[5]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1224
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[6]/text"
+msgstr "ミニガン Mark II"
+
+#: src-en/data/events_special_multiverse.xml.append:1226
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[6]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1235
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[7]/text"
+msgstr "ミニガン Mark III"
+
+#: src-en/data/events_special_multiverse.xml.append:1237
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[7]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1246
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[8]/text"
+msgstr "レーザー遠心分離機"
+
+#: src-en/data/events_special_multiverse.xml.append:1248
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[8]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1257
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[9]/text"
+msgstr "レギオン・レーザー"
+
+#: src-en/data/events_special_multiverse.xml.append:1259
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[9]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1268
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[10]/text"
+msgstr "マークスマン・レーザー"
+
+#: src-en/data/events_special_multiverse.xml.append:1270
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[10]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1279
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[11]/text"
+msgstr "バルカン回転式オートキャノン"
+
+#: src-en/data/events_special_multiverse.xml.append:1281
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[11]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1290
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[12]/text"
+msgstr "バーストレーザー Epsilon"
+
+#: src-en/data/events_special_multiverse.xml.append:1292
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[12]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1301
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[13]/text"
+msgstr "バーストレーザー Sigma"
+
+#: src-en/data/events_special_multiverse.xml.append:1303
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[13]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1312
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[14]/text"
+msgstr "エスカ・ビーム"
+
+#: src-en/data/events_special_multiverse.xml.append:1314
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[14]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1323
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[15]/text"
+msgstr "RSA ミニキャノン"
+
+#: src-en/data/events_special_multiverse.xml.append:1325
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[15]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1334
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[16]/text"
+msgstr "トンファー・イオンビーム"
+
+#: src-en/data/events_special_multiverse.xml.append:1336
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[16]/event/text"
+msgstr "機械は君のスクラップを受け取り、いくつかの区画を経由させ、大きな音を立てて回った後、新しい兵器を差し出してきた……"
+
+#: src-en/data/events_special_multiverse.xml.append:1345
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[17]/text"
+msgstr "//// 取引をキャンセル ////"
+
+#: src-en/data/events_special_multiverse.xml.append:1351
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM\"]/text"
+msgstr "ランダムで1～10の燃料を生成しますか？"
+
+#: src-en/data/events_special_multiverse.xml.append:1353
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM\"]/choice[@req=\"tcc_loc_has_fuelreservoir\""
+" and @lvl=\"0\"]/text"
+msgstr "ランダムで1～10の燃料を生成する。この操作は1宙域につき1回のみ可能です。"
+
+#: src-en/data/events_special_multiverse.xml.append:1357
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM\"]/choice[@req=\"tcc_loc_has_fuelreservoir\""
+" and @lvl=\"1\"]/text"
+msgstr "この宙域ではすでに燃料を生成済みだ。"
+
+#: src-en/data/events_special_multiverse.xml.append:1361
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM\"]/choice[@req=\"pilot\"]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1380
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM_LOW\"]/text"
+msgstr "燃料貯蔵庫が少量の燃料が入ったキャニスターを生成した。"
+
+#: src-en/data/events_special_multiverse.xml.append:1388
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM_MED\"]/text"
+msgstr "燃料貯蔵庫が中程度の燃料が入ったキャニスターを生成した。"
+
+#: src-en/data/events_special_multiverse.xml.append:1396
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM_HIGH\"]/text"
+msgstr "燃料貯蔵庫が多量の燃料が入ったキャニスターを生成した。"
+
+#: src-en/data/events_special_multiverse.xml.append:1404
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM_FULL\"]/text"
+msgstr "燃料貯蔵庫が満タンの燃料が入ったキャニスターを生成した。"
+
+#: src-en/data/events_special_multiverse.xml.append:1423
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_FAIL\"]/text"
+msgstr ""
+"機械を何か役に立つものに作り変えようと設定を試みるが、数分間のブートループの後、結局出来上がったのはプロトゲンのフィギュアだけだった。要するに、ゴミだ。"
+
+#: src-en/data/events_special_multiverse.xml.append:1430
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_SUCCESS\"]/text"
+msgstr ""
+"マシンを起動する。複雑なトラブルシューティングの末、画面がすべて真っ青になってしまったが、何とか何かを作り出すことに成功した。フラックIIだ！なんと……有能なことか。"
+
+#: src-en/data/events_special_multiverse.xml.append:1435
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_SUCCESS_BETTER\"]/text"
+msgstr "地獄のようなものを作り出してしまった。コンパクターが目に見えて煙を上げている。敵の船も火の海にしてやろう。"
+
+#: src-en/data/events_special_multiverse.xml.append:1440
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_SUCCESS_BETTER2\"]/text"
+msgstr ""
+"コンパクターがいくつものエラーを吐き出す。そのほとんどが「719: 素材不正」だ。しかし、けたたましいピン音が何かが確かに完成したことを告げている……"
+
+#: src-en/data/events_special_multiverse.xml.append:1448
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/text"
+msgstr ""
+"座標に到着したが、以前と同じラニウス船に出くわしただけだった。罠のように見えるが、彼らは攻撃してこないし、武器も起動していない……まだだが。"
+
+#: src-en/data/events_special_multiverse.xml.append:1451
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/beaconType/unvisitedTooltip"
+msgstr "取りに来い"
+
+#: src-en/data/events_special_multiverse.xml.append:1452
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/beaconType/visitedTooltip"
+msgstr "探索済み。興味のあるものは残っていない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1453
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/beaconType/undiscoveredTooltip"
+msgstr "我々はまだここにいる"
+
+#: src-en/data/events_special_multiverse.xml.append:1456
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"TC1_DEAD\""
+" and @lvl=\"0\"]/text"
+msgstr "通信を試みる。"
+
+#: src-en/data/events_special_multiverse.xml.append:1458
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"TC1_DEAD\""
+" and @lvl=\"0\"]/event/text"
+msgstr "謎のラニウス船が視界に降下し、送ったスクラップを回収すると攻撃してきた！"
+
+#: src-en/data/events_special_multiverse.xml.append:1461
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"TC1_DEAD\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "戦闘準備だ！"
+
+#: src-en/data/events_special_multiverse.xml.append:1467
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"TC1_DEAD\""
+" and @lvl=\"1\"]/text"
+msgstr "奇妙なデジャヴ。だが、前にも同じことをしたような気がする。"
+
+#: src-en/data/events_special_multiverse.xml.append:1471
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"pilot\"]/text"
+msgstr "ラニウスからこっそり逃げ出すことを試みる。"
+
+#: src-en/data/events_special_multiverse.xml.append:1473
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"pilot\"]/event/text"
+msgstr "何とか無事に離脱し、船内で何らかの作業をする機会を得た。"
+
+#: src-en/data/events_special_multiverse.xml.append:1475
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_multiverse.xml.append:1479
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1487
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/text"
+msgstr "新しい座標に到着。先ほどと似た船だ。前の連中と同じ奴らなのか、それとも別のマルチバースからやってきたのかは不明だ……"
+
+#: src-en/data/events_special_multiverse.xml.append:1490
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/beaconType/unvisitedTooltip"
+msgstr "取りに来い"
+
+#: src-en/data/events_special_multiverse.xml.append:1491
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/beaconType/visitedTooltip"
+msgstr "探索済み。興味のあるものは残っていない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1492
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/beaconType/undiscoveredTooltip"
+msgstr "我々はまだここにいる"
+
+#: src-en/data/events_special_multiverse.xml.append:1495
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"TC2_DEAD\""
+" and @lvl=\"0\"]/text"
+msgstr "彼らを攻撃する。"
+
+#: src-en/data/events_special_multiverse.xml.append:1497
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"TC2_DEAD\""
+" and @lvl=\"0\"]/event/text"
+msgstr "謎のラニウス船が視界に降下し、武器を起動する。"
+
+#: src-en/data/events_special_multiverse.xml.append:1500
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"TC2_DEAD\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "戦闘準備。"
+
+#: src-en/data/events_special_multiverse.xml.append:1506
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"TC2_DEAD\""
+" and @lvl=\"1\"]/text"
+msgstr "奴らはいなくなった。な？……だよな？"
+
+#: src-en/data/events_special_multiverse.xml.append:1510
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"pilot\"]/text"
+msgstr "すべての戦いが我々の戦いというわけではない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1512
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"pilot\"]/event/text"
+msgstr "スクラッパーを攪乱してこっそり逃げ出すことに成功した。例の「付近で錆びた機関車」作戦はまだ有効らしい。"
+
+#: src-en/data/events_special_multiverse.xml.append:1514
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_multiverse.xml.append:1518
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1567
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/text"
+msgstr "ビーコンに到着すると、4隻もの船が待ち構えており、すべてが武器をこちらに向けていた。少なくとも1隻と戦わなければ離脱は不可能だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:1570
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/beaconType/unvisitedTooltip"
+msgstr "取りに来い"
+
+#: src-en/data/events_special_multiverse.xml.append:1571
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/beaconType/visitedTooltip"
+msgstr "探索済み。興味のあるものは残っていない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1572
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/beaconType/undiscoveredTooltip"
+msgstr "我々はまだここにいる"
+
+#: src-en/data/events_special_multiverse.xml.append:1575
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/text"
+msgstr "接近する……"
+
+#: src-en/data/events_special_multiverse.xml.append:1577
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/text"
+msgstr "4隻の船に包囲された。誰を攻撃する？"
+
+#: src-en/data/events_special_multiverse.xml.append:1579
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr "コルベット艦を攻撃する。"
+
+#: src-en/data/events_special_multiverse.xml.append:1581
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr "コルベット艦が武器のチャージを開始し、ゴミ船団から離脱、自船を砲撃する位置についた！"
+
+#: src-en/data/events_special_multiverse.xml.append:1584
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr "戦闘準備。"
+
+#: src-en/data/events_special_multiverse.xml.append:1590
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr "ハンター船を攻撃する。"
+
+#: src-en/data/events_special_multiverse.xml.append:1592
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/choice[2]/event/text"
+msgstr "ハンター船が自船へのテレポートロックオンを完了した。侵入者に備えろ！"
+
+#: src-en/data/events_special_multiverse.xml.append:1595
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice/text"
+msgstr "戦闘準備。"
+
+#: src-en/data/events_special_multiverse.xml.append:1601
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/choice[3]/text"
+msgstr "支援船を攻撃する。"
+
+#: src-en/data/events_special_multiverse.xml.append:1603
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/choice[3]/event/text"
+msgstr "支援船が自船に接近し、ドローンを起動した！"
+
+#: src-en/data/events_special_multiverse.xml.append:1606
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/choice[3]/event/choice/text"
+msgstr "戦闘準備。"
+
+#: src-en/data/events_special_multiverse.xml.append:1612
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/choice[4]/text"
+msgstr "雑魚船は無視し、トラッシュ・コンパクター本体を攻撃する。"
+
+#: src-en/data/events_special_multiverse.xml.append:1614
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/choice[4]/event/text"
+msgstr ""
+"トラッシュ・コンパクターはこちらの動きを読んで待ち構えていたようだ。通信が入るが、翻訳が乱れている。「我々わおなじマルチバースでわなイ。他ノスクラッパーより賢く、宇宙を殺し、食うためにリーダーへ捧げる。ジャマするものわ、死ぬ……」。交渉の余地はない、奴らはすでに武器を起動している！"
+
+#: src-en/data/events_special_multiverse.xml.append:1617
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
+" and @lvl=\"0\"]/event/choice[4]/event/choice/text"
+msgstr "終わらせよう。もう一度。"
+
+#: src-en/data/events_special_multiverse.xml.append:1625
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[2]/text"
+msgstr "こちらの与えた大ダメージを見て、残りの船団は四散した。とりあえず、今は安全だ……"
+
+#: src-en/data/events_special_multiverse.xml.append:1629
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"cloaking\"]/text"
+msgstr "(改良型クローキング) こっそり逃げ出す。"
+
+#: src-en/data/events_special_multiverse.xml.append:1631
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"cloaking\"]/event/text"
+msgstr ""
+"どういうわけか、包囲されているにもかかわらず、高性能なクローキングのおかげで姿を消し、敵船の合間を縫って動くことができた。検知されずにビーコンで何かできるかもしれない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1633
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"cloaking\"]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_multiverse.xml.append:1637
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"cloaking\"]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1643
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[4]/text"
+msgstr "ここに用はない……"
+
+#: src-en/data/events_special_multiverse.xml.append:1649
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/text"
+msgstr ""
+"おい、もう一隻船がいるぞ。敵対的ではない。いや、スクラッパーですらない。酷く損傷し汚れた船体からして、何らかのスカベンジャーのようだ。明らかにゴミ収集船として塗装されているが、それにしては重武装すぎる。"
+
+#: src-en/data/events_special_multiverse.xml.append:1652
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/beaconType/unvisitedTooltip"
+msgstr "取りに来い"
+
+#: src-en/data/events_special_multiverse.xml.append:1653
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/beaconType/visitedTooltip"
+msgstr "探索済み。興味のあるものは残っていない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1654
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/beaconType/undiscoveredTooltip"
+msgstr "我々はまだここにいる"
+
+#: src-en/data/events_special_multiverse.xml.append:1657
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
+" and @lvl=\"0\"]/text"
+msgstr "介入を試みる。"
+
+#: src-en/data/events_special_multiverse.xml.append:1659
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"ケストレルから通信が入る。プロトゲンが通信コンソールに現れた。「俺は連邦軍パイロットのトラッカーだ。よろしくな。このクソッ……いや、失礼、無礼な奴らが俺たちを殺そうとしててな、あとどれくらい持つか分からないんだ。助けてくれ。相応の報酬は……チーズ、左のアフターバーナーがやられた！早く修理しろ！」"
+
+#: src-en/data/events_special_multiverse.xml.append:1661
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr "トラッカーを助ける！"
+
+#: src-en/data/events_special_multiverse.xml.append:1663
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr ""
+"あの謎のラニウス船が再び視界に現れる（どうして何度も戻ってくるんだ？）。今度こそとどめを刺す気だ。ダメージを負いながらも、トラッカーの船もまだ戦っている！"
+
+#: src-en/data/events_special_multiverse.xml.append:1667
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr "やってやろう。"
+
+#: src-en/data/events_special_multiverse.xml.append:1673
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr "スクラッパーを助ける！"
+
+#: src-en/data/events_special_multiverse.xml.append:1675
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
+" and @lvl=\"0\"]/event/choice[2]/event/text"
+msgstr ""
+"「おい、俺たちが何をしたってんだ？ ああ、そうか、思い出したぞ。なら仕方ないな」。プロトゲンが通信を切り、船の全武器を起動する。こちらも戦う準備だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:1678
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice/text"
+msgstr "この後、スクラッパーが襲ってこないといいが。"
+
+#: src-en/data/events_special_multiverse.xml.append:1686
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+"スクラップ・トランスミッターのライトが激しく点滅している。大規模な信号を受信しているようだ……最初から罠だったのか。これはマルチバースの囮となり、さらに多くのスクラッパーをここにおびき寄せようとしている……面白い、ハンターが獲物になる日も近いかもしれない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1690
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"pilot\"]/text"
+msgstr "こんなところはおさらばだ。"
+
+#: src-en/data/events_special_multiverse.xml.append:1692
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"pilot\"]/event/text"
+msgstr "トラッカーが……どうにか問題を処理しているようだ。彼らを戦わせておいて離脱しよう。"
+
+#: src-en/data/events_special_multiverse.xml.append:1694
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_multiverse.xml.append:1698
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1706
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/text"
+msgstr "今度のは強い。速い。より優れている。ピカピカですらある。粉々にしてやろう。"
+
+#: src-en/data/events_special_multiverse.xml.append:1709
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/beaconType/unvisitedTooltip"
+msgstr "取りに来い"
+
+#: src-en/data/events_special_multiverse.xml.append:1710
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/beaconType/visitedTooltip"
+msgstr "探索済み。興味のあるものは残っていない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1711
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/beaconType/undiscoveredTooltip"
+msgstr "我々はまだここにいる"
+
+#: src-en/data/events_special_multiverse.xml.append:1714
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"TC5_DEAD\""
+" and @lvl=\"0\"]/text"
+msgstr "攻撃。"
+
+#: src-en/data/events_special_multiverse.xml.append:1716
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"TC5_DEAD\""
+" and @lvl=\"0\"]/event/text"
+msgstr "ロックオン完了、全武器発射！"
+
+#: src-en/data/events_special_multiverse.xml.append:1719
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"TC5_DEAD\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_special_multiverse.xml.append:1725
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"TC5_DEAD\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+"スクラップ・トランスミッターが、まるで引き裂かれる船のように呻き声を上げている。最近よく耳にする音だ。最後に一つ、罠を仕掛けられるかもしれない……"
+
+#: src-en/data/events_special_multiverse.xml.append:1729
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"pilot\"]/text"
+msgstr "今度のは違う。経験則からして、こいつは強い。逃げよう。"
+
+#: src-en/data/events_special_multiverse.xml.append:1731
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"pilot\"]/event/text"
+msgstr "どういうわけか、こっそり逃げ出せた。あるいは、見逃されたのか？奇妙だ……だが、深く考える時間はあまりない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1733
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_multiverse.xml.append:1737
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1745
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/text"
+msgstr ""
+"これが最初のトラッシュ・コンパクターだ。スクラッパーの王子、「トラッシュ・イーター（ゴミ喰らい）」がここにいる。奴の世界征服の第一歩は、自船を乗っ取ることから始まる。奴の計画を確実に叩き潰してやろう。"
+
+#: src-en/data/events_special_multiverse.xml.append:1748
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/beaconType/unvisitedTooltip"
+msgstr "取りに来い"
+
+#: src-en/data/events_special_multiverse.xml.append:1749
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/beaconType/visitedTooltip"
+msgstr "探索済み。興味のあるものは残っていない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1750
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/beaconType/undiscoveredTooltip"
+msgstr "我々はまだここにいる"
+
+#: src-en/data/events_special_multiverse.xml.append:1753
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"TC6_DEAD\""
+" and @lvl=\"0\"]/text"
+msgstr "攻撃。"
+
+#: src-en/data/events_special_multiverse.xml.append:1755
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"TC6_DEAD\""
+" and @lvl=\"0\"]/event/text"
+msgstr "ユニバース0バージョンのスクラッパー船は、今まで戦った中で最強の敵だ。生き残れないだろう。幸運を祈る。"
+
+#: src-en/data/events_special_multiverse.xml.append:1758
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"TC6_DEAD\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "……"
+
+#: src-en/data/events_special_multiverse.xml.append:1764
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"TC6_DEAD\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+"これで終わりだ。ようやく。最後のスクラッパーも完全に沈黙した。これで多くのレネゲイドを奴らから救い出した気分だ。奴らの計画が何だったのかは定かではない。そもそも、計画なんてあったのかどうか。"
+
+#: src-en/data/events_special_multiverse.xml.append:1768
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"pilot\"]/text"
+msgstr "無理だ。"
+
+#: src-en/data/events_special_multiverse.xml.append:1770
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"pilot\"]/event/text"
+msgstr "どうにか離脱できた。理由はよく分からないが。"
+
+#: src-en/data/events_special_multiverse.xml.append:1772
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_multiverse.xml.append:1776
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1784
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/text"
+msgstr "トラッカーがいる。忙しそうだが。「お、よう、またお前か……頼む、あー、助けてくれ」"
+
+#: src-en/data/events_special_multiverse.xml.append:1787
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/beaconType/unvisitedTooltip"
+msgstr "助けてください。"
+
+#: src-en/data/events_special_multiverse.xml.append:1788
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/beaconType/visitedTooltip"
+msgstr "探索済み。興味のあるものは残っていない。"
+
+#: src-en/data/events_special_multiverse.xml.append:1789
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/beaconType/undiscoveredTooltip"
+msgstr "助けてください。"
+
+#: src-en/data/events_special_multiverse.xml.append:1792
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[1]/text"
+msgstr "ゴミコンパクターを助けろ"
+
+#: src-en/data/events_special_multiverse.xml.append:1794
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[1]/event/text"
+msgstr "ggg"
+
+#: src-en/data/events_special_multiverse.xml.append:1797
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[1]/event/choice/text"
+msgstr "了解"
+
+#: src-en/data/events_special_multiverse.xml.append:1803
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[2]/text"
+msgstr "悪いが、俺は降りるわ"
+
+#: src-en/data/events_special_multiverse.xml.append:1805
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[2]/event/text"
+msgstr "まあ、いいよ"
+
+#: src-en/data/events_special_multiverse.xml.append:1807
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[2]/event/choice/text"
+msgstr "了解"
+
+#: src-en/data/events_special_multiverse.xml.append:1860
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/text"
+msgstr "スクラッパーの船がこの宙域にいる。スクラップを求めるだけの信号を送信している。取引する気だろうか？"
+
+#: src-en/data/events_special_multiverse.xml.append:1863
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[1]/text"
+msgstr "攻撃しろ！"
+
+#: src-en/data/events_special_multiverse.xml.append:1865
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[1]/event/text[1]"
+msgstr "「しつれいシマスガ！？！」"
+
+#: src-en/data/events_special_multiverse.xml.append:1866
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[1]/event/text[2]"
+msgstr "どうやら乗り込み部隊が船内に侵入したようだ。スーパーシールドをバイパスされたのか？"
+
+#: src-en/data/events_special_multiverse.xml.append:1872
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_multiverse.xml.append:1878
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[2]/text"
+msgstr "通信してスクラップを欲しがっているか確認する。"
+
+#: src-en/data/events_special_multiverse.xml.append:1880
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[2]/event/text"
+msgstr "「スクラッブ、ほシイ！」"
+
+#: src-en/data/events_special_multiverse.xml.append:1885
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
+msgstr "仲間のスクラッパーが手を振って相手の船に信号を送る。「クーポンコード入力！！！」短いコードを入力すると、ショップの価格が下がった！"
+
+#: src-en/data/events_special_multiverse.xml.append:1891
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_BOMBER\"]/text"
+msgstr "スクラッパーの船が宙域にいる。警告もなく武器を起動した。スクラップについて叫びながら通信を送ってくる。"
+
+#: src-en/data/events_special_multiverse.xml.append:1894
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_BOMBER\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_multiverse.xml.append:1900
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_CRUISER\"]/text"
+msgstr "スクラッパーの船が宙域にいる。警告もなく武器を起動した。スクラップについて叫びながら通信を送ってくる。"
+
+#: src-en/data/events_special_multiverse.xml.append:1903
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_CRUISER\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_multiverse.xml.append:1909
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/text"
+msgstr "スクラッパーの支援船が宙域にいる。こちらに気づいていないのか、気づいていても気にしていないのか。"
+
+#: src-en/data/events_special_multiverse.xml.append:1912
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[1]/text"
+msgstr "妙な考えを起こす前に攻撃する。"
+
+#: src-en/data/events_special_multiverse.xml.append:1915
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[1]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_multiverse.xml.append:1920
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
+msgstr "自船のスクラッパーに相談する。"
+
+#: src-en/data/events_special_multiverse.xml.append:1922
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/text"
+msgstr ""
+"スクラッパーは、あの支援船は迷子になっているようだと助言する。本来は艦隊の一部として他の船と一緒にいるはずだが、孤立している。助けが必要かもしれないが、言い出せないのだろう。スクラッパーいわく、通信を送ってみるのがいいそうだ。スクラッパーは通常たった一つのことしか気にせず、異星人や人間に敵意を抱くことは少ないからだ。"
+
+#: src-en/data/events_special_multiverse.xml.append:1925
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/text"
+msgstr "スクラッパー支援船に通信し、協力を申し出る。"
+
+#: src-en/data/events_special_multiverse.xml.append:1927
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/text[1]"
+msgstr "スクラッパー船長が慌てた様子で答える。「オアいシテマスカ、ニクノセンチョウ！修理ガヒツヨウデス！スクラップ、ワケテクレマセンカ！？」"
+
+#: src-en/data/events_special_multiverse.xml.append:1928
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/text[2]"
+msgstr "やはり、このスクラッパーは一つのことしか考えていないらしい。"
+
+#: src-en/data/events_special_multiverse.xml.append:1930
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
+msgstr "自船のスクラッパーの意見を聞く。"
+
+#: src-en/data/events_special_multiverse.xml.append:1932
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/text"
+msgstr ""
+"船のスクラッパーによれば、相手の船長は本心で言っているようだが、なにせ相手はスクラップを求めているわけだし、確信は持てない。だが、誰かを助けられるのなら、助けるべきではないだろうか？"
+
+#: src-en/data/events_special_multiverse.xml.append:1935
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice/text"
+msgstr "修理のためにスクラップを転送する。"
+
+#: src-en/data/events_special_multiverse.xml.append:1937
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice/event/text"
+msgstr "スクラップを送信する……"
+
+#: src-en/data/events_special_multiverse.xml.append:1942
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_multiverse.xml.append:1944
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice/event/choice/event/text"
+msgstr "「アリガトウ、センチョウ！エンジンガ直リマシタ！コレ、拾ッタ素敵なマシーンデスカラ、ドウゾ！」"
+
+#: src-en/data/events_special_multiverse.xml.append:1955
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[2]/text"
+msgstr "クルーに戦闘準備を命じる！"
+
+#: src-en/data/events_special_multiverse.xml.append:1959
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_multiverse.xml.append:1965
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[3]/text"
+msgstr "放っておく。"
+
+#: src-en/data/events_special_multiverse.xml.append:1971
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[3]/text"
+msgstr "放っておく。"
+
+#: src-en/data/events_special_multiverse.xml.append:1977
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_HUNTER\"]/text"
+msgstr "スクラッパーの船が宙域にいる。警告もなく武器を起動した。スクラップについて叫びながら通信を送ってくる。"
+
+#: src-en/data/events_special_multiverse.xml.append:1980
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_HUNTER\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_multiverse.xml.append:1986
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_CORVETTE\"]/text"
+msgstr "スクラッパーの船が宙域にいる。警告もなく武器を起動した。スクラップについて叫びながら通信を送ってくる。"
+
+#: src-en/data/events_special_multiverse.xml.append:1989
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_CORVETTE\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_multiverse.xml.append:1995
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SCOUT\"]/text"
+msgstr "スクラッパーの船が宙域にいる。警告もなく武器を起動した。スクラップについて叫びながら通信を送ってくる。"
+
+#: src-en/data/events_special_multiverse.xml.append:1998
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SCOUT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_multiverse.xml.append:2004
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_SCOUT_DESTROYED\"]/text"
+msgstr "スクラッパー船が爆発し、大量のスクラップが残された。"
+
+#: src-en/data/events_special_multiverse.xml.append:2009
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_SCOUT_DEADCREW\"]/text"
+msgstr "スクラッパー船は空だ。じっくりと船を解体できそうだ。"
+
+#: src-en/data/events_special_multiverse.xml.append:2014
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_BOMBER_DESTROYED\"]/text"
+msgstr "スクラッパー船が爆発し、大量のスクラップが残された。"
+
+#: src-en/data/events_special_multiverse.xml.append:2019
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_BOMBER_DEADCREW\"]/text"
+msgstr "スクラッパー船は空だ。じっくりと船を解体できそうだ。"
+
+#: src-en/data/events_special_multiverse.xml.append:2024
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_SHOP_DESTROYED\"]/text"
+msgstr "スクラッパー船が爆発し、大量のスクラップが残された。"
+
+#: src-en/data/events_special_multiverse.xml.append:2029
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_SHOP_DEADCREW\"]/text"
+msgstr "スクラッパー船は空だ。じっくりと船を解体できそうだ。"
+
+#: src-en/data/events_special_multiverse.xml.append:2034
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_CORVETTE_DESTROYED\"]/text"
+msgstr "スクラッパー船が爆発し、大量のスクラップが残された。"
+
+#: src-en/data/events_special_multiverse.xml.append:2041
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_CORVETTE_DEADCREW\"]/text"
+msgstr "スクラッパー船は空だ。じっくりと船を解体できそうだ。"
+
+#: src-en/data/events_special_multiverse.xml.append:2048
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_HUNTER_DESTROYED\"]/text"
+msgstr "スクラッパー船が爆発し、大量のスクラップが残された。"
+
+#: src-en/data/events_special_multiverse.xml.append:2055
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_HUNTER_DEADCREW\"]/text"
+msgstr "スクラッパー船は空だ。じっくりと船を解体できそうだ。"
+
+#: src-en/data/events_special_multiverse.xml.append:2062
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_SUPPORT_DESTROYED\"]/text"
+msgstr "スクラッパー船が爆発し、大量のスクラップが残された。"
+
+#: src-en/data/events_special_multiverse.xml.append:2069
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_SUPPORT_DEADCREW\"]/text"
+msgstr "スクラッパー船は空だ。じっくりと船を解体できそうだ。"
+
+#: src-en/data/events_special_multiverse.xml.append:2076
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_CRUISER_DESTROYED\"]/text"
+msgstr "スクラッパー船が爆発し、大量のスクラップが残された。"
+
+#: src-en/data/events_special_multiverse.xml.append:2081
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_CRUISER_DEADCREW\"]/text"
+msgstr "スクラッパー船は空だ。じっくりと船を解体できそうだ。"
+
+#: src-en/data/events_special_multiverse.xml.append:2092
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"SYLVAN_ROYAL_NORMAL\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr "リアの通信に応答する間、リアを隣に立たせる。"
+
+#: src-en/data/events_special_multiverse.xml.append:2100
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SYLVAN_ROYAL_LEAH_DIALOGUE\"]/text"
+msgstr ""
+"「嘘でしょ。そんなわけない。……もう一人のリア？ 私たちの関係はどうなるの？ "
+"史上最も伝説的なライバル関係だったのに、私を差し置いてもう一人の私を見つけるなんて？ "
+"特別な関係だと思ってたのに。何度も戦って、素晴らしい瞬間をたくさん共有したのに、あなたって人は……私を裏切ったのね！」リアがテーブルを拳で叩いて席を飛び上がる。「もう遊びは終わりよ、キャプテン。私たちのライバル関係は終了。どちらか一方が生き残るしかないわ。あ、でも、同時に死んだら、それってすごくクールでエピックなモー……」通信を切り、武器のチャージを開始する。"
+
+#: src-en/data/events_special_multiverse.xml.append:2103
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"SYLVAN_ROYAL_LEAH_DIALOGUE\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_multiverse.xml.append:2110
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice/text"
+msgstr "スクラッパーを提示する。"
+
+#: src-en/data/events_special_multiverse.xml.append:2112
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"「ラニウスの……収集者たちか。スクラップへの強欲さが彼らを変えてしまった。彼らを船に乗せるとは……驚きだ。いや、感心したよ。よくやった、旅人よ。次の旅の前に……報いがあるだろう。」"
+
+#: src-en/data/events_special_multiverse.xml.append:2117
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice/event/choice/text"
+msgstr "次へ…"
