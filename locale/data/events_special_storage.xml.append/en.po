@@ -75,7 +75,7 @@ msgstr "The machine constructs a Sentient."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY_UPGRADES\"]/mod-"
 "append:choice/text"
-msgstr "Backup Memory Archive[Already Installed]"
+msgstr "Backup Memory Archive [Already Installed]"
 
 #: src-en/data/events_special_storage.xml.append:92
 msgid ""
@@ -1761,7 +1761,7 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_ARTILLERY_TARGETING\"]/mod-"
 "append:choice/text"
 msgstr ""
-"Your scrappers can install this upgrade for a reduced cost. [Cost: 40~, 9}]"
+"Your scrappers can install this upgrade for a reduced cost. [Cost: 50~, 9}]"
 
 #: src-en/data/events_special_storage.xml.append:1491
 msgid ""
@@ -1774,7 +1774,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_ARTILLERY_TARGETING\"]/choice[@req=\"loc_artillery_max_player\""
 " and @lvl=\"1\"]/text"
-msgstr "Perform the upgrade. [Cost: 40~, 9}]"
+msgstr "Perform the upgrade. [Cost: 50~, 9}]"
 
 #: src-en/data/events_special_storage.xml.append:1496
 msgid ""
@@ -1804,7 +1804,7 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_POWER\"]/mod-"
 "append:choice/text"
 msgstr ""
-"Your scrappers can install this upgrade for a reduced cost. [Cost: 40~, 2|]"
+"Your scrappers can install this upgrade for a reduced cost. [Cost: 30~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:1525
 msgid ""
@@ -1817,7 +1817,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_TELEPORTER_POWER\"]/choice[@req=\"teleporter\""
 " and @lvl=\"3\"]/text"
-msgstr "Perform the upgrade. [Cost: 40~, 2|]"
+msgstr "Perform the upgrade. [Cost: 30~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:1530
 msgid ""
@@ -1847,7 +1847,7 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_PILOT_REPAIR\"]/mod-"
 "append:choice/text"
 msgstr ""
-"Your scrappers can install this upgrade for a reduced cost. [Cost: 10~, 1|]"
+"Your scrappers can install this upgrade for a reduced cost. [Cost: 15~, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:1559
 msgid ""
@@ -1860,7 +1860,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_PILOT_REPAIR\"]/choice[@req=\"pilot\""
 " and @lvl=\"3\"]/text"
-msgstr "Perform the upgrade. [Cost: 10~, 1|]"
+msgstr "Perform the upgrade. [Cost: 15~, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:1564
 msgid ""
@@ -1889,7 +1889,7 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_PILOT_REROUTE\"]/mod-"
 "append:choice/text"
 msgstr ""
-"Your scrappers can install this upgrade for a reduced cost. [Cost: 35~]"
+"Your scrappers can install this upgrade for a reduced cost. [Cost: 5~]"
 
 #: src-en/data/events_special_storage.xml.append:1593
 msgid ""
@@ -1901,7 +1901,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1596
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_PILOT_REROUTE\"]/choice[1]/text"
-msgstr "Perform the upgrade. [Cost: 50~]"
+msgstr "Perform the upgrade. [Cost: 5~]"
 
 #: src-en/data/events_special_storage.xml.append:1598
 msgid ""
@@ -1935,7 +1935,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1625
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MIND_KILLSWITCH\"]/choice[@req=\"mind\"]/text"
-msgstr "Perform the upgrade. [Cost: 40~, 1{]"
+msgstr "Perform the upgrade. [Cost: 40~, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:1627
 msgid ""
@@ -1957,7 +1957,7 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS_PERFORMANCE\"]/mod-"
 "append:choice/text"
 msgstr ""
-"Your scrappers can install this upgrade for a reduced cost. [Cost: 40~, 9}]"
+"Your scrappers can install this upgrade for a reduced cost. [Cost: 40~, 6}]"
 
 #: src-en/data/events_special_storage.xml.append:1652
 msgid ""
@@ -1970,7 +1970,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_WEAPONS_PERFORMANCE\"]/choice[@req=\"weapons\""
 " and @lvl=\"5\"]/text"
-msgstr "Perform the upgrade. [Cost: 40~, 9}]"
+msgstr "Perform the upgrade. [Cost: 40~, 6}]"
 
 #: src-en/data/events_special_storage.xml.append:1657
 msgid ""
@@ -1988,7 +1988,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_WEAPONS_PERFORMANCE\"]/choice[@req=\"weapons\""
 " and @lvl=\"1\"]/text"
-msgstr "This upgrade is unavailable. You need weapons level 5."
+msgstr "This upgrade is unavailable. You need Weapons level 5."
 
 #: src-en/data/events_special_storage.xml.append:1673
 msgid ""
@@ -2774,7 +2774,7 @@ msgstr "Go back."
 #: src-en/data/events_special_storage.xml.append:2534
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/text"
-msgstr "You are viewing the lab menu for: [SCRAPPER]"
+msgstr "You are viewing the lab menu for: [SCRAPPERS]"
 
 #: src-en/data/events_special_storage.xml.append:2536
 msgid ""
@@ -2805,12 +2805,12 @@ msgstr "Currently Installed: None"
 #: src-en/data/events_special_storage.xml.append:2555
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[5]/text"
-msgstr "Pri: Boarding Gear [Cost: 35~,2|]"
+msgstr "Pri: Toxic Metal. [An upgrade is already installed]"
 
 #: src-en/data/events_special_storage.xml.append:2559
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[6]/text"
-msgstr "Pri: Defense Field Generator [Cost: 50~,5|]"
+msgstr "Pri: Toxic Metal. [Cost: 30~ 3|]"
 
 #: src-en/data/events_special_storage.xml.append:2563
 msgid ""
@@ -2830,7 +2830,7 @@ msgstr "Pri: Sharpened Teeth. [An upgrade is already installed]"
 #: src-en/data/events_special_storage.xml.append:2575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[10]/text"
-msgstr "[ADVANCED SCRAP PROCESSOR] Augment and upgrade your scrappers."
+msgstr "Pri: Sharpened Teeth. [Cost: 35~, 2}]"
 
 #: src-en/data/events_special_storage.xml.append:2579
 msgid ""
@@ -2937,7 +2937,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2661
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_SOLIDIFIED_SCRAP\"]/choice[1]/text"
-msgstr "Install the modification. [Cost: 50~, 1{]"
+msgstr "Install the modification. [Cost: 50~]"
 
 #: src-en/data/events_special_storage.xml.append:2663
 msgid ""
@@ -2966,7 +2966,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2692
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_SHARPENED_TEETH\"]/choice[1]/text"
-msgstr "Install the modification. [Cost: 35~, 2|]"
+msgstr "Install the modification. [Cost: 35~, 2}]"
 
 #: src-en/data/events_special_storage.xml.append:2694
 msgid ""
@@ -2996,7 +2996,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_DEFENDER_SCRAP_SHIELDING\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr "Install the modification. [Cost: 30~ 3|]"
+msgstr "Install the modification. [Cost: 40~]"
 
 #: src-en/data/events_special_storage.xml.append:2732
 msgid ""
@@ -3034,7 +3034,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_HEAVY_EXPLOSIVE_ENHANCEMENTS\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr "Install the modification. [Cost: 50~, 5|]"
+msgstr "Install the modification. [Cost: 20~ 5}]"
 
 #: src-en/data/events_special_storage.xml.append:2765
 msgid ""
@@ -3072,7 +3072,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_SCAVENGER_SUPER_SPEED\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr "Install the modification. [Cost: 30~ 3|]"
+msgstr "Install the modification. [Cost: 30~]"
 
 #: src-en/data/events_special_storage.xml.append:2799
 msgid ""
@@ -3300,13 +3300,14 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_GUIDE\"]/text"
 msgstr ""
 "Scrappers are unique in the fact that they can upgrade into many other specialised designs. There are 3 tiers of scrappers.\n"
-"\t\tTier 1: Scrapper\n"
-"\t\tTier 2: Soldier, Engineer, Medic\n"
-"\t\tTier 3: Heavy, Scavenger, and Defenders\n"
+"\t\tBase: Scrapper\n"
+"\t\tTier 1: Soldier, Engineer, Medic\n"
+"\t\tTier 2: Heavy, Scavenger, and Defenders\n"
+"\t\tTier 3: Mark 2 Scrappers\n"
 "\t\tYou can upgrade Scrappers to higher tiers for scrap and other resources.\n"
+"\t\tBase to Tier 1\n"
 "\t\tTier 1 to Tier 2\n"
-"\t\tTier 2 to Tier 3\n"
-"\t\tTier 3 to Upgraded/Enhanced."
+"\t\tTier 2 to Tier 3"
 
 #: src-en/data/events_special_storage.xml.append:3151
 msgid ""
@@ -3325,7 +3326,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_LANIUS\"]/text"
 msgstr ""
 "Puts your Lanius through the \"Process\" of becoming a Scrapper.\n"
-"\t\t[Tier 1] Scrapper\n"
+"\t\t[Base] Scrapper\n"
 "\t\t115 Health\n"
 "\t\t0.5x Fire Damage Taken\n"
 "\t\t0.5x Oxygen Drain\n"
@@ -3660,17 +3661,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3512
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_MENU\"]/choice[1]/text"
-msgstr "Create a Rosegold Scrapper."
+msgstr ""
+"Create a Rosegold Scrapper. [Resists mind control, provides 1 power and "
+"buffs allies in the same room]"
 
 #: src-en/data/events_special_storage.xml.append:3516
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_MENU\"]/choice[2]/text"
-msgstr "Create a Golden Scrapper."
+msgstr ""
+"Create a Golden Scrapper. [Provides/Drains 1 power and takes reduced damage]"
 
 #: src-en/data/events_special_storage.xml.append:3520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_MENU\"]/choice[3]/text"
-msgstr "Create an Adamantine Scrapper."
+msgstr ""
+"Create an Adamantine Scrapper. [Removes enemy suffocation immunity and slows"
+" them]"
 
 #: src-en/data/events_special_storage.xml.append:3524
 msgid ""
@@ -3681,7 +3687,7 @@ msgstr "Go back."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_ROSEGOLD\"]/text"
 msgstr ""
-"[Tier 1 to Level 1 Elemental] Interface with the multiversal scrap processor to transfuse your scrapper with Rosegold. \n"
+"[Base to Level 1 Elemental] Interface with the multiversal scrap processor to transfuse your scrapper with Rosegold. \n"
 "\t125 Health\n"
 "\tImmune to Fire Damage\n"
 "\t0.5x Oxygen Drain\n"
@@ -3712,7 +3718,7 @@ msgstr "Go back."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_GOLDEN\"]/text"
 msgstr ""
-"[Tier 1 to Level 1 Elemental] Interface with the multiversal scrap processor to transfuse your scrapper with Gold. \n"
+"[Base to Level 1 Elemental] Interface with the multiversal scrap processor to transfuse your scrapper with Gold. \n"
 "\t100 Health\n"
 "\t0.5x Fire Damage\n"
 "\t0.5x Oxygen Drain\n"
@@ -3742,7 +3748,7 @@ msgstr "Go back."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_ADAMANTINE\"]/text"
 msgstr ""
-"[Tier 1 to Level 1 Elemental] Interface with the multiversal scrap processor to transfuse your scrapper with Adamantine. \n"
+"[Base to Level 1 Elemental] Interface with the multiversal scrap processor to transfuse your scrapper with Adamantine. \n"
 "\t125 Health\n"
 "\t4x Fire Damage\n"
 "\t0.5x Oxygen Drain\n"
@@ -3963,7 +3969,7 @@ msgstr "Upgrade Adamantine Scrapper to Adamantine Scrapper Heavy Soldier."
 #: src-en/data/events_special_storage.xml.append:3778
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_2_TIER\"]/choice[@req=\"golden_scrapper_2\"]/text"
-msgstr "Upgrade Golden Scrapper to Rosegold Scrapper Defender."
+msgstr "Upgrade Golden Scrapper to Golden Scrapper Defender."
 
 #: src-en/data/events_special_storage.xml.append:3782
 msgid ""
@@ -4082,7 +4088,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3882
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_3_TIER\"]/choice[@req=\"golden_scrapper_3\"]/text"
-msgstr "Upgrade Golden Scrapper to Rosegold Scrapper Defender Mark 2."
+msgstr "Upgrade Golden Scrapper to Golden Scrapper Defender Mark 2."
 
 #: src-en/data/events_special_storage.xml.append:3886
 msgid ""
@@ -4579,22 +4585,22 @@ msgstr "Transmute into a Adamantine Scrapper."
 #: src-en/data/events_special_storage.xml.append:4310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ROSEGOLD\"]/choice[3]/text"
-msgstr "Transmute into a Golden Scrapper."
+msgstr "Transmute into an Enhanced Golden Scrapper."
 
 #: src-en/data/events_special_storage.xml.append:4314
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ROSEGOLD\"]/choice[4]/text"
-msgstr "Transmute into a Adamantine Scrapper."
+msgstr "Transmute into an Enhanced Adamantine Scrapper."
 
 #: src-en/data/events_special_storage.xml.append:4318
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ROSEGOLD\"]/choice[5]/text"
-msgstr "Transmute into a Golden Scrapper."
+msgstr "Transmute into an Ascended Golden Scrapper."
 
 #: src-en/data/events_special_storage.xml.append:4322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ROSEGOLD\"]/choice[6]/text"
-msgstr "Transmute into a Adamantine Scrapper."
+msgstr "Transmute into an Acended Adamantine Scrapper."
 
 #: src-en/data/events_special_storage.xml.append:4326
 msgid ""
@@ -4798,22 +4804,22 @@ msgstr "Transmute into a Adamantine Scrapper."
 #: src-en/data/events_special_storage.xml.append:4483
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_GOLDEN\"]/choice[3]/text"
-msgstr "Transmute into a Rosegold Scrapper."
+msgstr "Transmute into an Enhanced Rosegold Scrapper."
 
 #: src-en/data/events_special_storage.xml.append:4487
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_GOLDEN\"]/choice[4]/text"
-msgstr "Transmute into a Adamantine Scrapper."
+msgstr "Transmute into an Enhanced Adamantine Scrapper."
 
 #: src-en/data/events_special_storage.xml.append:4491
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_GOLDEN\"]/choice[5]/text"
-msgstr "Transmute into a Rosegold Scrapper."
+msgstr "Transmute into an Ascended Rosegold Scrapper."
 
 #: src-en/data/events_special_storage.xml.append:4495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_GOLDEN\"]/choice[6]/text"
-msgstr "Transmute into a Adamantine Scrapper."
+msgstr "Transmute into an Ascended Adamantine Scrapper."
 
 #: src-en/data/events_special_storage.xml.append:4499
 msgid ""
@@ -5020,22 +5026,22 @@ msgstr "Transmute into a Golden Scrapper."
 #: src-en/data/events_special_storage.xml.append:4659
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ADAMANTINE\"]/choice[3]/text"
-msgstr "Transmute into a Rosegold Scrapper."
+msgstr "Transmute into an Enhanced Rosegold Scrapper."
 
 #: src-en/data/events_special_storage.xml.append:4663
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ADAMANTINE\"]/choice[4]/text"
-msgstr "Transmute into a Golden Scrapper."
+msgstr "Transmute into an Enhanced Golden Scrapper."
 
 #: src-en/data/events_special_storage.xml.append:4667
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ADAMANTINE\"]/choice[5]/text"
-msgstr "Transmute into a Rosegold Scrapper."
+msgstr "Transmute into an Ascended Rosegold Scrapper."
 
 #: src-en/data/events_special_storage.xml.append:4671
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ADAMANTINE\"]/choice[6]/text"
-msgstr "Transmute into a Golden Scrapper."
+msgstr "Transmute into an Ascended Golden Scrapper."
 
 #: src-en/data/events_special_storage.xml.append:4675
 msgid ""
@@ -5614,7 +5620,7 @@ msgstr "Create a Rosegold Scrapper Scavenger."
 #: src-en/data/events_special_storage.xml.append:5171
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_TIER3\"]/choice[@req=\"scrapper_defender\"]/text"
-msgstr "Create a Golden Scrapper defender."
+msgstr "Create a Golden Scrapper Defender."
 
 #: src-en/data/events_special_storage.xml.append:5175
 msgid ""
@@ -5666,7 +5672,7 @@ msgstr ""
 "\t\t0.5x Fire Damage\n"
 "\t\t0.5x Oxygen Drain\n"
 "\t\t1x Damage\n"
-"\t\t1x Repair Speed\n"
+"\t\tCannot Repair\n"
 "\t\t1x Sabotage Damage\n"
 "\t\t1x Move Speed\n"
 "\t\tProvides 1 Power. Drains 1 Power from Enemy Systems\n"
@@ -5739,7 +5745,7 @@ msgstr "Create a Golden Scrapper Defender Mark 2."
 #: src-en/data/events_special_storage.xml.append:5282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_TIER3_UPGRADED\"]/choice[@req=\"scrapper_heavy_mk2\"]/text"
-msgstr "Create an Adamantine Scrapper Heavy Soldier."
+msgstr "Create an Adamantine Scrapper Heavy Soldier Mark 2."
 
 #: src-en/data/events_special_storage.xml.append:5286
 msgid ""
@@ -5750,14 +5756,14 @@ msgstr "Go back."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ROSEGOLD_SCAVENGER_UPGRADED\"]/text"
 msgstr ""
-"[Tier 2 Specialist to Tier 2 Elemental Specialist] Interface with the multiversal scrap processor to transfuse your scrapper with Rosegold. \n"
-"\t\t135 Health\n"
+"[Tier 3 Upgraded Specialist to Tier 3 Upgraded Elemental Specialist] Interface with the multiversal scrap processor to transfuse your scrapper with Rosegold. \n"
+"\t\t165 Health\n"
 "\t\tImmune to Fire Damage\n"
 "\t\t0.5x Oxygen Drain\n"
-"\t\t0.5x Damage\n"
-"\t\t[Specialization]3x Sabotage Speed\n"
+"\t\tCannot Fight\n"
+"\t\t[Specialization]4x Sabotage Speed\n"
 "\t\t[Specialization]1.5x Move Speed\n"
-"\t\t[Specialization]3x Repair Speed\n"
+"\t\t[Specialization]4x Repair Speed\n"
 "\t\tProvides 2 power\n"
 "\t\tResists Mind Control\n"
 "\t\tIncreases nearby crews health, damage and repair speed by 10%. Reduces damage taken of nearby allies by 12.5%"
@@ -5782,18 +5788,18 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_GOLDEN_DEFENDER_UPGRADED\"]/text"
 msgstr ""
 "[Tier 2 Specialist to Tier 2 Elemental Specialist] Interface with the multiversal scrap processor to transfuse your scrapper medic with Gold. \n"
-"\t\t150 Health\n"
+"\t\t200 Health\n"
 "\t\t0.5x Fire Damage\n"
 "\t\t0.5x Oxygen Drain\n"
-"\t\t1x Damage\n"
-"\t\t1x Repair Speed\n"
+"\t\t1.25x Damage\n"
+"\t\tCannot Repair\n"
 "\t\t1x Sabotage Damage\n"
 "\t\t1x Move Speed\n"
 "\t\tProvides 1 Power. Drains 1 Power from Enemy Systems\n"
 "\t\tDamage from all sources is reduced by 10%\n"
 "\t\t[Specialization]Reduces all damage taken by all friendly crew in the room by 20%\n"
-"\t\t[Specialization]Heals itself after 15 second delay for 4hp/s\n"
-"\t\t[Specialization]Can heal allies for 50 health at the cost of 50 health. 30 second cooldown. Recovers 1 charge per jump."
+"\t\t[Specialization]Heals itself after 10 second delay for 6hp/s\n"
+"\t\t[Specialization]Can heal allies for 75 health at the cost of 75 health. 30 second cooldown. Recovers 1 charge per jump."
 
 #: src-en/data/events_special_storage.xml.append:5336
 msgid ""
@@ -5815,11 +5821,12 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ADAMANTINE_HEAVY_SOLDIER_UPGRADED\"]/text"
 msgstr ""
 "[Tier 2 Specialist to Tier 2 Elemental Specialist] Interface with the multiversal scrap processor to transfuse your scrapper soldier with Adamantine. \n"
-"\t\t175 Health\n"
-"\t\t4x Fire Damage\n"
-"\t\t1x Oxygen Drain\n"
-"\t\t[Specialization]1.75x Damage\n"
-"\t\t[Specialization]2.0x Sabotage Damage\n"
+"\t\t225 Health\n"
+"\t\t2x Fire Damage\n"
+"\t\tGenerates Oxygen\n"
+"\t\tCannot Man or Repair\n"
+"\t\t[Specialization]2.25x Damage\n"
+"\t\t[Specialization]2.5x Sabotage Damage\n"
 "\t\t0.5x Move Speed\n"
 "\t\tNearby enemies all take damage from suffocation and have their movespeed reduced by 80%\n"
 "\t\tCan create explosions onboard enemy ships, damaging the ship and systems."
@@ -5888,7 +5895,7 @@ msgstr "Go back."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ROSEGOLD_ENGINEER_SCAVENGER\"]/text"
 msgstr ""
-"[Tier 1 Elemental Specialist to Tier 2 Elemental Specialist  Interface with the multiversal scrap processor to transfuse your scrapper with Rosegold. \n"
+"[Tier 1 Elemental Specialist to Tier 2 Elemental Specialist]  Interface with the multiversal scrap processor to transfuse your scrapper with Rosegold. \n"
 "\t\t135 Health\n"
 "\t\tImmune to Fire Damage\n"
 "\t\t0.5x Oxygen Drain\n"
@@ -5918,7 +5925,7 @@ msgstr "Go back."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_GOLDEN_MEDIC_DEFENDER\"]/text"
 msgstr ""
-"[Tier 1 Elemental Specialist to Tier 2 Elemental Specialist  Interface with the multiversal scrap processor to transfuse your scrapper medic with Gold. \n"
+"[Tier 1 Elemental Specialist to Tier 2 Elemental Specialist]  Interface with the multiversal scrap processor to transfuse your scrapper medic with Gold. \n"
 "\t\t150 Health\n"
 "\t\t0.5x Fire Damage\n"
 "\t\t0.5x Oxygen Drain\n"
@@ -6265,7 +6272,7 @@ msgstr "Pri: Avian Interdependancy. [An upgrade is already installed]"
 #: src-en/data/events_special_storage.xml.append:5754
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AVALI\"]/choice[6]/text"
-msgstr "Pri: Avian Interdependancy."
+msgstr "Pri: Avian Interdependancy. [Cost: 30~ 3|]"
 
 #: src-en/data/events_special_storage.xml.append:5758
 msgid ""
@@ -6275,7 +6282,7 @@ msgstr "Pri: Flame Retardant Cloaks. [An upgrade is already installed]"
 #: src-en/data/events_special_storage.xml.append:5762
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AVALI\"]/choice[8]/text"
-msgstr "Pri: Flame Retardant Cloaks."
+msgstr "Pri: Flame Retardant Cloaks. [Cost: 6{]"
 
 #: src-en/data/events_special_storage.xml.append:5766
 msgid ""
@@ -6285,7 +6292,7 @@ msgstr "Pri: Dense Fluff. [An upgrade is already installed]"
 #: src-en/data/events_special_storage.xml.append:5770
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AVALI\"]/choice[10]/text"
-msgstr "Pri: Dense Fluff."
+msgstr "Pri: Dense Fluff. [Cost: 3{]"
 
 #: src-en/data/events_special_storage.xml.append:5774
 msgid ""
@@ -6297,10 +6304,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AVALI_CYBERNETIC\"]/text"
 msgstr ""
 "You are about to install the Avian Interdependancy modification.\n"
-"  \t[Effects: Effects of Avali teamwork are doubled, however the base stats affected by it are halved. Exact details varies based on Avali subtype.]\n"
-"  \t(small note from dev; yes, future varients will boost different stats)\n"
+"[Effects: Effects of Avali teamwork are doubled, however the base stats affected by it are halved. Exact details varies based on Avali subtype.]\n"
 "\n"
-"  \t[Warning: After installing this, you will not be able to install any more primary upgrades for Avali crew. You will not be able to deactivate this mod either.]"
+"[Warning: After installing this, you will not be able to install any more primary upgrades for Avali crew. You will not be able to deactivate this mod either.]"
 
 #: src-en/data/events_special_storage.xml.append:5785
 msgid ""
@@ -6327,9 +6333,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AVALI_FLAMECLOAKS\"]/text"
 msgstr ""
 "You are about to install the Flame Retardent Cloaks modification.\n"
-"  \t[Effects: Avali crew take 35% less damage from fire, and extinguish them 80% faster.]\n"
+"[Effects: Avali crew take 35% less damage from fire, and extinguish them 80% faster.]\n"
 "\n"
-"  \t[Warning: After installing this, you will not be able to install any more primary upgrades for Avali crew. You will not be able to deactivate this mod either.]"
+"[Warning: After installing this, you will not be able to install any more primary upgrades for Avali crew. You will not be able to deactivate this mod either.]"
 
 #: src-en/data/events_special_storage.xml.append:5814
 msgid ""
@@ -6356,9 +6362,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AVALI_DENSEFLUFF\"]/text"
 msgstr ""
 "You are about to perform the Dense Fluff modification.\n"
-"  \t[Effects: Avali crew move 30% slower, take 20% less damage from combat and take 50% more fire damage.]\n"
+"[Effects: Avali crew move 30% slower, take 20% less damage from combat and take 50% more fire damage.]\n"
 "\n"
-"  \t[Warning: After installing this, you will not be able to install any more primary upgrades for Avali crew. You will not be able to deactivate this mod either.]"
+"[Warning: After installing this, you will not be able to install any more primary upgrades for Avali crew. You will not be able to deactivate this mod either.]"
 
 #: src-en/data/events_special_storage.xml.append:5842
 msgid ""
@@ -6405,7 +6411,7 @@ msgstr "Create a Gunner"
 #: src-en/data/events_special_storage.xml.append:5900
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_ROBOTTO_UPGRADE\"]/choice[4]/text"
-msgstr "Nevermind, do something else."
+msgstr "Create a Law Enforcement Scout"
 
 #: src-en/data/events_special_storage.xml.append:5904
 msgid ""
@@ -6715,7 +6721,7 @@ msgstr "Continue..."
 #: src-en/data/events_special_storage.xml.append:6140
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TOGGLE_FLAK_ROSEGOLD\"]/choice[1]/event/choice/event/text"
-msgstr "You finish calibrating the drone successfully."
+msgstr "You finish calibrating the weapon successfully."
 
 #: src-en/data/events_special_storage.xml.append:6143
 msgid ""
@@ -6740,7 +6746,7 @@ msgstr "Continue..."
 #: src-en/data/events_special_storage.xml.append:6158
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TOGGLE_FLAK_ROSEGOLD\"]/choice[2]/event/choice/event/text"
-msgstr "You finish calibrating the drone successfully."
+msgstr "You finish calibrating the weapon successfully."
 
 #: src-en/data/events_special_storage.xml.append:6161
 msgid ""
@@ -6777,7 +6783,7 @@ msgstr "Continue..."
 #: src-en/data/events_special_storage.xml.append:6185
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TOGGLE_FLAK_GOLDEN\"]/choice[1]/event/choice/event/text"
-msgstr "You finish calibrating the drone successfully."
+msgstr "You finish calibrating the weapon successfully."
 
 #: src-en/data/events_special_storage.xml.append:6188
 msgid ""
@@ -6802,7 +6808,7 @@ msgstr "Continue..."
 #: src-en/data/events_special_storage.xml.append:6203
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TOGGLE_FLAK_GOLDEN\"]/choice[2]/event/choice/event/text"
-msgstr "You finish calibrating the drone successfully."
+msgstr "You finish calibrating the weapon successfully."
 
 #: src-en/data/events_special_storage.xml.append:6206
 msgid ""
@@ -6839,7 +6845,7 @@ msgstr "Continue..."
 #: src-en/data/events_special_storage.xml.append:6230
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TOGGLE_FLAK_ADAMANTINE\"]/choice[1]/event/choice/event/text"
-msgstr "You finish calibrating the drone successfully."
+msgstr "You finish calibrating the weapon successfully."
 
 #: src-en/data/events_special_storage.xml.append:6233
 msgid ""
@@ -6864,7 +6870,7 @@ msgstr "Continue..."
 #: src-en/data/events_special_storage.xml.append:6248
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TOGGLE_FLAK_ADAMANTINE\"]/choice[2]/event/choice/event/text"
-msgstr "You finish calibrating the drone successfully."
+msgstr "You finish calibrating the weapon successfully."
 
 #: src-en/data/events_special_storage.xml.append:6251
 msgid ""

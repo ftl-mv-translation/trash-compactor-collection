@@ -123,7 +123,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:36
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SCRAPPER_unlock\"]"
-msgstr "Defeat all 6 versions of the Trash Compactor."
+msgstr "Complete the Trash Compactor questline."
 
 #: src-en/data/text_blueprints.xml.append:38
 msgid ""
@@ -169,7 +169,9 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:48
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_EATER_unlock\"]"
-msgstr "Beat the game with the Scrapper Dreadnought."
+msgstr ""
+"Consult the advice of a certain Lanius prince about a certain artifact to "
+"unlock this ship."
 
 #: src-en/data/text_blueprints.xml.append:52
 msgid "data/text_blueprints.xml.append$/dummyroot/text[34]"
@@ -351,7 +353,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:103
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_ARMORED_WASP_unlock\"]"
-msgstr "Win the Game with any layout of the Transport Dropship."
+msgstr "Win the Game with the Converted Transporter."
 
 #: src-en/data/text_blueprints.xml.append:105
 msgid ""
@@ -548,7 +550,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:154
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_unlock\"]"
-msgstr "Unlock all of the other ships on the first page added by the TCC."
+msgstr "Unlock all layouts of the Scrapper and Elemental Scrapper Cruisers."
 
 #: src-en/data/text_blueprints.xml.append:156
 msgid ""
@@ -571,7 +573,9 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:159
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_2_unlock\"]"
-msgstr "Win the game with Type A."
+msgstr ""
+"Unlock all layouts of the Trash Miner, Reactive Compactor, and LPC-Class "
+"Hybrid Jet Cruisers."
 
 #: src-en/data/text_blueprints.xml.append:161
 msgid ""
@@ -658,9 +662,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:190
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FEDERATION_CARRIER_unlock\"]"
-msgstr ""
-"Unlock four Federation military ships from this Page or the 4 first ships on"
-" this page to unlock this Cruiser."
+msgstr "Unlock all four ships on this page."
 
 #: src-en/data/text_blueprints.xml.append:192
 msgid ""
@@ -864,12 +866,12 @@ msgstr "Win the Game with any layout of the Rent-a-Flagship."
 #: src-en/data/text_blueprints.xml.append:249
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_DEFENSE_unlock\"]"
-msgstr "Unlock the cruiser of a certain terrorist."
+msgstr "Unlock the Alt-Peacekeeping and Alt-Paladin Cruisers."
 
 #: src-en/data/text_blueprints.xml.append:250
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_POTENTIAL_unlock\"]"
-msgstr "Unlock the cruiser of a certain Federation figure."
+msgstr "Unlock the Crewser of a certain Federation Admiral."
 
 #: src-en/data/text_blueprints.xml.append:251
 msgid ""
@@ -884,9 +886,7 @@ msgstr "Reach sector 5 with Type B or win with Type A."
 #: src-en/data/text_blueprints.xml.append:256
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_unlock\"]"
-msgstr ""
-"Win using the blueprints for a Cruiser made by a race of long forgotten "
-"Demi-God Royalty."
+msgstr "Win using Obelisk B."
 
 #: src-en/data/text_blueprints.xml.append:257
 msgid ""
@@ -896,7 +896,9 @@ msgstr "Win with Type A."
 #: src-en/data/text_blueprints.xml.append:258
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_3_unlock\"]"
-msgstr "Ask a certain flagship about what to do with a certain device."
+msgstr ""
+"Consult the advice of a certain Multiverse Flagship about about a certain "
+"artifact to unlock this ship."
 
 #: src-en/data/text_blueprints.xml.append:259
 msgid ""

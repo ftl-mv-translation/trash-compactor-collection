@@ -124,7 +124,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:36
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SCRAPPER_unlock\"]"
-msgstr "Vaincre les 6 versions du Compacteur de Déchets."
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:38
 msgid ""
@@ -172,7 +172,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:48
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_EATER_unlock\"]"
-msgstr "Gagner la partie avec le Cuirassé lourd récupérateur."
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:52
 msgid "data/text_blueprints.xml.append$/dummyroot/text[34]"
@@ -366,8 +366,6 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_ARMORED_WASP_unlock\"]"
 msgstr ""
-"Gagner la partie avec n'importe quelle configuration du Vaisseau de "
-"transport."
 
 #: src-en/data/text_blueprints.xml.append:105
 msgid ""
@@ -571,7 +569,6 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_unlock\"]"
 msgstr ""
-"Débloquer tous les autres vaisseaux de la première page ajoutés par le TCC."
 
 #: src-en/data/text_blueprints.xml.append:156
 msgid ""
@@ -594,7 +591,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:159
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_2_unlock\"]"
-msgstr "Gagner la partie avec le Type A."
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:161
 msgid ""
@@ -689,8 +686,6 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FEDERATION_CARRIER_unlock\"]"
 msgstr ""
-"Débloquer quatre vaisseaux militaires de la Fédération de cette page ou les "
-"4 premiers vaisseaux de cette page pour débloquer ce Croiseur."
 
 #: src-en/data/text_blueprints.xml.append:192
 msgid ""
@@ -901,12 +896,12 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:249
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_DEFENSE_unlock\"]"
-msgstr "Débloquer le croiseur d'un certain terroriste."
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:250
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_POTENTIAL_unlock\"]"
-msgstr "Débloquer le croiseur d'une certaine figure de la Fédération."
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:251
 msgid ""
@@ -922,8 +917,6 @@ msgstr "Atteindre le secteur 5 avec le Type B ou gagner avec le Type A."
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_unlock\"]"
 msgstr ""
-"Gagner en utilisant les plans d'un croiseur fabriqué par une race de royauté"
-" demi-dieu longtemps oubliée."
 
 #: src-en/data/text_blueprints.xml.append:257
 msgid ""
@@ -934,8 +927,6 @@ msgstr "Gagner avec le Type A."
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_3_unlock\"]"
 msgstr ""
-"Demander à un certain vaisseau amiral ce qu'il faut faire avec un certain "
-"appareil."
 
 #: src-en/data/text_blueprints.xml.append:259
 msgid ""

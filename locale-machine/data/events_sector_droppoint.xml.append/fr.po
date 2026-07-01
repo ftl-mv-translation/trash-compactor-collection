@@ -35,12 +35,12 @@ msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/beaconType/undiscoveredTooltip"
 msgstr "N0US S0MMES TOUJourS LÀ"
 
-#: src-en/data/events_sector_droppoint.xml.append:18
+#: src-en/data/events_sector_droppoint.xml.append:19
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/text"
 msgstr "Rapprochez-vous du vaisseau Lanius inconnu..."
 
-#: src-en/data/events_sector_droppoint.xml.append:20
+#: src-en/data/events_sector_droppoint.xml.append:21
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/text"
 msgstr ""
@@ -49,12 +49,12 @@ msgstr ""
 "des armes flak avancées à bord. Ils ne semblent pas vous avoir remarqué ou "
 "vous ignorent autrement."
 
-#: src-en/data/events_sector_droppoint.xml.append:22
+#: src-en/data/events_sector_droppoint.xml.append:23
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_droppoint.xml.append:24
+#: src-en/data/events_sector_droppoint.xml.append:25
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/text"
 msgstr ""
@@ -62,12 +62,12 @@ msgstr ""
 "moteurs. Peu après, il saute, laissant derrière lui un étrange engin. Vous "
 "vous demandez s'ils le voudront en retour..."
 
-#: src-en/data/events_sector_droppoint.xml.append:26
+#: src-en/data/events_sector_droppoint.xml.append:27
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[1]/text"
 msgstr "Prenez-le."
 
-#: src-en/data/events_sector_droppoint.xml.append:28
+#: src-en/data/events_sector_droppoint.xml.append:29
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -75,12 +75,12 @@ msgstr ""
 "\n"
 "                                [Utilisez-le lors d'une vérification de stockage]"
 
-#: src-en/data/events_sector_droppoint.xml.append:37
+#: src-en/data/events_sector_droppoint.xml.append:38
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[2]/text"
 msgstr "Vous n'êtes pas intéressé par de vrais déchets."
 
-#: src-en/data/events_sector_droppoint.xml.append:39
+#: src-en/data/events_sector_droppoint.xml.append:40
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
@@ -88,19 +88,19 @@ msgstr ""
 "laissent généralement pas de proies derrière eux, même lorsque ladite proie "
 "est une machine apparemment inoffensive. Vous décidez de partir."
 
-#: src-en/data/events_sector_droppoint.xml.append:46
+#: src-en/data/events_sector_droppoint.xml.append:47
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[2]/text"
 msgstr "Allez, nous n'avons pas le temps pour ça."
 
-#: src-en/data/events_sector_droppoint.xml.append:48
+#: src-en/data/events_sector_droppoint.xml.append:49
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[2]/event/text"
 msgstr ""
 "Le vaisseau rend la pareille en sautant lui aussi. Au moins, ils n'ont pas "
 "attaqué."
 
-#: src-en/data/events_sector_droppoint.xml.append:58
+#: src-en/data/events_sector_droppoint.xml.append:59
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"START_BEACON_PRESELECT\"]/mod-"
 "append:choice/text"

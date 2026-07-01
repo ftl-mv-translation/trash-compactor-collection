@@ -269,7 +269,7 @@ msgstr "Ignore the transport."
 #: src-en/data/events_sector_hive.xml.append:178
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[5]/event/text"
-msgstr "You decide it's best not to mess with the transport,"
+msgstr "You decide it's best not to mess with the transport."
 
 #: src-en/data/events_sector_hive.xml.append:180
 msgid ""

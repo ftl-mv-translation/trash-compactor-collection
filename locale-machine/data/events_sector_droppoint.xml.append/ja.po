@@ -29,34 +29,34 @@ msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/beaconType/undiscoveredTooltip"
 msgstr "我々はまだここにいる"
 
-#: src-en/data/events_sector_droppoint.xml.append:18
+#: src-en/data/events_sector_droppoint.xml.append:19
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/text"
 msgstr "正体不明のラニウス艦に近づく..."
 
-#: src-en/data/events_sector_droppoint.xml.append:20
+#: src-en/data/events_sector_droppoint.xml.append:21
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/text"
 msgstr ""
 "奇妙なラニウス艦は、マンティスの海賊船と思われる残骸からスクラップを集めている。センサーのスキャンによると、彼らは高度なフラック兵器を搭載している。彼らは君に気づいていないか、無視しているようだ。"
 
-#: src-en/data/events_sector_droppoint.xml.append:22
+#: src-en/data/events_sector_droppoint.xml.append:23
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/text"
 msgstr "接近する。"
 
-#: src-en/data/events_sector_droppoint.xml.append:24
+#: src-en/data/events_sector_droppoint.xml.append:25
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/text"
 msgstr ""
 "船はエンジンを起動しながら君の存在を無視し続ける。しばらくしてジャンプで去り、奇妙な装置が残された。彼らはそれを取り戻したくなるだろうか..."
 
-#: src-en/data/events_sector_droppoint.xml.append:26
+#: src-en/data/events_sector_droppoint.xml.append:27
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[1]/text"
 msgstr "掴む。"
 
-#: src-en/data/events_sector_droppoint.xml.append:28
+#: src-en/data/events_sector_droppoint.xml.append:29
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -64,27 +64,27 @@ msgstr ""
 "\n"
 "[ストレージチェックで使用]"
 
-#: src-en/data/events_sector_droppoint.xml.append:37
+#: src-en/data/events_sector_droppoint.xml.append:38
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[2]/text"
 msgstr "実際のゴミには興味がない。"
 
-#: src-en/data/events_sector_droppoint.xml.append:39
+#: src-en/data/events_sector_droppoint.xml.append:40
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr "罠かもしれないし、ただのゴミかもしれない。ラニウスは獲物を置き去りにしない、たとえそれが無害に見える機械であっても。立ち去ることにする。"
 
-#: src-en/data/events_sector_droppoint.xml.append:46
+#: src-en/data/events_sector_droppoint.xml.append:47
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[2]/text"
 msgstr "おい、そんな時間はない。"
 
-#: src-en/data/events_sector_droppoint.xml.append:48
+#: src-en/data/events_sector_droppoint.xml.append:49
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[2]/event/text"
 msgstr "船も同じくジャンプで立ち去る。少なくとも攻撃はされなかった。"
 
-#: src-en/data/events_sector_droppoint.xml.append:58
+#: src-en/data/events_sector_droppoint.xml.append:59
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"START_BEACON_PRESELECT\"]/mod-"
 "append:choice/text"

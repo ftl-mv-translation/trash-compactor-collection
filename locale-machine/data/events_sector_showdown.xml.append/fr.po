@@ -29,7 +29,13 @@ msgid ""
 "append:choice[4]/text"
 msgstr "Demander au Dévoreur de Ferraille à ce sujet."
 
-#: src-en/data/events_sector_showdown.xml.append:24
+#: src-en/data/events_sector_showdown.xml.append:22
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:28
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_LEAH\"]/text"
 msgstr ""
@@ -43,32 +49,22 @@ msgstr ""
 "de l'univers, celle-ci est spéciale, vous n'êtes pas n'importe quelle "
 "vieille pouffiasse, vous êtes MA pouffiasse. \""
 
-#: src-en/data/events_sector_showdown.xml.append:27
+#: src-en/data/events_sector_showdown.xml.append:31
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_LEAH\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:33
+#: src-en/data/events_sector_showdown.xml.append:37
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_FLAGSHIP\"]/text"
 msgstr ""
-"Dès que vous le dites à voix haute, vous vous demandez immédiatement "
-"pourquoi vous venez de demander à votre vaisseau, un objet inanimé, ce que "
-"vous devriez faire à propos de cet appareil qui met fin au multivers. Juste "
-"au moment où vous vous apprêtez à quitter le poste de pilotage, ne sachant "
-"pas comment vous êtes arrivé ici, les communications s'activent "
-"soudainement, avant de cracher un tas de charabia inintelligible, puis de se"
-" désactiver. Cependant, dès qu'elles s'arrêtent, l'ordinateur du vaisseau "
-"vous informe que vous venez de télécharger les plans d'un vaisseau. Vous ne "
-"saurez peut-être jamais de quoi il s'agissait si vous décidez de mettre fin "
-"au multivers, vous dites-vous."
 
-#: src-en/data/events_sector_showdown.xml.append:36
+#: src-en/data/events_sector_showdown.xml.append:40
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_FLAGSHIP\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:42
+#: src-en/data/events_sector_showdown.xml.append:46
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRACKER\"]/text"
 msgstr ""
@@ -77,12 +73,12 @@ msgstr ""
 "temps. Allons jeter un bon coup d'œil à l'épave. Je veux prendre autant de "
 "trophées que nous pourrons en mettre dans la soute. \""
 
-#: src-en/data/events_sector_showdown.xml.append:44
+#: src-en/data/events_sector_showdown.xml.append:48
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRACKER\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:50
+#: src-en/data/events_sector_showdown.xml.append:54
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRASH\"]/text"
 msgstr ""
@@ -90,7 +86,17 @@ msgstr ""
 " SE CACHE DANS L'OMBRE... \" Le Dévoreur de Ferraille semble ébranlé. Mais "
 "qu'est-ce qui pourrait être pire que cela ?"
 
-#: src-en/data/events_sector_showdown.xml.append:52
+#: src-en/data/events_sector_showdown.xml.append:57
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRASH\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:63
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_ZOG\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:67
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_ZOG\"]/choice/text"
 msgstr ""

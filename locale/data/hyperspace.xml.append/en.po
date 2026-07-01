@@ -784,7 +784,7 @@ msgstr "DISPERSE"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_SCRAPPER_HEAVY_EXPLOSIVE_ENHANCEMENTS\"]/statBoosts/statBoost[2]/powerEffect/tooltip"
 msgstr ""
-"Ready: Deal 1 hull damage, 1 system damage, and stun nearby enemies for 3 "
+"Ready: Deal 3 hull damage, 3 system damage, and stun nearby enemies for 9 "
 "seconds."
 
 #: src-en/data/hyperspace.xml.append:8173
@@ -796,7 +796,7 @@ msgstr "DISPERSE"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_SCRAPPER_HEAVY_EXPLOSIVE_ENHANCEMENTS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
-"Ready: Deal 1 hull damage, 1 system damage, and stun nearby enemies for 3 "
+"Ready: Deal 6 hull damage, 6 system damage, and stun nearby enemies for 18 "
 "seconds."
 
 #: src-en/data/hyperspace.xml.append:8330

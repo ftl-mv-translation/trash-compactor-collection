@@ -18,14 +18,30 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_bomb_flak\"]"
 msgstr ""
 "爆弾フラックは標準的なフラックと似ているが、2倍のシステムダメージを与え、ミサイルを消費する。システムの無効化に最適だが、他の弾道兵器のようにシールドを貫通はしない。"
 
-#: src-en/data/text_misc.xml.append:8
+#: src-en/data/text_misc.xml.append:7
+msgid "data/text_misc.xml.append$//text[@name=\"tip_ancalagon\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:9
+msgid "data/text_misc.xml.append$//text[@name=\"warning_power_surge_rosegold\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:10
+msgid "data/text_misc.xml.append$//text[@name=\"warning_power_surge_golden\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:11
+msgid "data/text_misc.xml.append$//text[@name=\"warning_power_surge_adamantine\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_tcc\"]"
 msgstr ""
 "トラッシュ・コンパクター・コレクション\n"
 "\t有効。\n"
 "\tクリックで詳細を表示。"
 
-#: src-en/data/text_misc.xml.append:11
+#: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"info_addon_tcc\"]"
 msgstr ""
 "トラッシュ・コンパクター・コレクション\n"

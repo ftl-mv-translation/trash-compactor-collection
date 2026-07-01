@@ -123,7 +123,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:36
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SCRAPPER_unlock\"]"
-msgstr "6種類すべてのトラッシュ・コンパクターを倒す。"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:38
 msgid ""
@@ -165,7 +165,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:48
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_EATER_unlock\"]"
-msgstr "スクラッパー・ドレッドノートでゲームに勝利する。"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:52
 msgid "data/text_blueprints.xml.append$/dummyroot/text[34]"
@@ -332,7 +332,7 @@ msgstr "ガラクタから再構築された船。高速で極めて戦闘能力
 #: src-en/data/text_blueprints.xml.append:103
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_ARMORED_WASP_unlock\"]"
-msgstr "輸送ドロップシップのいずれかのレイアウトでゲームに勝利する。"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:105
 msgid ""
@@ -509,7 +509,7 @@ msgstr "この船は美味しそうな貨物をたくさん運ぶために作ら
 #: src-en/data/text_blueprints.xml.append:154
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_unlock\"]"
-msgstr "TCCで追加された1ページ目の他のすべての船をアンロックする。"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:156
 msgid ""
@@ -529,7 +529,7 @@ msgstr "暗殺のための究極の船。多彩な兵器でマルチバースの
 #: src-en/data/text_blueprints.xml.append:159
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_2_unlock\"]"
-msgstr "タイプAでゲームに勝利する。"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:161
 msgid ""
@@ -609,7 +609,7 @@ msgstr "ドローン重視の連邦艦隊支援空母。かなり古い装備だ
 #: src-en/data/text_blueprints.xml.append:190
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FEDERATION_CARRIER_unlock\"]"
-msgstr "このページの連邦軍艦船4隻、またはこのページの最初の4隻をアンロックしてこの巡洋艦をアンロックする。"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:192
 msgid ""
@@ -789,12 +789,12 @@ msgstr "レンタル旗艦のいずれかのレイアウトでゲームに勝利
 #: src-en/data/text_blueprints.xml.append:249
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_DEFENSE_unlock\"]"
-msgstr "あるテロリストの巡洋艦をアンロックする。"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:250
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_POTENTIAL_unlock\"]"
-msgstr "ある連邦高官の巡洋艦をアンロックする。"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:251
 msgid ""
@@ -809,7 +809,7 @@ msgstr "タイプBでセクター5に到達、またはタイプAで勝利する
 #: src-en/data/text_blueprints.xml.append:256
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_unlock\"]"
-msgstr "忘れ去られた半神の王族の種族が作った巡洋艦の設計図を使って勝利する。"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:257
 msgid ""
@@ -819,7 +819,7 @@ msgstr "タイプAで勝利する。"
 #: src-en/data/text_blueprints.xml.append:258
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_3_unlock\"]"
-msgstr "ある旗艦に、あるデバイスをどうすべきか尋ねる。"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:259
 msgid ""

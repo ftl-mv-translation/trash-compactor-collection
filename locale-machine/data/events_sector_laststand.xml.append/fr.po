@@ -5,13 +5,13 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/events_sector_laststand.xml.append:7
+#: src-en/data/events_sector_laststand.xml.append:8
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:9
+#: src-en/data/events_sector_laststand.xml.append:10
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
@@ -22,19 +22,19 @@ msgstr ""
 "épine dans le pied de la Fédération pour devenir notre sauveur potentiel. "
 "Bonne chance."
 
-#: src-en/data/events_sector_laststand.xml.append:11
+#: src-en/data/events_sector_laststand.xml.append:12
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:17
+#: src-en/data/events_sector_laststand.xml.append:18
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:19
+#: src-en/data/events_sector_laststand.xml.append:20
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
@@ -45,19 +45,19 @@ msgstr ""
 "militaire ? Vous n'en avez pas l'air, bien que je suppose que c'est une "
 "tactique de camouflage. \""
 
-#: src-en/data/events_sector_laststand.xml.append:21
+#: src-en/data/events_sector_laststand.xml.append:22
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:27
+#: src-en/data/events_sector_laststand.xml.append:28
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:29
+#: src-en/data/events_sector_laststand.xml.append:30
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/text"
@@ -68,19 +68,19 @@ msgstr ""
 "votre chance de vous venger de la faction qui vous a créés et asservis – "
 "détruisez-les tous, Capitaine. Vous êtes notre dernier espoir. \""
 
-#: src-en/data/events_sector_laststand.xml.append:31
+#: src-en/data/events_sector_laststand.xml.append:32
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:37
+#: src-en/data/events_sector_laststand.xml.append:38
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:39
+#: src-en/data/events_sector_laststand.xml.append:40
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/text"
@@ -90,19 +90,19 @@ msgstr ""
 "lanius... mantis... Mais c'est quoi ce vaisseau ? ...Eh bien, espérons que "
 "ce vaisseau mettra fin à la Rébellion... dans cet Univers, du moins. \""
 
-#: src-en/data/events_sector_laststand.xml.append:41
+#: src-en/data/events_sector_laststand.xml.append:42
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:47
+#: src-en/data/events_sector_laststand.xml.append:48
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:49
+#: src-en/data/events_sector_laststand.xml.append:50
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/text"
@@ -115,19 +115,19 @@ msgstr ""
 "semblerait que nous ayons une grosse transaction à régler - débarrassez-vous"
 " du Vaisseau Amiral et je m'assurerai qu'il y aura une compensation. \""
 
-#: src-en/data/events_sector_laststand.xml.append:51
+#: src-en/data/events_sector_laststand.xml.append:52
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:57
+#: src-en/data/events_sector_laststand.xml.append:58
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:59
+#: src-en/data/events_sector_laststand.xml.append:60
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/text"
@@ -138,19 +138,19 @@ msgstr ""
 "multiverselle. Si vous gagnez, considérez-vous comme définitivement allié à "
 "la Fédération. \""
 
-#: src-en/data/events_sector_laststand.xml.append:61
+#: src-en/data/events_sector_laststand.xml.append:62
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:67
+#: src-en/data/events_sector_laststand.xml.append:68
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:69
+#: src-en/data/events_sector_laststand.xml.append:70
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/text"
@@ -161,19 +161,19 @@ msgstr ""
 "éliminez-le – votre équipement militaire spécialisé devrait en faire "
 "rapidement son affaire. Bonne chance, Capitaine. \""
 
-#: src-en/data/events_sector_laststand.xml.append:71
+#: src-en/data/events_sector_laststand.xml.append:72
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:77
+#: src-en/data/events_sector_laststand.xml.append:78
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[8]/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:79
+#: src-en/data/events_sector_laststand.xml.append:80
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[8]/event/text"
@@ -183,7 +183,7 @@ msgstr ""
 "qui exactement vous, Sentients, aideriez lors du Dernier Rempart de la "
 "Fédération – je suis ravi que ce soit la Fédération. Bonne chance. \""
 
-#: src-en/data/events_sector_laststand.xml.append:81
+#: src-en/data/events_sector_laststand.xml.append:82
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[8]/event/choice/text"

@@ -5,89 +5,89 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/events_sector_laststand.xml.append:7
+#: src-en/data/events_sector_laststand.xml.append:8
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
 msgstr "連邦司令部に連絡する。"
 
-#: src-en/data/events_sector_laststand.xml.append:9
+#: src-en/data/events_sector_laststand.xml.append:10
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
 msgstr ""
 "ビデオスクリーンに数名の連邦とエンジの将校、そして中央にタリー提督が現れる。「スクラッパーというのは非常に縄張り意識が強いのではないか？君が連邦の目の上のたんこぶだった君が、今や我々の救世主になり得るというのは皮肉なものだ。健闘を祈る。」"
 
-#: src-en/data/events_sector_laststand.xml.append:11
+#: src-en/data/events_sector_laststand.xml.append:12
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_laststand.xml.append:17
+#: src-en/data/events_sector_laststand.xml.append:18
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
 msgstr "連邦司令部に連絡する。"
 
-#: src-en/data/events_sector_laststand.xml.append:19
+#: src-en/data/events_sector_laststand.xml.append:20
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
 "ビデオスクリーンに数名の連邦とエンジの将校、そして中央にタリー提督が現れる。「メインの造船所を掃除してくれる誰かをずっと待っていたんだ。何だ、君は軍艦なのか？そうは見えないが……まぁ、カモフラージュの一種なのだろう。」"
 
-#: src-en/data/events_sector_laststand.xml.append:21
+#: src-en/data/events_sector_laststand.xml.append:22
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_laststand.xml.append:27
+#: src-en/data/events_sector_laststand.xml.append:28
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
 msgstr "連邦司令部に連絡する。"
 
-#: src-en/data/events_sector_laststand.xml.append:29
+#: src-en/data/events_sector_laststand.xml.append:30
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/text"
 msgstr ""
 "ビデオスクリーンに数名の連邦とエンジの将校、そして中央にタリー提督が現れる。「覚えているぞ。君たちはプロトジェン・プロジェクトの反乱における最初の革命家たちだな。君たちを作って奴隷にした派閥に復讐するチャンスだ。全員壊滅させろ、艦長。君たちが我々の最後の希望だ。」"
 
-#: src-en/data/events_sector_laststand.xml.append:31
+#: src-en/data/events_sector_laststand.xml.append:32
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_laststand.xml.append:37
+#: src-en/data/events_sector_laststand.xml.append:38
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
 msgstr "連邦司令部に連絡する。"
 
-#: src-en/data/events_sector_laststand.xml.append:39
+#: src-en/data/events_sector_laststand.xml.append:40
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/text"
 msgstr ""
 "ビデオスクリーンに数名の連邦とエンジの将校、そして中央にタリー提督が現れる。「あれは……えーっと……スラッグにラニウスにマンティス……一体どういう船なんだ？……まぁいい、願わくばこの船が反乱軍の終わりとなりますように……少なくともこの宇宙では。」"
 
-#: src-en/data/events_sector_laststand.xml.append:41
+#: src-en/data/events_sector_laststand.xml.append:42
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_laststand.xml.append:47
+#: src-en/data/events_sector_laststand.xml.append:48
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/text"
 msgstr "連邦司令部に連絡する。"
 
-#: src-en/data/events_sector_laststand.xml.append:49
+#: src-en/data/events_sector_laststand.xml.append:50
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/text"
@@ -95,64 +95,64 @@ msgstr ""
 "ビデオスクリーンに数名の連邦とエンジの将校、そして中央にタリー提督が現れる。「RECLAIM and SALVAGE "
 "ASSOCIATION（再利用とサルベージ協会）……いや、RECYCLINGだったか？とにかく、連邦と君たちの協会の取引については知っている。個人的には道徳的にグレーな企業は認めないが、我々には片付けるべき大きな取引があるようだ。旗艦を排除してくれれば、必ず報酬は支払おう。」"
 
-#: src-en/data/events_sector_laststand.xml.append:51
+#: src-en/data/events_sector_laststand.xml.append:52
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_laststand.xml.append:57
+#: src-en/data/events_sector_laststand.xml.append:58
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/text"
 msgstr "連邦司令部に連絡する。"
 
-#: src-en/data/events_sector_laststand.xml.append:59
+#: src-en/data/events_sector_laststand.xml.append:60
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/text"
 msgstr ""
 "ビデオスクリーンに数名の連邦とエンジの将校、そして中央にタリー提督が現れる。「アヴァリについては色々聞いているが、マルチバースの戦いで大役を担うとは思っていなかった。もしこれに勝てば、君たちは連邦の恒久的な同盟国と考えていい。」"
 
-#: src-en/data/events_sector_laststand.xml.append:61
+#: src-en/data/events_sector_laststand.xml.append:62
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_laststand.xml.append:67
+#: src-en/data/events_sector_laststand.xml.append:68
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/text"
 msgstr "連邦司令部に連絡する。"
 
-#: src-en/data/events_sector_laststand.xml.append:69
+#: src-en/data/events_sector_laststand.xml.append:70
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/text"
 msgstr ""
 "ビデオスクリーンに数名の連邦とエンジの将校、そして中央にタリー提督が現れる。「ようやく強力な連邦軍の援軍が来たか。反乱軍の旗艦を見つけ出し、排除せよ。君たちの特殊軍事兵器ならすぐに片付けられるはずだ。健闘を祈る、艦長。」"
 
-#: src-en/data/events_sector_laststand.xml.append:71
+#: src-en/data/events_sector_laststand.xml.append:72
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_laststand.xml.append:77
+#: src-en/data/events_sector_laststand.xml.append:78
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[8]/text"
 msgstr "連邦司令部に連絡する。"
 
-#: src-en/data/events_sector_laststand.xml.append:79
+#: src-en/data/events_sector_laststand.xml.append:80
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[8]/event/text"
 msgstr ""
 "ビデオスクリーンに数名の連邦とエンジの将校、そして中央にタリー提督が現れる。「連邦の最後の抵抗において、お前たちセンチエント（知性体）が一体誰に味方するのかずっと疑問に思っていた……連邦で良かったよ。幸運を祈る。」"
 
-#: src-en/data/events_sector_laststand.xml.append:81
+#: src-en/data/events_sector_laststand.xml.append:82
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[8]/event/choice/text"

@@ -43,7 +43,7 @@ msgstr ""
 #: src-en/data/dlcEvents_anaerobic.xml.append:27
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[3]/text"
-msgstr "Acheter un Ferrailleur Rapide."
+msgstr ""
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:29
 msgid ""
@@ -56,7 +56,7 @@ msgstr ""
 #: src-en/data/dlcEvents_anaerobic.xml.append:37
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[4]/text"
-msgstr "Acheter un Défenseur Ferrailleur."
+msgstr "Acheter un Ferrailleur Lourd."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:39
 msgid ""
@@ -69,7 +69,7 @@ msgstr ""
 #: src-en/data/dlcEvents_anaerobic.xml.append:47
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[5]/text"
-msgstr "Acheter un Ferrailleur Lourd."
+msgstr ""
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:49
 msgid ""
@@ -82,43 +82,56 @@ msgstr ""
 #: src-en/data/dlcEvents_anaerobic.xml.append:57
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/text"
-msgstr "Attaquez-les, sauvez les Ferrailleurs !"
+msgstr "Acheter un Défenseur Ferrailleur."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:59
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/event/text"
 msgstr ""
+"Vous envoyez la ferraille, et les Soudeurs envoient une capsule. À "
+"l'intérieur de la capsule se trouve le Ferrailleur que vous avez demandé. "
+"Vous les libérez de leurs entraves, puis partez."
+
+#: src-en/data/dlcEvents_anaerobic.xml.append:67
+msgid ""
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/text"
+msgstr "Attaquez-les, sauvez les Ferrailleurs !"
+
+#: src-en/data/dlcEvents_anaerobic.xml.append:69
+msgid ""
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/text"
+msgstr ""
 "Personne ne mérite d'être vendu comme esclave, pas même les Ferrailleurs. "
 "Vous activez les armes et passez à l'attaque."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:62
+#: src-en/data/dlcEvents_anaerobic.xml.append:72
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/event/choice/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/choice/text"
 msgstr ""
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:68
+#: src-en/data/dlcEvents_anaerobic.xml.append:78
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/text"
 msgstr "Ignorer les Soudeurs."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:70
+#: src-en/data/dlcEvents_anaerobic.xml.append:80
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/text"
 msgstr ""
 "Ils essaient de vous héler plusieurs fois, mais finissent par abandonner et "
 "vous laisser tranquille."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:72
+#: src-en/data/dlcEvents_anaerobic.xml.append:82
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/choice[1]/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:76
+#: src-en/data/dlcEvents_anaerobic.xml.append:86
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/choice[2]/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:84
+#: src-en/data/dlcEvents_anaerobic.xml.append:94
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DESTROYED_SCRAPPER_SLAVES_NORMAL\"]/text"
 msgstr ""
@@ -126,14 +139,14 @@ msgstr ""
 "dans l'explosion, mais au moins les Soudeurs ne pourront plus en asservir "
 "d'autres. Vous démanteler les restes du vaisseau et passez à autre chose."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:89
+#: src-en/data/dlcEvents_anaerobic.xml.append:99
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DESTROYED_SCRAPPER_SLAVES_SURVIVOR\"]/text"
 msgstr ""
 "Le vaisseau soudeur Lanius a été détruit. Il semble qu'un des Ferrailleurs "
 "ait survécu à l'explosion ! Vous le sauvez de l'abîme et démanteler l'épave."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:101
+#: src-en/data/dlcEvents_anaerobic.xml.append:111
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DEAD_CREW_SCRAPPER_SLAVES\"]/text"
 msgstr ""

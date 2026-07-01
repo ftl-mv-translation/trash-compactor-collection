@@ -14,7 +14,7 @@ msgstr "Contact the Trash Compactor? (WARNING - HIGH RISK, HIGH REWARD)"
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"0\"]/text"
-msgstr "Yes."
+msgstr "Yes. (Recommended Sector: 1+)"
 
 #: src-en/data/events_special_multiverse.xml.append:27
 msgid ""
@@ -28,7 +28,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"1\"]/text"
-msgstr "Yes."
+msgstr "Yes. (Recommended Sector: 2+)"
 
 #: src-en/data/events_special_multiverse.xml.append:37
 msgid ""
@@ -43,7 +43,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"2\"]/text"
-msgstr "Yes."
+msgstr "Yes. (Recommended Sector: 4+)"
 
 #: src-en/data/events_special_multiverse.xml.append:48
 msgid ""
@@ -57,7 +57,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"3\"]/text"
-msgstr "Yes."
+msgstr "Yes. (Recommended Sector: 5+)"
 
 #: src-en/data/events_special_multiverse.xml.append:60
 msgid ""
@@ -71,7 +71,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"4\"]/text"
-msgstr "Yes."
+msgstr "Yes. (Recommended Sector: 6+)"
 
 #: src-en/data/events_special_multiverse.xml.append:72
 msgid ""
@@ -85,7 +85,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"5\"]/text"
-msgstr "Yes."
+msgstr "Yes. (Recommended Sector: 8+)"
 
 #: src-en/data/events_special_multiverse.xml.append:84
 msgid ""
@@ -209,7 +209,7 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_zog_met\"]/event/text"
 msgstr ""
 "You send out a signal displaying the scrap using the transmitter. Shortly "
-"after, your map recieves coordinates of a ship's location."
+"after, your map recieves coordinates of a ship's location. Here we go."
 
 #: src-en/data/events_special_multiverse.xml.append:175
 msgid ""
@@ -801,9 +801,9 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC6_DESTROY\"]/text"
 msgstr ""
-"The Trash Compactor has been laid to rest amongst the stars; the wreckage "
-"floating around your ship also also had a strange device and some ship "
-"blueprints for you to collect!"
+"The Trash Compactor has been laid to rest amongst the stars; the wreckage floating around your ship also also had a strange device and some ship blueprints for you to collect!\n"
+"\t\t\n"
+"\t\t[Advanced Scrap Processor permanently unlocked! You can find it in the Scrapper lab]"
 
 #: src-en/data/events_special_multiverse.xml.append:705
 msgid ""
@@ -813,9 +813,9 @@ msgstr "Continue..."
 #: src-en/data/events_special_multiverse.xml.append:711
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC6_CREW\"]/text"
 msgstr ""
-"The Trash Compactor is now empty, forever. The wreckage floating around your"
-" ship also also had a strange device and some ship blueprints for you to "
-"collect!"
+"The Trash Compactor is now empty, forever. The wreckage floating around your ship also also had a strange device and some ship blueprints for you to collect! \n"
+"\t\t\n"
+"\t\t[Advanced Scrap Processor permanently unlocked! You can find it in the Scrapper lab]"
 
 #: src-en/data/events_special_multiverse.xml.append:724
 msgid ""
@@ -1046,7 +1046,7 @@ msgstr "Choose flak:"
 #: src-en/data/events_special_multiverse.xml.append:955
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[1]/text"
-msgstr "Explosive"
+msgstr "High-Explosive"
 
 #: src-en/data/events_special_multiverse.xml.append:957
 msgid ""
@@ -2090,7 +2090,7 @@ msgid ""
 msgstr ""
 "The strange lanius ship descends in your view once again (how does it keep "
 "coming back?) and prepares to end you once and for all. Despite being hit, "
-"TRACKER's ship is still in the fight too!"
+"TRACKER's ship is still in the fight too! Things are getting serious."
 
 #: src-en/data/events_special_multiverse.xml.append:1927
 msgid ""
@@ -3007,7 +3007,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2680
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[1]/text"
-msgstr "Omega Amalgam Flak"
+msgstr "Omega Amalgam Flak."
 
 #: src-en/data/events_special_multiverse.xml.append:2682
 msgid ""
@@ -3240,8 +3240,8 @@ msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
 msgstr ""
 "Your scrapper waves his hands and sends a signal to the scrapper ship; "
-"\"C0UPON COD3!!!\" He types in a short code and you notice the store prices "
-"drop!"
+"\"C0UPON COD3!!!\" They type in a short code and you notice the store prices"
+" drop!"
 
 #: src-en/data/events_special_multiverse.xml.append:2928
 msgid ""
@@ -3544,11 +3544,11 @@ msgstr "Have Leah stand next to you while you respond to her hail."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SYLVAN_ROYAL_LEAH_DIALOGUE\"]/text"
 msgstr ""
-"\"No way. No way you did this. No way you found… ANOTHER LEAH? What about "
+"\"No way. No way you did this. No way you found... ANOTHER LEAH? What about "
 "us? What about our rivalry, the most legendary rivalry to ever exist, and "
 "you found ANOTHER me? I thought we had something special, we've fought each "
-"other so many times, had so many amazing moments and you… you... you cheat "
-"on me!\" Leah slams her fist down onto the table and leaps from her seat. "
+"other so many times, had so many amazing moments and you... you... you cheat"
+" on me!\" Leah slams her fist down onto the table and leaps from her seat. "
 "\"No more games captain, our rivalry is over, and only one of us is going to"
 " make it out of here alive. Ooh, but what if we both died at the same time, "
 "wouldn't that make for such a cool and epic mo-\" You close communications "

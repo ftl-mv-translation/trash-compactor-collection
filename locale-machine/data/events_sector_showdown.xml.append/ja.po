@@ -29,46 +29,61 @@ msgid ""
 "append:choice[4]/text"
 msgstr "これについてトラッシュイーターに尋ねる。"
 
-#: src-en/data/events_sector_showdown.xml.append:24
+#: src-en/data/events_sector_showdown.xml.append:22
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:28
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_LEAH\"]/text"
 msgstr ""
 "「私たちは色々なことを乗り越えてきたよね？」リアは君から視線を逸らし、旗艦の残骸を見つめる。「ウィザーの考えは間違っていると思う。確かにマルチバース・ドライブは危険だけど、私たちを見て！あの爆弾を爆破しちゃったら、映画みたいに素晴らしいライバル関係をどれだけ台無しにすることか！もし私たちが存在するなら、外にはもっとたくさんあるはずよ。」リアは一息置いてから君を振り返る。「宇宙の無限のライバル関係の中で、これは特別なの。あんたはただの意地悪女じゃない、私の……とびきりの相棒よ。」"
 
-#: src-en/data/events_sector_showdown.xml.append:27
+#: src-en/data/events_sector_showdown.xml.append:31
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_LEAH\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_showdown.xml.append:33
+#: src-en/data/events_sector_showdown.xml.append:37
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_FLAGSHIP\"]/text"
 msgstr ""
-"声に出して言った瞬間、なぜ無生物である自分の船に、この宇宙を終わらせる装置について相談したのかと不思議に思う。ここに来た経緯すらわからないまま操舵室を離れようとしたその時、突然通信が入る。意味不明な雑音を垂れ流した後、再び消える。だが、通信が止まると同時に、船のコンピュータが「船の設計図をアップロードした」と通知してきた。宇宙を終わらせることにしたら、それが何だったのか知ることは一生ないだろうな、と君は思う。"
 
-#: src-en/data/events_sector_showdown.xml.append:36
+#: src-en/data/events_sector_showdown.xml.append:40
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_FLAGSHIP\"]/choice/text"
 msgstr "次へ…？"
 
-#: src-en/data/events_sector_showdown.xml.append:42
+#: src-en/data/events_sector_showdown.xml.append:46
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRACKER\"]/text"
 msgstr ""
 "「やったな」トラッカーは非常に満足げに言う。「プロトジェン・プロジェクトは反乱軍を盛大に叩きのめした。当然の報いだ。残骸を見に行こう。貨物室に積めるだけのトロフィーを回収したいんだ。」"
 
-#: src-en/data/events_sector_showdown.xml.append:44
+#: src-en/data/events_sector_showdown.xml.append:48
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRACKER\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_showdown.xml.append:50
+#: src-en/data/events_sector_showdown.xml.append:54
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRASH\"]/text"
 msgstr ""
 "「これで終わりではない……終わりではないのだ……より偉大な何かが影の中に潜んでいる……」トラッシュイーターは動揺しているようだ。しかし、これ以上に最悪なことなどあり得るだろうか？"
 
-#: src-en/data/events_sector_showdown.xml.append:52
+#: src-en/data/events_sector_showdown.xml.append:57
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRASH\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_showdown.xml.append:63
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_ZOG\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:67
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_ZOG\"]/choice/text"
 msgstr "次へ…"

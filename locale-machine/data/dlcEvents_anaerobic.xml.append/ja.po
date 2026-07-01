@@ -34,7 +34,7 @@ msgstr "スクラップを送ると、溶接船がポッドを送ってくる。
 #: src-en/data/dlcEvents_anaerobic.xml.append:27
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[3]/text"
-msgstr "スクラッパーのスピードスターを購入。"
+msgstr ""
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:29
 msgid ""
@@ -44,7 +44,7 @@ msgstr "スクラップを送ると、溶接船がポッドを送ってくる。
 #: src-en/data/dlcEvents_anaerobic.xml.append:37
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[4]/text"
-msgstr "スクラッパーディフェンダーを購入。"
+msgstr "重装スクラッパーを購入。"
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:39
 msgid ""
@@ -54,7 +54,7 @@ msgstr "スクラップを送ると、溶接船がポッドを送ってくる。
 #: src-en/data/dlcEvents_anaerobic.xml.append:47
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[5]/text"
-msgstr "重装スクラッパーを購入。"
+msgstr ""
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:49
 msgid ""
@@ -64,50 +64,60 @@ msgstr "スクラップを送ると、溶接船がポッドを送ってくる。
 #: src-en/data/dlcEvents_anaerobic.xml.append:57
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/text"
-msgstr "彼らを攻撃し、スクラッパーを救え！"
+msgstr "スクラッパーディフェンダーを購入。"
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:59
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/event/text"
-msgstr "スクラッパーであっても、奴隷として売られるべき者はいない。武器をパワーアップし、攻撃を仕掛ける。"
+msgstr "スクラップを送ると、溶接船がポッドを送ってくる。ポッドの中にはリクエストしたスクラッパーがいる。拘束を解いて立ち去る。"
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:62
-msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/event/choice/text"
-msgstr "次へ…"
-
-#: src-en/data/dlcEvents_anaerobic.xml.append:68
+#: src-en/data/dlcEvents_anaerobic.xml.append:67
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/text"
-msgstr "溶接船を無視する。"
+msgstr "彼らを攻撃し、スクラッパーを救え！"
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:70
+#: src-en/data/dlcEvents_anaerobic.xml.append:69
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/text"
-msgstr "彼らは何度か呼びかけてくるが、やがて諦めて立ち去る。"
+msgstr "スクラッパーであっても、奴隷として売られるべき者はいない。武器をパワーアップし、攻撃を仕掛ける。"
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:72
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/choice[1]/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/dlcEvents_anaerobic.xml.append:78
+msgid ""
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/text"
+msgstr "溶接船を無視する。"
+
+#: src-en/data/dlcEvents_anaerobic.xml.append:80
+msgid ""
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/text"
+msgstr "彼らは何度か呼びかけてくるが、やがて諦めて立ち去る。"
+
+#: src-en/data/dlcEvents_anaerobic.xml.append:82
+msgid ""
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/choice[1]/text"
 msgstr "船上で何かをする。"
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:76
+#: src-en/data/dlcEvents_anaerobic.xml.append:86
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/choice[2]/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/choice[2]/text"
 msgstr "何もしない。"
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:84
+#: src-en/data/dlcEvents_anaerobic.xml.append:94
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DESTROYED_SCRAPPER_SLAVES_NORMAL\"]/text"
 msgstr ""
 "ラニウスの溶接船は破壊された。スクラッパーは全員爆発で死亡したが、少なくとも溶接工がこれ以上奴隷を売ることはできない。船の残骸をスクラップにして進む。"
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:89
+#: src-en/data/dlcEvents_anaerobic.xml.append:99
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DESTROYED_SCRAPPER_SLAVES_SURVIVOR\"]/text"
 msgstr "ラニウスの溶接船は破壊された。スクラッパーの一人が爆発を生き延びたようだ！彼を深淵から救い出し、残骸をスクラップにする。"
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:101
+#: src-en/data/dlcEvents_anaerobic.xml.append:111
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DEAD_CREW_SCRAPPER_SLAVES\"]/text"
 msgstr ""
