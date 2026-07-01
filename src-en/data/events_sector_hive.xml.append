@@ -175,7 +175,7 @@
 	<choice>
 		<text>Ignore the transport.</text>
 		<event>
-			<text>You decide it's best not to mess with the transport,</text>
+			<text>You decide it's best not to mess with the transport.</text>
 			<choice>
 				<text>Do something onboard the ship.</text>
 				<event load="STORAGE_CHECK"/>

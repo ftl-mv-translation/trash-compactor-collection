@@ -54,12 +54,14 @@
 		"//weaponBlueprint/title",
 		"//weaponBlueprint/desc",
 		"//weaponBlueprint/short",
-		"//weaponBlueprint[starts-with(@name,'ARTILLERY_')]/tooltip",
+		"//weaponBlueprint/tooltip",
         "//weaponBlueprint/descriptionOverride",
 		"//shipBlueprint/class",
 		"//shipBlueprint/desc",
 		"//shipBlueprint/name",
 		"//shipBlueprint/unlock",
+		"//shipBlueprint/crew/*/@name",
+		
 		"//augBlueprint/title",
 		"//augBlueprint/desc",
 
@@ -118,10 +120,10 @@
     "packaging": {
         "fullOriginal": [
 		    //assets1
-            "https://github.com/ftl-mv-translation/trash-compactor-collection/raw/trash-compactor-collection-english/TCC_1.2.6.zip",
+            "https://github.com/ftl-mv-translation/trash-compactor-collection/raw/trash-compactor-collection-english/TCC_1.3.zip",
 
         ],
         "prefix": "trash-compactor-collection",
-        "version": "1.2.6"
+        "version": "1.3"
     }
 }
