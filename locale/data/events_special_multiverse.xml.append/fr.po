@@ -1,20 +1,29 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-07-02 18:36+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/trash-compactor-"
+"collection/dataevents_special_multiversexmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_multiverse.xml.append:23
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/text"
 msgstr ""
+"Contacter avec le compacteur à déchets ? (AVERTISSEMENT - RISQUE ÉLEVÉ, GAIN "
+"ÉLEVÉ)"
 
 #: src-en/data/events_special_multiverse.xml.append:25
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"0\"]/text"
-msgstr "Oui."
+msgstr "Oui. (Secteur recommandé : 1+)"
 
 #: src-en/data/events_special_multiverse.xml.append:27
 msgid ""
@@ -26,7 +35,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"1\"]/text"
-msgstr "Oui."
+msgstr "Oui. (Secteur recommandé : 2+)"
 
 #: src-en/data/events_special_multiverse.xml.append:37
 msgid ""
@@ -38,7 +47,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"2\"]/text"
-msgstr "Oui."
+msgstr "Oui. (Secteur recommandé : 4+)"
 
 #: src-en/data/events_special_multiverse.xml.append:48
 msgid ""
@@ -50,7 +59,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"3\"]/text"
-msgstr "Oui."
+msgstr "Oui.Oui. (Secteur recommandé : 5+)"
 
 #: src-en/data/events_special_multiverse.xml.append:60
 msgid ""
@@ -62,7 +71,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"4\"]/text"
-msgstr "Oui."
+msgstr "Oui. (Secteur recommandé : 6+)"
 
 #: src-en/data/events_special_multiverse.xml.append:72
 msgid ""
@@ -74,7 +83,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"5\"]/text"
-msgstr "Oui."
+msgstr "Oui. (Secteur recommandé : 8+)"
 
 #: src-en/data/events_special_multiverse.xml.append:84
 msgid ""
@@ -126,7 +135,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/event/choice[@req=\"tc_rosegold_defeated\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Vous avez vaincu le compacteur à déchets or rose."
 
 #: src-en/data/events_special_multiverse.xml.append:125
 msgid ""
@@ -144,7 +153,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/event/choice[@req=\"tc_golden_defeated\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Vous avez vaincu le compacteur à déchets doré."
 
 #: src-en/data/events_special_multiverse.xml.append:140
 msgid ""
@@ -162,7 +171,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/event/choice[@req=\"tc_adamantine_defeated\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Vous avez vaincu le compacteur à déchets en Adamantine."
 
 #: src-en/data/events_special_multiverse.xml.append:155
 msgid ""
@@ -359,6 +368,16 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/text"
 msgstr ""
+"Le Compacteurs à déchets a une nouvelle fois été vaincu, laissant la petite "
+"flotte se disperser, impuissante. Parmi les débris, vous trouvez un "
+"équipement apparemment sophistiqué qui s'intègre facilement à vos systèmes. "
+"Vous remarquez des options supplémentaires dans votre laboratoire de bord.\n"
+"\t\t\tEn fouillant les décombres du vaisseau, vous tombez sur un autre "
+"membre de son équipage à l'agonie ; celui-ci semble bien plus imposant que "
+"les deux précédents que vous avez trouvés. Vous n'êtes pas surpris de les "
+"voir grignoter nerveusement un canon antiaérien sophistiqué. \n"
+"\t\t\tVous pouvez leur arracher l'arme des mains, les emmener tous les deux "
+"avec vous, ou les laisser mourir."
 
 #: src-en/data/events_special_multiverse.xml.append:374
 msgid ""
@@ -522,7 +541,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:548
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[2]/event/crewMember"
-msgstr ""
+msgstr "Mangeur de déchets"
 
 #: src-en/data/events_special_multiverse.xml.append:553
 msgid ""
@@ -561,7 +580,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:589
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[2]/event/crewMember"
-msgstr ""
+msgstr "Mangeur de déchets"
 
 #: src-en/data/events_special_multiverse.xml.append:594
 msgid ""
@@ -577,6 +596,11 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/text"
 msgstr ""
+"Le Kestrel Minier est désormais réduit en morceaux. Quelles que soient les "
+"motivations ou les allégeances de son équipage, ses membres ne sont plus "
+"désormais que de la poussière d'étoiles. Le Compacteurs à déchets vous "
+"contacte et, à votre grande surprise, vous offre une récompense de votre "
+"choix."
 
 #: src-en/data/events_special_multiverse.xml.append:619
 msgid ""
@@ -591,7 +615,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:625
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Mangeur de déchets"
 
 #: src-en/data/events_special_multiverse.xml.append:630
 msgid ""
@@ -606,11 +630,16 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:636
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[2]/event/crewMember"
-msgstr ""
+msgstr "Mangeur de déchets"
 
 #: src-en/data/events_special_multiverse.xml.append:643
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/text"
 msgstr ""
+"Le Kestrel Minier est désormais silencieux, tout comme l'abomination qu'il "
+"transportait à son bord. Quelles que soient les motivations ou les "
+"allégeances de l'équipage, ses membres ne sont plus désormais que de la "
+"poussière d'étoiles. Le Compacteurs à déchets vous contacte et, à votre "
+"grande surprise, vous offre une récompense de votre choix."
 
 #: src-en/data/events_special_multiverse.xml.append:649
 msgid ""
@@ -625,7 +654,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:655
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Mangeur de déchets"
 
 #: src-en/data/events_special_multiverse.xml.append:660
 msgid ""
@@ -640,7 +669,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:666
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[2]/event/crewMember"
-msgstr ""
+msgstr "Mangeur de déchets"
 
 #: src-en/data/events_special_multiverse.xml.append:673
 msgid ""
@@ -655,6 +684,12 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC6_DESTROY\"]/text"
 msgstr ""
+"Le compacteur à déchets repose désormais parmi les étoiles ; parmi les "
+"débris flottant autour de votre vaisseau, vous avez également trouvé un "
+"étrange appareil et quelques plans de vaisseaux à récupérer !\n"
+"\t\t\n"
+"\t\t[Le processeur de ferraille avancé est désormais débloqué de façon "
+"permanente ! Vous le trouverez dans le Laboratoire du ferrailleur]"
 
 #: src-en/data/events_special_multiverse.xml.append:705
 msgid ""
@@ -664,6 +699,12 @@ msgstr "Continuer..."
 #: src-en/data/events_special_multiverse.xml.append:711
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC6_CREW\"]/text"
 msgstr ""
+"Le compacteur de déchets est désormais vide, pour toujours. Parmi les débris "
+"flottant autour de votre vaisseau, vous avez également pu récupérer un "
+"étrange appareil et quelques plans de vaisseaux ! \n"
+"\t\t\n"
+"\t\t[Le processeur de ferraille avancé est désormais débloqué de façon "
+"permanente ! Vous le trouverez dans le Laboratoire du ferrailleur]"
 
 #: src-en/data/events_special_multiverse.xml.append:724
 msgid ""
@@ -1752,12 +1793,20 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[4]/text"
 msgstr ""
+"Ignorer les vaisseaux secondaires et attaquer directement le Compacteur à "
+"déchets."
 
 #: src-en/data/events_special_multiverse.xml.append:1870
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[4]/event/text"
 msgstr ""
+"Le Compacteur à déchets vous attendait, comme s'il avait anticipé vos "
+"mouvements. Vous recevez un message brouillé et mal traduit de leur part : "
+"\"NOUS pas même un1vers. Nous plus pUISSants que autres FErrailleurs. Nous "
+"dÉTRuisons un1vers et PRÉSentons au Chef POUR manger. Vous sur chEMin... "
+"VOUS mourir...\". Mais ces types ne sont pas du genre à discuter, puisqu'ils "
+"ont déjà armé leurs armes !"
 
 #: src-en/data/events_special_multiverse.xml.append:1873
 msgid ""
@@ -1958,6 +2007,9 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/text"
 msgstr ""
+"Voici le tout premier Compacteur à déchets. Le prince des Ferrailleurs, le "
+"Mangeur de déchets, est là. Sa conquête du monde commence par ton vaisseau. "
+"Faisons en sorte que ses plans tombent à l'eau."
 
 #: src-en/data/events_special_multiverse.xml.append:2017
 msgid ""
@@ -2373,7 +2425,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2373
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Vous parlez du Compacteur à déchets ?"
 
 #: src-en/data/events_special_multiverse.xml.append:2375
 msgid ""
