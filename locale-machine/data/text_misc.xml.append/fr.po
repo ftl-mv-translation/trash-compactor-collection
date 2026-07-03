@@ -7,7 +7,7 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:2
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_trash\"]"
-msgstr "DÉCHETS"
+msgstr "ORDURES"
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_store_rsa\"]"
@@ -16,9 +16,9 @@ msgstr "MAGASIN [RSA]"
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_bomb_flak\"]"
 msgstr ""
-"Les flaks bombes fonctionnent de manière similaire aux flaks standard, mais "
+"Les bombes flak fonctionnent de manière similaire aux flaks standard, mais "
 "infligent le double de dégâts aux systèmes et coûtent un missile à tirer. "
-"Elles sont excellentes pour abattre les systèmes, mais ne percent pas les "
+"Elles sont idéales pour abattre les systèmes, mais ne percent pas les "
 "boucliers comme les autres armes balistiques."
 
 #: src-en/data/text_misc.xml.append:7

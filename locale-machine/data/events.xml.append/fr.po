@@ -21,58 +21,57 @@ msgstr ""
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/text"
-msgstr "(Rayon de Minage RSA) Tentez de miner les astéroïdes."
+msgstr "(Rayon de minage RSA) Tenter de miner les astéroïdes."
 
 #: src-en/data/events.xml.append:20
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
-"Votre rayon de minage RSA est extrêmement efficace pour extraire du matériau"
-" des astéroïdes. Un seul coup, et même les plus gros astéroïdes s'effritent "
-"en morceaux. Il n'y a qu'un seul problème : vous ne pouvez pas tout "
-"collecter assez vite ! Pour tout collecter, la flotte rebelle aura "
+"Votre Rayon de minage RSA est extrêmement efficace pour extraire des "
+"matériaux des astéroïdes. Un coup, et même les plus gros astéroïdes "
+"s'effondrent en morceaux. Il n'y a qu'un seul problème ; vous ne pouvez pas "
+"tout collecter assez vite ! Pour tout collecter, la flotte Rebelle aura "
 "probablement le temps de vous rattraper."
 
 #: src-en/data/events.xml.append:23
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/choice[1]/text"
-msgstr "Ramassez-le, nous avons besoin de la ferraille."
+msgstr "Collectez-le, nous avons besoin de la ferraille."
 
 #: src-en/data/events.xml.append:25
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/choice[1]/event/text"
 msgstr ""
-"Vous collectez autant que vous le pouvez. Espérons que cela en vaille la "
-"peine."
+"Vous collectez autant que vous pouvez. Espérons que cela en vaille la peine."
 
 #: src-en/data/events.xml.append:31
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr "(Bras Magnétique) Utilisez le bras pour le collecter rapidement."
+msgstr "(Bras magnétique) Utilisez le bras pour le collecter rapidement."
 
 #: src-en/data/events.xml.append:33
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/choice[@req=\"MAGNET_ARM\"]/event/text"
 msgstr ""
-"Avec votre bras magnétique, vous pouvez collecter la majeure partie du reste"
-" en temps opportun. Merci l'électromagnétisme !"
+"Avec votre bras magnétique, vous êtes capable de collecter la plupart du "
+"reste en temps utile. Merci l'électromagnétisme !"
 
 #: src-en/data/events.xml.append:38
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/choice[3]/text"
-msgstr "Partir, nous ne pouvons pas risquer cela."
+msgstr "Partez, nous ne pouvons pas prendre le risque."
 
 #: src-en/data/events.xml.append:40
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/choice[3]/event/text"
 msgstr ""
-"Il vous fait mal de laisser de la ferraille parfaitement utilisable derrière"
-" vous comme ça, mais vous ne pouvez pas laisser les Rebelles vous rattraper."
-" Vous vous préparez à sauter."
+"Il vous fait mal de laisser derrière vous de la ferraille parfaitement "
+"utilisable comme cela, mais vous ne pouvez pas laisser les Rebelles vous "
+"rattraper. Vous vous préparez à sauter."

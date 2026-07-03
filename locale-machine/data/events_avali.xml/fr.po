@@ -13,17 +13,18 @@ msgstr ""
 msgid ""
 "data/events_avali.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_AVALI\"]/text[1]"
 msgstr ""
-"Le vaisseau rebelle à cette balise hèle : \"Enfin, une pause de broyer ces "
-"monstres ailés en pâte. Je préfère de loin la saleté de la fédération !\""
+"Le vaisseau Rebelle à cette balise contacte : \"Enfin, une pause après avoir"
+" broyé ces oiseaux freaks en pâte. Je préfère de loin la racaille de la "
+"fédération !\""
 
 #: src-en/data/events_avali.xml:36
 msgid ""
 "data/events_avali.xml$//textList[@name=\"TEXT_ENCOUNTER_REBEL_AVALI\"]/text[2]"
 msgstr ""
-"Presque dès que votre vaisseau ralentit à sub-luminique, vous recevez un "
-"appel d'un vaisseau rebelle. \"Vous êtes le mercenaire que les fédéraux ont "
-"embauché ! Je pensais être coincé dans cet horrible secteur pour toujours, "
-"le moment est venu de décrocher une promotion !\""
+"Presque aussitôt que votre vaisseau ralentit en vitesse sous-luminique, vous"
+" recevez un contact d'un vaisseau Rebelle. \"Tu es le mercenaire que les "
+"fédéraux ont engagé ! Je pensais être coincé dans ce secteur horrible pour "
+"toujours, il est temps de marquer une promotion !\""
 
 #: src-en/data/events_avali.xml:38
 msgid ""
@@ -52,7 +53,7 @@ msgstr "texte"
 #: src-en/data/events_avali.xml:57
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH\"]/choice[1]/text"
-msgstr "Contacter les Lost Suns"
+msgstr "Contactez les Lost Suns"
 
 #: src-en/data/events_avali.xml:62
 msgid ""
@@ -67,7 +68,7 @@ msgstr "Vous laissez les Lost Suns tranquilles."
 #: src-en/data/events_avali.xml:66
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH\"]/choice[2]/event/choice[1]/text"
-msgstr "Faire quelque chose à bord du vaisseau."
+msgstr "Faites quelque chose à bord du vaisseau."
 
 #: src-en/data/events_avali.xml:70
 msgid ""
@@ -207,11 +208,11 @@ msgstr "texte"
 msgid "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/text"
 msgstr ""
 "Lorsque vous sautez vers cette balise, vous êtes immédiatement accueilli par"
-" deux vaisseaux à l'arrêt. À votre gauche, un Renégat Multiversel de "
-"conception Ingénieur avec des dégâts de coque majeurs est posé, ses armes "
-"alimentées. De l'autre côté, un vaisseau Illuminant attend avec ses drones "
-"alimentés. À votre entrée sur la balise, ils vous hèlent tous les deux en "
-"même temps."
+" deux vaisseaux à l'arrêt. Sur votre gauche, un Renégat multiversel de "
+"conception Ingénieur avec des dégâts de coque majeurs se trouve avec ses "
+"armes alimentées. De l'autre côté, un vaisseau Illuminant attend avec des "
+"drones alimentés. Dès votre entrée à la balise, ils vous contactent tous les"
+" deux en même temps."
 
 #: src-en/data/events_avali.xml:187
 msgid "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/text"
@@ -221,30 +222,30 @@ msgstr ""
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/text"
 msgstr ""
-"Le vaisseau Ingénieur est le premier à prendre la parole. Un Ingénieur avec "
-"un casque gravé de la lettre M apparaît à l'écran et commence à s'expliquer."
-" \"Hé, vous êtes un vaisseau de la Fédération, n'est-ce pas ? Ces Avalis "
-"vendent un médicament sans licence aux civils. Vous devez les arrêter ! Ces "
-"pilules ont des effets secondaires anormaux, comme je n'en ai jamais vu ! "
-"S'il vous plaît, détruisez-les avant que les pilules--\" L'Illuminant le "
-"coupe. \"Hé, taisez-vous ! J'ai toutes les licences nécessaires pour vendre "
-"mon médicament ! Et ce n'est pas comme si les effets secondaires étaient "
-"cachés, c'est écrit sur l'étiquette !\" Les deux vaisseaux se taisent, "
-"attendant que vous choisissiez un camp."
+"Le vaisseau Ingénieur est le premier à parler. Un Ingénieur avec un casque "
+"portant la lettre M apparaît sur l'écran et commence à s'expliquer. \"Hé, "
+"vous êtes un vaisseau de la Fédération, n'est-ce pas ? Ces Avalis vendent "
+"des médicaments sans licence aux civils. Vous devez les arrêter ! Ces "
+"pilules ont des effets secondaires contre nature, comme rien de ce que j'ai "
+"jamais vu ! S'il vous plaît, détruisez-les avant que les pilules--\" "
+"L'Illuminant le coupe. \"Hé, tais-toi ! J'ai toutes les licences dont j'ai "
+"besoin pour vendre mes médicaments ! Et ce n'est pas comme si les effets "
+"secondaires étaient cachés, c'est écrit sur l'étiquette !\" Les deux "
+"vaisseaux deviennent silencieux, attendant que vous choisissiez un camp."
 
 #: src-en/data/events_avali.xml:202
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[1]/text"
-msgstr "Prendre le parti de l'élite Avali."
+msgstr "Prenez le parti de l'Élite Avali."
 
 #: src-en/data/events_avali.xml:204
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"L'Avali est ravi de votre soutien. \"Wow, merci ! Je vous donnerai un "
-"échantillon gratuit après ça si vous le battez. Euh, attention--\" "
-"L'Illuminant est interrompu par l'Ingénieur, qui crie \"Vous réalisez "
-"combien de civils innocents vous empoisonnez ?\" avant de charger ses armes."
+"L'Avali est ravie de votre soutien. \"Wow, merci ! Je vous donnerai un "
+"échantillon gratuit après ça si vous le battez. Euh, faites attention--\" "
+"L'Illuminant est interrompu par l'Ingénieur, qui crie \"Réalisez-vous "
+"combien d'innocents civils vous empoisonnez ?\" avant de charger ses armes."
 
 #: src-en/data/events_avali.xml:207
 msgid ""
@@ -255,17 +256,18 @@ msgstr ""
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[2]/text"
 msgstr ""
-"Les couper le son à tous les deux et faire quelque chose à bord du vaisseau."
+"Coupez-leur le son à tous les deux et faites quelque chose à bord du "
+"vaisseau."
 
 #: src-en/data/events_avali.xml:215
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[2]/event/text"
-msgstr "Vous avez de *bien* meilleures choses à faire."
+msgstr "Vous avez *bien* mieux à faire."
 
 #: src-en/data/events_avali.xml:217
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr "Faire quelque chose à bord du vaisseau."
+msgstr "Faites quelque chose à bord du vaisseau."
 
 #: src-en/data/events_avali.xml:221
 msgid ""
@@ -274,7 +276,7 @@ msgstr ""
 
 #: src-en/data/events_avali.xml:229
 msgid "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[2]/text"
-msgstr "Non, je ne m'en occupe pas."
+msgstr "Non, je ne gère pas ça."
 
 #: src-en/data/events_avali.xml:231
 msgid ""
@@ -284,7 +286,7 @@ msgstr ""
 #: src-en/data/events_avali.xml:233
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[2]/event/choice[1]/text"
-msgstr "Faire quelque chose à bord du vaisseau."
+msgstr "Faites quelque chose à bord du vaisseau."
 
 #: src-en/data/events_avali.xml:237
 msgid ""
@@ -294,36 +296,36 @@ msgstr ""
 #: src-en/data/events_avali.xml:254
 msgid "data/events_avali.xml$//event[@name=\"DESTROYED_ENGINEER_RENEGADE\"]/text"
 msgstr ""
-"Une dernière explosion scelle le destin de l'ingénieur, alors que son "
-"vaisseau se disloque. Vous ramassez rapidement ce qui reste."
+"Une dernière explosion marque le destin de l'ingénieur, alors que son "
+"vaisseau se disloque. Vous collectez rapidement ce qui reste."
 
 #: src-en/data/events_avali.xml:257
 msgid ""
 "data/events_avali.xml$//event[@name=\"DESTROYED_ENGINEER_RENEGADE\"]/choice/text"
-msgstr "Contacter l'Avali."
+msgstr "Contactez l'Avali."
 
 #: src-en/data/events_avali.xml:263
 msgid "data/events_avali.xml$//event[@name=\"DEAD_CREW_ENGINEER_RENEGADE\"]/text"
 msgstr ""
-"Les moteurs du puissant croiseur s'arrêtent en haletant, alors que la "
-"dernière lecture de forme de vie s'éteint. En démantelant la coque, vous "
+"Les moteurs du puissant vaisseau croiseur s'arrêtent en bégayant, alors que "
+"la dernière lecture de forme de vie s'éteint. En récupérant la coque, vous "
 "trouvez un schéma de drone fonctionnel, il a peut-être échoué à son ancien "
 "maître, mais espérons qu'il vous servira mieux."
 
 #: src-en/data/events_avali.xml:267
 msgid ""
 "data/events_avali.xml$//event[@name=\"DEAD_CREW_ENGINEER_RENEGADE\"]/choice/text"
-msgstr "Contacter l'Avali."
+msgstr "Contactez l'Avali."
 
 #: src-en/data/events_avali.xml:273
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/text"
 msgstr ""
-"L'Illuminant vous hèle : \"Merci pour l'aide, j'aurais été grillé si j'avais"
-" dû le combattre plus longtemps. Tenez, un échantillon du médicament que je "
-"vendais, en signe de mon appréciation !\" En lisant l'étiquette, vous êtes "
-"écoeuré de découvrir que les effets secondaires de ces pilules incluent \"Se"
-" transformer en Avali\". Avez-vous choisi le bon camp ici... ?"
+"L'Illuminant vous contacte : \"Merci pour l'aide, j'aurais été grillée si "
+"j'avais dû le combattre plus longtemps. Voici un échantillon du médicament "
+"que je vendais, en signe de mon appréciation !\" En lisant l'étiquette, vous"
+" êtes écœuré de découvrir que les effets secondaires de ces pilules incluent"
+" \"Se transformer en Avali\". Avez-vous choisi le bon camp ici... ?"
 
 #: src-en/data/events_avali.xml:275
 msgid ""
@@ -335,22 +337,22 @@ msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/choice[1]/event/text"
 msgstr ""
 "L'Illuminant vous transfère les pilules et vous fait un signe amical avant "
-"de sauter. (événement inachevé, pas de pilules encore, prenez un prix de "
+"de sauter. (événement inachevé, pas encore de pilules, prenez un prix de "
 "consolation)"
 
 #: src-en/data/events_avali.xml:282
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/choice[2]/text"
-msgstr "Non, ils sont horribles."
+msgstr "Non, elles sont horribles."
 
 #: src-en/data/events_avali.xml:284
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/choice[2]/event/text"
 msgstr ""
 "\"Oh, vraiment ? Eh bien, si vous ne les prenez pas, je suppose que vous "
-"n'êtes qu'un voyageur. Mais... si vous êtes un voyageur, cela signifie que "
-"vous pouvez me conduire dans plus de secteurs pour vendre mon médicament !\""
-" Avant que vous ne puissiez protester, l'Illuminant abandonne déjà son "
+"êtes juste un voyageur. Mais... si vous êtes un voyageur, cela signifie que "
+"vous pouvez m'emmener dans plus de secteurs pour vendre mes médicaments !\" "
+"Avant que vous ne puissiez protester, l'Illuminant abandonne déjà son "
 "vaisseau pour rejoindre votre équipage."
 
 #: src-en/data/events_avali.xml:285
@@ -361,79 +363,78 @@ msgstr "Robin"
 #: src-en/data/events_avali.xml:291
 msgid "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/text"
 msgstr ""
-"Vous êtes hélé par un Auto-vaisseau de la Fédération essayant de vous vendre"
-" des nouilles instantanées... C'est étrange, étant donné que l'auto-vaisseau"
-" semble être de type militaire. Il est également en panne, tentant "
-"apparemment d'alimenter ses armes."
+"Vous êtes contacté par un auto-vaisseau de la Fédération qui essaie de vous "
+"vendre des nouilles instantanées... C'est étrange, considérant le fait que "
+"l'auto-vaisseau semble être d'un type militaire. Il est aussi en "
+"dysfonctionnement, semblant essayer d'alimenter ses armes."
 
 #: src-en/data/events_avali.xml:294
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_PROTOGEN\"]/text"
 msgstr ""
-"(Équipage Protogen) Demandez à votre protogen de réparer l'Auto-vaisseau."
+"(Équipage Protogen) Faites réparer l'auto-vaisseau par votre Protogen."
 
 #: src-en/data/events_avali.xml:296
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_PROTOGEN\"]/event/text"
 msgstr ""
-"Votre Protogen parvient à réparer l'Auto-vaisseau défectueux et le fait "
-"distribuer des Rations de Nouilles partout. Il vous permet également "
+"Votre Protogen réussit à réparer l'auto-vaisseau défectueux et lui fait "
+"distribuer des Rations de nouilles partout. Cela vous permet également "
 "d'accéder à son interface de magasin."
 
 #: src-en/data/events_avali.xml:302
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_RSA\"]/text"
-msgstr ""
-"(Équipage RSA) Demandez à votre équipage RSA de réparer l'auto-vaisseau."
+msgstr "(Équipage RSA) Faites réparer l'auto-vaisseau par votre équipage RSA."
 
 #: src-en/data/events_avali.xml:304
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_RSA\"]/event/text"
 msgstr ""
-"Votre membre RSA utilise ses années d'expérience pour réparer l'Auto-"
-"vaisseau défectueux et le fait distribuer des Rations de Nouilles partout. "
-"Il vous permet également d'accéder à son interface de magasin."
+"Votre membre RSA utilise ses années d'expérience pour réparer l'auto-"
+"vaisseau défectueux et lui fait distribuer des Rations de nouilles partout. "
+"Cela vous permet également d'accéder à son interface de magasin."
 
 #: src-en/data/events_avali.xml:310
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_ENGI\"]/text"
 msgstr ""
-"(Équipage Engi) Demandez à votre équipage Engi de réparer l'auto-vaisseau."
+"(Équipage Engi) Faites réparer l'auto-vaisseau par votre équipage Engi."
 
 #: src-en/data/events_avali.xml:312
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/text"
 msgstr ""
-"Votre Engi répare l'Auto-vaisseau défectueux avec facilité et le fait "
-"distribuer des Rations de Nouilles. Il vous permet également d'accéder à son"
-" interface de magasin."
+"Votre Engi répare l'auto-vaisseau défectueux avec facilité et lui fait "
+"distribuer des Rations de nouilles. Cela vous permet également d'accéder à "
+"son interface de magasin."
 
 #: src-en/data/events_avali.xml:318
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_AVALI\"]/text"
 msgstr ""
-"(Équipage Avali) Demandez à votre équipage Avali de réparer l'auto-vaisseau."
+"(Équipage Avali) Faites réparer l'auto-vaisseau par votre équipage Avali."
 
 #: src-en/data/events_avali.xml:320
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_AVALI\"]/event/text"
 msgstr ""
-"Votre Avali explique qu'ils ont déjà vu un marchand automatisé comme celui-"
-"ci et essaie de réparer l'Auto-vaisseau défectueux. Cela n'a pas exactement "
-"fonctionné, cependant..."
+"Votre Avali explique qu'il a déjà vu un marchand automatisé comme celui-ci "
+"auparavant et essaie de réparer l'auto-vaisseau défectueux. Cela n'a pas "
+"vraiment fonctionné, cependant..."
 
 #: src-en/data/events_avali.xml:325
 msgid "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[5]/text"
-msgstr "Tenter de réparer l'auto-vaisseau."
+msgstr "Essayez de réparer l'auto-vaisseau."
 
 #: src-en/data/events_avali.xml:327
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[5]/event/text"
 msgstr ""
-"L'auto-vaisseau distribue plusieurs tas de rations de nouilles avant de "
+"L'auto-vaisseau distribue plusieurs piles de rations de nouilles avant de "
 "s'autodétruire. Vous n'êtes toujours pas sûr de ce qui s'est passé, mais au "
-"moins vous pouvez piller l'Auto-vaisseau brisé..."
+"moins vous pouvez piller l'auto-vaisseau cassé..."
 
 #: src-en/data/events_avali.xml:333
 msgid "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[6]/text"
-msgstr "Ignorer l'Auto-vaisseau."
+msgstr "Ignorez l'auto-vaisseau."

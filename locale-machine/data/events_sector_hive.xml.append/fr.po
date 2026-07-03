@@ -9,100 +9,102 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"BOMB_FLAK_TRANSPORT_DESTROYED\"]/text"
 msgstr ""
-"Vous avez réussi à détruire le transport. Malheureusement, aucune des Bombes"
-" Flaks n'a survécu à la bataille. Décevant, mais au moins vous pouvez "
-"toujours démanteler les restes du vaisseau."
+"Vous avez détruit le transport avec succès. Malheureusement, aucun des Flaks"
+" de Bombe n'a survécu à la bataille. Décevant, mais au moins vous pouvez "
+"toujours démonter les restes du vaisseau."
 
 #: src-en/data/events_sector_hive.xml.append:10
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"BOMB_FLAK_TRANSPORT_CAPTURE\"]/text"
 msgstr ""
 "Plus aucun signe de vie détecté sur le transport. Vous et votre équipage "
-"ouvrez la soute, et à l'intérieur, vous trouvez les Bombes Flaks. Une Bombe "
-"Flak particulièrement grande attire votre attention. Ce doit être la Bombe "
-"Flak Mark IV dont ils parlaient ! Vous et votre équipage la transportez "
-"jusqu'à votre vaisseau, puis démanteler l'extérieur."
+"ouvrez la soute, et à l'intérieur, vous trouvez les Flaks de Bombe. Un Flak "
+"de Bombe particulièrement gros attire votre attention. Ce doit être le Flak "
+"de Bombe Ver. 4 dont ils parlaient ! Vous le ramenez à votre vaisseau, puis "
+"vous démontez l'extérieur."
 
 #: src-en/data/events_sector_hive.xml.append:16
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/text"
 msgstr ""
-"Vous remarquez un transport Mantis à proximité, émettant un appel à "
-"l'échelle du système. \" Vente de Bombes Flaks ! Mark I, Mark II, Mark III, "
-"et même la nouvelle Mark IV ! Idéal pour détruire les systèmes gênants des "
-"vaisseaux de la Fédération ! \" Compte tenu de leur message, il est peu "
-"probable qu'ils soient disposés à vous vendre, mais peut-être aurez-vous de "
-"la chance ?"
+"Vous remarquez un transport Mantis à proximité, émettant un appel général. "
+"\"Vente de Flaks de Bombe ! Ver. 1, Ver. 2, Ver. 3, et même le nouveau Ver. "
+"4 ! Idéal pour détruire les systèmes agaçants sur les vaisseaux de la "
+"Fédération !\" Compte tenu de leur message, il est peu probable qu'ils "
+"soient disposés à vous vendre quoi que ce soit, mais peut-être aurez-vous de"
+" la chance ?"
 
 #: src-en/data/events_sector_hive.xml.append:19
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[1]/text"
-msgstr "Demander si vous pouvez acheter une Bombe Flak."
+msgstr "Demandez si vous pouvez acheter un Flak de Bombe."
 
 #: src-en/data/events_sector_hive.xml.append:23
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/text"
-msgstr "(Mantis de la Ruche) Contactez-les avec votre Mantis."
+msgstr ""
+"(Membre d'équipage Mantis de la Ruche) Contactez-les avec votre Mantis."
 
 #: src-en/data/events_sector_hive.xml.append:25
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/text"
 msgstr ""
-"\"Mantis sur vaisseau Fédération ? Vous voulant Bombes Flaks ?\" Le Mantis "
-"glousse. \"Ruche désapprouve vente à Fédération, mais je veux bien. Après "
-"tout, ferraille ferraille !\" Même avec votre membre d'équipage Mantis, vous"
-" êtes surpris qu'ils veuillent bien vous vendre. Vous jetez un œil à leur "
-"catalogue."
+"\"Un Mantis sur un vaisseau de la Fédération ? Vous voulez des Flaks de "
+"Bombe ?\" Le Mantis glousse. \"La Ruche désapprouve la vente à la "
+"Fédération, mais je suis d'accord. Après tout, de la ferraille c'est de la "
+"ferraille !\" Même avec votre membre d'équipage Mantis, vous êtes surpris "
+"qu'ils soient prêts à vous vendre quoi que ce soit. Vous jetez un coup d'œil"
+" à leur catalogue."
 
 #: src-en/data/events_sector_hive.xml.append:27
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[1]/text"
-msgstr "Acheter une Bombe Flak Mark I."
+msgstr "Acheter un Bomb Flak Ver. 2."
 
 #: src-en/data/events_sector_hive.xml.append:29
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[1]/event/text"
 msgstr ""
-"\" Merci pour le commerce, mais je ne reviendrai pas. Ne voudrais pas fâcher"
-" la Ruche. \" Vous espérez que votre nouvelle arme en vaille la peine."
+"\"Merci pour la transaction, mais ne revenez pas. Je ne voudrais pas mettre "
+"la Ruche en colère.\" Vous espérez que votre nouvelle arme en vaut la peine."
 
 #: src-en/data/events_sector_hive.xml.append:37
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[2]/text"
-msgstr "Acheter une Bombe Flak Mark II."
+msgstr "Acheter un Bomb Flak Ver. 4."
 
 #: src-en/data/events_sector_hive.xml.append:39
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[2]/event/text"
 msgstr ""
-"\" Merci pour le commerce, mais je ne reviendrai pas. Ne voudrais pas fâcher"
-" la Ruche. \" Vous espérez que votre nouvelle arme en vaille la peine."
+"\"Merci pour la transaction, mais ne revenez pas. Je ne voudrais pas mettre "
+"la Ruche en colère.\" Vous espérez que votre nouvelle arme en vaut la peine."
 
 #: src-en/data/events_sector_hive.xml.append:47
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[3]/text"
-msgstr "Acheter une Bombe Flak Mark III."
+msgstr "Acheter un Flak de Bombe Ver. 3."
 
 #: src-en/data/events_sector_hive.xml.append:49
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[3]/event/text"
 msgstr ""
-"\" Merci pour le commerce, mais je ne reviendrai pas. Ne voudrais pas fâcher"
-" la Ruche. \" Vous espérez que votre nouvelle arme en vaille la peine."
+"\"Merci pour la transaction, mais ne revenez pas. Je ne voudrais pas mettre "
+"la Ruche en colère.\" Vous espérez que votre nouvelle arme en vaut la peine."
 
 #: src-en/data/events_sector_hive.xml.append:57
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[4]/text"
-msgstr "Acheter une Bombe Flak Mark IV."
+msgstr "Acheter un Flak de Bombe Ver. 4."
 
 #: src-en/data/events_sector_hive.xml.append:59
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[4]/event/text"
 msgstr ""
-"\" Vous voulez une Bombe Flak Mark IV ? Heh, je m'y attendais. Merci pour le"
-" commerce, mais je ne reviendrai pas. Ne voudrais pas fâcher la Ruche. \" "
-"Vous n'avez jamais vu de Bombe Flak IV auparavant. Vous espérez que votre "
-"achat en valait la peine."
+"\"Vous voulez le Flak de Bombe Ver. 4 ? Hé, je m'en doutais. Merci pour la "
+"transaction, mais ne revenez pas. Je ne voudrais pas mettre la Ruche en "
+"colère.\" Vous n'avez jamais vu de Flak de Bombe 4 auparavant. Vous espérez "
+"que votre achat en valait la peine."
 
 #: src-en/data/events_sector_hive.xml.append:67
 msgid ""
@@ -113,10 +115,10 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[5]/event/text"
 msgstr ""
-"Malgré la volonté des Mantis de vous vendre, vous décidez de les attaquer "
-"quand même. Vous alimentez vos armes, et le Mantis répond. \" Nous attaquer "
-"parce que ne pas gérer prix ? Ha ! Et Fédération disant que nous sommes les "
-"méchants ! Vous êtes les méchants ! \""
+"Malgré la volonté des Mantis de vous vendre leurs produits, vous décidez de "
+"les attaquer de toute façon. Vous activez vos armes, et le Mantis répond. "
+"\"Vous nous attaquez parce que vous n'acceptez pas le prix ? Ha ! Et la "
+"Fédération dit que nous sommes les méchants ! C'est vous les diaboliques !\""
 
 #: src-en/data/events_sector_hive.xml.append:72
 msgid ""
@@ -132,7 +134,7 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"mantis\"]/event/choice[6]/event/text"
 msgstr ""
-"\"Vous ne gère pas le prix ? Hmph, quel perte de temps. N'osez pas "
+"\"Vous n'acceptez pas le prix ? Hmph, quelle perte de temps. N'osez plus "
 "revenir.\" Le Mantis coupe les communications."
 
 #: src-en/data/events_sector_hive.xml.append:82
@@ -148,64 +150,65 @@ msgstr ""
 #: src-en/data/events_sector_hive.xml.append:94
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/text"
-msgstr "(Élite de la Ruche) Contactez-les avec votre Mantis Élite."
+msgstr ""
+"(Membre d'équipage Élite de la Ruche) Contactez-les avec votre Mantis Élite."
 
 #: src-en/data/events_sector_hive.xml.append:96
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/text"
 msgstr ""
-"Vous faites contacter les Mantis par votre Élite de la Ruche. \"Je ne sais "
-"pas pourquoi sur vaisseau Fédération, mais doit être important ! Bien sûr "
-"vous pouvez acheter Bombes Flaks ! Même avoir réduction !\" Vous regardez le"
-" catalogue réduit."
+"Vous demandez à votre Élite de la Ruche de contacter le Mantis. \"Je ne sais"
+" pas pourquoi sur un vaisseau de la Fédération, mais ça doit être important "
+"! Bien sûr que vous pouvez acheter des Flaks de Bombe ! Avec une réduction "
+"en plus !\" Vous regardez le catalogue avec remise."
 
 #: src-en/data/events_sector_hive.xml.append:98
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[1]/text"
-msgstr "Acheter une Bombe Flak Mark I."
+msgstr "Acheter un Bomb Flak Ver. 2."
 
 #: src-en/data/events_sector_hive.xml.append:100
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[1]/event/text"
 msgstr ""
-"\" Merci pour le commerce, et bonne chasse ! \" Vous espérez que votre "
-"nouvelle arme en vaille la peine."
+"\"Merci pour la transaction, et bonne chasse !\" Vous espérez que votre "
+"nouvelle arme en vaut la peine."
 
 #: src-en/data/events_sector_hive.xml.append:108
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[2]/text"
-msgstr "Acheter une Bombe Flak Mark II."
+msgstr "Acheter un Bomb Flak Ver. 4."
 
 #: src-en/data/events_sector_hive.xml.append:110
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[2]/event/text"
 msgstr ""
-"\" Merci pour le commerce, et bonne chasse ! \" Vous espérez que votre "
-"nouvelle arme en vaille la peine."
+"\"Merci pour la transaction, et bonne chasse !\" Vous espérez que votre "
+"nouvelle arme en vaut la peine."
 
 #: src-en/data/events_sector_hive.xml.append:118
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[3]/text"
-msgstr "Acheter une Bombe Flak Mark III."
+msgstr "Acheter un Flak de Bombe Ver. 3."
 
 #: src-en/data/events_sector_hive.xml.append:120
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[3]/event/text"
 msgstr ""
-"\" Merci pour le commerce, et bonne chasse ! \" Vous espérez que votre "
-"nouvelle arme en vaille la peine."
+"\"Merci pour la transaction, et bonne chasse !\" Vous espérez que votre "
+"nouvelle arme en vaut la peine."
 
 #: src-en/data/events_sector_hive.xml.append:128
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[4]/text"
-msgstr "Acheter une Bombe Flak Mark IV."
+msgstr "Acheter un Flak de Bombe Ver. 4."
 
 #: src-en/data/events_sector_hive.xml.append:130
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[4]/event/text"
 msgstr ""
-"\" Vous voulez une Bombe Flak Mark IV ? Heh, je m'y attendais. Merci pour le"
-" commerce, et bonne chasse ! \" Vous n'avez jamais vu de Bombe Flak IV "
+"\"Vous voulez le Flak de Bombe Ver. 4 ? Hé, je m'en doutais. Merci pour la "
+"transaction, et bonne chasse !\" Vous n'avez jamais vu de Flak de Bombe 4 "
 "auparavant. Vous espérez que votre achat en valait la peine."
 
 #: src-en/data/events_sector_hive.xml.append:138
@@ -217,10 +220,10 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[5]/event/text"
 msgstr ""
-"Malgré l'empressement des Mantis à vous vendre, vous décidez de les attaquer"
-" quand même. Vous alimentez vos armes, et le Mantis répond. \" Pourquoi "
-"attaquer ? Le prix est-il trop élevé ? Je le baisse ! Je vous donne- \" Vous"
-" coupez les communications et vous préparez à engager."
+"Malgré l'empressement des Mantis à vous vendre leurs produits, vous décidez "
+"de les attaquer de toute façon. Vous activez vos armes, et le Mantis répond."
+" \"Pourquoi attaquer ? Le prix est trop élevé ? Je le baisse ! Je vous "
+"donne-\" Vous coupez les communications et vous vous préparez au combat."
 
 #: src-en/data/events_sector_hive.xml.append:143
 msgid ""
@@ -236,8 +239,8 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/event/choice[6]/event/text"
 msgstr ""
-"\"Vous n'aimez pas les offres ? Ne vous inquiétez pas, nous aurons de "
-"meilleures Bombes Flaks la prochaine fois !\" Vous coupez les "
+"\"Nos offres ne vous plaisent pas ? Ne vous inquiétez pas, nous aurons de "
+"meilleurs Flaks de Bombe la prochaine fois !\" Vous coupez les "
 "communications."
 
 #: src-en/data/events_sector_hive.xml.append:153
@@ -260,11 +263,11 @@ msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[4]/event/text"
 msgstr ""
 "Même si ce vaisseau ne tue personne directement, ce dont vous doutez quelque"
-" peu, ils vendent toujours des armes dangereuses à d'autres Mantis, et "
-"constituent donc une menace. Alors que vous approchez, le transport vous "
-"hèle. \"Vous pensant pouvoir nous battre ? Ha ! Autre transport Bombe Flak "
-"attaqué avant, ils faibles, et perdus. Nous pas comme eux, nous pas perdre "
-"contre vous !\""
+" peu, ils vendent quand même des armes dangereuses à d'autres Mantis, et "
+"constituent donc une menace. Alors que vous vous approchez, le transport "
+"vous hèle. \"Tu penses pouvoir nous battre ? Ha ! Un autre transport de "
+"Flaks de Bombe a été attaqué avant, ils étaient faibles et ont perdu. Nous "
+"ne sommes pas comme eux, nous ne perdrons pas contre toi !\""
 
 #: src-en/data/events_sector_hive.xml.append:170
 msgid ""
@@ -274,12 +277,16 @@ msgstr ""
 #: src-en/data/events_sector_hive.xml.append:176
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[5]/text"
-msgstr "Ignorer le transport."
+msgstr "Ignorez le transport."
 
 #: src-en/data/events_sector_hive.xml.append:178
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT\"]/choice[5]/event/text"
+<<<<<<< Updated upstream
 msgstr ""
+=======
+msgstr "Vous décidez qu'il vaut mieux ne pas vous mêler du transport,"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_hive.xml.append:180
 msgid ""
@@ -295,63 +302,64 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/text"
 msgstr ""
-"\"Fédération voulant Bombes Flaks ?\" Le Mantis glousse. \"Ruche "
-"désapprouve, mais je veux bien. Après tout, ferraille ferraille ! Mais ne "
-"pas attendre réduction.\" Vous êtes surpris qu'ils veuillent bien vous "
-"vendre, mais ensuite vous regardez les prix. Ils sont scandaleux !"
+"\"La Fédération veut des Flaks de Bombe ?\" Le Mantis glousse. \"La Ruche "
+"désapprouve, mais je suis d'accord. Après tout, de la ferraille c'est de la "
+"ferraille ! Mais n'attendez pas de réduction.\" Vous êtes surpris qu'ils "
+"soient prêts à vous vendre quoi que ce soit, mais ensuite vous regardez les "
+"prix. Ils sont scandaleux !"
 
 #: src-en/data/events_sector_hive.xml.append:194
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[1]/text"
-msgstr "Acheter une Bombe Flak Mark I."
+msgstr "Acheter un Bomb Flak Ver. 2."
 
 #: src-en/data/events_sector_hive.xml.append:196
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[1]/event/text"
 msgstr ""
-"\" Merci pour le commerce, mais je ne reviendrai pas. Ne voudrais pas fâcher"
-" la Ruche. \" C'est un prix difficile à avaler, mais vous espérez que votre "
-"nouvelle arme en vaille la peine."
+"\"Merci pour la transaction, mais ne revenez pas. Je ne voudrais pas mettre "
+"la Ruche en colère.\" C'est un prix difficile à avaler, mais vous espérez "
+"que votre nouvelle arme en vaut la peine."
 
 #: src-en/data/events_sector_hive.xml.append:204
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[2]/text"
-msgstr "Acheter une Bombe Flak Mark II."
+msgstr "Acheter un Bomb Flak Ver. 4."
 
 #: src-en/data/events_sector_hive.xml.append:206
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[2]/event/text"
 msgstr ""
-"\" Merci pour le commerce, mais je ne reviendrai pas. Ne voudrais pas fâcher"
-" la Ruche. \" C'est un prix difficile à avaler, mais vous espérez que votre "
-"nouvelle arme en vaille la peine."
+"\"Merci pour la transaction, mais ne revenez pas. Je ne voudrais pas mettre "
+"la Ruche en colère.\" C'est un prix difficile à avaler, mais vous espérez "
+"que votre nouvelle arme en vaut la peine."
 
 #: src-en/data/events_sector_hive.xml.append:214
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[3]/text"
-msgstr "Acheter une Bombe Flak Mark III."
+msgstr "Acheter un Flak de Bombe Ver. 3."
 
 #: src-en/data/events_sector_hive.xml.append:216
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[3]/event/text"
 msgstr ""
-"\" Merci pour le commerce, mais je ne reviendrai pas. Ne voudrais pas fâcher"
-" la Ruche. \" C'est un prix difficile à avaler, mais vous espérez que votre "
-"nouvelle arme en vaille la peine."
+"\"Merci pour la transaction, mais ne revenez pas. Je ne voudrais pas mettre "
+"la Ruche en colère.\" C'est un prix difficile à avaler, mais vous espérez "
+"que votre nouvelle arme en vaut la peine."
 
 #: src-en/data/events_sector_hive.xml.append:224
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[4]/text"
-msgstr "Acheter une Bombe Flak Mark IV."
+msgstr "Acheter un Flak de Bombe Ver. 4."
 
 #: src-en/data/events_sector_hive.xml.append:226
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[4]/event/text"
 msgstr ""
-"\" Vous voulez une Bombe Flak Mark IV ? Heh, je m'y attendais. Merci pour le"
-" commerce, mais je ne reviendrai pas. Ne voudrais pas fâcher la Ruche. \" "
-"Vous n'avez jamais vu de Bombe Flak IV auparavant. Vous espérez que votre "
-"achat en valait la peine."
+"\"Vous voulez le Flak de Bombe Ver. 4 ? Hé, je m'en doutais. Merci pour la "
+"transaction, mais ne revenez pas. Je ne voudrais pas mettre la Ruche en "
+"colère.\" Vous n'avez jamais vu de Flak de Bombe 4 auparavant. Vous espérez "
+"que votre achat en valait la peine."
 
 #: src-en/data/events_sector_hive.xml.append:234
 msgid ""
@@ -362,11 +370,11 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[5]/event/text"
 msgstr ""
-"C'est juste insultant ! Si vous saviez qu'ils allaient essayer de vous "
-"arnaquer comme ça, vous les auriez attaqués en premier lieu. Vous alimentez "
-"vos armes, et le Mantis répond. \" Nous attaquer parce que ne pas gérer prix"
-" ? Ha ! Et Fédération disant que nous sommes les méchants ! Vous êtes les "
-"méchants ! \""
+"C'est tout simplement insultant ! Si vous aviez su qu'ils allaient essayer "
+"de vous arnaquer comme ça, vous les auriez attaqués dès le début. Vous "
+"activez vos armes, et le Mantis répond. \"Vous nous attaquez parce que vous "
+"n'acceptez pas le prix ? Ha ! Et la Fédération dit que nous sommes les "
+"méchants ! C'est vous les diaboliques !\""
 
 #: src-en/data/events_sector_hive.xml.append:239
 msgid ""
@@ -382,7 +390,7 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_ACCEPTED\"]/choice[6]/event/text"
 msgstr ""
-"\"Vous ne gère pas le prix ? Hmph, quel perte de temps. N'osez pas "
+"\"Vous n'acceptez pas le prix ? Hmph, quelle perte de temps. N'osez plus "
 "revenir.\" Le Mantis coupe les communications."
 
 #: src-en/data/events_sector_hive.xml.append:249
@@ -399,9 +407,9 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//event[@name=\"MANTIS_BOMB_FLAK_TRANSPORT_DENIED\"]/text"
 msgstr ""
-"\"Fédération voulant Bombes Flaks ?\" Le Mantis glousse. \"Et si vous "
-"preniez Bombe Flak en PLEIN FACE ! Vous n'aurez jamais Bombes Flaks de notre"
-" part !\" Le transport allume ses armes et attaque !"
+"\"La Fédération veut des Flaks de Bombe ?\" Le Mantis glousse. \"Et si tu te"
+" prenais un Flak de Bombe DANS LA GUEULE ! Tu n'obtiendras jamais de Flaks "
+"de Bombe de notre part !\" Le transport active ses armes et attaque !"
 
 #: src-en/data/events_sector_hive.xml.append:264
 msgid ""

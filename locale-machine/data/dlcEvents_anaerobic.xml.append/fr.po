@@ -9,85 +9,102 @@ msgstr ""
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/text"
 msgstr ""
-"Un vaisseau soudeur Lanius est près de la balise, mais n'attaque pas. Au "
-"lieu de cela, il vous hèle : \"Vente d'esclaves, 'Ferrailleurs.' Ennemis de "
-"l'Essaim. Acheter ?\" La transmission coupe alors sur sa soute, à "
-"l'intérieur de laquelle se trouvent une variété de Ferrailleurs."
+"Un vaisseau Soudeur Lanius est près de la balise, mais il n'attaque pas. Au "
+"lieu de cela, il vous contacte : \"Vente d'esclaves, 'Ferrailleurs'. Ennemis"
+" de l'Essaim. Acheter ?\" Le flux bascule ensuite vers leur soute, à "
+"l'intérieur de laquelle se trouvent divers ferrailleurs."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:7
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[1]/text"
-msgstr "Acheter un Soldat Ferrailleur."
+msgstr "Acheter un Soldat ferrailleur."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:9
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[1]/event/text"
 msgstr ""
 "Vous envoyez la ferraille, et les Soudeurs envoient une capsule. À "
-"l'intérieur de la capsule se trouve le Ferrailleur que vous avez demandé. "
-"Vous les libérez de leurs entraves, puis partez."
+"l'intérieur de la capsule se trouve le ferrailleur que vous avez demandé. "
+"Vous le libérez de ses entraves, puis vous partez."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:17
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[2]/text"
-msgstr "Acheter un Ingénieur Ferrailleur."
+msgstr "Acheter un Ingénieur ferrailleur."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:19
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[2]/event/text"
 msgstr ""
 "Vous envoyez la ferraille, et les Soudeurs envoient une capsule. À "
-"l'intérieur de la capsule se trouve le Ferrailleur que vous avez demandé. "
-"Vous les libérez de leurs entraves, puis partez."
+"l'intérieur de la capsule se trouve le ferrailleur que vous avez demandé. "
+"Vous le libérez de ses entraves, puis vous partez."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:27
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[3]/text"
+<<<<<<< Updated upstream
 msgstr ""
+=======
+msgstr "Acheter un Sprinteur ferrailleur."
+>>>>>>> Stashed changes
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:29
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[3]/event/text"
 msgstr ""
 "Vous envoyez la ferraille, et les Soudeurs envoient une capsule. À "
-"l'intérieur de la capsule se trouve le Ferrailleur que vous avez demandé. "
-"Vous les libérez de leurs entraves, puis partez."
+"l'intérieur de la capsule se trouve le ferrailleur que vous avez demandé. "
+"Vous le libérez de ses entraves, puis vous partez."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:37
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[4]/text"
+<<<<<<< Updated upstream
 msgstr "Acheter un Ferrailleur Lourd."
+=======
+msgstr "Acheter un Défenseur ferrailleur."
+>>>>>>> Stashed changes
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:39
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[4]/event/text"
 msgstr ""
 "Vous envoyez la ferraille, et les Soudeurs envoient une capsule. À "
-"l'intérieur de la capsule se trouve le Ferrailleur que vous avez demandé. "
-"Vous les libérez de leurs entraves, puis partez."
+"l'intérieur de la capsule se trouve le ferrailleur que vous avez demandé. "
+"Vous le libérez de ses entraves, puis vous partez."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:47
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[5]/text"
+<<<<<<< Updated upstream
 msgstr ""
+=======
+msgstr "Acheter un Ferrailleur lourd."
+>>>>>>> Stashed changes
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:49
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[5]/event/text"
 msgstr ""
 "Vous envoyez la ferraille, et les Soudeurs envoient une capsule. À "
-"l'intérieur de la capsule se trouve le Ferrailleur que vous avez demandé. "
-"Vous les libérez de leurs entraves, puis partez."
+"l'intérieur de la capsule se trouve le ferrailleur que vous avez demandé. "
+"Vous le libérez de ses entraves, puis vous partez."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:57
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/text"
+<<<<<<< Updated upstream
 msgstr "Acheter un Défenseur Ferrailleur."
+=======
+msgstr "Attaquez-les, sauvez les ferrailleurs !"
+>>>>>>> Stashed changes
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:59
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Vous envoyez la ferraille, et les Soudeurs envoient une capsule. À "
 "l'intérieur de la capsule se trouve le Ferrailleur que vous avez demandé. "
 "Vous les libérez de leurs entraves, puis partez."
@@ -103,6 +120,10 @@ msgid ""
 msgstr ""
 "Personne ne mérite d'être vendu comme esclave, pas même les Ferrailleurs. "
 "Vous activez les armes et passez à l'attaque."
+=======
+"Personne ne mérite d'être vendu en esclavage, pas même les ferrailleurs. "
+"Vous allumez les armes et vous vous déplacez pour attaquer."
+>>>>>>> Stashed changes
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:72
 msgid ""
@@ -111,15 +132,20 @@ msgstr ""
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:78
 msgid ""
+<<<<<<< Updated upstream
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/text"
 msgstr "Ignorer les Soudeurs."
+=======
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/text"
+msgstr "Ignorez les Soudeurs."
+>>>>>>> Stashed changes
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:80
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/text"
 msgstr ""
-"Ils essaient de vous héler plusieurs fois, mais finissent par abandonner et "
-"vous laisser tranquille."
+"Ils essaient de vous contacter quelques fois de plus, mais finissent par "
+"abandonner et vous laissent tranquille."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:82
 msgid ""
@@ -135,22 +161,23 @@ msgstr ""
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DESTROYED_SCRAPPER_SLAVES_NORMAL\"]/text"
 msgstr ""
-"Le vaisseau soudeur Lanius a été détruit. Tous les Ferrailleurs sont morts "
-"dans l'explosion, mais au moins les Soudeurs ne pourront plus en asservir "
-"d'autres. Vous démanteler les restes du vaisseau et passez à autre chose."
+"Le vaisseau Soudeur Lanius a été détruit. Tous les ferrailleurs sont morts "
+"dans l'explosion, mais au moins les Soudeurs ne pourront plus réduire "
+"personne en esclavage. Vous récupérez les restes du vaisseau et passez à "
+"autre chose."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:99
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DESTROYED_SCRAPPER_SLAVES_SURVIVOR\"]/text"
 msgstr ""
-"Le vaisseau soudeur Lanius a été détruit. Il semble qu'un des Ferrailleurs "
-"ait survécu à l'explosion ! Vous le sauvez de l'abîme et démanteler l'épave."
+"Le vaisseau Soudeur Lanius a été détruit. Il semble qu'un des ferrailleurs "
+"ait survécu à l'explosion ! Vous le sauvez de l'abîme et récupérez l'épave."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:111
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DEAD_CREW_SCRAPPER_SLAVES\"]/text"
 msgstr ""
-"Vous avez réussi à tuer l'équipage du vaisseau soudeur Lanius. À l'intérieur"
-" de la soute se trouvent les Ferrailleurs, comme prévu. Vous les faites "
-"monter à bord de votre soute pour les déposer ailleurs, mais un Charognard "
-"Ferrailleur est si reconnaissant qu'il propose de rejoindre votre équipage !"
+"Vous avez tué avec succès l'équipage du vaisseau Soudeur Lanius. À "
+"l'intérieur de la soute se trouvent les ferrailleurs, comme prévu. Vous les "
+"amenez à bord de votre soute pour les déposer ailleurs, mais un Charognard "
+"ferrailleur est si reconnaissant qu'il propose de rejoindre votre équipage !"

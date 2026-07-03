@@ -8,23 +8,23 @@ msgstr ""
 #: src-en/data/events_echelon.xml:2
 msgid "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/text"
 msgstr ""
-"En arrivant à la balise, vous voyez un vaisseau étrangement coloré, "
-"similaire à un vaisseau de la Milice. Le vaisseau affiche également un logo "
-"étrange avec les mots \"Ad Astra\" dessus. Quelle devrait être la prochaine "
-"action ?"
+"En arrivant à la balise, vous voyez un vaisseau aux couleurs étranges qui "
+"est similaire à un vaisseau de Milice. Le vaisseau affiche également un logo"
+" étrange avec les mots \"Ad Astra\" dessus. Quelle devrait être la prochaine"
+" action ?"
 
 #: src-en/data/events_echelon.xml:6
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/text"
-msgstr "Approcher. Ils semblent assez amicaux."
+msgstr "Approchez. Ils semblent assez amicaux."
 
 #: src-en/data/events_echelon.xml:8
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/text"
 msgstr ""
-"Avant même que vous ne puissiez tourner votre vaisseau pour leur faire face,"
-" le capitaine du vaisseau vous parle immédiatement. \"Vous ! Vous devez être"
-" le Renégat envoyé par la fédération, n'est-ce pas ?\""
+"Avant même que vous puissiez tourner votre vaisseau pour leur faire face, le"
+" capitaine du vaisseau vous parle immédiatement. \"Vous ! Vous devez être le"
+" Renégat que la fédération a envoyé, non ?\""
 
 #: src-en/data/events_echelon.xml:10
 msgid ""
@@ -35,72 +35,71 @@ msgstr "Oui, pourquoi ?"
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"\" Enfin ! Nous avons mis beaucoup trop de temps à vous trouver ! \" Le "
-"système de téléportation du vaisseau vous envoie immédiatement des "
-"cargaisons de fournitures et son équipage vient vous soigner."
+"\"Enfin ! Nous avons pris beaucoup trop de temps à vous chercher !\" Le "
+"système de téléportation du vaisseau vous téléporte immédiatement des tas de"
+" fournitures et leur équipage vient vous réparer."
 
 #: src-en/data/events_echelon.xml:21
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/text"
-msgstr "Génial !"
+msgstr "Super !"
 
 #: src-en/data/events_echelon.xml:23
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"\" Ah oui, au fait. Nous aimerions également vous présenter une offre "
-"spéciale pour créer un compte de membre du club \" Renégats d'Échelon \" !"
+"\"Ah oui, au fait. Nous aimerions aussi vous présenter une offre spéciale "
+"pour créer un compte de membre du club \"Renégats d'Echelon\" !\""
 
 #: src-en/data/events_echelon.xml:25
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr "Un....quoi ?"
+msgstr "Un... quoi ?"
 
 #: src-en/data/events_echelon.xml:27
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"\" Oh, ce n'est rien de bien compliqué, inscrivez-vous, accomplissez des "
-"tâches et des trucs, et obtenez des récompenses comme nos vaisseaux ! Le "
-"meilleur dans tout ça, c'est que tout est gratuit ! Voudriez-vous un compte "
-"maintenant ? \""
+"\"Oh, ce n'est rien de spécial, inscrivez-vous simplement, faites des tâches"
+" et des trucs et obtenez des récompenses comme nos vaisseaux ! La meilleure "
+"partie est que tout est gratuit ! Voulez-vous un compte maintenant ?\""
 
 #: src-en/data/events_echelon.xml:29
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr "Oui, s'il vous plaît, créez-en un pour nous."
+msgstr "Oui, créez-en un pour nous s'il vous plaît."
 
 #: src-en/data/events_echelon.xml:31
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
-"\" Avec plaisir ! \" L'interne commence immédiatement à saisir les "
-"identifiants pour vous, vous ne savez pas comment ils les ont obtenus, "
-"probablement à partir de la base de données de la fédération ? \" Et c'est "
-"tout ! N'oubliez pas de consulter la mission et de vous amuser avec votre "
-"récompense d'inscription ! \" Vous avez remarqué qu'un fichier contenant les"
-" plans d'un petit vaisseau est apparu dans votre base de données, cela "
-"pourrait être utile bientôt."
+"\"Avec plaisir !\" Le stagiaire commence immédiatement à taper les "
+"identifiants pour vous, vous n'êtes pas sûr de comment ils les ont obtenus, "
+"probablement de la base de données de la fédération ? \"Et c'est tout ! "
+"N'oubliez pas de vérifier la mission et amusez-vous avec votre récompense "
+"d'inscription !\" Vous avez remarqué qu'un fichier pour les plans d'un petit"
+" vaisseau est apparu dans votre base de données, peut-être que cela sera "
+"utile bientôt."
 
 #: src-en/data/events_echelon.xml:36
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr "Non merci, ça va."
+msgstr "Non merci, ça ira."
 
 #: src-en/data/events_echelon.xml:38
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
-msgstr "\" Très bien, à bientôt ! \""
+msgstr "\"Très bien alors, à bientôt !\""
 
 #: src-en/data/events_echelon.xml:52
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[2]/text"
-msgstr "Il est peut-être préférable de laisser le vaisseau tranquille."
+msgstr "Peut-être vaut-il mieux laisser ce vaisseau tranquille."
 
 #: src-en/data/events_echelon.xml:54
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[2]/event/text"
 msgstr ""
-"Vous décidez que l'étrange vaisseau ne vaut pas votre temps, vous finissez "
-"par vous en séparer. Vous ne pouvez vous empêcher de vous demander ce qu'ils"
-" pourraient avoir."
+"Vous avez décidé que l'étrange vaisseau ne vaut pas le temps, vous finissez "
+"par vous séparer de lui. Vous ne pouvez pas vous empêcher de vous demander "
+"quelles choses ils pourraient avoir."
