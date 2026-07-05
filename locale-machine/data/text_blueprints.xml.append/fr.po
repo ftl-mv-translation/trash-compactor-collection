@@ -8,37 +8,37 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:5
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR1_class\"]"
-msgstr "Compacteur à ordures"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:6
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR2_class\"]"
-msgstr "Compacteur à ordures"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:7
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR3_class\"]"
-msgstr "Compacteur à ordures"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:8
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR4_class\"]"
-msgstr "Compacteur à ordures"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:9
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR5_class\"]"
-msgstr "Compacteur à ordures"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR6_class\"]"
-msgstr "Compacteur à ordures"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:11
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_MINER_class\"]"
-msgstr "Mineur d'ordures"
+msgstr "Mineur de déchets"
 
 #: src-en/data/text_blueprints.xml.append:12
 msgid "data/text_blueprints.xml.append$/dummyroot/text[8]"
@@ -92,7 +92,7 @@ msgstr "Vaisseau d'abordage RSA"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAMPLE_unlock\"]"
 msgstr ""
-"Gagner la partie avec n'importe quelle disposition du Vaisseau précédent."
+"Gagnez le jeu avec n'importe quelle configuration du vaisseau précédent."
 
 #: src-en/data/text_blueprints.xml.append:27
 msgid ""
@@ -107,7 +107,7 @@ msgstr "Atteindre le secteur 5 avec le Type B ou gagner avec le Type A."
 #: src-en/data/text_blueprints.xml.append:32
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_class\"]"
-msgstr "Corvette ferrailleuse"
+msgstr "Corvette Ferrailleur"
 
 #: src-en/data/text_blueprints.xml.append:33
 msgid ""
@@ -118,36 +118,32 @@ msgstr "Fiare Vechi"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_desc\"]"
 msgstr ""
-"Le vaisseau de combat Ferrailleur le plus capable... disponible pour nous, du moins.\r\n"
-"Le Compacteur à bord peut être utilisé pour recycler et imprimer en 3D de la ferraille en divers types d'objets."
+"Le vaisseau de combat ferrailleur le plus capable... disponible pour nous, du moins.\r\n"
+"Le compacteur à bord peut être utilisé pour recycler et imprimer en 3D de la ferraille en divers types d'objets."
 
 #: src-en/data/text_blueprints.xml.append:36
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SCRAPPER_unlock\"]"
-<<<<<<< Updated upstream
 msgstr ""
-=======
-msgstr "Battre les 6 versions du Compacteur d'ordures."
->>>>>>> Stashed changes
 
 #: src-en/data/text_blueprints.xml.append:38
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_2_class\"]"
-msgstr "Cuirassé lourd des Ferrailleurs"
+msgstr "Cuirassé Ferrailleur"
 
 #: src-en/data/text_blueprints.xml.append:39
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_2_name\"]"
-msgstr "Razormind"
+msgstr "Esprit rasoir"
 
 #: src-en/data/text_blueprints.xml.append:40
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_2_desc\"]"
 msgstr ""
-"Ce vaisseau peut aborder comme aucun autre - mais dans la hâte de construire"
-" l'immense salle de téléportation, les Ferrailleurs ont oublié d'installer "
-"tous les emplacements d'armes. Pas comme si vous alliez les utiliser, de "
-"toute façon."
+"Ce vaisseau peut aborder comme aucun autre - mais dans la précipitation pour"
+" construire la gigantesque salle de téléportation, les ferrailleurs ont "
+"oublié d'installer tous les emplacements d'armes. Pas comme si vous alliez "
+"les utiliser, de toute façon."
 
 #: src-en/data/text_blueprints.xml.append:41
 msgid ""
@@ -157,7 +153,7 @@ msgstr "Atteindre le secteur 5 avec le Type A."
 #: src-en/data/text_blueprints.xml.append:45
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_EATER_class\"]"
-msgstr "Croiseur du Dévoreur d'Ordures"
+msgstr "Croiseur du Mangeur de déchets"
 
 #: src-en/data/text_blueprints.xml.append:46
 msgid ""
@@ -168,19 +164,17 @@ msgstr "Moarte si Fier"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_EATER_desc\"]"
 msgstr ""
-"Le Prince des Lanius commande sa propre armée personnelle de ferrailleurs - "
-"il cherche à envelopper tellement de ferraille qu'il deviendra un immense "
-"vaisseau conscient, avec pour objectif final de manger le monde. Pour "
+"Le Prince des Lanius commande sa propre armée personnelle de Ferrailleurs - "
+"il cherche à envelopper tant de ferraille qu'il deviendra un immense "
+"vaisseau sentient, avec pour objectif final de manger le monde. Pour "
 "l'instant... il est encore de la taille d'un membre d'équipage."
 
 #: src-en/data/text_blueprints.xml.append:48
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_EATER_unlock\"]"
-<<<<<<< Updated upstream
 msgstr ""
-=======
-msgstr "Battre le jeu avec le Cuirassé lourd des Ferrailleurs."
->>>>>>> Stashed changes
+"Consultez les conseils d'un certain prince Lanius au sujet d'un certain "
+"artefact pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:52
 msgid "data/text_blueprints.xml.append$/dummyroot/text[34]"
@@ -189,14 +183,14 @@ msgstr "Mineur Kestrel"
 #: src-en/data/text_blueprints.xml.append:53
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_name\"]"
-msgstr "Compacteur à ordures"
+msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:54
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_desc\"]"
 msgstr ""
-"Un vieux vaisseau de classe Kestrel destiné à l'exploitation minière légère "
-"d'astéroïdes et à l'enlèvement d'ordures. Rééquipé pour le combat par "
+"Un vieux vaisseau de classe Kestrel destiné à l'extraction légère "
+"d'astéroïdes et à l'élimination des déchets. Rééquipé pour le combat par "
 "l'ingénieur Sergal Cheese, qui a été rejoint par le Protogen TRACKER et le "
 "Primagen RAPTOR. Un dysfonctionnement dans la sauvegarde ADN de la salle de "
 "clonage a créé Lancer."
@@ -205,7 +199,6 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_MINER_unlock\"]"
 msgstr ""
-"Se ranger du côté de Tracker dans le conflit avec le Compacteur d'ordures"
 
 #: src-en/data/text_blueprints.xml.append:57
 msgid ""
@@ -221,10 +214,6 @@ msgstr "Ion glacé"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_B_desc\"]"
 msgstr ""
-"Ice Ice Ion. Lancer s'est beaucoup trop amusé à refaire le Compacteur "
-"d'ordures pour répondre à ses besoins étranges, et a fait le vaisseau "
-"d'abordage ultime - tant qu'on ignore la taille minuscule du téléporteur. "
-"Ice ice ion."
 
 #: src-en/data/text_blueprints.xml.append:60
 msgid ""
@@ -238,15 +227,15 @@ msgstr "Mineur Kestrel"
 #: src-en/data/text_blueprints.xml.append:63
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_3_name\"]"
-msgstr "Étoile du matin"
+msgstr "Morningstar"
 
 #: src-en/data/text_blueprints.xml.append:64
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_3_desc\"]"
 msgstr ""
-"Trois certains Grunts de RSA ont pris le contrôle de ce vaisseau et ont "
+"Trois certains soldats de la RSA ont pris le contrôle de ce vaisseau et ont "
 "décidé de le modifier un peu. Tuez vos ennemis dans un blitz de feu avec ce "
-"vaisseau d'enfer."
+"sacré vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:65
 msgid ""
@@ -267,17 +256,17 @@ msgstr "Compacteur réactif"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_REACTOR_desc\"]"
 msgstr ""
-"Reconstruit à partir du Compacteur d'ordures, et des restes d'un vaisseau "
+"Reconstruit à partir du compacteur à ordures, et des restes d'un vaisseau "
 "Zoltan et Hektar - le vaisseau Hektar transportait des pièces d'exosquelette"
 " très étranges - nous pourrions les utiliser à notre avantage. La peinture a"
-" été précipitée mais ça fait l'affaire."
+" été bâclée mais ça fait l'affaire."
 
 #: src-en/data/text_blueprints.xml.append:72
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_REACTOR_unlock\"]"
 msgstr ""
-"Gagner la partie avec n'importe quelle disposition du Croiseur de collecte "
-"d'ordures de classe Kestrel."
+"Gagnez le jeu avec n'importe quelle configuration du croiseur de collecte de"
+" déchets de classe Kestrel."
 
 #: src-en/data/text_blueprints.xml.append:73
 msgid ""
@@ -288,7 +277,7 @@ msgstr "Atteindre le secteur 5 avec le Type A."
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_ECHO_unlock\"]"
 msgstr ""
-"Battre le jeu avec n'importe quelle disposition du Compacteur réactif."
+"Terminez le jeu avec n'importe quelle configuration du Compacteur réactif."
 
 #: src-en/data/text_blueprints.xml.append:78
 msgid ""
@@ -310,24 +299,24 @@ msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SDM_desc\"]"
 msgstr ""
 "Nous savons tous que ce n'est pas la taille qui compte - c'est l'allégeance."
-" Bien que le téléporteur sur ce vaisseau ait clairement un genre de... "
-"problèmes de surcompensation."
+" Bien que le téléporteur sur ce vaisseau ait clairement un certain type "
+"de... problèmes de surcompensation."
 
 #: src-en/data/text_blueprints.xml.append:85
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SDM_unlock\"]"
 msgstr ""
-"Gagner la partie avec n'importe quelle disposition du Compacteur réactif."
+"Gagnez le jeu avec n'importe quelle configuration du Compacteur réactif."
 
 #: src-en/data/text_blueprints.xml.append:87
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SDM_2_unlock\"]"
-msgstr "Atteindre le secteur 5 avec le Type A"
+msgstr "Atteignez le secteur 5 avec le Type A"
 
 #: src-en/data/text_blueprints.xml.append:91
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_CONSTRUCTION_class\"]"
-msgstr "Kestrel de l'équipe de construction"
+msgstr "Kestrel d'équipe de construction"
 
 #: src-en/data/text_blueprints.xml.append:92
 msgid ""
@@ -338,19 +327,19 @@ msgstr "L'Original"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_CONSTRUCTION_desc\"]"
 msgstr ""
-"Il s'agit d'une version entièrement fonctionnelle du Mineur Kestrel de "
-"l'époque où il était réellement utilisé pour l'exploitation minière - avant "
-"que TRACKER et sa bande ne l'obtiennent."
+"Ceci est une version entièrement fonctionnelle du Mineur Kestrel de l'époque"
+" où il était réellement utilisé pour l'extraction minière - avant que "
+"TRACKER et sa bande ne le récupèrent."
 
 #: src-en/data/text_blueprints.xml.append:94
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_CONSTRUCTION_unlock\"]"
-msgstr "Gagner la partie avec le Vaisseau d'abordage RSA."
+msgstr "Gagnez le jeu avec le vaisseau d'abordage RSA."
 
 #: src-en/data/text_blueprints.xml.append:96
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_CONSTRUCTION_2_unlock\"]"
-msgstr "Atteindre le secteur 5 avec le Type A"
+msgstr "Atteignez le secteur 5 avec le Type A"
 
 #: src-en/data/text_blueprints.xml.append:100
 msgid ""
@@ -366,19 +355,14 @@ msgstr "Guêpe blindée"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_desc\"]"
 msgstr ""
-"Ce vaisseau a été reconstruit à partir de bric et de broc - c'est maintenant"
-" un vaisseau rapide et extrêmement capable au combat, bien qu'il soit un peu"
-" exigu et fragile."
+"Ce vaisseau a été reconstruit à partir de déchets - c'est maintenant un "
+"vaisseau rapide et extrêmement capable au combat, bien qu'il soit un peu "
+"exigu et fragile."
 
 #: src-en/data/text_blueprints.xml.append:103
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_ARMORED_WASP_unlock\"]"
-msgstr ""
-<<<<<<< Updated upstream
-=======
-"Gagner la partie avec n'importe quelle disposition du Vaisseau d'abordage de"
-" transport."
->>>>>>> Stashed changes
+msgstr "Gagnez le jeu avec le transporteur converti."
 
 #: src-en/data/text_blueprints.xml.append:105
 msgid ""
@@ -416,8 +400,8 @@ msgstr "Aube d'acier"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_3_desc\"]"
 msgstr ""
-"Ce vaisseau est très furtif - essayez de ne pas vous faire toucher, "
-"cependant."
+"Ce vaisseau est très furtif - essayez quand même de ne pas vous faire "
+"toucher."
 
 #: src-en/data/text_blueprints.xml.append:113
 msgid ""
@@ -439,15 +423,15 @@ msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_desc\"]"
 msgstr ""
 "Une vieille amalgamation rouillée construite à partir des restes de "
-"plusieurs autres vaisseaux. L'Association de Récupération et de Sauvetage "
-"l'a doté d'un équipage diversifié, comprenant un Ferrailleur capturé."
+"plusieurs autres vaisseaux. La RSA l'a dotée d'un équipage diversifié, "
+"incluant un ferrailleur capturé."
 
 #: src-en/data/text_blueprints.xml.append:120
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_CORROSUS_unlock\"]"
 msgstr ""
-"Convainquez un certain androïde renégat de vous rejoindre ou gagnez la "
-"partie avec n'importe quelle disposition du Jet hybride de classe LPC."
+"Convainquez un certain renégat androïde de vous rejoindre ou gagnez le jeu "
+"avec n'importe quelle configuration du Jet hybride de classe LPC."
 
 #: src-en/data/text_blueprints.xml.append:122
 msgid ""
@@ -464,8 +448,8 @@ msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_2_desc\"]"
 msgstr ""
 "Léger et agile, ce vaisseau éclaireur RSA est dangereux mais fragile. Il "
-"possède un vaste arsenal de drones sur lesquels compter, mais aucun système "
-"d'arme."
+"dispose d'un vaste arsenal de drones sur lesquels compter, mais d'aucun "
+"système d'arme."
 
 #: src-en/data/text_blueprints.xml.append:125
 msgid ""
@@ -474,7 +458,7 @@ msgstr "Atteindre le secteur 5 avec le Type A."
 
 #: src-en/data/text_blueprints.xml.append:127
 msgid "data/text_blueprints.xml.append$//text[@name=\"text_TC_CORROSUS_3_class\"]"
-msgstr "Soutien de flotte RSA"
+msgstr "Support de flotte RSA"
 
 #: src-en/data/text_blueprints.xml.append:128
 msgid "data/text_blueprints.xml.append$//text[@name=\"text_TC_CORROSUS_3_name\"]"
@@ -483,10 +467,9 @@ msgstr "Vulture Culture"
 #: src-en/data/text_blueprints.xml.append:129
 msgid "data/text_blueprints.xml.append$//text[@name=\"text_TC_CORROSUS_3_desc\"]"
 msgstr ""
-"Ce modèle de vaisseau de Soutien de flotte est l'un des vaisseaux les plus "
-"courants de l'ASSOCIATION DE RÉCUPÉRATION ET DE SAUVETAGE ; bien qu'aucun de"
-" ces vaisseaux ne se ressemble exactement, compte tenu de... la construction"
-" brute de la coque."
+"Ce modèle de vaisseau de support de flotte est l'un des vaisseaux les plus "
+"courants dans la RSA ; bien qu'aucun de ces vaisseaux ne se ressemble "
+"exactement, étant donné la... construction brute de la coque."
 
 #: src-en/data/text_blueprints.xml.append:130
 msgid ""
@@ -496,42 +479,42 @@ msgstr "Atteindre le secteur 5 avec le Type B ou gagner avec le Type A."
 #: src-en/data/text_blueprints.xml.append:134
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_class\"]"
-msgstr "Location de Vaisseau Amiral"
+msgstr "Louez-un-vaisseau-amiral"
 
 #: src-en/data/text_blueprints.xml.append:135
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_name\"]"
-msgstr "LOCATION DE VAISSEAU AMIRAL"
+msgstr "LOUEZ-UN-VAISSEAU-AMIRAL"
 
 #: src-en/data/text_blueprints.xml.append:136
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_desc\"]"
 msgstr ""
-"BIENVENUE DANS LA [VERSION D'ESSAI] DU [vaisseau de difficulté modérée] !!! "
-"JOUEZ MAINTENANT JOUEZ MAINTENANT - DEVENEZ [grand calibre] ! ACQUÉREZ [UWU]"
-" !"
+"BIENVENUE DANS LA [VERSION D'ESSAI] DU [vaisseau à difficulté modérée] !!! "
+"JOUEZ MAINTENANT JOUEZ MAINTENANT - DEVENEZ [un gros bonnet] ! ACQUÉREZ "
+"[UWU] !"
 
 #: src-en/data/text_blueprints.xml.append:137
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SLUGTON_unlock\"]"
-msgstr "Gagner la partie avec le Vaisseau d'abordage RSA."
+msgstr "Gagnez le jeu avec le vaisseau d'abordage RSA."
 
 #: src-en/data/text_blueprints.xml.append:139
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_2_class\"]"
-msgstr "Location de Vaisseau Amiral"
+msgstr "Louez-un-vaisseau-amiral"
 
 #: src-en/data/text_blueprints.xml.append:140
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_2_name\"]"
-msgstr "Exordium de bandit"
+msgstr "Bandit Exordium"
 
 #: src-en/data/text_blueprints.xml.append:141
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_2_desc\"]"
 msgstr ""
-"Ce vaisseau appartenait à la Kleptocratie Limace - sans surprise, c'est "
-"maintenant un vaisseau bandit qui s'en prend aux civils."
+"Ce vaisseau appartenait à la Kleptocratie des Limaces - sans surprise, c'est"
+" maintenant un vaisseau bandit qui s'en prend aux civils."
 
 #: src-en/data/text_blueprints.xml.append:142
 msgid ""
@@ -541,7 +524,7 @@ msgstr "Atteindre le secteur 5 avec le Type A."
 #: src-en/data/text_blueprints.xml.append:144
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_3_class\"]"
-msgstr "Location de Vaisseau Amiral"
+msgstr "Louez-un-vaisseau-amiral"
 
 #: src-en/data/text_blueprints.xml.append:145
 msgid ""
@@ -552,7 +535,7 @@ msgstr "J4NK-3R"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_3_desc\"]"
 msgstr ""
-"Pourquoi Cheese a-t-il refait ce vaisseau et l'a-t-il amené dans la Flotte "
+"Pourquoi Cheese a-t-il refait ce vaisseau et l'a-t-il amené dans la flotte "
 "de la Fédération ? C'est une bonne question !"
 
 #: src-en/data/text_blueprints.xml.append:147
@@ -568,29 +551,27 @@ msgstr "Vaisseau d'abordage Limace capturé"
 #: src-en/data/text_blueprints.xml.append:152
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_name\"]"
-msgstr "Centre névralgique"
+msgstr "Centre nerveux"
 
 #: src-en/data/text_blueprints.xml.append:153
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_desc\"]"
 msgstr ""
-"Ce vaisseau a été conçu pour transporter beaucoup de cargaison appétissante."
-" Peut-être est-ce pour cela qu'il y a tant de ferrailleurs à bord ? Non, ce "
-"n'est pas possible..."
+"Ce vaisseau a été fait pour transporter beaucoup de cargaison à l'air "
+"savoureux. Peut-être est-ce pour cela qu'il y a tant de Ferrailleurs dessus "
+"? Non, ce n'est pas possible..."
 
 #: src-en/data/text_blueprints.xml.append:154
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_unlock\"]"
 msgstr ""
-<<<<<<< Updated upstream
-=======
-"Débloquez tous les autres vaisseaux sur la première page ajoutée par le TCC."
->>>>>>> Stashed changes
+"Débloquez toutes les configurations des croiseurs Ferrailleur et Ferrailleur"
+" Élémentaire."
 
 #: src-en/data/text_blueprints.xml.append:156
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_2_class\"]"
-msgstr "Cuirassé lourd des Ferrailleurs déformé"
+msgstr "Cuirassé Ferrailleur Déformé"
 
 #: src-en/data/text_blueprints.xml.append:157
 msgid ""
@@ -601,18 +582,16 @@ msgstr "Charpentier"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_2_desc\"]"
 msgstr ""
-"Le vaisseau ultime pour les assassinats - détruisez vos ennemis multiversels"
-" avec l'arsenal varié de ce vaisseau. Un vrai chasseur de primes, loyal "
-"envers celui qui paye le mieux."
+"Le vaisseau ultime pour les contrats d'assassinat - détruisez vos ennemis "
+"multiversels avec l'arsenal varié de ce vaisseau. Un vrai chasseur de "
+"primes, loyal à quiconque paie le mieux."
 
 #: src-en/data/text_blueprints.xml.append:159
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_2_unlock\"]"
-<<<<<<< Updated upstream
 msgstr ""
-=======
-msgstr "Battre le jeu avec le Type A."
->>>>>>> Stashed changes
+"Débloquez toutes les configurations des croiseurs Mineur de déchets, "
+"Compacteur réactif et Jet hybride de classe LPC."
 
 #: src-en/data/text_blueprints.xml.append:161
 msgid ""
@@ -627,35 +606,35 @@ msgstr "Atteindre le secteur 5 avec le Type B ou gagner avec le Type A."
 #: src-en/data/text_blueprints.xml.append:166
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AVALI_unlock\"]"
-msgstr "Débloquez le Croiseur Orchidée Type C pour débloquer ce vaisseau."
+msgstr "Débloquez le croiseur Orchidée Type C pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:167
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AVALI_2_unlock\"]"
 msgstr ""
-"Atteindre le secteur 5 avec le Croiseur Harrier Type A pour débloquer ce "
+"Atteignez le secteur 5 avec le croiseur Harrier Type A pour débloquer ce "
 "vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:168
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AVALI_3_unlock\"]"
 msgstr ""
-"Atteindre le secteur 5 avec le Croiseur Harrier Type B ou battre le jeu avec"
-" le Croiseur Harrier Type A pour débloquer ce vaisseau."
+"Atteignez le secteur 5 avec le croiseur Harrier Type B ou terminez le jeu "
+"avec le croiseur Harrier Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:170
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FALCON_FRIGATE_unlock\"]"
 msgstr ""
-"Gagner la partie avec n'importe quelle disposition du Croiseur Harrier."
+"Gagnez le jeu avec n'importe quelle configuration du croiseur Harrier."
 
 #: src-en/data/text_blueprints.xml.append:175
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_AVALI_SLOT2_desc\"]"
 msgstr ""
-"Ce croiseur marchand était à moitié chargé avec des ordures à vendre avant "
-"d'être poussé dans le service militaire. Heureusement, son téléporteur de "
-"cargaison peut servir d'offensive."
+"Ce croiseur marchand était à moitié chargé de déchets à vendre avant d'être "
+"poussé au service militaire. Heureusement, son téléporteur de cargaison peut"
+" servir d'offensive."
 
 #: src-en/data/text_blueprints.xml.append:176
 msgid ""
@@ -671,25 +650,25 @@ msgstr "Croiseur marchand Avali"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AVALI_SLOT2_unlock\"]"
 msgstr ""
-"Gagner la partie avec le Croiseur Harrier Type C pour débloquer ce vaisseau."
+"Gagnez le jeu avec le croiseur Harrier Type C pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:180
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SMEW_BATTLECRUISER_unlock\"]"
 msgstr ""
-"Gagner la partie avec n'importe quelle disposition de la Frégate Faucon."
+"Gagnez le jeu avec n'importe quelle configuration de la frégate Faucon."
 
 #: src-en/data/text_blueprints.xml.append:182
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TECHLANCE_unlock\"]"
 msgstr ""
-"Gagner la partie avec n'importe quelle disposition du vaisseau de "
+"Gagnez le jeu avec n'importe quelle configuration du vaisseau de "
 "construction Fenek."
 
 #: src-en/data/text_blueprints.xml.append:187
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_class\"]"
-msgstr "Transporteur de la Fédération"
+msgstr "Porteur de la Fédération"
 
 #: src-en/data/text_blueprints.xml.append:188
 msgid ""
@@ -700,24 +679,19 @@ msgstr "Souverain des étoiles"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_desc\"]"
 msgstr ""
-"Ceci est un transporteur de Soutien de flotte de la Fédération hautement axé"
-" sur les drones - il a un équipement aux spécifications assez anciennes, "
-"mais ça fera l'affaire..."
+"Il s'agit d'un porteur de support de flotte de la Fédération hautement axé "
+"sur les drones - il possède un équipement aux spécifications assez "
+"anciennes, mais ça fera l'affaire..."
 
 #: src-en/data/text_blueprints.xml.append:190
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FEDERATION_CARRIER_unlock\"]"
-msgstr ""
-<<<<<<< Updated upstream
-=======
-"Débloquez quatre vaisseaux militaires de la Fédération de cette page ou les "
-"4 premiers vaisseaux sur cette page pour débloquer ce Croiseur."
->>>>>>> Stashed changes
+msgstr "Débloquez les quatre vaisseaux sur cette page."
 
 #: src-en/data/text_blueprints.xml.append:192
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_2_class\"]"
-msgstr "Transporteur de la Fédération"
+msgstr "Porteur de la Fédération"
 
 #: src-en/data/text_blueprints.xml.append:193
 msgid ""
@@ -728,8 +702,8 @@ msgstr "Le Scylla"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_2_desc\"]"
 msgstr ""
-"Ce vaisseau a été modifié par un groupe de milice et dispose d'une "
-"artillerie ionique en chaîne ainsi que d'un minigun."
+"Ce vaisseau a été modifié par un groupe de miliciens et dispose d'une "
+"artillerie à ions en chaîne ainsi que d'une minigun."
 
 #: src-en/data/text_blueprints.xml.append:195
 msgid ""
@@ -739,7 +713,7 @@ msgstr "Atteindre le secteur 5 avec le Type A."
 #: src-en/data/text_blueprints.xml.append:197
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_3_class\"]"
-msgstr "Transporteur de la Fédération"
+msgstr "Porteur de la Fédération"
 
 #: src-en/data/text_blueprints.xml.append:198
 msgid ""
@@ -751,7 +725,7 @@ msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FEDERATION_CARRIER_3_desc\"]"
 msgstr ""
 "Ce croiseur lourdement usé était au service de la Rébellion au début de la "
-"guerre, mais il a été récemment repris par la Fédération et rapidement "
+"guerre, mais il a été récemment recapturé par la Fédération et rapidement "
 "rééquipé pour retourner au combat."
 
 #: src-en/data/text_blueprints.xml.append:200
@@ -761,7 +735,7 @@ msgstr "Atteindre le secteur 5 avec le Type B ou gagner avec le Type A."
 
 #: src-en/data/text_blueprints.xml.append:204
 msgid "data/text_blueprints.xml.append$/dummyroot/text[131]"
-msgstr "Cargo Liner expérimental"
+msgstr "Paquebot cargo expérimental"
 
 #: src-en/data/text_blueprints.xml.append:205
 msgid ""
@@ -772,19 +746,19 @@ msgstr "Surplus militaire"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_MILSPEC_desc\"]"
 msgstr ""
-"Ce vaisseau est un Cargo Liner hautement expérimental fabriqué par la "
-"Fédération - il a été spécialement équipé d'une unité d'Intendant automatisé"
-" pour aider l'équipage à créer des armes si nécessaire."
+"Ce vaisseau est un cargo expérimental fabriqué par la Fédération - il a été "
+"spécialement équipé d'une unité de quartier-maître automatisée pour aider "
+"l'équipage à créer des armes si nécessaire."
 
 #: src-en/data/text_blueprints.xml.append:207
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_MILSPEC_unlock\"]"
 msgstr ""
-"Gagner la partie avec n'importe quelle disposition du Croiseur Harrier."
+"Gagnez le jeu avec n'importe quelle configuration du croiseur Harrier."
 
 #: src-en/data/text_blueprints.xml.append:209
 msgid "data/text_blueprints.xml.append$/dummyroot/text[135]"
-msgstr "Cargo Liner expérimental"
+msgstr "Paquebot cargo expérimental"
 
 #: src-en/data/text_blueprints.xml.append:210
 msgid ""
@@ -796,7 +770,7 @@ msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_MILSPEC_2_desc\"]"
 msgstr ""
 "Ce croiseur transportait un spécimen alien trouvé sur une base abandonnée - "
-"le spécimen alien s'est échappé, au grand dam de l'extrême paranoïa de "
+"le spécimen alien s'est échappé, au grand dam de la paranoïa extrême de "
 "l'équipage."
 
 #: src-en/data/text_blueprints.xml.append:212
@@ -819,20 +793,20 @@ msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_desc\"]"
 msgstr ""
 "Le vaisseau de l'infâme Maître des rayons, mieux connu sous le nom de Leo..."
-" ou, attendez, était-ce Liam ? Leviticus ? Lizzy ???"
+" ou attendez, était-ce Liam ? Leviticus ? Lizzy ???"
 
 #: src-en/data/text_blueprints.xml.append:221
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_2_desc\"]"
 msgstr ""
-"Avec un appareil de contrôle mental permanent installé sur le vaisseau de la"
-" Maître des rayons, son vaisseau a été rapidement peint aux couleurs de la "
-"fédération et transformé en vaisseau capable de voyager dans le multivers."
+"Avec une installation de contrôle mental permanente sur le vaisseau du "
+"Maître des rayons, son vaisseau a été rapidement peint aux couleurs de la "
+"Fédération et transformé en un vaisseau capable de parcourir le multivers."
 
 #: src-en/data/text_blueprints.xml.append:222
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_2_name\"]"
-msgstr "Le Livre des règles"
+msgstr "Le livre des règles"
 
 #: src-en/data/text_blueprints.xml.append:223
 msgid ""
@@ -843,16 +817,16 @@ msgstr "Croiseur de Leah"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_NEWTONBEAMA_2_unlock\"]"
 msgstr ""
-"Battre le jeu avec le Croiseur de Leah Type A pour débloquer ce vaisseau."
+"Terminez le jeu avec le croiseur de Leah Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:227
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_NEWTONBEAMA_3_desc\"]"
 msgstr ""
 "Après une réflexion approfondie, Leah a réalisé que son ancien vaisseau "
-"n'était pas prêt pour les défis du multivers. Cependant, dans sa hâte "
-"d'améliorer son vaisseau, elle a oublié de le rendre compatible avec les "
-"boucliers. Oups."
+"n'était pas prêt pour les défis du multivers. Cependant, dans sa "
+"précipitation à améliorer son vaisseau, elle a oublié de le rendre "
+"compatible avec les boucliers. Oups."
 
 #: src-en/data/text_blueprints.xml.append:228
 msgid ""
@@ -868,36 +842,36 @@ msgstr "Croiseur de Leah"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_NEWTONBEAMA_3_unlock\"]"
 msgstr ""
-"Consultez les conseils d'un certain passionné de rayons au sujet d'un "
+"Consultez les conseils d'un certain aficionado des rayons à propos d'un "
 "certain artefact pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:235
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_ROBOTTO_class\"]"
-msgstr "Transporteur de carburant Robotto"
+msgstr "Tanker à carburant Robotto"
 
 #: src-en/data/text_blueprints.xml.append:236
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_ROBOTTO_name\"]"
-msgstr "Le Transporteur"
+msgstr "Le Tanker"
 
 #: src-en/data/text_blueprints.xml.append:237
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_ROBOTTO_desc\"]"
 msgstr ""
-"Il s'agit d'un vaisseau de type transporteur fragile mais étonnamment bien "
-"armé, entièrement doté de la race de robots Conscients - également connus "
-"sous le nom de Robottos et à ne pas confondre avec les Engis."
+"C'est un type de vaisseau tanker fragile mais étonnamment bien armé, "
+"entièrement composé par la race de robots conscients - également connus sous"
+" le nom de Robottos et à ne pas confondre avec les Engis."
 
 #: src-en/data/text_blueprints.xml.append:238
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_ROBOTTO_unlock\"]"
-msgstr "Débloquez les 4 vaisseaux civils."
+msgstr "Débloquez les 4 vaisseaux Civils."
 
 #: src-en/data/text_blueprints.xml.append:242
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_HEKTAR_REBEL_class\"]"
-msgstr "Vaisseau complètement original (tm)"
+msgstr "Vaisseau Complètement Original (tm)"
 
 #: src-en/data/text_blueprints.xml.append:243
 msgid ""
@@ -908,35 +882,27 @@ msgstr "Échantillon gratuit"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_HEKTAR_REBEL_desc\"]"
 msgstr ""
-"La Hektar Corporation n'est pas étrangère à l'emprunt de designs - quand le "
-"croiseur rebelle a prouvé sa valeur au combat, il n'est pas surprenant que "
-"Hektar... ait emprunté le design. Ce vaisseau est bon à la fois pour les "
-"batailles et pour transporter du fret."
+"La Hektar Corporation n'est pas étrangère à l'emprunt de conceptions - "
+"lorsque le croiseur rebelle a prouvé sa valeur au combat, il n'est pas "
+"surprenant que Hektar... ait emprunté la conception. Ce vaisseau est bon à "
+"la fois pour les batailles et pour transporter du fret."
 
 #: src-en/data/text_blueprints.xml.append:245
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_HEKTAR_REBEL_unlock\"]"
 msgstr ""
-"Gagner la partie avec n'importe quelle disposition du Vaisseau amiral de "
+"Gagnez le jeu avec n'importe quelle configuration du vaisseau amiral de "
 "location."
 
 #: src-en/data/text_blueprints.xml.append:249
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_DEFENSE_unlock\"]"
-<<<<<<< Updated upstream
-msgstr ""
-=======
-msgstr "Débloquez le croiseur d'un certain terroriste."
->>>>>>> Stashed changes
+msgstr "Débloquez les croiseurs Alt-Pacificateur et Alt-Paladin."
 
 #: src-en/data/text_blueprints.xml.append:250
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_POTENTIAL_unlock\"]"
-<<<<<<< Updated upstream
-msgstr ""
-=======
-msgstr "Débloquez le croiseur d'une certaine figure de la Fédération."
->>>>>>> Stashed changes
+msgstr "Débloquez le croiseur d'un certain amiral de la Fédération."
 
 #: src-en/data/text_blueprints.xml.append:251
 msgid ""
@@ -951,32 +917,25 @@ msgstr "Atteindre le secteur 5 avec le Type B ou gagner avec le Type A."
 #: src-en/data/text_blueprints.xml.append:256
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_unlock\"]"
-msgstr ""
-<<<<<<< Updated upstream
-=======
-"Gagnez en utilisant les plans d'un Croiseur fabriqué par une race de Royauté"
-" Demi-Dieu oubliée depuis longtemps."
->>>>>>> Stashed changes
+msgstr "Gagnez en utilisant l'Obélisque B."
 
 #: src-en/data/text_blueprints.xml.append:257
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_2_unlock\"]"
-msgstr "Gagner avec le Type A."
+msgstr "Gagnez avec le Type A."
 
 #: src-en/data/text_blueprints.xml.append:258
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_3_unlock\"]"
 msgstr ""
-<<<<<<< Updated upstream
-=======
-"Demandez à un certain vaisseau amiral quoi faire avec un certain appareil."
->>>>>>> Stashed changes
+"Consultez les conseils d'un certain vaisseau amiral du Multivers à propos "
+"d'un certain artefact pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:259
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_BATTLESHIP_unlock\"]"
 msgstr ""
-"Battre le Vaisseau amiral avec la disposition de type A d'un Croiseur "
+"Battez le vaisseau amiral avec la configuration de type A d'un croiseur "
 "rebelle d'élite."
 
 #: src-en/data/text_blueprints.xml.append:263
@@ -991,7 +950,7 @@ msgstr "ECHO 1-LINER"
 #: src-en/data/text_blueprints.xml.append:265
 msgid "data/text_blueprints.xml.append$/dummyroot/text[168]"
 msgstr ""
-"Ce LPC est devenu tristement célèbre pendant la révolution du Projet "
+"Ce LPC était devenu tristement célèbre pendant la révolution du Projet "
 "Protogen, lorsque TRACKER et son équipe hétéroclite ont kidnappé plusieurs "
 "officiers rebelles et ont forcé un blocus afin de faire défection vers la "
 "Fédération."
@@ -1008,14 +967,14 @@ msgstr "ECHO 1-LINER"
 #: src-en/data/text_blueprints.xml.append:269
 msgid "data/text_blueprints.xml.append$/dummyroot/text[171]"
 msgstr ""
-"Ceci est la version originale du TRACKER 1-1, avant qu'il ne soit repeint "
-"pour paraître discret. La racaille rebelle peut encore être à bord, mais hé,"
-" au moins ils passeraient plus facilement les blocus rebelles."
+"Ceci est la version originale du TRACKER 1-1, avant d'être repeinte pour "
+"paraître discrète. La racaille rebelle peut encore être à bord, mais hé, au "
+"moins ils franchiraient les blocus rebelles plus facilement."
 
 #: src-en/data/text_blueprints.xml.append:273
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AUTOGUNBOAT_unlock\"]"
-msgstr "Devenir un Renégat d'Echelon."
+msgstr "Devenez un renégat Echelon."
 
 #: src-en/data/text_blueprints.xml.append:274
 msgid ""
@@ -1030,13 +989,13 @@ msgstr "Atteindre le secteur 5 avec le Type B ou gagner avec le Type A."
 #: src-en/data/text_blueprints.xml.append:276
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AUTOGUNBOAT_ELITE_unlock\"]"
-msgstr "Débloquez toutes les dispositions de la Canonnière automatisée."
+msgstr "Débloquez toutes les configurations de la canonnière automatisée."
 
 #: src-en/data/text_blueprints.xml.append:278
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_MILITIAGUNBOAT_unlock\"]"
 msgstr ""
-"Gagner la partie avec n'importe quelle disposition de la Canonnière "
+"Gagnez le jeu avec n'importe quelle configuration de la canonnière "
 "automatisée."
 
 #: src-en/data/text_blueprints.xml.append:279
@@ -1052,7 +1011,7 @@ msgstr "Atteindre le secteur 5 avec le Type B ou gagner avec le Type A."
 #: src-en/data/text_blueprints.xml.append:281
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_MILITIAGUNBOAT_ELITE_unlock\"]"
-msgstr "Débloquez toutes les dispositions de la Canonnière de milice."
+msgstr "Débloquez toutes les configurations de la canonnière de la milice."
 
 #: src-en/data/text_blueprints.xml.append:284
 msgid ""

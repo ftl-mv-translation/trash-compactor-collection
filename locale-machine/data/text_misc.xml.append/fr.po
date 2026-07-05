@@ -16,14 +16,14 @@ msgstr "MAGASIN [RSA]"
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_bomb_flak\"]"
 msgstr ""
-"Les bombes flak fonctionnent de manière similaire aux flaks standard, mais "
-"infligent le double de dégâts aux systèmes et coûtent un missile à tirer. "
-"Elles sont idéales pour abattre les systèmes, mais ne percent pas les "
-"boucliers comme les autres armes balistiques."
+"Les flaks-bombe fonctionnent de manière similaire aux flaks standards, mais "
+"infligent deux fois plus de dégâts aux systèmes et coûtent un missile à "
+"tirer. Ils sont parfaits pour abattre les systèmes, mais ne percent pas les "
+"boucliers comme d'autres armes balistiques."
 
 #: src-en/data/text_misc.xml.append:7
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ancalagon\"]"
-msgstr ""
+msgstr "Une relique d'une civilisation passée."
 
 #: src-en/data/text_misc.xml.append:9
 msgid "data/text_misc.xml.append$//text[@name=\"warning_power_surge_rosegold\"]"
@@ -31,37 +31,16 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"warning_power_surge_golden\"]"
-msgstr ""
+msgstr "SURGE DORÉE\\nIMMIMENTE"
 
 #: src-en/data/text_misc.xml.append:11
 msgid "data/text_misc.xml.append$//text[@name=\"warning_power_surge_adamantine\"]"
-msgstr ""
+msgstr "SURGE ADAMANTINE\\nIMMINENTE"
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_tcc\"]"
 msgstr ""
-"COLLECTION COMPACTEUR DE DÉCHETS\n"
-"\tActuellement activé.\n"
-"\tCliquez pour plus d'informations."
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"info_addon_tcc\"]"
 msgstr ""
-"COLLECTION COMPACTEUR DE DÉCHETS\n"
-"\tDéveloppé par Zuggo, Dalvest, Enchanter, Cryntolov, Ashley, NitronEXE, LandGreen, Choosechee, ConMan, Kommandant_Julk, Vertaalfout, Pedrosian96\n"
-"\tActuellement activé.\n"
-"\n"
-"NOUVELLES ARMES\n"
-"    Projecteurs de Singularité, grosses mitrailleuses Gatling, Flaks de toutes sortes, tailles et formes, et bien plus encore !\n"
-"\n"
-"NOUVEAUX VAISSEAUX\n"
-"    Comprenant la ligne de vaisseaux Récupérateur Lanius ainsi que le Projet Protogen, Avali, RÉCUPÉRATION et SAUVETAGE, les Chantiers Navals Échelon et PLUS !\n"
-"    Comprend également les packs Extraélite - traquez des cibles spécifiques avec des configurations spécifiques et puissantes !\n"
-"\n"
-"NOUVELLES RACES\n"
-"    Récupérateurs Lanius, Protogens, Avali, Sergals, Robots Sensibles, Kivies et Tabaxis rejoignent le combat !\n"
-"\n"
-"NOUVEAUX SECTEURS ET ÉVÉNEMENTS\n"
-"    Secteur Collectif Avali (secteur ami des Avali et Protogen) très bientôt !\n"
-"\n"
-"\tInclut maintenant plusieurs autres modifications telles que RSC, Avali, Flaks Bombes, Kivie Takeover et Instant Flair !"

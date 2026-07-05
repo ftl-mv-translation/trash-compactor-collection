@@ -8,22 +8,22 @@ msgstr ""
 #: src-en/data/events_sector_droppoint.xml.append:3
 msgid "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_CALL\"]/text"
 msgstr ""
-"Vous remarquez un signal étrange provenant d'un emplacement sur votre carte."
-" Nous devrions vérifier."
+"Vous remarquez un signal étrange venant d'un emplacement sur votre carte. "
+"Nous devrions aller voir."
 
 #: src-en/data/events_sector_droppoint.xml.append:8
 msgid "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/text"
 msgstr ""
-"Cette balise est vide, à l'exception d'un étrange vaisseau Lanius d'un "
-"design qui n'apparaît dans aucun registre. Leurs armes, qui bourdonnaient "
-"autrefois de vie, s'éteignent lorsque vous entrez dans les environs. Il "
-"semble qu'ils ne veulent pas se battre. Bien qu'ils ne répondent pas aux "
+"Cette balise est vide, à l'exception d'un étrange vaisseau Lanius d'une "
+"conception qui n'apparaît dans aucun registre. Leurs armes, autrefois "
+"bourdonnantes de vie, se désactivent lorsque vous entrez dans les environs. "
+"Il semble qu'ils ne veulent pas se battre. Bien qu'ils ne répondent pas aux "
 "appels, vous n'êtes pas sûr qu'ils comprendraient de toute façon."
 
 #: src-en/data/events_sector_droppoint.xml.append:11
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/beaconType/unvisitedTooltip"
-msgstr "VIENS LE CHERCHER"
+msgstr "V1ENZ LE CHERCH3R"
 
 #: src-en/data/events_sector_droppoint.xml.append:12
 msgid ""
@@ -33,21 +33,21 @@ msgstr ""
 #: src-en/data/events_sector_droppoint.xml.append:13
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/beaconType/undiscoveredTooltip"
-msgstr "NOUS SOMMES ENCORE ICI"
+msgstr "NOU5 SOMME5 ENCOR3 L4"
 
 #: src-en/data/events_sector_droppoint.xml.append:19
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/text"
-msgstr "Approchez-vous du vaisseau Lanius inconnu..."
+msgstr "Se rapprocher de l'inconnu vaisseau Lanius..."
 
 #: src-en/data/events_sector_droppoint.xml.append:21
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/text"
 msgstr ""
 "L'étrange vaisseau Lanius a collecté de la ferraille de ce qui semble avoir "
-"été un vaisseau pirate Mantis. Les scans de capteurs montrent qu'ils ont un "
-"armement flak avancé à bord. Ils ne semblent pas vous avoir remarqué ou vous"
-" ignorent autrement."
+"été un vaisseau pirate Mantis. Les scans des capteurs montrent qu'ils ont "
+"des armes flak avancées à bord. Ils ne semblent pas vous avoir remarqué ou "
+"vous ignorent."
 
 #: src-en/data/events_sector_droppoint.xml.append:23
 msgid ""
@@ -59,34 +59,34 @@ msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/text"
 msgstr ""
 "Le vaisseau continue d'ignorer votre présence tout en alimentant ses "
-"moteurs. Peu de temps après, il saute, laissant derrière lui une étrange "
-"invention. Vous vous demandez s'ils voudront la récupérer..."
+"moteurs. Peu après, il saute, laissant derrière lui un étrange engin. Vous "
+"vous demandez s'ils voudront le récupérer..."
 
 #: src-en/data/events_sector_droppoint.xml.append:27
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[1]/text"
-msgstr "Prenez-la."
+msgstr "Le saisir."
 
 #: src-en/data/events_sector_droppoint.xml.append:29
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Il semble s'agir d'un transmetteur personnalisé - il peut envoyer une capsule de transport en utilisant du carburant et/ou des pièces de drones. Un écran montre la position en direct de ce qui est probablement le vaisseau Lanius d'avant avec un étrange message - \"VIENS LE CHERCHER\". Peut-être que si vous les attirez avec de la ferraille, ils reviendront ? \n"
+"Cela semble être un émetteur fait sur mesure - il peut envoyer une capsule de transport en utilisant du carburant et/ou des pièces de drone. Un écran montre la localisation en direct de ce qui est probablement le vaisseau Lanius de tout à l'heure, accompagné d'un étrange message - \"VIENS LE CHERCHER\". Peut-être que si vous les attirez avec de la ferraille, ils reviendront ? \n"
 "\n"
-"                                [Utilisez-le lors d'une vérification de stockage]"
+" [Utilisez-le lors d'une vérification de stockage]"
 
 #: src-en/data/events_sector_droppoint.xml.append:38
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[2]/text"
-msgstr "Vous n'êtes pas intéressé par des ordures réelles."
+msgstr "Vous n'êtes pas intéressé par de vrais déchets."
 
 #: src-en/data/events_sector_droppoint.xml.append:40
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
-"Cela pourrait être un piège, cela pourrait être des ordures. Les Lanius ne "
-"laissent généralement pas leurs proies derrière eux, même quand ladite proie"
-" est une machine apparemment inoffensive. Vous décidez de partir."
+"Cela pourrait être un piège, cela pourrait être des déchets. Les Lanius ne "
+"laissent généralement pas de proie derrière eux, même quand ladite proie est"
+" une machine apparemment inoffensive. Vous décidez de partir."
 
 #: src-en/data/events_sector_droppoint.xml.append:47
 msgid ""
@@ -97,13 +97,13 @@ msgstr "Allez, nous n'avons pas le temps pour ça."
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[2]/event/text"
 msgstr ""
-"Le vaisseau vous rend la pareille en sautant aussi. Au moins ils n'ont pas "
-"attaqué."
+"Le vaisseau vous rend la pareille en sautant à son tour. Au moins ils n'ont "
+"pas attaqué."
 
 #: src-en/data/events_sector_droppoint.xml.append:59
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"START_BEACON_PRESELECT\"]/mod-"
 "append:choice/text"
 msgstr ""
-"Activez les batteries Aether prototypes de votre bouclier. (Recharge du "
+"Activer les Batteries Éther prototypes de votre bouclier. (Recharge de "
 "bouclier énergétique)"

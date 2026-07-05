@@ -51,7 +51,7 @@ msgstr "ORDURE DU JOUR [40% DE RÉDUCTION]"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[2]/mod-"
 "append:customStore[3]/category[3]/customTitle"
-msgstr "BOMBES FLAK [20% DE RÉDUCTION]"
+msgstr "FLAKS-BOMBE [20% DE RÉDUCTION]"
 
 #: src-en/data/hyperspace.xml.append:366
 msgid ""
@@ -238,16 +238,16 @@ msgstr "Lancer"
 
 #: src-en/data/hyperspace.xml.append:1699
 msgid "data/hyperspace.xml.append$//slug_hektar[@name=\"SLUGTON\"]/@name"
-msgstr "LIMACETON"
+msgstr "SLUGTON"
 
 #: src-en/data/hyperspace.xml.append:1700
 msgid ""
 "data/hyperspace.xml.append$//mantis_freebusiness[@name=\"Businessmantis\"]/@name"
-msgstr "MantisAffaire"
+msgstr "Mantis Business"
 
 #: src-en/data/hyperspace.xml.append:1702
 msgid "data/hyperspace.xml.append$//slug_hektar[@name=\"ConMan\"]/@name"
-msgstr "Arnaqueur"
+msgstr "ConMan"
 
 #: src-en/data/hyperspace.xml.append:1711
 msgid "data/hyperspace.xml.append$//kiviekith[@name=\"Krieg\"]/@name"
@@ -355,25 +355,25 @@ msgstr "Zog"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"TC_SCRAPPER_ZOG_SUPER\"]/crew/trash_eater[1]/@name"
-msgstr "Dévoreur de Ferraille"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2489
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"TC_SCRAPPER_ZOG_SUPER\"]/crew/trash_eater[2]/@name"
-msgstr "Dévoreur de Ferraille"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2490
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"TC_SCRAPPER_ZOG_SUPER\"]/crew/trash_eater[3]/@name"
-msgstr "Dévoreur de Ferraille"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2491
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"TC_SCRAPPER_ZOG_SUPER\"]/crew/trash_eater[4]/@name"
-msgstr "Dévoreur de Ferraille"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2566
 msgid ""
@@ -386,28 +386,30 @@ msgstr "Black Rose"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"trash_eater\"]/powerEffect/buttonText"
-msgstr "COMPACTER"
+msgstr "COMPACT"
 
 #: src-en/data/hyperspace.xml.append:2723
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"trash_eater\"]/powerEffect/tooltip"
 msgstr ""
-"Prêt : Sursoigne de 50 PV et inflige 1 point de dégât de coque à la pièce "
-"actuelle tout en réduisant la vitesse de déplacement de moitié et en "
-"triplant les dégâts de combat pendant 10 secondes."
+"Prêt : Sur-soin de 50 points de vie et inflige 1 point de dégât de coque à "
+"la pièce actuelle tout en réduisant la vitesse de déplacement de moitié et "
+"en triplant les dégâts de combat pendant 10 secondes."
 
 #: src-en/data/hyperspace.xml.append:2799
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_zog\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "AMÉLIORER"
 
 #: src-en/data/hyperspace.xml.append:2800
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_zog\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Consomme 100 pv, renforçant temporairement tous les ferrailleurs "
+"alliés tout en affaiblissant Zog."
 
 #: src-en/data/hyperspace.xml.append:3394
 msgid ""
@@ -421,7 +423,7 @@ msgid ""
 "append:race[@name=\"golden_scrapper_medic\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 45s]\n"
-"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce de 50 PV au coût de sa propre santé."
+"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce de 50 points de vie au coût de sa propre santé."
 
 #: src-en/data/hyperspace.xml.append:3459
 msgid ""
@@ -435,7 +437,7 @@ msgid ""
 "append:race[@name=\"golden_scrapper_defender\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 45s]\n"
-"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce de 75 PV au coût de sa propre santé."
+"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce de 75 points de vie au coût de sa propre santé."
 
 #: src-en/data/hyperspace.xml.append:3524
 msgid ""
@@ -449,7 +451,7 @@ msgid ""
 "append:race[@name=\"golden_scrapper_defender_mk2\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 45s]\n"
-"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce de 75 PV au coût de sa propre santé."
+"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce de 75 points de vie au coût de sa propre santé."
 
 #: src-en/data/hyperspace.xml.append:3957
 msgid ""
@@ -463,7 +465,7 @@ msgid ""
 "append:race[@name=\"adamantine_scrapper_heavy_soldier\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 25s]\n"
-"\t\tInflige 1 dégât de coque, 1 dégât de système et étourdit les ennemis proches pendant 3 secondes."
+"\t\tInflige 1 point de dégât de coque, 1 point de dégât système et étourdit les ennemis proches pendant 3 secondes."
 
 #: src-en/data/hyperspace.xml.append:4060
 msgid ""
@@ -477,67 +479,77 @@ msgid ""
 "append:race[@name=\"adamantine_scrapper_heavy_soldier_mk2\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 25s]\n"
-"\t\tInflige 2 dégâts de coque, 2 dégâts de système et étourdit les ennemis proches pendant 6 secondes."
+"\t\tInflige 2 points de dégâts de coque, 2 points de dégâts système et étourdit les ennemis proches pendant 6 secondes."
 
 #: src-en/data/hyperspace.xml.append:4113
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"jadesteel_scrapper\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "DÉCHAÎNER"
 
 #: src-en/data/hyperspace.xml.append:4114
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"jadesteel_scrapper\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Devient incontrôlable mais augmente considérablement les statistiques"
+" pendant 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:4195
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"jadesteel_scrapper_2\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "DÉCHAÎNER"
 
 #: src-en/data/hyperspace.xml.append:4196
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"jadesteel_scrapper_2\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Devient incontrôlable mais augmente considérablement les statistiques"
+" pendant 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:4279
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"jadesteel_scrapper_3\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "DÉCHAÎNER"
 
 #: src-en/data/hyperspace.xml.append:4280
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"jadesteel_scrapper_3\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Devient incontrôlable mais augmente considérablement les statistiques"
+" pendant 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:4363
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"jadesteel_scrapper_4\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "DÉCHAÎNER"
 
 #: src-en/data/hyperspace.xml.append:4364
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"jadesteel_scrapper_4\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Devient incontrôlable mais augmente considérablement les statistiques"
+" pendant 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:4447
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"jadesteel_scrapper_5\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "DÉCHAÎNER"
 
 #: src-en/data/hyperspace.xml.append:4448
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"jadesteel_scrapper_5\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Devient incontrôlable mais augmente considérablement les statistiques"
+" pendant 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:4578
 msgid ""
@@ -550,8 +562,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"scrapper_heavy\"]/powerEffect/tooltip"
 msgstr ""
-"Prêt : Inflige 1 dégât de coque, 1 dégât de système et étourdit les ennemis "
-"proches pendant 3 secondes."
+"Prêt : Inflige 1 point de dégât de coque, 1 point de dégât système et "
+"étourdit les ennemis proches pendant 3 secondes."
 
 #: src-en/data/hyperspace.xml.append:4647
 msgid ""
@@ -564,8 +576,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"scrapper_heavy_mk2\"]/powerEffect/tooltip"
 msgstr ""
-"Prêt : Inflige 2 dégâts de coque, 2 dégâts de système et étourdit les "
-"ennemis proches pendant 6 secondes."
+"Prêt : Inflige 2 points de dégâts de coque, 2 points de dégâts système et "
+"étourdit les ennemis proches pendant 6 secondes."
 
 #: src-en/data/hyperspace.xml.append:4696
 msgid ""
@@ -579,7 +591,7 @@ msgid ""
 "append:race[@name=\"scrapper_medic\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 45s]\n"
-"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce de 50 PV au coût de sa propre santé."
+"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce de 50 points de vie au coût de sa propre santé."
 
 #: src-en/data/hyperspace.xml.append:4757
 msgid ""
@@ -593,7 +605,7 @@ msgid ""
 "append:race[@name=\"scrapper_defender\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 45s]\n"
-"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce de 75 PV au coût de sa propre santé."
+"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce de 75 points de vie au coût de sa propre santé."
 
 #: src-en/data/hyperspace.xml.append:4812
 msgid ""
@@ -607,13 +619,13 @@ msgid ""
 "append:race[@name=\"scrapper_defender_mk2\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 45s]\n"
-"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce de 75 PV au coût de sa propre santé."
+"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce de 75 points de vie au coût de sa propre santé."
 
 #: src-en/data/hyperspace.xml.append:5318
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_kora\"]/powerEffect/buttonText"
-msgstr "ÉLÉVATION"
+msgstr "ÉLEVER"
 
 #: src-en/data/hyperspace.xml.append:5319
 msgid ""
@@ -633,8 +645,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"clonefail_lancer\"]/powerEffect/tooltip"
 msgstr ""
-"Prêt : Augmente la vitesse de déplacement à 3x et les dégâts de l'équipage à"
-" 2.3x pendant 7 secondes. N'augmente PAS les dégâts subis par les dangers "
+"Prêt : Augmente la vitesse de déplacement à 3x et les dégâts d'équipage à "
+"2.3x pendant 7 secondes. N'augmente PAS les dégâts subis par les dangers "
 "environnementaux."
 
 #: src-en/data/hyperspace.xml.append:6572
@@ -648,8 +660,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"rsa_technician\"]/powerEffect/tooltip"
 msgstr ""
-"Prêt : Fait apparaître un drone tank temporaire qui peut combattre et "
-"saboter mais pas réparer ou piloter les systèmes. Dure 40 secondes."
+"Prêt : Invoque un drone tank temporaire qui peut combattre et saboter mais "
+"pas réparer ou occuper des systèmes. Dure 40 secondes."
 
 #: src-en/data/hyperspace.xml.append:6615
 msgid ""
@@ -662,8 +674,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"rsa_tank\"]/powerEffect/tooltip"
 msgstr ""
-"Vous ne devriez pas voir ceci. Affiche le temps restant avant sa "
-"disparition."
+"Vous ne devriez pas voir ceci. Indique le temps restant de sa durée de vie."
 
 #: src-en/data/hyperspace.xml.append:6658
 msgid ""
@@ -676,8 +687,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"mantis_freebusiness\"]/powerEffect/tooltip"
 msgstr ""
-"Prêt : Augmente la vitesse de déplacement à 3x et les dégâts de l'équipage à"
-" 2.2x pendant 7 secondes. N'augmente PAS les dégâts subis par les dangers "
+"Prêt : Augmente la vitesse de déplacement à 3x et les dégâts d'équipage à "
+"2.2x pendant 7 secondes. N'augmente PAS les dégâts subis par les dangers "
 "environnementaux."
 
 #: src-en/data/hyperspace.xml.append:6699
@@ -698,13 +709,14 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_skygirr\"]/powerEffect/buttonText"
-msgstr "RÉPARATION-E"
+msgstr "E-RÉPARATION"
 
 #: src-en/data/hyperspace.xml.append:7265
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_skygirr\"]/powerEffect/tooltip"
-msgstr "Prêt : Répare 5 dégâts de système et 1 dégât de coque."
+msgstr ""
+"Prêt : Répare 5 points de dégâts système et 1 point de dégât de coque."
 
 #: src-en/data/hyperspace.xml.append:7423
 msgid ""
@@ -717,8 +729,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"saviors\"]/powerEffect/tooltip"
 msgstr ""
-"Activer le mode libéré. Le Cognitif ne sera pas contrôlable mais gagnera des"
-" boosts massifs à toutes ses statistiques. Ne peut être changé avant le "
+"Activez le mode libéré. Le Cognitif ne sera pas contrôlable mais gagnera des"
+" boosts massifs à toutes ses statistiques. Ne peut être annulé avant le "
 "prochain saut."
 
 #: src-en/data/hyperspace.xml.append:7473
@@ -732,7 +744,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"saviorsa\"]/powerEffect/tooltip"
 msgstr ""
-"Activer le mode contrôle. Vous prendrez le contrôle total du Cognitif, mais "
+"Activez le mode contrôle. Vous prendrez le contrôle total du Cognitif, mais "
 "il perdra ses statistiques boostées. Ne peut être changé qu'une fois par "
 "saut."
 
@@ -747,8 +759,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"avatarlegion\"]/powerEffect/tooltip"
 msgstr ""
-"Toutes les 25 secondes, le Cognitif se libère de ses chaînes et devient "
-"incontrôlable."
+"Toutes les 25 secondes, le Cognitif se libère de ses chaînes et se déchaîne."
 
 #: src-en/data/hyperspace.xml.append:7570
 msgid ""
@@ -761,18 +772,19 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"avatarlegiona\"]/powerEffect/tooltip"
 msgstr ""
-"Toutes les 25 secondes, le Cognitif se libère de ses chaînes et devient "
-"incontrôlable."
+"Toutes les 25 secondes, le Cognitif se libère de ses chaînes et se déchaîne."
 
 #: src-en/data/hyperspace.xml.append:8061
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_SCRAPPER_SHARPENED_TEETH\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "DÉCHIRER"
 
 #: src-en/data/hyperspace.xml.append:8062
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_SCRAPPER_SHARPENED_TEETH\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 5s]\n"
+"\t\t\t\t\t\tArrache un morceau de la coque, infligeant 1 point de dégât et gagnant 2 ferrailles."
 
 #: src-en/data/hyperspace.xml.append:8146
 msgid ""
@@ -783,6 +795,8 @@ msgstr "DISPERSER"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_SCRAPPER_HEAVY_EXPLOSIVE_ENHANCEMENTS\"]/statBoosts/statBoost[2]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Inflige 3 points de dégâts de coque, 3 points de dégâts système et "
+"étourdit les ennemis proches pendant 9 secondes."
 
 #: src-en/data/hyperspace.xml.append:8173
 msgid ""
@@ -793,6 +807,8 @@ msgstr "DISPERSER"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_SCRAPPER_HEAVY_EXPLOSIVE_ENHANCEMENTS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Inflige 6 points de dégâts de coque, 6 points de dégâts système et "
+"étourdit les ennemis proches pendant 18 secondes."
 
 #: src-en/data/hyperspace.xml.append:8330
 msgid ""
@@ -809,12 +825,14 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:8992
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ROSEGOLD_PLATING\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "EFFACER"
 
 #: src-en/data/hyperspace.xml.append:8993
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ROSEGOLD_PLATING\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : N/A]\n"
+"\t\t\t\t\t\tTue la cible actuellement sous contrôle mental."
 
 #: src-en/data/hyperspace.xml.append:9234
 msgid ""
@@ -844,12 +862,12 @@ msgstr "Silica"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[15]/mod-"
 "append:page/section/@text"
-msgstr "Collection de Compacteur de Déchets"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:9403
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TRASH_EATER\"]/name"
-msgstr "Prince oublié"
+msgstr "Prince Oublié"
 
 #: src-en/data/hyperspace.xml.append:9404
 msgid ""
@@ -859,7 +877,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:9405
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TRASH_EATER\"]/description"
-msgstr "Recruter le Mangeur d'ordures."
+msgstr "Recrutez le Mangeur de déchets."
 
 #: src-en/data/hyperspace.xml.append:9411
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TC6DEFEAT\"]/name"
@@ -873,11 +891,11 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:9413
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TC6DEFEAT\"]/description"
-msgstr "Battre le Compacteur d'ordures final."
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:9419
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_ZOGDEFEAT\"]/name"
-msgstr ""
+msgstr "L'Architecte"
 
 #: src-en/data/hyperspace.xml.append:9420
 msgid ""
@@ -887,21 +905,21 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:9421
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_ZOGDEFEAT\"]/description"
-msgstr ""
+msgstr "Battez l'Architecte."
 
 #: src-en/data/hyperspace.xml.append:9427
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_TCC_SCRAPPER\"]/name"
-msgstr "Faveur de la ferraille"
+msgstr "Faveur de récupération"
 
 #: src-en/data/hyperspace.xml.append:9428
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_TCC_SCRAPPER\"]/secretDescription"
-msgstr "Recevoir la Faveur du démantèlement de Thest."
+msgstr "Recevez la Faveur du Démantèlement de Thest."
 
 #: src-en/data/hyperspace.xml.append:9429
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_TCC_SCRAPPER\"]/description"
 msgstr ""
-"Montrer un équipage Ferrailleur à Thest. \n"
+"Montrez un membre d'équipage ferrailleur à Thest. \n"
 "\t\t\t\tPendant l'effet, gagnez 5% de ferraille en plus."

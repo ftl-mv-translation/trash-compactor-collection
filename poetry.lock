@@ -681,11 +681,7 @@ requests = "^2.31.0"
 type = "git"
 url = "https://github.com/ftl-mv-translation/mvloc.git"
 reference = "HEAD"
-<<<<<<< Updated upstream
-resolved_reference = "6472d40bfb7a0ab24feb65a67432e935fa0a3760"
-=======
-resolved_reference = "0d98e915325b89988aaeb2f3156e938b0a89cd13"
->>>>>>> Stashed changes
+resolved_reference = "d2a57a5d071a8c15e8cd1b9ec6cbf6aa111036d2"
 
 [[package]]
 name = "polib"
@@ -1042,14 +1038,14 @@ test = ["pytest", "tornado (>=4.5)", "typeguard"]
 
 [[package]]
 name = "typing-extensions"
-version = "4.15.0"
+version = "4.16.0"
 description = "Backported and Experimental Type Hints for Python 3.9+"
 optional = false
 python-versions = ">=3.9"
 groups = ["main"]
 files = [
-    {file = "typing_extensions-4.15.0-py3-none-any.whl", hash = "sha256:f0fa19c6845758ab08074a0cfa8b7aecb71c999ca73d62883bc25cc018c4e548"},
-    {file = "typing_extensions-4.15.0.tar.gz", hash = "sha256:0cea48d173cc12fa28ecabc3b837ea3cf6f38c6d1136f85cbaaf598984861466"},
+    {file = "typing_extensions-4.16.0-py3-none-any.whl", hash = "sha256:481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8"},
+    {file = "typing_extensions-4.16.0.tar.gz", hash = "sha256:dc983d19a509c94dba722ee6abd33940f7c05a89e243c47e907eb4db6f1a43e5"},
 ]
 
 [[package]]

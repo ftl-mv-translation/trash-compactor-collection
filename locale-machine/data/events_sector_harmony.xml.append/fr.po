@@ -14,33 +14,33 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_MEAN\"]/text[1]"
 msgstr ""
-"Étonnamment, vous trouvez un vaisseau Engi et un Kivie en train de "
-"communiquer. Lorsque vous vous branchez, tout ce que vous entendez, ce sont "
-"les Kivies qui rabaissent les pauvres Engi. Vous prenez la parole pour les "
+"Étonnamment, vous trouvez un vaisseau Engi et un vaisseau Kivie en "
+"communication. En vous branchant, tout ce que vous entendez, ce sont les "
+"Kivies qui rabaissent les pauvres Engi. Vous prenez la parole pour les "
 "défendre. Les Kivies sont alors effrayés et tournent leurs armes vers vous."
 
 #: src-en/data/events_sector_harmony.xml.append:18
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_MEAN\"]/text[2]"
 msgstr ""
-"\"ROBOTS!..hmmmhmh.. DONNEZ LA FERRAILLE MAINTENANT !\" est ce que vous "
-"entendez hurler dans les communications. Vous vous tournez rapidement pour "
-"voir un vaisseau Kivie acculant un croiseur Engi. La Fédération ne tolérera "
-"pas ce piratage, vous activez les armes."
+"\"ROBOTS !... hmmmhmh... Donnez de la ferraille MAINTENANT !\" est ce que "
+"vous entendez retentir dans les communications. Vous vous tournez rapidement"
+" pour voir un vaisseau Kivie acculant un croiseur Engi. La Fédération ne "
+"tolérera pas ce piratage, vous activez les armes."
 
 #: src-en/data/events_sector_harmony.xml.append:22
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DESTROYED\"]/text[1]"
 msgstr ""
-"Avec les Kivie morts, les Engi de ce secteur sont un pas de plus vers la "
+"Avec le Kivie mort, les Engi de ce secteur sont un pas de plus vers la "
 "sécurité."
 
 #: src-en/data/events_sector_harmony.xml.append:23
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DESTROYED\"]/text[2]"
 msgstr ""
-"Les Kivies considèrent les Engi comme des cibles faciles. Dommage pour eux, "
-"vous ne l'êtes pas."
+"Les Kivies voient les Engi comme des cibles faciles. Dommage pour eux que "
+"vous ne le soyez pas."
 
 #: src-en/data/events_sector_harmony.xml.append:24
 msgid ""
@@ -59,21 +59,21 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DEAD_CREW\"]/text[2]"
 msgstr ""
-"Les Kivies considèrent les Engi comme des cibles faciles. Dommage pour eux, "
-"vous ne l'êtes pas."
+"Les Kivies voient les Engi comme des cibles faciles. Dommage pour eux que "
+"vous ne le soyez pas."
 
 #: src-en/data/events_sector_harmony.xml.append:30
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DEAD_CREW\"]/text[3]"
 msgstr ""
-"La présence Kivie étant écartée, vous avez le temps de fouiller leur "
+"Avec la présence des Kivie partie, vous avez le temps de fouiller leur "
 "vaisseau."
 
 #: src-en/data/events_sector_harmony.xml.append:31
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DEAD_CREW\"]/text[4]"
 msgstr ""
-"Avec des cadavres de Kivie partout, vous avertissez votre équipage de ne pas"
+"Avec les cadavres de Kivie partout, vous avertissez votre équipage de ne pas"
 " retirer leurs masques. Vous ne voulez pas que les cauchemars reviennent."
 
 #: src-en/data/events_sector_harmony.xml.append:56

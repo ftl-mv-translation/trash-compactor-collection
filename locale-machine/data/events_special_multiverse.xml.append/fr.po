@@ -9,8 +9,6 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/text"
 msgstr ""
-"Contacter le Compacteur de Déchets ? (ATTENTION - RISQUE ÉLEVÉ, RÉCOMPENSE "
-"ÉLEVÉE)"
 
 #: src-en/data/events_special_multiverse.xml.append:25
 msgid ""
@@ -23,8 +21,8 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Vous envoyez un signal affichant la ferraille à l'aide de l'émetteur. Peu de"
-" temps après, votre carte reçoit les coordonnées de l'emplacement d'un "
+"Vous envoyez un signal affichant la ferraille en utilisant l'émetteur. Peu "
+"de temps après, votre carte reçoit les coordonnées de l'emplacement d'un "
 "vaisseau."
 
 #: src-en/data/events_special_multiverse.xml.append:35
@@ -40,8 +38,8 @@ msgid ""
 msgstr ""
 "Vous utilisez du carburant et un missile de transmission longue portée ainsi"
 " que votre ferraille. Peu de temps après, votre carte reçoit les coordonnées"
-" de l'emplacement d'un vaisseau - très probablement les Ferrailleurs "
-"d'avant. Que veulent-ils de vous ?"
+" de l'emplacement d'un vaisseau - très probablement les Ferrailleurs de tout"
+" à l'heure. Que veulent-ils de vous ?"
 
 #: src-en/data/events_special_multiverse.xml.append:46
 msgid ""
@@ -54,9 +52,9 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
-"Vous envoyez un drone cargo lourd avec la ferraille. Il doit y avoir plus de"
-" ces Ferrailleurs, car vous avez reçu un autre signal ! Une proie à "
-"chasser..."
+"Vous envoyez un drone cargo lourd avec la ferraille. Il doit y avoir "
+"d'autres Ferrailleurs, car vous avez reçu un autre signal ! Une proie à "
+"chasser pour vous..."
 
 #: src-en/data/events_special_multiverse.xml.append:58
 msgid ""
@@ -69,8 +67,9 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
-"Vous téléportez autant de ferraille que possible à l'aide de l'émetteur. La "
-"même chanson que d'habitude - signal, Ferrailleurs, meurtre. Amusant."
+"Vous téléportez autant de ferraille que vous le pouvez en utilisant "
+"l'émetteur. La même rengaine qu'avant - signal, Ferrailleurs, meurtre. "
+"Amusant."
 
 #: src-en/data/events_special_multiverse.xml.append:70
 msgid ""
@@ -83,9 +82,8 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"4\"]/event/text"
 msgstr ""
-"Vous parvenez à créer et à ravitailler complètement une capsule de transport"
-" de ferraille, attirant l'attention d'un vaisseau Ferrailleur lourdement "
-"armé et très dangereux."
+"Vous parvenez à créer et remplir un pod de transport de ferraille, attirant "
+"l'attention d'un vaisseau Ferrailleur lourdement armé et très dangereux."
 
 #: src-en/data/events_special_multiverse.xml.append:82
 msgid ""
@@ -98,9 +96,9 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"5\"]/event/text"
 msgstr ""
-"Vous envoyez un signal affichant la ferraille à l'aide de l'émetteur. Peu de"
-" temps après, votre carte reçoit les coordonnées de l'emplacement d'un "
-"vaisseau - très probablement le vaisseau Ferrailleur d'avant."
+"Vous envoyez un signal affichant la ferraille en utilisant l'émetteur. Peu "
+"de temps après, votre carte reçoit les coordonnées de l'emplacement d'un "
+"vaisseau - très probablement le vaisseau Ferrailleur de tout à l'heure."
 
 #: src-en/data/events_special_multiverse.xml.append:94
 msgid ""
@@ -113,7 +111,7 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"6\"]/event/text"
 msgstr ""
-"Vous envoyez un signal affichant la ferraille à l'aide de l'émetteur.\n"
+"Vous envoyez un signal affichant la ferraille en utilisant l'émetteur.\n"
 "\t\t\t\tMais personne n'est venu."
 
 #: src-en/data/events_special_multiverse.xml.append:99
@@ -125,24 +123,28 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:105
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/text"
-msgstr ""
+msgstr "Envoyer un signal en utilisant des fréquences multiverselles."
 
 #: src-en/data/events_special_multiverse.xml.append:107
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/event/text"
 msgstr ""
+"Quel signal voulez-vous envoyer ? \n"
+"\t\t\t(Ces ennemis sont très forts et sont davantage concentrés sur l'abordage. Recommandé pour être combattu au secteur 5+)"
 
 #: src-en/data/events_special_multiverse.xml.append:110
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/event/choice[@req=\"tc_rosegold_defeated\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Un Rosegold. (Secteur recommandé : 6+)"
 
 #: src-en/data/events_special_multiverse.xml.append:112
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/event/choice[@req=\"tc_rosegold_defeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Vous téléportez les matériaux en utilisant l'émetteur. Maintenant, on "
+"attend."
 
 #: src-en/data/events_special_multiverse.xml.append:121
 msgid ""
@@ -154,13 +156,15 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/event/choice[@req=\"tc_golden_defeated\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Un Doré. (Secteur recommandé : 6+)"
 
 #: src-en/data/events_special_multiverse.xml.append:127
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/event/choice[@req=\"tc_golden_defeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Vous téléportez les matériaux en utilisant l'émetteur. Maintenant, on "
+"attend."
 
 #: src-en/data/events_special_multiverse.xml.append:136
 msgid ""
@@ -172,13 +176,15 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/event/choice[@req=\"tc_adamantine_defeated\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Un Adamantin. (Secteur recommandé : 6+)"
 
 #: src-en/data/events_special_multiverse.xml.append:142
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/event/choice[@req=\"tc_adamantine_defeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Vous téléportez les matériaux en utilisant l'émetteur. Maintenant, on "
+"attend."
 
 #: src-en/data/events_special_multiverse.xml.append:151
 msgid ""
@@ -195,6 +201,8 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/event/choice[@req=\"ALL_ELEMENTS_DEFEATED\"]/event/text"
 msgstr ""
+"Vous n'avez même rien transmis, mais un signal apparaît sur votre carte. Je "
+"suppose qu'on sait quoi faire maintenant."
 
 #: src-en/data/events_special_multiverse.xml.append:162
 msgid ""
@@ -204,27 +212,33 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:168
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_zog_met\"]/text"
-msgstr ""
+msgstr "Contacter l'Architecte. (Secteur recommandé : 8+)"
 
 #: src-en/data/events_special_multiverse.xml.append:170
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_zog_met\"]/event/text"
 msgstr ""
+"Vous envoyez un signal affichant la ferraille en utilisant l'émetteur. Peu "
+"de temps après, votre carte reçoit les coordonnées de l'emplacement d'un "
+"vaisseau. C'est parti."
 
 #: src-en/data/events_special_multiverse.xml.append:175
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest2_completed\"]/text"
-msgstr ""
+msgstr "Combattre le super-boss."
 
 #: src-en/data/events_special_multiverse.xml.append:177
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest2_completed\"]/event/text"
 msgstr ""
+"C'est un boss optionnel incroyablement difficile qui n'a pas été conçu pour être battable. Je ne sais même pas si c'est possible de le battre. Appuyer sur continuer vous enverra directement dans le combat.\n"
+"\n"
+"\t\t\t\tVous avez été prévenu."
 
 #: src-en/data/events_special_multiverse.xml.append:181
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest2_completed\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Continuer."
 
 #: src-en/data/events_special_multiverse.xml.append:185
 msgid ""
@@ -240,9 +254,9 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/text"
 msgstr ""
-"Qui étaient ces gens, au juste ? Vous les avez tous fait exploser en les appâtant avec de la ferraille, et pourtant, vous avez le sentiment que ce n'est pas encore fini... Peut-être y en a-t-il d'autres ailleurs...\n"
-"\t\t\tEn fouillant les restes du vaisseau, vous trouvez un membre d'équipage mourant, serrant une arme intacte qu'il semble avoir arrachée directement de la coque. On dirait qu'il la grignote.\n"
-"\t\t\tVous pouvez leur arracher l'arme, les emmener tous les deux avec vous, ou les laisser mourir."
+"Qui étaient ces gars, au juste ? Vous les avez tous fait exploser en les appâtant avec de la ferraille, et pourtant, vous avez le sentiment que ce n'est pas encore fini... Peut-être y en a-t-il d'autres quelque part...\n"
+"\t\t\tEn fouillant dans les restes du vaisseau, vous trouvez un membre d'équipage mourant, serrant une arme intacte qu'il semble avoir arrachée directement de la coque. On dirait qu'il la grignote.\n"
+"\t\t\tVous pouvez leur arracher l'arme, les prendre tous les deux avec vous, ou les laisser mourir."
 
 #: src-en/data/events_special_multiverse.xml.append:216
 msgid ""
@@ -265,28 +279,28 @@ msgstr "Laisser le membre d'équipage manger l'arme."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au ferrailleur de la ferraille supplémentaire pour son "
-"travail et un foyer à bord d'un vaisseau non détruit. Après avoir été "
-"téléporté à bord, il finit rapidement l'arme, se revitalisant lui-même."
+"Vous promettez au ferrailleur de la ferraille supplémentaire pour le travail"
+" et une maison à bord d'un vaisseau non détruit. Après être montés à bord, "
+"ils finissent rapidement l'arme, se revitalisant."
 
 #: src-en/data/events_special_multiverse.xml.append:230
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[3]/text"
-msgstr "Passer du temps supplémentaire à récupérer."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:232
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[3]/event/text"
 msgstr ""
-"Vous passez plutôt du temps supplémentaire à récupérer et vous repartez par téléportation sans regarder en arrière.\n"
-"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:248
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/text"
 msgstr ""
-"Qui étaient ces gens, au juste ? L'équipage est tout mort, et pourtant, vous avez le sentiment que ce n'est pas encore fini... Peut-être y en a-t-il d'autres ailleurs...\n"
-"\t\t\tEn fouillant les restes du vaisseau, vous trouvez un membre d'équipage mourant, serrant une arme intacte qu'il semble avoir arrachée directement de la coque. On dirait qu'il la grignote.\n"
-"\t\t\tVous pouvez leur arracher l'arme, les emmener tous les deux avec vous, ou les laisser mourir."
+"Qui étaient ces gars, au juste ? L'équipage est tout mort, et pourtant, vous avez le sentiment que ce n'est pas encore fini... Peut-être y en a-t-il d'autres quelque part...\n"
+"\t\t\tEn fouillant dans les restes du vaisseau, vous trouvez un membre d'équipage mourant, serrant une arme intacte qu'il semble avoir arrachée directement de la coque. On dirait qu'il la grignote.\n"
+"\t\t\tVous pouvez leur arracher l'arme, les prendre tous les deux avec vous, ou les laisser mourir."
 
 #: src-en/data/events_special_multiverse.xml.append:255
 msgid ""
@@ -309,30 +323,30 @@ msgstr "Laisser le membre d'équipage manger l'arme."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au ferrailleur de la ferraille supplémentaire pour son "
-"travail et un foyer à bord d'un vaisseau non détruit. Après avoir été "
-"téléporté à bord, il finit rapidement l'arme, se revitalisant lui-même."
+"Vous promettez au ferrailleur de la ferraille supplémentaire pour le travail"
+" et une maison à bord d'un vaisseau non détruit. Après être montés à bord, "
+"ils finissent rapidement l'arme, se revitalisant."
 
 #: src-en/data/events_special_multiverse.xml.append:269
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[3]/text"
-msgstr "Passer du temps supplémentaire à récupérer."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:271
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[3]/event/text"
 msgstr ""
-"Vous passez plutôt du temps supplémentaire à récupérer et vous repartez par téléportation sans regarder en arrière.\n"
-"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:287
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/text"
 msgstr ""
-"Vous êtes très fier de chaque victoire, mais celle-ci est meilleure que la plupart - les Lanius étaient ouvertement opposés à la Fédération et c'étaient des ennemis formidables.\n"
-"\t\t\tEn fouillant les restes du vaisseau, vous trouvez un autre membre d'équipage mourant, celui-ci avec une croix rouge sur la tête, penché sur un ferrailleur mort, semblant mâcher quelque chose.\n"
-"\t\t\tVous pensiez qu'il mangeait le membre d'équipage, mais vous remarquez qu'il serre un canon flak avancé. \n"
-"\t\t\tVous pouvez leur arracher l'arme, les emmener tous les deux avec vous, ou les laisser mourir."
+"Vous tirez une grande fierté de chaque victoire, mais celle-ci semble meilleure que la plupart - les Lanius étaient ouvertement opposés à la Fédération et c'étaient des ennemis redoutables.\n"
+"\t\t\tEn fouillant dans les restes du vaisseau, vous trouvez un autre membre d'équipage mourant, celui-ci avec une croix rouge sur la tête, penché sur un ferrailleur mort, semblant mâcher quelque chose.\n"
+"\t\t\tVous pensiez qu'il mangeait le membre d'équipage, mais vous remarquez qu'il serre un canon Flak avancé. \n"
+"\t\t\tVous pouvez leur arracher l'arme, les prendre tous les deux avec vous, ou les laisser mourir."
 
 #: src-en/data/events_special_multiverse.xml.append:295
 msgid ""
@@ -355,29 +369,29 @@ msgstr "Laisser le membre d'équipage manger l'arme."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au ferrailleur de la ferraille supplémentaire pour son "
-"travail et un foyer à bord d'un vaisseau non détruit. Après avoir été "
-"téléporté à bord, il finit rapidement l'arme, se revitalisant lui-même."
+"Vous promettez au ferrailleur de la ferraille supplémentaire pour le travail"
+" et une maison à bord d'un vaisseau non détruit. Après être montés à bord, "
+"ils finissent rapidement l'arme, se revitalisant."
 
 #: src-en/data/events_special_multiverse.xml.append:309
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[3]/text"
-msgstr "Passer du temps supplémentaire à récupérer."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:311
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[3]/event/text"
 msgstr ""
-"Vous passez plutôt du temps supplémentaire à récupérer et vous repartez par téléportation sans regarder en arrière.\n"
-"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:327
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/text"
 msgstr ""
-"Vous êtes très fier de chaque victoire, mais celle-ci est meilleure que la plupart - les Lanius étaient ouvertement opposés à la Fédération et c'étaient des ennemis formidables.\n"
-"\t\t\tEn fouillant les restes du vaisseau, vous trouvez un autre membre d'équipage mourant, celui-ci avec une croix rouge sur la tête, penché sur un ferrailleur mort, semblant mâcher quelque chose.\n"
-"\t\t\tVous pensiez qu'il mangeait le membre d'équipage, mais vous remarquez qu'il serre un canon flak avancé. \n"
-"\t\t\tVous pouvez leur arracher l'arme, les emmener tous les deux avec vous, ou les laisser mourir."
+"Vous tirez une grande fierté de chaque victoire, mais celle-ci semble meilleure que la plupart - les Lanius étaient ouvertement opposés à la Fédération et c'étaient des ennemis redoutables.\n"
+"\t\t\tEn fouillant dans les restes du vaisseau, vous trouvez un autre membre d'équipage mourant, celui-ci avec une croix rouge sur la tête, penché sur un ferrailleur mort, semblant mâcher quelque chose.\n"
+"\t\t\tVous pensiez qu'il mangeait le membre d'équipage, mais vous remarquez qu'il serre un canon Flak avancé. \n"
+"\t\t\tVous pouvez leur arracher l'arme, les prendre tous les deux avec vous, ou les laisser mourir."
 
 #: src-en/data/events_special_multiverse.xml.append:335
 msgid ""
@@ -400,29 +414,26 @@ msgstr "Laisser le membre d'équipage manger l'arme."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au ferrailleur de la ferraille supplémentaire pour son "
-"travail et un foyer à bord d'un vaisseau non détruit. Après avoir été "
-"téléporté à bord, il finit rapidement l'arme, se revitalisant lui-même."
+"Vous promettez au ferrailleur de la ferraille supplémentaire pour le travail"
+" et une maison à bord d'un vaisseau non détruit. Après être montés à bord, "
+"ils finissent rapidement l'arme, se revitalisant."
 
 #: src-en/data/events_special_multiverse.xml.append:349
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[3]/text"
-msgstr "Passer du temps supplémentaire à récupérer."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:351
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[3]/event/text"
 msgstr ""
-"Vous passez plutôt du temps supplémentaire à récupérer et vous repartez par téléportation sans regarder en arrière.\n"
-"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:367
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/text"
 msgstr ""
-"Le Compacteur de Déchets a été vaincu une fois de plus, laissant la petite flotte se disperser impuissante. Dans les débris, vous trouvez une pièce d'équipement apparemment avancée qui s'intègre facilement dans vos systèmes. Vous remarquez des options supplémentaires dans votre laboratoire de bord.\n"
-"\t\t\tEn fouillant les restes du vaisseau, vous trouvez encore un autre membre d'équipage mourant, celui-ci semble beaucoup plus grand que les deux derniers que vous avez trouvés. Vous n'êtes pas choqué de les trouver en train de manger nerveusement un canon flak avancé. \n"
-"\t\t\tVous pouvez leur arracher l'arme, les emmener tous les deux avec vous, ou les laisser mourir."
 
 #: src-en/data/events_special_multiverse.xml.append:374
 msgid ""
@@ -445,30 +456,30 @@ msgstr "Laisser le membre d'équipage manger l'arme."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au ferrailleur de la ferraille supplémentaire pour son "
-"travail et un foyer à bord d'un vaisseau non détruit. Après avoir été "
-"téléporté à bord, il finit rapidement l'arme, se revitalisant lui-même."
+"Vous promettez au ferrailleur de la ferraille supplémentaire pour le travail"
+" et une maison à bord d'un vaisseau non détruit. Après être montés à bord, "
+"ils finissent rapidement l'arme, se revitalisant."
 
 #: src-en/data/events_special_multiverse.xml.append:388
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[3]/text"
-msgstr "Passer du temps supplémentaire à récupérer."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:390
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[3]/event/text"
 msgstr ""
-"Vous passez plutôt du temps supplémentaire à récupérer et vous repartez par téléportation sans regarder en arrière.\n"
-"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:407
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/text"
 msgstr ""
-"Le vaisseau de la Flotte gît brisé devant votre vaisseau. Avec les autres vaisseaux qui se dispersent dans la panique, vous pouvez maintenant scanner rapidement les restes et obtenir quelques matériaux.\n"
+"Le vaisseau de la Flotte gît brisé devant votre vaisseau. Avec les autres vaisseaux se dispersant dans la panique, vous pouvez maintenant scanner rapidement les restes et obtenir quelques matériaux. \n"
 "\t\t\tDans les débris, vous trouvez une pièce d'équipement apparemment avancée qui s'intègre facilement dans vos systèmes. Vous remarquez des options supplémentaires dans votre laboratoire de bord.\n"
-"\t\t\tEn fouillant les restes du vaisseau, vous trouvez encore un autre membre d'équipage mourant, celui-ci semble beaucoup plus grand que les deux derniers que vous avez trouvés. Vous n'êtes pas choqué de les trouver en train de manger nerveusement un canon flak avancé. \n"
-"\t\t\tVous pouvez leur arracher l'arme, les emmener tous les deux avec vous, ou les laisser mourir."
+"\t\t\tEn fouillant dans les restes du vaisseau, vous trouvez encore un autre membre d'équipage mourant, celui-ci semble beaucoup plus grand que les deux derniers que vous avez trouvés. Vous n'êtes pas choqué de les trouver en train de manger nerveusement un canon Flak avancé. \n"
+"\t\t\tVous pouvez leur arracher l'arme, les prendre tous les deux avec vous, ou les laisser mourir."
 
 #: src-en/data/events_special_multiverse.xml.append:415
 msgid ""
@@ -491,29 +502,29 @@ msgstr "Laisser le membre d'équipage manger l'arme."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au ferrailleur de la ferraille supplémentaire pour son "
-"travail et un foyer à bord d'un vaisseau non détruit. Après avoir été "
-"téléporté à bord, il finit rapidement l'arme, se revitalisant lui-même."
+"Vous promettez au ferrailleur de la ferraille supplémentaire pour le travail"
+" et une maison à bord d'un vaisseau non détruit. Après être montés à bord, "
+"ils finissent rapidement l'arme, se revitalisant."
 
 #: src-en/data/events_special_multiverse.xml.append:429
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[3]/text"
-msgstr "Passer du temps supplémentaire à récupérer."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:431
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[3]/event/text"
 msgstr ""
-"Vous passez plutôt du temps supplémentaire à récupérer et vous repartez par téléportation sans regarder en arrière.\n"
-"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:448
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/text"
 msgstr ""
-"Le vaisseau de la Flotte gît brisé devant votre vaisseau. Avec les autres vaisseaux qui se dispersent dans la panique, vous pouvez maintenant scanner rapidement les restes et obtenir quelques matériaux.\n"
+"Le vaisseau de la Flotte gît brisé devant votre vaisseau. Avec les autres vaisseaux se dispersant dans la panique, vous pouvez maintenant scanner rapidement les restes et obtenir quelques matériaux.\n"
 "\t\t\tDans les débris, vous trouvez une pièce d'équipement apparemment avancée qui s'intègre facilement dans vos systèmes. Vous remarquez des options supplémentaires dans votre laboratoire de bord.\n"
-"\t\t\tEn fouillant les restes du vaisseau, vous trouvez encore un autre membre d'équipage mourant, celui-ci semble beaucoup plus grand que les deux derniers que vous avez trouvés. Vous n'êtes pas choqué de les trouver en train de manger nerveusement un canon flak avancé. \n"
-"\t\t\tVous pouvez leur arracher l'arme, les emmener tous les deux avec vous, ou les laisser mourir."
+"\t\t\tEn fouillant dans les restes du vaisseau, vous trouvez encore un autre membre d'équipage mourant, celui-ci semble beaucoup plus grand que les deux derniers que vous avez trouvés. Vous n'êtes pas choqué de les trouver en train de manger nerveusement un canon Flak avancé. \n"
+"\t\t\tVous pouvez leur arracher l'arme, les prendre tous les deux avec vous, ou les laisser mourir."
 
 #: src-en/data/events_special_multiverse.xml.append:457
 msgid ""
@@ -536,30 +547,30 @@ msgstr "Laisser le membre d'équipage manger l'arme."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au ferrailleur de la ferraille supplémentaire pour son "
-"travail et un foyer à bord d'un vaisseau non détruit. Après avoir été "
-"téléporté à bord, il finit rapidement l'arme, se revitalisant lui-même."
+"Vous promettez au ferrailleur de la ferraille supplémentaire pour le travail"
+" et une maison à bord d'un vaisseau non détruit. Après être montés à bord, "
+"ils finissent rapidement l'arme, se revitalisant."
 
 #: src-en/data/events_special_multiverse.xml.append:471
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[3]/text"
-msgstr "Passer du temps supplémentaire à récupérer."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:473
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[3]/event/text"
 msgstr ""
-"Vous passez plutôt du temps supplémentaire à récupérer et vous repartez par téléportation sans regarder en arrière.\n"
-"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:490
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/text"
 msgstr ""
-"Le vaisseau de la Flotte gît brisé devant votre vaisseau. Avec les autres vaisseaux qui se dispersent dans la panique, vous pouvez maintenant scanner rapidement les restes et obtenir quelques matériaux.\n"
+"Le vaisseau de la Flotte gît brisé devant votre vaisseau. Avec les autres vaisseaux se dispersant dans la panique, vous pouvez maintenant scanner rapidement les restes et obtenir quelques matériaux.\n"
 "\t\t\tDans les débris, vous trouvez une pièce d'équipement apparemment avancée qui s'intègre facilement dans vos systèmes. Vous remarquez des options supplémentaires dans votre laboratoire de bord.\n"
-"\t\t\tEn fouillant les restes du vaisseau, vous trouvez encore un autre membre d'équipage mourant, celui-ci semble beaucoup plus grand que les deux derniers que vous avez trouvés. Vous n'êtes pas choqué de les trouver en train de manger nerveusement un canon flak avancé. \n"
-"\t\t\tVous pouvez leur arracher l'arme, les emmener tous les deux avec vous, ou les laisser mourir."
+"\t\t\tEn fouillant dans les restes du vaisseau, vous trouvez encore un autre membre d'équipage mourant, celui-ci semble beaucoup plus grand que les deux derniers que vous avez trouvés. Vous n'êtes pas choqué de les trouver en train de manger nerveusement un canon Flak avancé. \n"
+"\t\t\tVous pouvez leur arracher l'arme, les prendre tous les deux avec vous, ou les laisser mourir."
 
 #: src-en/data/events_special_multiverse.xml.append:498
 msgid ""
@@ -582,29 +593,29 @@ msgstr "Laisser le membre d'équipage manger l'arme."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au ferrailleur de la ferraille supplémentaire pour son "
-"travail et un foyer à bord d'un vaisseau non détruit. Après avoir été "
-"téléporté à bord, il finit rapidement l'arme, se revitalisant lui-même."
+"Vous promettez au ferrailleur de la ferraille supplémentaire pour le travail"
+" et une maison à bord d'un vaisseau non détruit. Après être montés à bord, "
+"ils finissent rapidement l'arme, se revitalisant."
 
 #: src-en/data/events_special_multiverse.xml.append:512
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[3]/text"
-msgstr "Passer du temps supplémentaire à récupérer."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:514
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[3]/event/text"
 msgstr ""
-"Vous passez plutôt du temps supplémentaire à récupérer et vous repartez par téléportation sans regarder en arrière.\n"
-"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:531
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/text"
 msgstr ""
-"Le vaisseau du Ferrailleur est maintenant en lambeaux et le Mineur Kestrel vous hèle. \"C'est fantastique, nous apprécions toujours l'aide ! DU FROMAGE ! TÉLÉPORTEZ-LES, euhhhhh... LES PLANS DE NOTRE VAISSEAU ! ET CETTE ARME DE DÉCHET QUE LANCER A FAITE !\".\n"
-"\t\t\tEn fouillant les débris du vaisseau, vous trouvez un Mangeur de Déchets blessé serrant un canon flak avancé. Vous savez comment les ferrailleurs blessés mangent des armes pour survivre, mais le Mangeur de Déchets la tient simplement, en vous fixant.\n"
-"\t\t\tVous pouvez lui offrir un poste sur votre vaisseau, bien que cela puisse vous coûter."
+"Le vaisseau du Ferrailleur est maintenant déchiré en lambeaux et le Mineur Kestrel vous appelle. \"C'est fantastique, nous apprécions toujours l'aide ! DU FROMAGE ! TÉLÉPORTEZ-LES, euhhhhh... LES PLANS DE NOTRE VAISSEAU ! ET CETTE ARME DE DÉCHET QUE LANCER A FAITE !\"\n"
+"\t\t\tEn fouillant dans les débris du vaisseau, vous trouvez un Mangeur de Déchets blessé serrant un Canon Flak avancé. Vous savez comment les ferrailleurs blessés mangent des armes pour survivre, mais le Mangeur de Déchets le tient simplement, en vous regardant fixement.\n"
+"\t\t\tVous pouvez lui offrir une position sur votre vaisseau, bien que cela puisse vous coûter."
 
 #: src-en/data/events_special_multiverse.xml.append:538
 msgid ""
@@ -621,39 +632,39 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:545
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[2]/text"
-msgstr "Offrez au Mangeur de Déchets un poste dans votre équipage."
+msgstr "Offrir au Mangeur de Déchets une position dans votre équipage."
 
 #: src-en/data/events_special_multiverse.xml.append:547
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au Mangeur de Déchets de la ferraille supplémentaire pour son"
-" travail et un foyer à bord d'un vaisseau non détruit. Après avoir été "
-"téléporté à bord, il consomme le canon flak, en riant pour lui-même."
+"Vous promettez au Mangeur de Déchets de la ferraille supplémentaire pour le "
+"travail et une maison à bord d'un vaisseau non détruit. Après être montés à "
+"bord, ils consomment le Canon Flak, en riant tout seuls."
 
 #: src-en/data/events_special_multiverse.xml.append:548
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[2]/event/crewMember"
-msgstr "Dévoreur d'ordures"
+msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:553
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[3]/text"
-msgstr "Passer du temps supplémentaire à récupérer."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:555
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[3]/event/text"
 msgstr ""
-"Vous passez plutôt du temps supplémentaire à récupérer et vous repartez par téléportation sans regarder en arrière.\n"
-"\t\t\t\t\t\tLe Mangeur de Déchets blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe Mangeur de Déchets blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:572
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/text"
 msgstr ""
-"Le vaisseau du Ferrailleur est maintenant silencieux et le Mineur Kestrel vous hèle. \"C'est fantastique, nous apprécions toujours l'aide ! DU FROMAGE ! TÉLÉPORTEZ-LES, euhhhhh... LES PLANS DE NOTRE VAISSEAU ! ET CETTE ARME DE DÉCHET QUE LANCER A FAITE !\".\n"
-"\t\t\tEn fouillant les couloirs vides du vaisseau, vous trouvez un Mangeur de Déchets blessé serrant un canon flak avancé. Vous savez comment les ferrailleurs blessés mangent des armes pour survivre, mais le Mangeur de Déchets la tient simplement, en vous fixant.\n"
-"\t\t\tVous pouvez lui offrir un poste sur votre vaisseau, bien que cela puisse vous coûter."
+"Le vaisseau du Ferrailleur est maintenant silencieux et le Mineur Kestrel vous appelle. \"C'est fantastique, nous apprécions toujours l'aide ! DU FROMAGE ! TÉLÉPORTEZ-LES, euhhhhh... LES PLANS DE NOTRE VAISSEAU ! ET CETTE ARME DE DÉCHET QUE LANCER A FAITE !\"\n"
+"\t\t\tEn fouillant dans les couloirs vides du vaisseau, vous trouvez un Mangeur de Déchets blessé serrant un Canon Flak avancé. Vous savez comment les ferrailleurs blessés mangent des armes pour survivre, mais le Mangeur de Déchets le tient simplement, en vous regardant fixement.\n"
+"\t\t\tVous pouvez lui offrir une position sur votre vaisseau, bien que cela puisse vous coûter."
 
 #: src-en/data/events_special_multiverse.xml.append:579
 msgid ""
@@ -670,106 +681,97 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:586
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[2]/text"
-msgstr "Offrez au Mangeur de Déchets un poste dans votre équipage."
+msgstr "Offrir au Mangeur de Déchets une position dans votre équipage."
 
 #: src-en/data/events_special_multiverse.xml.append:588
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au Mangeur de Déchets de la ferraille supplémentaire pour son"
-" travail et un foyer à bord d'un vaisseau non détruit. Après avoir été "
-"téléporté à bord, il consomme le canon flak, en riant pour lui-même."
+"Vous promettez au Mangeur de Déchets de la ferraille supplémentaire pour le "
+"travail et une maison à bord d'un vaisseau non détruit. Après être montés à "
+"bord, ils consomment le Canon Flak, en riant tout seuls."
 
 #: src-en/data/events_special_multiverse.xml.append:589
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[2]/event/crewMember"
-msgstr "Dévoreur d'ordures"
+msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:594
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[3]/text"
-msgstr "Passer du temps supplémentaire à récupérer."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:596
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[3]/event/text"
 msgstr ""
-"Vous passez plutôt du temps supplémentaire à récupérer et vous repartez par téléportation sans regarder en arrière.\n"
-"\t\t\t\t\t\tLe Mangeur de Déchets blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe Mangeur de Déchets blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:613
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/text"
 msgstr ""
-"Le Mineur Kestrel est maintenant en morceaux. Quelles que soient les "
-"motivations ou les allégeances de l'équipage, ils sont de la poussière "
-"d'étoiles maintenant. Le Compacteur de Déchets vous hèle et, étonnamment, "
-"vous donne une récompense de votre choix."
 
 #: src-en/data/events_special_multiverse.xml.append:619
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[1]/text"
-msgstr "Demandez une arme dorée."
+msgstr "Demander une arme dorée."
 
 #: src-en/data/events_special_multiverse.xml.append:621
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[1]/event/text"
 msgstr ""
-"Vous avez obtenu un drone - et il est fait d'or !\n"
-"\t\t\t\t\t\tLe Dévoreur d'ordures de cet univers est impressionné par votre performance, et rejoint votre équipage."
+"Vous avez obtenu une arme - et elle est faite d'or !\n"
+"\t\t\t\t\tLe Mangeur de Déchets de cet univers est impressionné par votre performance et rejoint votre équipage."
 
 #: src-en/data/events_special_multiverse.xml.append:625
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[1]/event/crewMember"
-msgstr "Dévoreur d'ordures"
+msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:630
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[2]/text"
-msgstr "Demandez un drone doré."
+msgstr "Demander un drone doré."
 
 #: src-en/data/events_special_multiverse.xml.append:632
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[2]/event/text"
 msgstr ""
 "Vous avez obtenu un drone - et il est fait d'or !\n"
-"\t\t\t\t\tLe Dévoreur d'ordures de cet univers est impressionné par votre performance, et rejoint votre équipage."
+"\t\t\t\t\t\tLe Mangeur de Déchets de cet univers est impressionné par votre performance et rejoint votre équipage."
 
 #: src-en/data/events_special_multiverse.xml.append:636
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[2]/event/crewMember"
-msgstr "Dévoreur d'ordures"
+msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:643
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/text"
 msgstr ""
-"Le Mineur Kestrel est maintenant silencieux, tout comme l'abomination qu'ils"
-" transportaient à bord. Quelles que soient les motivations ou les "
-"allégeances de l'équipage, ils sont de la poussière d'étoiles maintenant. Le"
-" Compacteur de Déchets vous hèle et, étonnamment, vous donne une récompense "
-"de votre choix."
 
 #: src-en/data/events_special_multiverse.xml.append:649
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[1]/text"
-msgstr "Demandez une arme dorée."
+msgstr "Demander une arme dorée."
 
 #: src-en/data/events_special_multiverse.xml.append:651
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[1]/event/text"
 msgstr ""
-"Vous avez obtenu un drone - et il est fait d'or !\n"
-"\t\t\t\t\t\tLe Dévoreur d'ordures de cet univers est impressionné par votre performance, et rejoint votre équipage."
+"Vous avez obtenu une arme - et elle est faite d'or !\n"
+"\t\t\t\t\tLe Mangeur de Déchets de cet univers est impressionné par votre performance et rejoint votre équipage."
 
 #: src-en/data/events_special_multiverse.xml.append:655
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[1]/event/crewMember"
-msgstr "Dévoreur d'ordures"
+msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:660
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[2]/text"
-msgstr "Demandez un drone doré."
+msgstr "Demander un drone doré."
 
 #: src-en/data/events_special_multiverse.xml.append:662
 msgid ""
@@ -781,31 +783,25 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:666
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[2]/event/crewMember"
-msgstr "Dévoreur d'ordures"
+msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:673
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC5_DESTROY\"]/text"
 msgstr ""
-"Nous les avons écrasés encore et encore, et pourtant ils reviennent. Le "
-"prochain est le plus difficile, et le dernier. Finissons-en."
+"Nous les avons écrasés encore et encore, et pourtant ils reviennent "
+"toujours. Le prochain est le plus dur, et le dernier. Finissons-en."
 
 #: src-en/data/events_special_multiverse.xml.append:683
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC5_CREW\"]/text"
 msgstr ""
-"Nous les avons écrasés encore et encore, et pourtant ils reviennent. Le "
-"prochain est le plus difficile, et le dernier. Finissons-en."
+"Nous les avons écrasés encore et encore, et pourtant ils reviennent "
+"toujours. Le prochain est le plus dur, et le dernier. Finissons-en."
 
 #: src-en/data/events_special_multiverse.xml.append:693
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC6_DESTROY\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-=======
-"Le Compacteur de Déchets a été mis au repos parmi les étoiles ; les débris "
-"flottant autour de votre vaisseau contenaient également un appareil étrange "
-"et des plans de vaisseau à récupérer !"
->>>>>>> Stashed changes
 
 #: src-en/data/events_special_multiverse.xml.append:705
 msgid ""
@@ -815,12 +811,6 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:711
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC6_CREW\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-=======
-"Le Compacteur de Déchets est maintenant vide, pour toujours. Les débris "
-"flottant autour de votre vaisseau contenaient également un appareil étrange "
-"et des plans de vaisseau à récupérer !"
->>>>>>> Stashed changes
 
 #: src-en/data/events_special_multiverse.xml.append:724
 msgid ""
@@ -831,20 +821,25 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_QUEST2_INTRO\"]/text"
 msgstr ""
+"Soudain, votre émetteur commence à biper et à vrombir violemment, les sons "
+"s'accélérant de plus en plus vite jusqu'à ce qu'ils s'arrêtent sans "
+"prévenir. Vous vous déplacez pour l'inspecter et trouvez une note qui dit : "
+"\"Il y en a plus. Votre émetteur peut maintenant diffuser des fréquences "
+"multiverselles à ceux qui écoutent.\""
 
 #: src-en/data/events_special_multiverse.xml.append:734
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"DESTROYED_BLACK_ROSE_ENCOUNTER\"]/text"
 msgstr ""
 "Le Corrosus a disparu - au milieu de la mer de métal ondulé, vous parvenez à"
-" récupérer une machine étrange."
+" récupérer une étrange machine."
 
 #: src-en/data/events_special_multiverse.xml.append:740
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"DEAD_CREW_BLACK_ROSE_ENCOUNTER\"]/text"
 msgstr ""
 "Le Corrosus est maintenant silencieux - au milieu de la mer de métal ondulé,"
-" vous parvenez à récupérer une machine étrange."
+" vous parvenez à récupérer une étrange machine."
 
 #: src-en/data/events_special_multiverse.xml.append:748
 msgid ""
@@ -856,12 +851,12 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:752
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_DESTROY\"]/choice/text"
-msgstr "cool"
+msgstr "génial"
 
 #: src-en/data/events_special_multiverse.xml.append:754
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_DESTROY\"]/choice/event/text"
-msgstr "C'est tout pour aujourd'hui !"
+msgstr "C'est tout les amis !"
 
 #: src-en/data/events_special_multiverse.xml.append:761
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"KM_CREW\"]/text"
@@ -873,12 +868,12 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:765
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_CREW\"]/choice/text"
-msgstr "OK alors"
+msgstr "Ok alors"
 
 #: src-en/data/events_special_multiverse.xml.append:767
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_CREW\"]/choice/event/text"
-msgstr "PEUT-ÊTRE"
+msgstr "PEUET-ÊTRE"
 
 #: src-en/data/events_special_multiverse.xml.append:778
 msgid ""
@@ -938,7 +933,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:836
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[6]/text"
-msgstr "Flak de charge"
+msgstr "Flak à charge"
 
 #: src-en/data/events_special_multiverse.xml.append:838
 msgid ""
@@ -988,7 +983,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:891
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[11]/text"
-msgstr "Flak incendiaire (interchangeable)"
+msgstr "Flak incendiaire interchangeable"
 
 #: src-en/data/events_special_multiverse.xml.append:893
 msgid ""
@@ -998,7 +993,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:902
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[12]/text"
-msgstr "Flak ionique (interchangeable)"
+msgstr "Flak ionique interchangeable"
 
 #: src-en/data/events_special_multiverse.xml.append:904
 msgid ""
@@ -1008,7 +1003,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:913
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[13]/text"
-msgstr "Flak toxique (interchangeable)"
+msgstr "Flak toxique interchangeable"
 
 #: src-en/data/events_special_multiverse.xml.append:915
 msgid ""
@@ -1018,7 +1013,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:924
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[14]/text"
-msgstr "Flak à éclats cristaliens"
+msgstr "Flak à éclats Cristalien"
 
 #: src-en/data/events_special_multiverse.xml.append:926
 msgid ""
@@ -1028,7 +1023,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:935
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[15]/text"
-msgstr "Flak cristalien élite"
+msgstr "Flak Cristalien Elite"
 
 #: src-en/data/events_special_multiverse.xml.append:937
 msgid ""
@@ -1043,12 +1038,12 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:952
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/text"
-msgstr "Choisissez le flak :"
+msgstr "Choisir le flak :"
 
 #: src-en/data/events_special_multiverse.xml.append:955
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[1]/text"
-msgstr ""
+msgstr "Hautement explosif"
 
 #: src-en/data/events_special_multiverse.xml.append:957
 msgid ""
@@ -1098,7 +1093,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1021
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[6]/text"
-msgstr "Enfer de Flak"
+msgstr "Enfer Flak"
 
 #: src-en/data/events_special_multiverse.xml.append:1023
 msgid ""
@@ -1123,12 +1118,12 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1052
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/text"
-msgstr "Quelle arme Flak de Bombe voulez-vous imprimer ?"
+msgstr "Quelle arme Bombe Flak voulez-vous imprimer ?"
 
 #: src-en/data/events_special_multiverse.xml.append:1055
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[1]/text"
-msgstr "Bomb Flak I"
+msgstr "Flak Bombes I"
 
 #: src-en/data/events_special_multiverse.xml.append:1057
 msgid ""
@@ -1138,7 +1133,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1066
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[2]/text"
-msgstr "Bomb Flak II"
+msgstr "Flak Bombes II"
 
 #: src-en/data/events_special_multiverse.xml.append:1068
 msgid ""
@@ -1148,7 +1143,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1077
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[3]/text"
-msgstr "Bomb Flak III"
+msgstr "Flak Bombes III"
 
 #: src-en/data/events_special_multiverse.xml.append:1079
 msgid ""
@@ -1158,7 +1153,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1088
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[4]/text"
-msgstr "Bomb Flak IV"
+msgstr "Flak Bombes IV"
 
 #: src-en/data/events_special_multiverse.xml.append:1090
 msgid ""
@@ -1168,7 +1163,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1099
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[5]/text"
-msgstr "Flak de bombe perforante"
+msgstr "Bombe Flak perforante"
 
 #: src-en/data/events_special_multiverse.xml.append:1101
 msgid ""
@@ -1178,7 +1173,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1110
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[6]/text"
-msgstr "Flak de bombe en chaîne"
+msgstr "Bombe Flak en chaîne"
 
 #: src-en/data/events_special_multiverse.xml.append:1112
 msgid ""
@@ -1188,7 +1183,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1121
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[7]/text"
-msgstr "Chargeur Bomb Flak"
+msgstr "Chargeur Flak à Bombes"
 
 #: src-en/data/events_special_multiverse.xml.append:1123
 msgid ""
@@ -1198,7 +1193,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1132
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[8]/text"
-msgstr "Flak de bombe recycleur"
+msgstr "Bombe Flak recycleuse"
 
 #: src-en/data/events_special_multiverse.xml.append:1134
 msgid ""
@@ -1208,7 +1203,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1143
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[9]/text"
-msgstr "Flak de bombe conservateur"
+msgstr "Bombe Flak conservatrice"
 
 #: src-en/data/events_special_multiverse.xml.append:1145
 msgid ""
@@ -1218,7 +1213,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1154
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[10]/text"
-msgstr "Bomb Flak préemptive"
+msgstr "Flak à Bombes Préventif"
 
 #: src-en/data/events_special_multiverse.xml.append:1156
 msgid ""
@@ -1228,7 +1223,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1165
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[11]/text"
-msgstr "Flak de bombe incendiaire"
+msgstr "Bombe Flak incendiaire"
 
 #: src-en/data/events_special_multiverse.xml.append:1167
 msgid ""
@@ -1238,7 +1233,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1176
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[12]/text"
-msgstr "Flak de bombe ionique"
+msgstr "Bombe Flak ionique"
 
 #: src-en/data/events_special_multiverse.xml.append:1178
 msgid ""
@@ -1248,7 +1243,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1187
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[13]/text"
-msgstr "Flak de bombe radiant"
+msgstr "Bombe Flak radiante"
 
 #: src-en/data/events_special_multiverse.xml.append:1189
 msgid ""
@@ -1258,7 +1253,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1198
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[14]/text"
-msgstr "Flak de bombe de verrouillage"
+msgstr "Bombe Flak de verrouillage"
 
 #: src-en/data/events_special_multiverse.xml.append:1200
 msgid ""
@@ -1273,12 +1268,12 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1215
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/text"
-msgstr "Choisissez le flak :"
+msgstr "Choisir le flak :"
 
 #: src-en/data/events_special_multiverse.xml.append:1218
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[1]/text"
-msgstr "Amplifié"
+msgstr "Amplification"
 
 #: src-en/data/events_special_multiverse.xml.append:1220
 msgid ""
@@ -1308,7 +1303,7 @@ msgstr "Fait !"
 #: src-en/data/events_special_multiverse.xml.append:1251
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[4]/text"
-msgstr "Massif"
+msgstr "Lourd"
 
 #: src-en/data/events_special_multiverse.xml.append:1253
 msgid ""
@@ -1333,77 +1328,77 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1279
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/text"
-msgstr "Choisir flak :"
+msgstr "Choisir le flak :"
 
 #: src-en/data/events_special_multiverse.xml.append:1281
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[1]/text"
-msgstr ""
+msgstr "Batterie Rosegold"
 
 #: src-en/data/events_special_multiverse.xml.append:1283
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[1]/event/text"
-msgstr "Terminé !"
+msgstr "Fait !"
 
 #: src-en/data/events_special_multiverse.xml.append:1291
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[2]/text"
-msgstr ""
+msgstr "Drone Rosegold"
 
 #: src-en/data/events_special_multiverse.xml.append:1293
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[2]/event/text"
-msgstr "Terminé !"
+msgstr "Fait !"
 
 #: src-en/data/events_special_multiverse.xml.append:1301
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[3]/text"
-msgstr ""
+msgstr "Drone instable Rosegold"
 
 #: src-en/data/events_special_multiverse.xml.append:1303
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[3]/event/text"
-msgstr "Terminé !"
+msgstr "Fait !"
 
 #: src-en/data/events_special_multiverse.xml.append:1311
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[4]/text"
-msgstr ""
+msgstr "Ion doré"
 
 #: src-en/data/events_special_multiverse.xml.append:1313
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[4]/event/text"
-msgstr "Terminé !"
+msgstr "Fait !"
 
 #: src-en/data/events_special_multiverse.xml.append:1321
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[5]/text"
-msgstr ""
+msgstr "Piratage doré"
 
 #: src-en/data/events_special_multiverse.xml.append:1323
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[5]/event/text"
-msgstr "Terminé !"
+msgstr "Fait !"
 
 #: src-en/data/events_special_multiverse.xml.append:1331
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[6]/text"
-msgstr ""
+msgstr "Adamantin"
 
 #: src-en/data/events_special_multiverse.xml.append:1333
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[6]/event/text"
-msgstr "Terminé !"
+msgstr "Fait !"
 
 #: src-en/data/events_special_multiverse.xml.append:1341
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[7]/text"
-msgstr ""
+msgstr "Drone instable Adamantin"
 
 #: src-en/data/events_special_multiverse.xml.append:1343
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[7]/event/text"
-msgstr "Terminé !"
+msgstr "Fait !"
 
 #: src-en/data/events_special_multiverse.xml.append:1351
 msgid ""
@@ -1413,47 +1408,47 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1357
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ZOG\"]/text"
-msgstr "Choisir flak :"
+msgstr "Choisir le flak :"
 
 #: src-en/data/events_special_multiverse.xml.append:1359
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ZOG\"]/choice[1]/text"
-msgstr ""
+msgstr "Amalgame Oméga"
 
 #: src-en/data/events_special_multiverse.xml.append:1361
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ZOG\"]/choice[1]/event/text"
-msgstr "Terminé !"
+msgstr "Fait !"
 
 #: src-en/data/events_special_multiverse.xml.append:1369
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ZOG\"]/choice[2]/text"
-msgstr ""
+msgstr "Prismatique de minuit"
 
 #: src-en/data/events_special_multiverse.xml.append:1371
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ZOG\"]/choice[2]/event/text"
-msgstr "Terminé !"
+msgstr "Fait !"
 
 #: src-en/data/events_special_multiverse.xml.append:1379
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ZOG\"]/choice[3]/text"
-msgstr ""
+msgstr "Interchangeable élémentaire"
 
 #: src-en/data/events_special_multiverse.xml.append:1381
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ZOG\"]/choice[3]/event/text"
-msgstr "Terminé !"
+msgstr "Fait !"
 
 #: src-en/data/events_special_multiverse.xml.append:1389
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ZOG\"]/choice[4]/text"
-msgstr ""
+msgstr "Synthétiseur de ferrailleur"
 
 #: src-en/data/events_special_multiverse.xml.append:1391
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ZOG\"]/choice[4]/event/text"
-msgstr "Terminé !"
+msgstr "Fait !"
 
 #: src-en/data/events_special_multiverse.xml.append:1399
 msgid ""
@@ -1464,7 +1459,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/text"
 msgstr ""
-"CHOISISSEZ UNE/////ARME À FEU////MARCHANDISE DE QUALITÉ////BONS CHOIX////\n"
+"CHOISISSEZ UNE /////ARME À FEU////MARCHANDISE DE QUALITÉ////BONS CHOIX////\n"
 "\t\tTOUTES LES ARMES SONT FRAÎCHES ET CHAUDES////INSÉREZ VOTRE FERRAILLE DANS LE RÉCEPTACLE ET TOURNEZ LA MANIVELLE DE SÉCURITÉ DE 274° DANS LE SENS ANTI-HORAIRE////\n"
 "\t\tch33s3W4sH3r3////RSA POUR TOUJOURS\n"
 "\t\t...SÉLECTIONNEZ VOTRE ARME DANS LA LISTE DES FICHIERS .GCODE PRÉRÉGLÉS..."
@@ -1484,7 +1479,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1425
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[2]/text"
-msgstr "VERSION ALTERNATIVE -> MARQUEUR RSA"
+msgstr "VER. ALTERNATIVE -> MARQUEUR RSA"
 
 #: src-en/data/events_special_multiverse.xml.append:1427
 msgid ""
@@ -1496,7 +1491,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1436
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[3]/text"
-msgstr "FLAK DE MILICE 1"
+msgstr "FLAK DE MILICE UN"
 
 #: src-en/data/events_special_multiverse.xml.append:1438
 msgid ""
@@ -1508,7 +1503,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1447
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[4]/text"
-msgstr "FLAK DE MILICE 2"
+msgstr "FLAK DE MILICE DEUX"
 
 #: src-en/data/events_special_multiverse.xml.append:1449
 msgid ""
@@ -1520,7 +1515,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1458
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[5]/text"
-msgstr "MINIGUN VER. 1"
+msgstr "MINIGUN VER. UN"
 
 #: src-en/data/events_special_multiverse.xml.append:1460
 msgid ""
@@ -1532,7 +1527,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1469
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[6]/text"
-msgstr "MINIGUN VER. 2"
+msgstr "MINIGUN VER. DEUX"
 
 #: src-en/data/events_special_multiverse.xml.append:1471
 msgid ""
@@ -1544,7 +1539,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1480
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/choice[7]/text"
-msgstr "MINIGUN VER. 3"
+msgstr "MINIGUN VER. TROIS"
 
 #: src-en/data/events_special_multiverse.xml.append:1482
 msgid ""
@@ -1669,21 +1664,21 @@ msgstr "////ANNULER LA TRANSACTION////"
 #: src-en/data/events_special_multiverse.xml.append:1596
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM\"]/text"
-msgstr "Créer de 1 à 10 carburant aléatoire ?"
+msgstr "Créer entre 1 et 10 de carburant au hasard ?"
 
 #: src-en/data/events_special_multiverse.xml.append:1598
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM\"]/choice[@req=\"tcc_loc_has_fuelreservoir\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Créer de 1 à 10 carburant aléatoire. Nous ne pourrons le faire qu'une seule "
-"fois par secteur."
+"Créer entre 1 et 10 de carburant au hasard. Nous ne pourrons faire cela "
+"qu'une fois par secteur."
 
 #: src-en/data/events_special_multiverse.xml.append:1602
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM\"]/choice[@req=\"tcc_loc_has_fuelreservoir\""
 " and @lvl=\"1\"]/text"
-msgstr "Vous avez déjà créé le carburant dans ce secteur."
+msgstr "Vous avez déjà créé du carburant dans ce secteur."
 
 #: src-en/data/events_special_multiverse.xml.append:1606
 msgid ""
@@ -1694,74 +1689,74 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM_LOW\"]/text"
 msgstr ""
-"Le réservoir de carburant a créé une cartouche remplie d'une petite quantité"
-" de carburant."
+"Le réservoir de carburant a créé un bidon rempli d'une petite quantité de "
+"carburant."
 
 #: src-en/data/events_special_multiverse.xml.append:1633
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM_MED\"]/text"
 msgstr ""
-"Le réservoir de carburant a créé une cartouche remplie d'une quantité "
-"moyenne de carburant."
+"Le réservoir de carburant a créé un bidon rempli d'une quantité moyenne de "
+"carburant."
 
 #: src-en/data/events_special_multiverse.xml.append:1641
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM_HIGH\"]/text"
 msgstr ""
-"Le réservoir de carburant a créé une cartouche remplie d'une grande quantité"
-" de carburant."
+"Le réservoir de carburant a créé un bidon rempli d'une grande quantité de "
+"carburant."
 
 #: src-en/data/events_special_multiverse.xml.append:1649
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM_FULL\"]/text"
 msgstr ""
-"Le réservoir de carburant a créé une cartouche remplie d'une pleine quantité"
-" de carburant."
+"Le réservoir de carburant a créé un bidon rempli d'une quantité totale de "
+"carburant."
 
 #: src-en/data/events_special_multiverse.xml.append:1668
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_FAIL\"]/text"
 msgstr ""
-"Vous tentez de configurer la machine pour créer quelque chose d'utile, mais "
-"après quelques minutes de bouclage au démarrage, il semble que tout ce que "
-"vous avez fait est une figurine de protogen. Ou en d'autres termes, de la "
+"Vous essayez de configurer la machine pour créer quelque chose d'utile, mais"
+" après quelques minutes de bouclage au démarrage, il semble que tout ce que "
+"vous ayez fait est une figurine de protogen. Ou en d'autres termes, de la "
 "ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:1675
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_SUCCESS\"]/text"
 msgstr ""
-"Vous démarrez la machine. Après un dépannage compliqué et chaque écran "
-"devenant bleu, vous parvenez à lui faire créer quelque chose. Un Flak II ! "
-"Comme... compétent."
+"Vous lancez la machine. Après un dépannage compliqué et chaque écran "
+"devenant bleu, vous réussissez à lui faire créer quelque chose. Un Flak II !"
+" Comme... compétent."
 
 #: src-en/data/events_special_multiverse.xml.append:1680
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_SUCCESS_BETTER\"]/text"
 msgstr ""
 "Vous avez créé... quelque chose d'infernal. Le Compacteur fume visiblement. "
-"Mettons le feu aux vaisseaux ennemis aussi."
+"Mettons les vaisseaux ennemis en feu aussi."
 
 #: src-en/data/events_special_multiverse.xml.append:1685
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAP_COMPACT_SUCCESS_BETTER2\"]/text"
 msgstr ""
 "Le Compacteur vous renvoie plusieurs erreurs, la plupart étant 719 : "
-"MATÉRIAU INCORRECT. Un bip sonore signale cependant que quelque chose a bien"
-" été créé..."
+"MATÉRIAU INCORRECT. Un bip sonore indique pourtant que quelque chose a bien "
+"été créé..."
 
 #: src-en/data/events_special_multiverse.xml.append:1696
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/text"
 msgstr ""
-"Vous êtes arrivé aux coordonnées, pour être accueilli par le même vaisseau "
-"Lanius qu'avant. Cela ressemble à un piège, mais ils ne vous attaquent pas, "
-"et leurs armes ne sont pas activées... encore."
+"Vous êtes arrivé aux coordonnées, pour n'être accueilli que par le même "
+"vaisseau Lanius qu'auparavant. Cela ressemble à un piège, mais ils ne vous "
+"attaquent pas, et leurs armes ne sont pas allumées... pour l'instant."
 
 #: src-en/data/events_special_multiverse.xml.append:1699
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/beaconType/unvisitedTooltip"
-msgstr "VIENS LE CHERCHER"
+msgstr "V1ENZ LE CHERCH3R"
 
 #: src-en/data/events_special_multiverse.xml.append:1700
 msgid ""
@@ -1771,7 +1766,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1701
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/beaconType/undiscoveredTooltip"
-msgstr "NOUS SOMMES ENCORE ICI"
+msgstr "NOU5 SOMME5 ENCOR3 L4"
 
 #: src-en/data/events_special_multiverse.xml.append:1705
 msgid ""
@@ -1784,7 +1779,7 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"TC1_DEAD\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"L'étrange vaisseau lanius descend dans votre champ de vision, ramasse la "
+"L'étrange vaisseau Lanius descend dans votre champ de vision, ramasse la "
 "ferraille que vous leur avez envoyée et attaque !"
 
 #: src-en/data/events_special_multiverse.xml.append:1710
@@ -1803,14 +1798,13 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1720
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"pilot\"]/text"
-msgstr "Tentez de vous échapper discrètement des Lanius."
+msgstr "Tenter de vous faufiler loin des Lanius."
 
 #: src-en/data/events_special_multiverse.xml.append:1722
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
-"Vous parvenez à partir avec succès, avec l'opportunité de faire quelque "
-"chose à bord."
+"Vous réussissez à partir, avec l'opportunité de faire quelque chose à bord."
 
 #: src-en/data/events_special_multiverse.xml.append:1724
 msgid ""
@@ -1827,13 +1821,13 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/text"
 msgstr ""
 "Vous êtes arrivé aux nouvelles coordonnées. C'est un vaisseau similaire à "
-"celui d'avant. Il n'est pas clair s'il s'agit des mêmes gars qu'avant, ou "
-"s'ils viennent juste d'un autre univers..."
+"celui de tout à l'heure. Il n'est pas clair s'il s'agit des mêmes gars "
+"qu'avant, ou s'ils viennent juste d'un autre univers..."
 
 #: src-en/data/events_special_multiverse.xml.append:1742
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/beaconType/unvisitedTooltip"
-msgstr "VIENS LE CHERCHER"
+msgstr "V1ENZ LE CHERCH3R"
 
 #: src-en/data/events_special_multiverse.xml.append:1743
 msgid ""
@@ -1843,7 +1837,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1744
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/beaconType/undiscoveredTooltip"
-msgstr "NOUS SOMMES ENCORE ICI"
+msgstr "NOU5 SOMME5 ENCOR3 L4"
 
 #: src-en/data/events_special_multiverse.xml.append:1748
 msgid ""
@@ -1856,7 +1850,7 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"TC2_DEAD\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"L'étrange vaisseau lanius descend dans votre champ de vision et active ses "
+"L'étrange vaisseau Lanius descend dans votre champ de vision et active ses "
 "armes."
 
 #: src-en/data/events_special_multiverse.xml.append:1753
@@ -1874,15 +1868,15 @@ msgstr "Ils sont partis. N'est-ce pas ? ...n'est-ce pas ?"
 #: src-en/data/events_special_multiverse.xml.append:1763
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"pilot\"]/text"
-msgstr "Tous les combats ne sont pas les nôtres."
+msgstr "Chaque combat n'est pas forcément le nôtre."
 
 #: src-en/data/events_special_multiverse.xml.append:1765
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
-"Vous parvenez à vous échapper discrètement en distrayant les Ferrailleurs - "
-"il semble que la vieille méthode des \"Locomotives rouillées dans votre "
-"secteur\" fonctionne toujours."
+"Vous réussissez à vous faufiler en distrayant les Ferrailleurs - il semble "
+"que la vieille méthode des \"locomotives rouillées dans votre région\" "
+"fonctionne toujours."
 
 #: src-en/data/events_special_multiverse.xml.append:1767
 msgid ""
@@ -1899,13 +1893,13 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/text"
 msgstr ""
 "En arrivant à la balise, vous êtes accueilli par quatre vaisseaux entiers, "
-"tous prêts à armer leurs canons contre vous. Vous ne pourrez pas manœuvrer "
-"pour vous éloigner sans combattre au moins un vaisseau."
+"tous en train de préparer leurs armes contre vous. Vous ne pourrez pas "
+"manœuvrer pour vous échapper sans combattre au moins un vaisseau."
 
 #: src-en/data/events_special_multiverse.xml.append:1826
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/beaconType/unvisitedTooltip"
-msgstr "VIENS LE CHERCHER"
+msgstr "V1ENZ LE CHERCH3R"
 
 #: src-en/data/events_special_multiverse.xml.append:1827
 msgid ""
@@ -1915,13 +1909,13 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1828
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/beaconType/undiscoveredTooltip"
-msgstr "NOUS SOMMES ENCORE ICI"
+msgstr "NOU5 SOMME5 ENCOR3 L4"
 
 #: src-en/data/events_special_multiverse.xml.append:1831
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/text"
-msgstr "Approchez-vous..."
+msgstr "S'approcher..."
 
 #: src-en/data/events_special_multiverse.xml.append:1833
 msgid ""
@@ -1933,7 +1927,7 @@ msgstr "Les quatre vaisseaux vous ont acculé - qui allez-vous attaquer ?"
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr "Attaquez le vaisseau Corvette."
+msgstr "Attaquer le vaisseau Corvette."
 
 #: src-en/data/events_special_multiverse.xml.append:1837
 msgid ""
@@ -1953,15 +1947,15 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr "Attaquez le vaisseau Chasseur."
+msgstr "Attaquer le vaisseau Chasseur."
 
 #: src-en/data/events_special_multiverse.xml.append:1848
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
-"Le Chasseur verrouille son téléporteur sur votre vaisseau. Préparez-vous à "
-"recevoir des intrus !"
+"Le Chasseur acquiert le verrouillage du téléporteur sur votre vaisseau. "
+"Préparez-vous aux intrus !"
 
 #: src-en/data/events_special_multiverse.xml.append:1851
 msgid ""
@@ -1973,7 +1967,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[3]/text"
-msgstr "Attaquez le vaisseau de Soutien."
+msgstr "Attaquer le vaisseau de Soutien."
 
 #: src-en/data/events_special_multiverse.xml.append:1859
 msgid ""
@@ -1994,19 +1988,12 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[4]/text"
 msgstr ""
-"Ignorez les vaisseaux mineurs et attaquez le Compacteur de Déchets lui-même."
 
 #: src-en/data/events_special_multiverse.xml.append:1870
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"TC3_DEAD\""
 " and @lvl=\"0\"]/event/choice[4]/event/text"
 msgstr ""
-"Le Compacteur de Déchets vous attendait, semblant avoir anticipé vos "
-"mouvements. Vous recevez un appel brouillé et mal traduit de leur part : "
-"\"NOUS pas mÊmE UNivErs. Nous plUs SmORT qUe AutreS fErrAilleurS, nOus tUons"
-" UnIvErS et prÉSentons au chef POur manger. REstE sur le chEmIn, tOi, "
-"mourir...\". Ces gars ne vont pas discuter, cependant, car ils ont déjà "
-"activé leurs armes !"
 
 #: src-en/data/events_special_multiverse.xml.append:1873
 msgid ""
@@ -2024,16 +2011,16 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1885
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"cloaking\"]/text"
-msgstr "(Camouflage amélioré) Échappez-vous discrètement."
+msgstr "(Camouflage amélioré) Se faufiler pour partir."
 
 #: src-en/data/events_special_multiverse.xml.append:1887
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/choice[@req=\"cloaking\"]/event/text"
 msgstr ""
-"D'une manière ou d'une autre, malgré le fait d'être acculé par eux, votre "
-"Camouflage avancé vous permet de disparaître et de manœuvrer juste entre les"
-" vaisseaux ennemis. Vous pourriez probablement faire quelque chose à la "
-"balise sans être détecté."
+"D'une manière ou d'une autre, bien qu'acculé par eux, votre Camouflage "
+"avancé vous permet de disparaître et de manœuvrer juste entre les vaisseaux "
+"ennemis. Vous pourriez probablement faire quelque chose à la balise sans "
+"être détecté."
 
 #: src-en/data/events_special_multiverse.xml.append:1889
 msgid ""
@@ -2055,15 +2042,15 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/text"
 msgstr ""
 "Hé, il y a un deuxième vaisseau ici. Et il n'est pas hostile. En fait, ce "
-"n'est même pas un Ferrailleur. C'est un charognard d'une sorte ou d'une "
-"autre, à en juger par sa coque terriblement endommagée et sale. Clairement "
-"peint comme un vaisseau d'élimination des déchets - mais il est beaucoup "
-"trop lourdement armé pour en être un réellement."
+"n'est même pas un Ferrailleur. C'est un charognard d'une sorte, à en juger "
+"par sa coque terriblement endommagée et sale. Clairement peint comme un "
+"vaisseau d'élimination des déchets - mais il est bien trop armé pour en être"
+" un réellement."
 
 #: src-en/data/events_special_multiverse.xml.append:1911
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/beaconType/unvisitedTooltip"
-msgstr "VIENS LE CHERCHER"
+msgstr "V1ENZ LE CHERCH3R"
 
 #: src-en/data/events_special_multiverse.xml.append:1912
 msgid ""
@@ -2073,25 +2060,25 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1913
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/beaconType/undiscoveredTooltip"
-msgstr "NOUS SOMMES ENCORE ICI"
+msgstr "NOU5 SOMME5 ENCOR3 L4"
 
 #: src-en/data/events_special_multiverse.xml.append:1916
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"0\"]/text"
-msgstr "Tenter d'intervenir."
+msgstr "Essayer d'intervenir."
 
 #: src-en/data/events_special_multiverse.xml.append:1918
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Vous recevez une transmission du Kestrel. Un Protogen apparaît sur la "
+"Vous recevez une transmission du Kestrel. Un protogen apparaît sur la "
 "console de communication. \"Je suis TRACKER, pilote de la Fédération. Ravi "
-"de vous rencontrer et tout le reste. Ces conn- je veux dire, ces types "
-"impolis essaient de nous tuer, et je ne sais pas combien de temps nous "
-"tiendrons. À l'aide. Je m'assurerai que vous obteniez une compens-CHEESE ON "
-"A PERDU LE POST-COMBUSTION GAUCHE, VA LE RÉPARER TOUT DE SUITE !\""
+"de vous rencontrer et tout ça. Ces sal- je veux dire, ces types grossiers "
+"essaient de nous tuer, et je ne sais pas combien de temps nous tiendrons. À "
+"l'aide. Je m'assurerai que vous obteniez une compensation appropriée-DU "
+"FROMAGE ON A PERDU LA POSTCOMBUSTION GAUCHE, ALLES RÉPARER ÇA MAINTENANT !\""
 
 #: src-en/data/events_special_multiverse.xml.append:1920
 msgid ""
@@ -2104,13 +2091,10 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-=======
-"L'étrange vaisseau Lanius descend à nouveau dans votre champ de vision "
-"(comment fait-il pour revenir à chaque fois ?) et se prépare à en finir une "
-"fois pour toutes avec vous. Malgré les dégâts, le vaisseau de TRACKER est "
-"toujours dans la bataille !"
->>>>>>> Stashed changes
+"L'étrange vaisseau Lanius descend dans votre champ de vision une fois de "
+"plus (comment fait-il pour toujours revenir ?) et se prépare à en finir avec"
+" vous une fois pour toutes. Malgré les coups, le vaisseau de TRACKER est "
+"toujours dans la bataille lui aussi ! Les choses deviennent sérieuses."
 
 #: src-en/data/events_special_multiverse.xml.append:1927
 msgid ""
@@ -2130,7 +2114,7 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
 "\"Hé, qu'avons-NOUS fait pour mériter ça ? Ah, c'est vrai, je m'en souviens "
-"maintenant. Qu'il en soit ainsi.\" Alors que le Protogen coupe la "
+"maintenant. Qu'il en soit ainsi.\" Alors que le protogen ferme la "
 "communication et active toutes les armes de son vaisseau, vous vous préparez"
 " à les combattre."
 
@@ -2145,11 +2129,11 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"TC4_DEAD\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"Les lumières de l'Émetteur de ferraille clignotent violemment. Il semble "
-"qu'il reçoive un signal massif... C'était un piège depuis le début. Il sert "
-"d'appât multiversel, essayant d'attirer encore plus de Ferrailleurs à votre "
-"position... Intéressant, peut-être que les chasseurs deviendront bientôt les"
-" chassés."
+"Les lumières de l'Émetteur de Ferraille clignotent follement. Il semble "
+"qu'il reçoive un signal massif... C'était un piège depuis le début. Il agit "
+"comme un leurre multiversel, essayant d'amener encore plus de Ferrailleurs à"
+" votre emplacement... Intéressant, peut-être que les chasseurs deviendront "
+"bientôt les proies."
 
 #: src-en/data/events_special_multiverse.xml.append:1951
 msgid ""
@@ -2161,7 +2145,7 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
 "Il semble que TRACKER... règle le problème, d'une manière ou d'une autre. "
-"Vous parvenez à les laisser se battre."
+"Vous réussissez à les laisser se battre."
 
 #: src-en/data/events_special_multiverse.xml.append:1955
 msgid ""
@@ -2183,7 +2167,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1973
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/beaconType/unvisitedTooltip"
-msgstr "VIENS LE CHERCHER"
+msgstr "V1ENZ LE CHERCH3R"
 
 #: src-en/data/events_special_multiverse.xml.append:1974
 msgid ""
@@ -2193,7 +2177,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:1975
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/beaconType/undiscoveredTooltip"
-msgstr "NOUS SOMMES ENCORE ICI"
+msgstr "NOU5 SOMME5 ENCOR3 L4"
 
 #: src-en/data/events_special_multiverse.xml.append:1979
 msgid ""
@@ -2205,7 +2189,7 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"TC5_DEAD\""
 " and @lvl=\"0\"]/event/text"
-msgstr "Verrouillage confirmé, activez toutes les armes !"
+msgstr "Nous avons le verrouillage, activez toutes les armes !"
 
 #: src-en/data/events_special_multiverse.xml.append:1985
 msgid ""
@@ -2218,23 +2202,24 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"TC5_DEAD\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"L'Émetteur de ferraille gémit audiblement, comme un vaisseau en train d'être"
-" déchiré. Vous en avez beaucoup entendu parler récemment. Peut-être pouvez-"
-"vous tendre un dernier piège..."
+"L'Émetteur de Ferraille gémit de manière audible, comme un vaisseau en train"
+" d'être déchiré. Vous en avez beaucoup entendu parler récemment. Peut-être "
+"pouvez-vous tendre un dernier piège..."
 
 #: src-en/data/events_special_multiverse.xml.append:1995
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
-"Celui-ci est différent - la logique veut qu'il soit plus fort. Fuyons."
+"Celui-ci est différent - la logique commune dicte qu'il est plus fort. "
+"Courons."
 
 #: src-en/data/events_special_multiverse.xml.append:1997
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
-"D'une manière ou d'une autre, vous parvenez à vous échapper en douce. Ou "
-"peut-être vous épargne-t-il ? Étrange... Vous n'avez cependant pas trop de "
-"temps pour y réfléchir."
+"D'une manière ou d'une autre, vous réussissez à vous faufiler pour partir. "
+"Ou peut-être vous épargne-t-il ? Étrange... Vous n'avez cependant pas trop "
+"de temps pour vous y attarder."
 
 #: src-en/data/events_special_multiverse.xml.append:1999
 msgid ""
@@ -2250,14 +2235,11 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/text"
 msgstr ""
-"Voici le premier Compacteur d'ordures. Le prince des Ferrailleurs, le "
-"Mangeur d'ordures, est ici. Sa conquête pour dominer le monde commence par "
-"votre vaisseau. Assurons-nous que ses plans tombent à l'eau."
 
 #: src-en/data/events_special_multiverse.xml.append:2017
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/beaconType/unvisitedTooltip"
-msgstr "VIENS LE CHERCHER"
+msgstr "V1ENZ LE CHERCH3R"
 
 #: src-en/data/events_special_multiverse.xml.append:2018
 msgid ""
@@ -2267,7 +2249,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2019
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/beaconType/undiscoveredTooltip"
-msgstr "NOUS SOMMES ENCORE ICI"
+msgstr "NOU5 SOMME5 ENCOR3 L4"
 
 #: src-en/data/events_special_multiverse.xml.append:2023
 msgid ""
@@ -2280,8 +2262,8 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"TC6_DEAD\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"La version Univers 0 du vaisseau des Ferrailleurs est l'ennemi le plus fort "
-"que vous ayez affronté jusqu'à présent. Vous ne survivrez pas. Bonne chance."
+"La version Univers 0 du vaisseau Ferrailleur est l'ennemi le plus fort que "
+"vous ayez affronté jusqu'à présent. Vous ne survivrez pas. Bonne chance."
 
 #: src-en/data/events_special_multiverse.xml.append:2029
 msgid ""
@@ -2295,8 +2277,8 @@ msgid ""
 " and @lvl=\"1\"]/text"
 msgstr ""
 "C'est fini. Enfin. Le dernier Ferrailleur est totalement silencieux. Vous "
-"avez l'impression d'avoir sauvé beaucoup de renégats de ces types. Vous "
-"n'êtes pas sûr de leur plan - s'ils en avaient un au départ."
+"avez l'impression d'avoir sauvé beaucoup de renégats de ces gars-là. Vous "
+"n'êtes pas sûr de quel était leur plan - s'ils en avaient même un au départ."
 
 #: src-en/data/events_special_multiverse.xml.append:2039
 msgid ""
@@ -2306,7 +2288,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2041
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/choice[@req=\"pilot\"]/event/text"
-msgstr "Vous parvenez à partir ; vous ne savez pas vraiment comment."
+msgstr "Vous réussissez à partir ; vous ne savez pas vraiment comment."
 
 #: src-en/data/events_special_multiverse.xml.append:2043
 msgid ""
@@ -2322,11 +2304,14 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ROSEGOLD\"]/text"
 msgstr ""
+"Vous êtes arrivé aux coordonnées et voyez encore un autre vaisseau "
+"Ferrailleur. Celui-ci est différent, vos capteurs détectent des lectures "
+"bizarres."
 
 #: src-en/data/events_special_multiverse.xml.append:2068
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ROSEGOLD\"]/beaconType/unvisitedTooltip"
-msgstr "V3NEZ L3 CHERCHeR"
+msgstr "V1ENZ LE CHERCH3R"
 
 #: src-en/data/events_special_multiverse.xml.append:2069
 msgid ""
@@ -2336,19 +2321,24 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2070
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ROSEGOLD\"]/beaconType/undiscoveredTooltip"
-msgstr "N0US S0MMES TOUJourS LÀ"
+msgstr "NOU5 SOMME5 ENCOR3 L4"
 
 #: src-en/data/events_special_multiverse.xml.append:2074
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ROSEGOLD\"]/choice[@req=\"tc_rosegold_defeated\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Appelez-les."
 
 #: src-en/data/events_special_multiverse.xml.append:2076
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ROSEGOLD\"]/choice[@req=\"tc_rosegold_defeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Ils transmettent un message. Puis ils l'envoient encore. Et encore. Le même "
+"signal se répète sans fin, faisant écho sur chaque canal de votre vaisseau. "
+"Le message ne contient que deux mots, \"J0In US\" (Rejoignez-nous). Alors "
+"que le message continue de boucler, le vaisseau Ferrailleur active ses "
+"armes."
 
 #: src-en/data/events_special_multiverse.xml.append:2080
 msgid ""
@@ -2360,19 +2350,18 @@ msgstr "Préparez-vous au combat !"
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ROSEGOLD\"]/choice[@req=\"tc_rosegold_defeated\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Pas de seconde chance."
 
 #: src-en/data/events_special_multiverse.xml.append:2090
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ROSEGOLD\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Tenter de vous faufiler loin du Ferrailleur."
 
 #: src-en/data/events_special_multiverse.xml.append:2092
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ROSEGOLD\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
-"Vous parvenez à partir avec succès, avec la possibilité de faire quelque "
-"chose à bord."
+"Vous réussissez à partir, avec l'opportunité de faire quelque chose à bord."
 
 #: src-en/data/events_special_multiverse.xml.append:2094
 msgid ""
@@ -2388,6 +2377,9 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ROSEGOLD_DESTROY\"]/text"
 msgstr ""
+"Le vaisseau rosegold a été vaincu.\n"
+"\t\t\tEn fouillant dans les restes du vaisseau, vous trouvez un membre d'équipage mourant, serrant une arme intacte qu'il semble avoir arrachée directement de la coque. On dirait qu'il la grignote.\n"
+"\t\t\tVous pouvez leur arracher l'arme, les prendre tous les deux avec vous, ou les laisser mourir."
 
 #: src-en/data/events_special_multiverse.xml.append:2114
 msgid ""
@@ -2404,37 +2396,40 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2121
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ROSEGOLD_DESTROY\"]/choice[2]/text"
-msgstr "Permettre au membre d'équipage de manger l'arme."
+msgstr "Laisser le membre d'équipage manger l'arme."
 
 #: src-en/data/events_special_multiverse.xml.append:2123
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ROSEGOLD_DESTROY\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au ferrailleur de la ferraille supplémentaire pour son "
-"travail et un foyer à bord d'un vaisseau non détruit. Après être monté à "
-"bord, il termine rapidement l'arme, se revitalisant."
+"Vous promettez au ferrailleur de la ferraille supplémentaire pour le travail"
+" et une maison à bord d'un vaisseau non détruit. Après être montés à bord, "
+"ils finissent rapidement l'arme, se revitalisant."
 
 #: src-en/data/events_special_multiverse.xml.append:2128
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ROSEGOLD_DESTROY\"]/choice[3]/text"
-msgstr "Passer un peu plus de temps à récupérer de la ferraille."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:2130
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ROSEGOLD_DESTROY\"]/choice[3]/event/text"
 msgstr ""
-"Vous préférez passer un peu plus de temps à récupérer de la ferraille et vous téléportez sans vous retourner.\n"
-"\t\t\t\t\t\tLe ferrailleur blessé vous regarde disparaître. Qui sait s'il vivra ou mourra, flottant éternellement, perdu dans l'épave spatiale. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:2153
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_GOLDEN\"]/text"
 msgstr ""
+"Vous êtes arrivé aux coordonnées et voyez encore un autre vaisseau "
+"Ferrailleur. Celui-ci est différent, vos capteurs détectent des lectures "
+"bizarres."
 
 #: src-en/data/events_special_multiverse.xml.append:2156
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_GOLDEN\"]/beaconType/unvisitedTooltip"
-msgstr "V3NEZ L3 CHERCHeR"
+msgstr "V1ENZ LE CHERCH3R"
 
 #: src-en/data/events_special_multiverse.xml.append:2157
 msgid ""
@@ -2444,19 +2439,24 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2158
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_GOLDEN\"]/beaconType/undiscoveredTooltip"
-msgstr "N0US S0MMES TOUJourS LÀ"
+msgstr "NOU5 SOMME5 ENCOR3 L4"
 
 #: src-en/data/events_special_multiverse.xml.append:2162
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_GOLDEN\"]/choice[@req=\"tc_golden_defeated\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Appelez-les."
 
 #: src-en/data/events_special_multiverse.xml.append:2164
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_GOLDEN\"]/choice[@req=\"tc_golden_defeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Ils transmettent un message. Puis ils l'envoient encore. Et encore. Le même "
+"signal se répète sans fin, faisant écho sur chaque canal de votre vaisseau. "
+"Le message ne contient que deux mots, \"W3 Pr0TEcT\" (Nous protégeons). "
+"Alors que le message continue de boucler, le vaisseau Ferrailleur active ses"
+" armes."
 
 #: src-en/data/events_special_multiverse.xml.append:2168
 msgid ""
@@ -2468,19 +2468,18 @@ msgstr "Préparez-vous au combat !"
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_GOLDEN\"]/choice[@req=\"tc_golden_defeated\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Pas de seconde chance."
 
 #: src-en/data/events_special_multiverse.xml.append:2178
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_GOLDEN\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Tenter de vous faufiler loin du Ferrailleur."
 
 #: src-en/data/events_special_multiverse.xml.append:2180
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_GOLDEN\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
-"Vous parvenez à partir avec succès, avec la possibilité de faire quelque "
-"chose à bord."
+"Vous réussissez à partir, avec l'opportunité de faire quelque chose à bord."
 
 #: src-en/data/events_special_multiverse.xml.append:2182
 msgid ""
@@ -2496,6 +2495,9 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_GOLDEN_DESTROY\"]/text"
 msgstr ""
+"Le vaisseau doré a été vaincu.\n"
+"\t\t\tEn fouillant dans les restes du vaisseau, vous trouvez un membre d'équipage mourant, serrant une arme intacte qu'il semble avoir arrachée directement de la coque. On dirait qu'il la grignote.\n"
+"\t\t\tVous pouvez leur arracher l'arme, les prendre tous les deux avec vous, ou les laisser mourir."
 
 #: src-en/data/events_special_multiverse.xml.append:2202
 msgid ""
@@ -2512,37 +2514,40 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2209
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_GOLDEN_DESTROY\"]/choice[2]/text"
-msgstr "Permettre au membre d'équipage de manger l'arme."
+msgstr "Laisser le membre d'équipage manger l'arme."
 
 #: src-en/data/events_special_multiverse.xml.append:2211
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_GOLDEN_DESTROY\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au ferrailleur de la ferraille supplémentaire pour son "
-"travail et un foyer à bord d'un vaisseau non détruit. Après être monté à "
-"bord, il termine rapidement l'arme, se revitalisant."
+"Vous promettez au ferrailleur de la ferraille supplémentaire pour le travail"
+" et une maison à bord d'un vaisseau non détruit. Après être montés à bord, "
+"ils finissent rapidement l'arme, se revitalisant."
 
 #: src-en/data/events_special_multiverse.xml.append:2216
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_GOLDEN_DESTROY\"]/choice[3]/text"
-msgstr "Passer un peu plus de temps à récupérer de la ferraille."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:2218
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_GOLDEN_DESTROY\"]/choice[3]/event/text"
 msgstr ""
-"Vous préférez passer un peu plus de temps à récupérer de la ferraille et vous téléportez sans vous retourner.\n"
-"\t\t\t\t\t\tLe ferrailleur blessé vous regarde disparaître. Qui sait s'il vivra ou mourra, flottant éternellement, perdu dans l'épave spatiale. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:2241
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ADAMANTINE\"]/text"
 msgstr ""
+"Vous êtes arrivé aux coordonnées et voyez encore un autre vaisseau "
+"Ferrailleur. Celui-ci est différent, vos capteurs détectent des lectures "
+"bizarres."
 
 #: src-en/data/events_special_multiverse.xml.append:2244
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ADAMANTINE\"]/beaconType/unvisitedTooltip"
-msgstr "V3NEZ L3 CHERCHeR"
+msgstr "V1ENZ LE CHERCH3R"
 
 #: src-en/data/events_special_multiverse.xml.append:2245
 msgid ""
@@ -2552,19 +2557,24 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2246
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ADAMANTINE\"]/beaconType/undiscoveredTooltip"
-msgstr "N0US S0MMES TOUJourS LÀ"
+msgstr "NOU5 SOMME5 ENCOR3 L4"
 
 #: src-en/data/events_special_multiverse.xml.append:2250
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ADAMANTINE\"]/choice[@req=\"tc_adamantine_defeated\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Appelez-les."
 
 #: src-en/data/events_special_multiverse.xml.append:2252
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ADAMANTINE\"]/choice[@req=\"tc_adamantine_defeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Ils transmettent un message. Puis ils l'envoient encore. Et encore. Le même "
+"signal se répète sans fin, faisant écho sur chaque canal de votre vaisseau. "
+"Le message ne contient que deux mots, \"Y0uR D3StRuCt1oN\" (Votre "
+"destruction). Alors que le message continue de boucler, le vaisseau "
+"Ferrailleur active ses armes."
 
 #: src-en/data/events_special_multiverse.xml.append:2256
 msgid ""
@@ -2576,19 +2586,18 @@ msgstr "Préparez-vous au combat !"
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ADAMANTINE\"]/choice[@req=\"tc_adamantine_defeated\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Pas de seconde chance."
 
 #: src-en/data/events_special_multiverse.xml.append:2266
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ADAMANTINE\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Tenter de vous faufiler loin du Ferrailleur."
 
 #: src-en/data/events_special_multiverse.xml.append:2268
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ADAMANTINE\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
-"Vous parvenez à partir avec succès, avec la possibilité de faire quelque "
-"chose à bord."
+"Vous réussissez à partir, avec l'opportunité de faire quelque chose à bord."
 
 #: src-en/data/events_special_multiverse.xml.append:2270
 msgid ""
@@ -2604,6 +2613,9 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ADAMANTINE_DESTROY\"]/text"
 msgstr ""
+"Le vaisseau adamantin a été vaincu.\n"
+"\t\t\tEn fouillant dans les restes du vaisseau, vous trouvez un membre d'équipage mourant, serrant une arme intacte qu'il semble avoir arrachée directement de la coque. On dirait qu'il la grignote.\n"
+"\t\t\tVous pouvez leur arracher l'arme, les prendre tous les deux avec vous, ou les laisser mourir."
 
 #: src-en/data/events_special_multiverse.xml.append:2290
 msgid ""
@@ -2620,82 +2632,93 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2297
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ADAMANTINE_DESTROY\"]/choice[2]/text"
-msgstr "Permettre au membre d'équipage de manger l'arme."
+msgstr "Laisser le membre d'équipage manger l'arme."
 
 #: src-en/data/events_special_multiverse.xml.append:2299
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ADAMANTINE_DESTROY\"]/choice[2]/event/text"
 msgstr ""
-"Vous promettez au ferrailleur de la ferraille supplémentaire pour son "
-"travail et un foyer à bord d'un vaisseau non détruit. Après être monté à "
-"bord, il termine rapidement l'arme, se revitalisant."
+"Vous promettez au ferrailleur de la ferraille supplémentaire pour le travail"
+" et une maison à bord d'un vaisseau non détruit. Après être montés à bord, "
+"ils finissent rapidement l'arme, se revitalisant."
 
 #: src-en/data/events_special_multiverse.xml.append:2304
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ADAMANTINE_DESTROY\"]/choice[3]/text"
-msgstr "Passer un peu plus de temps à récupérer de la ferraille."
+msgstr "Passer du temps supplémentaire à récupérer des débris."
 
 #: src-en/data/events_special_multiverse.xml.append:2306
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ADAMANTINE_DESTROY\"]/choice[3]/event/text"
 msgstr ""
-"Vous préférez passer un peu plus de temps à récupérer de la ferraille et vous téléportez sans vous retourner.\n"
-"\t\t\t\t\t\tLe ferrailleur blessé vous regarde disparaître. Qui sait s'il vivra ou mourra, flottant éternellement, perdu dans l'épave spatiale. Quelle impolitesse."
+"Vous passez plutôt du temps supplémentaire à récupérer des débris et vous repartez sans regarder en arrière.\n"
+"\t\t\t\t\t\tLe ferrailleur blessé vous regarde partir, qui sait s'il vivra ou mourra en flottant pour toujours, perdu dans les débris spatiaux. Quel manque de politesse."
 
 #: src-en/data/events_special_multiverse.xml.append:2326
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_SKIP\"]/text"
-msgstr ""
+msgstr "Comment diable avez-vous fait ça."
 
 #: src-en/data/events_special_multiverse.xml.append:2333
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG\"]/text"
 msgstr ""
+"Vos systèmes passent en alerte maximale alors que votre arrivée est "
+"accueillie par un vaisseau Lanius massif, ses armes levées et en charge !"
 
 #: src-en/data/events_special_multiverse.xml.append:2336
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "J'attends."
 
 #: src-en/data/events_special_multiverse.xml.append:2337
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "Nous en avons fini."
 
 #: src-en/data/events_special_multiverse.xml.append:2338
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "J'attends."
 
 #: src-en/data/events_special_multiverse.xml.append:2349
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG\"]/choice/text"
-msgstr ""
+msgstr "Pas le temps de se préparer !"
 
 #: src-en/data/events_special_multiverse.xml.append:2360
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/text"
 msgstr ""
+"Les systèmes offensifs du Lanius s'éteignent tous en un instant, et vous êtes accueilli par un appel. À l'écran apparaît un Lanius sans visage, recouvert d'une bulle prismatique scintillante. \n"
+"\"Mes excuses, je suis simplement fasciné par les premières impressions.\" Son corps se plie d'une manière similaire à un rire, alors qu'il enregistre quelque chose dans sa console."
 
 #: src-en/data/events_special_multiverse.xml.append:2363
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/choice/text"
 msgstr ""
+"Quoi ? Vous avez fait tout ça juste pour obtenir une réaction de ma part ?"
 
 #: src-en/data/events_special_multiverse.xml.append:2365
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/choice/event/text"
 msgstr ""
+"Autant que vous puissiez en juger, une expression amusée envahit le visage inexistant du lanius. \"Dans une certaine mesure... oui, bien que les raisons exactes soient un peu plus ésotériques...\" Il fait les cent pas autour de sa barre pendant un moment, avant de ramener son attention vers vous.\n"
+"\"C'est vrai, mes manières, je les ai égarées.\" Il fait une petite révérence avant de se tenir droit, les bras grands ouverts dans un geste supposément accueillant. \"Je suis l'Architecte, créateur et gardien des Ferrailleurs.\" Ses bras retombent sur les côtés, sa posture se détendant. \n"
+"\"Ils sont aussi vieux que les Lanius, et ont beaucoup varié à travers le Multivers.\" Une flotte de Croiseurs Ferrailleurs apparaît derrière celui de l'Architecte."
 
 #: src-en/data/events_special_multiverse.xml.append:2369
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Alors... pourquoi suis-je ici ?"
 
 #: src-en/data/events_special_multiverse.xml.append:2371
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Succinctement, vos capacités exceptionnelles. Vos victoires contre mes "
+"anciennes créations ne sont pas un mince exploit, même avec l'aide de "
+"compatriotes.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2373
 msgid ""
@@ -2706,16 +2729,22 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"En effet. Mes créations plus récentes, les Ferrailleurs Élémentaires, "
+"étaient une escalade qui valait la peine d'être testée contre vous. Certes, "
+"la plupart sont trop limitées dans leur portée, mais je vois un tel mérite à"
+" perfectionner un objectif. Que voyez-vous en eux ?\""
 
 #: src-en/data/events_special_multiverse.xml.append:2377
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Élégance, si je devais le dire en un mot."
 
 #: src-en/data/events_special_multiverse.xml.append:2379
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Il profite du moment, fier d'un tel éloge pour son travail. \"Vous me "
+"ravissez tellement, merci.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2381
 msgid ""
@@ -2726,11 +2755,13 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr ""
+"La plupart sont bons, mais certains pourraient certainement avoir besoin "
+"d'un peu de travail."
 
 #: src-en/data/events_special_multiverse.xml.append:2389
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/choice/event/choice/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "\"J'apprécie la sincérité, car la perfection ne vient pas sans erreur.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2391
 msgid ""
@@ -2740,12 +2771,12 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2397
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/choice/event/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "J'ai vu mieux."
 
 #: src-en/data/events_special_multiverse.xml.append:2399
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CONTINUE\"]/choice/event/choice/event/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "\"... Dûment noté...\""
 
 #: src-en/data/events_special_multiverse.xml.append:2401
 msgid ""
@@ -2756,6 +2787,10 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CHOICE\"]/text"
 msgstr ""
+"Se redressant, l'Architecte se concentre à nouveau sur vous. \"Quoi qu'il en"
+" soit, j'ai une autre conception de ma création qui a besoin d'un test "
+"approprié. Oui, il y a bien une récompense qui vous attend, si vous "
+"réussissez. M'honorerez-vous ainsi ?\""
 
 #: src-en/data/events_special_multiverse.xml.append:2435
 msgid ""
@@ -2765,17 +2800,19 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2437
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CHOICE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"Quel appariement vous intrigue le plus ?\""
 
 #: src-en/data/events_special_multiverse.xml.append:2439
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CHOICE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Adamantin + Doré."
 
 #: src-en/data/events_special_multiverse.xml.append:2441
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CHOICE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Le vaisseau de l'Architecte s'éloigne à une distance plus sûre et l'un des "
+"vaisseaux Ferrailleurs s'avance pour engager le combat."
 
 #: src-en/data/events_special_multiverse.xml.append:2447
 msgid ""
@@ -2785,12 +2822,14 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2453
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CHOICE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Doré + Rosegold."
 
 #: src-en/data/events_special_multiverse.xml.append:2455
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CHOICE\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Le vaisseau de l'Architecte s'éloigne à une distance plus sûre et l'un des "
+"vaisseaux Ferrailleurs au loin s'avance pour engager le combat."
 
 #: src-en/data/events_special_multiverse.xml.append:2461
 msgid ""
@@ -2800,12 +2839,14 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2467
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CHOICE\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Rosegold + Adamantin."
 
 #: src-en/data/events_special_multiverse.xml.append:2469
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CHOICE\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Le vaisseau de l'Architecte s'éloigne à une distance plus sûre et l'un des "
+"vaisseaux Ferrailleurs au loin s'avance pour engager le combat."
 
 #: src-en/data/events_special_multiverse.xml.append:2475
 msgid ""
@@ -2815,12 +2856,16 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2483
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CHOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "Décliner."
 
 #: src-en/data/events_special_multiverse.xml.append:2485
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_CHOICE\"]/choice[2]/event/text"
 msgstr ""
+"Vous êtes accueilli par un long silence et un sentiment croissant de "
+"déception. Un hochement de tête bas échappe à l'Architecte. \"Très bien. Ce "
+"sera la fin de nos interactions.\" Son vaisseau fait un saut et disparaît, "
+"la flotte de Ferrailleurs suivant peu après."
 
 #: src-en/data/events_special_multiverse.xml.append:2488
 msgid ""
@@ -2836,56 +2881,69 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_MERGED_DESTROY\"]/text"
 msgstr ""
+"Alors que le Ferrailleur se divise en débris, le vaisseau de l'Architecte "
+"émerge. \"Un combat merveilleusement exécuté, félicitations. Comme promis, "
+"votre récompense.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2506
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_MERGED_DESTROY\"]/choice/text"
-msgstr ""
+msgstr "C'est tout ? Juste un dernier combat et nous en avons fini ?"
 
 #: src-en/data/events_special_multiverse.xml.append:2508
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_MERGED_DESTROY\"]/choice/event/text"
 msgstr ""
+"L'Architecte s'arrête dans son élan, face à vous une fois de plus. Une suggestion de confusion sur son visage vide est accueillie par une main levée avec curiosité. \"Je ne m'attendais pas à une telle audace de votre part, pourtant peut-être que cela aurait dû être évident. Vos tentatives pour même m'atteindre de cette manière sont déjà extraordinaires en soi...\" \n"
+"Il marmonne pour lui-même, faisant les cent pas tout en réfléchissant à votre réponse. Soudain, tout lui vient à l'esprit.\n"
+"\"Ah. Vous désirez un défi, n'est-ce pas ? Et peut-être une récompense supplémentaire pour un effort aussi monumental ?\""
 
 #: src-en/data/events_special_multiverse.xml.append:2512
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_MERGED_DESTROY\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Envoyez-moi votre plus fort."
 
 #: src-en/data/events_special_multiverse.xml.append:2516
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_MERGED_DESTROY\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"Il fait ce même geste de rire, la posture campée pour le dramatique. \"Je vais faire mieux que ça. Moi. Je serai votre adversaire final, sans aucun quartier accordé.\" Il se détend, juste un peu. \"Je n'ai jamais vraiment testé l'efficacité de ma propre conception. Ce serait une grande expérience pour nous deux. J'espère que vous n'aurez aucun mal à me retrouver une fois de plus. J'attendrai.\" \n"
+"Le vaisseau de l'Architecte fait un saut et disparaît. Son vaisseau laisse une lueur s'estompant rapidement dans l'espace qu'il occupait autrefois."
 
 #: src-en/data/events_special_multiverse.xml.append:2521
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_MERGED_DESTROY\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "En y réfléchissant bien, ça ira."
 
 #: src-en/data/events_special_multiverse.xml.append:2524
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_MERGED_DESTROY\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"L'Architecte hoche la tête. \"Très bien. Vous avez été plus qu'admirable "
+"jusqu'à présent. Je ne prendrai pas plus de votre temps. Je vous souhaite "
+"bonne chance dans votre mission.\" Le vaisseau de l'Architecte fait un saut "
+"et disparaît. Son vaisseau laisse une lueur s'estompant rapidement dans "
+"l'espace qu'il occupait autrefois."
 
 #: src-en/data/events_special_multiverse.xml.append:2543
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "J'attends."
 
 #: src-en/data/events_special_multiverse.xml.append:2544
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_FIGHT\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "Nous en avons fini."
 
 #: src-en/data/events_special_multiverse.xml.append:2545
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_FIGHT\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "J'attends."
 
 #: src-en/data/events_special_multiverse.xml.append:2554
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"ENCOUNTER_TC_ZOG_FIGHT_NO\"]/text"
-msgstr ""
+msgstr "Il n'y a plus rien à faire."
 
 #: src-en/data/events_special_multiverse.xml.append:2556
 msgid ""
@@ -2901,21 +2959,23 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"ENCOUNTER_TC_ZOG_FIGHT_YES\"]/text"
 msgstr ""
+"Votre arrivée est accueillie par un appel de l'Architecte. \"Salutations. "
+"Êtes-vous prêt ?\""
 
 #: src-en/data/events_special_multiverse.xml.append:2572
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"ENCOUNTER_TC_ZOG_FIGHT_YES\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "J'attends."
 
 #: src-en/data/events_special_multiverse.xml.append:2573
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"ENCOUNTER_TC_ZOG_FIGHT_YES\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "Nous en avons fini."
 
 #: src-en/data/events_special_multiverse.xml.append:2574
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"ENCOUNTER_TC_ZOG_FIGHT_YES\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "J'attends."
 
 #: src-en/data/events_special_multiverse.xml.append:2578
 msgid ""
@@ -2925,7 +2985,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2580
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"ENCOUNTER_TC_ZOG_FIGHT_YES\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"Commençons, alors.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2590
 msgid ""
@@ -2940,7 +3000,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2598
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"ENCOUNTER_TC_ZOG_FIGHT_YES\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"Une autre fois, alors.\" Il fait un saut et disparaît."
 
 #: src-en/data/events_special_multiverse.xml.append:2601
 msgid ""
@@ -2956,16 +3016,22 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/text"
 msgstr ""
+"Alors que le vaisseau de l'Architecte se brise en d'innombrables éclats, vous les entendez se téléporter à côté de vous. \"Merveilleux ! Vraiment, merveilleusement fait ! Je n'aurais pas pu exécuter une meilleure performance moi-même.\" Vous les voyez regarder les débris de leur croiseur. \n"
+"\"Autant j'adorais ma conception, sa destruction ne montre que son imperfection. Maintenant, j'ai l'opportunité parfaite de la perfectionner.\" Vous surprenez ce qui pourrait être un sourire sur leur visage sans visage. Ils secouent un peu la tête en se tournant vers vous.\n"
+"\"Bien, votre récompense ! J'espère que vous trouverez les sélections proposées suffisantes pour vos besoins. Cependant, si vous voulez bien, n'en prenez qu'une seule.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2680
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[1]/text"
-msgstr ""
+msgstr "Flak Amalgame Oméga."
 
 #: src-en/data/events_special_multiverse.xml.append:2682
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[1]/event/text"
 msgstr ""
+"\"C'est un miracle que cette arme ne se déchire pas toute seule en tirant. "
+"Si mes souvenirs sont bons, elle est construite en... platine, iridium et "
+"osmium, comme vous pourriez les appeler.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2685
 msgid ""
@@ -2975,12 +3041,14 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2691
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[2]/text"
-msgstr ""
+msgstr "Flak Prismatique de Minuit."
 
 #: src-en/data/events_special_multiverse.xml.append:2693
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[2]/event/text"
 msgstr ""
+"\"De nombreuses idées disparates ont alimenté cette arme, et je ne pouvais "
+"tout simplement pas décider d'une seule.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2696
 msgid ""
@@ -2990,12 +3058,14 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2702
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[3]/text"
-msgstr ""
+msgstr "Flak Élémentaire Interchangeable."
 
 #: src-en/data/events_special_multiverse.xml.append:2704
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[3]/event/text"
 msgstr ""
+"\"La Flak Interchangeable est déjà une joie à voir, pourtant j'ai fait en "
+"sorte qu'elle atteigne des potentiels encore plus élevés.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2707
 msgid ""
@@ -3005,12 +3075,14 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2713
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[4]/text"
-msgstr ""
+msgstr "Synthétiseur de Ferrailleur."
 
 #: src-en/data/events_special_multiverse.xml.append:2715
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[4]/event/text"
 msgstr ""
+"\"Mes créations sont assez adeptes de l'auto-réplication, comme vous l'avez "
+"sans doute vu. Cependant, un coup de main est toujours apprécié.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2718
 msgid ""
@@ -3020,12 +3092,12 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2724
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[5]/text"
-msgstr ""
+msgstr "Duplicateur de Ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:2726
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[5]/event/text"
-msgstr ""
+msgstr "\"Un peu blasé, mais je peux respecter le désir de ferraille.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2729
 msgid ""
@@ -3035,12 +3107,14 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2735
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[6]/text"
-msgstr ""
+msgstr "Ferrailleur en Acier de Jade."
 
 #: src-en/data/events_special_multiverse.xml.append:2737
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_DESTROY\"]/choice[6]/event/text"
 msgstr ""
+"\"Un Ferrailleur avec un potentiel illimité. Je n'ai jamais eu l'occasion de"
+" les voir à leur apogée.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2740
 msgid ""
@@ -3051,6 +3125,10 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_ACCOMPANY\"]/text"
 msgstr ""
+"\"À quoi sert un test de terrain supplémentaire sans documentation appropriée ? Je vous accompagnerai aussi longtemps que je le pourrai, afin que je puisse voir cela jusqu'au bout.\"\n"
+"\t\t\n"
+"\t\t\t[Améliorations de Ferrailleur Élémentaire débloquées de façon permanente ! Vous pouvez les trouver dans le laboratoire des Ferrailleurs.]\n"
+"\t\t\t[Plus de plans disponibles dans le Compacteur !]"
 
 #: src-en/data/events_special_multiverse.xml.append:2753
 msgid ""
@@ -3066,11 +3144,12 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"ZOG_MAD\"]/text"
 msgstr ""
+"C'est quoi ce délire, je viens juste d'arriver, pourquoi m'avoir renvoyé."
 
 #: src-en/data/events_special_multiverse.xml.append:2783
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC_ZOG_SUPER\"]/text"
-msgstr ""
+msgstr "Bonne chance."
 
 #: src-en/data/events_special_multiverse.xml.append:2787
 msgid ""
@@ -3080,13 +3159,13 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:2793
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_ZOG_SUPER_DESTROY\"]/text"
-msgstr ""
+msgstr "C'est quoi ce bordel."
 
 #: src-en/data/events_special_multiverse.xml.append:2799
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/text"
 msgstr ""
-"TRACKER est là - il semble occupé, cependant. \"Oh salut, vous encore... "
+"TRACKER est ici - il a l'air occupé, cependant. \"Oh salut, vous encore... "
 "S'il vous plaît, euh, aidez-moi.\""
 
 #: src-en/data/events_special_multiverse.xml.append:2802
@@ -3107,7 +3186,7 @@ msgstr "À L'AIDE S'IL VOUS PLAÎT."
 #: src-en/data/events_special_multiverse.xml.append:2807
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[1]/text"
-msgstr "Aiiide Compactur d'ordur"
+msgstr "Aide le Compacteur de Déchets"
 
 #: src-en/data/events_special_multiverse.xml.append:2809
 msgid ""
@@ -3122,12 +3201,12 @@ msgstr "ok"
 #: src-en/data/events_special_multiverse.xml.append:2818
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[2]/text"
-msgstr "non mon pote je me tire"
+msgstr "nan frère je me tire"
 
 #: src-en/data/events_special_multiverse.xml.append:2820
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"KM_QUEST_1\"]/choice[2]/event/text"
-msgstr "D'accord j'imagine1"
+msgstr "Biensûr je suppose"
 
 #: src-en/data/events_special_multiverse.xml.append:2822
 msgid ""
@@ -3138,8 +3217,8 @@ msgstr "ok"
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/text"
 msgstr ""
-"Un vaisseau de Ferrailleurs est dans ce secteur. Il diffuse un signal "
-"demandant simplement de la ferraille. Peut-être veulent-ils commercer ?"
+"Un vaisseau ferrailleur est dans ce secteur. Il diffuse un signal demandant "
+"simplement de la ferraille. Peut-être veulent-ils commercer ?"
 
 #: src-en/data/events_special_multiverse.xml.append:2904
 msgid ""
@@ -3148,20 +3227,15 @@ msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:2906
 msgid ""
-<<<<<<< Updated upstream
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[1]/event/text[1]"
-msgstr "\" EXCUSEZ-M01 ?!? \""
-=======
-"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[1]/event/text[1]"
-msgstr "\"3XCUSE M0!?!\""
->>>>>>> Stashed changes
+msgstr "\"3XCUSEZ M0I !?!\""
 
 #: src-en/data/events_special_multiverse.xml.append:2907
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[1]/event/text[2]"
 msgstr ""
 "Il semble qu'une équipe d'abordage soit entrée dans votre vaisseau. Peut-"
-"être avaient-ils un système de contournement de super bouclier ?"
+"être avaient-ils un bypass de super bouclier ?"
 
 #: src-en/data/events_special_multiverse.xml.append:2913
 msgid ""
@@ -3170,46 +3244,33 @@ msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:2919
 msgid ""
-<<<<<<< Updated upstream
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[2]/text"
-msgstr "Contactez-les pour voir s'ils veulent de la ferraille."
-=======
-"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[2]/text"
-msgstr "Contactez-les et voyez s'ils veulent de la ferraille."
->>>>>>> Stashed changes
+msgstr "Appelez-les et voyez s'ils veulent de la ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:2921
 msgid ""
-<<<<<<< Updated upstream
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[2]/event/text"
-msgstr "\" N0US AV0NS B3SOIN DE F3RRAILL3 ! \""
-=======
-"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[2]/event/text"
-msgstr "\"0N VEUT D3 L@ F3RR@!LL3!\""
->>>>>>> Stashed changes
+msgstr "\"W3 AV0NS B3S0IN DE F3RRAILLE !\""
 
 #: src-en/data/events_special_multiverse.xml.append:2926
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-=======
-"Votre Ferrailleur agite les mains et envoie un signal au vaisseau des "
-"Ferrailleurs ; \"C0D3 C0UP0N!!!\" Il tape un court code et vous remarquez "
-"que les prix du magasin baissent !"
->>>>>>> Stashed changes
+"Votre ferrailleur agite ses mains et envoie un signal au vaisseau "
+"ferrailleur ; \"C0UPON COD3!!!\" Ils tapent un court code et vous remarquez "
+"que les prix du magasin chutent !"
 
 #: src-en/data/events_special_multiverse.xml.append:2928
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/text"
-msgstr "\" N0US AV0NS B3SOIN DE F3RRAILL3 ! \""
+msgstr "\"W3 AV0NS B3S0IN DE F3RRAILLE !\""
 
 #: src-en/data/events_special_multiverse.xml.append:2935
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_BOMBER\"]/text"
 msgstr ""
-"Un vaisseau de Ferrailleurs est dans ce secteur. Il ne vous donne aucun "
-"avertissement avant d'activer ses armes. Il vous contacte, hurlant quelque "
+"Un vaisseau ferrailleur est dans ce secteur. Il ne vous donne aucun "
+"avertissement avant d'activer ses armes. Il vous appelle, criant quelque "
 "chose à propos de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:2938
@@ -3221,8 +3282,8 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_CRUISER\"]/text"
 msgstr ""
-"Un vaisseau de Ferrailleurs est dans ce secteur. Il ne vous donne aucun "
-"avertissement avant d'activer ses armes. Il vous contacte, hurlant quelque "
+"Un vaisseau ferrailleur est dans ce secteur. Il ne vous donne aucun "
+"avertissement avant d'activer ses armes. Il vous appelle, criant quelque "
 "chose à propos de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:2947
@@ -3234,102 +3295,56 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/text"
 msgstr ""
-"Un vaisseau de soutien des Ferrailleurs est dans ce secteur. Il semble ne "
-"pas vous remarquer, ou alors il le fait et s'en fiche."
+"Un vaisseau de soutien ferrailleur est dans ce secteur. Il semble ne pas "
+"vous remarquer, ou il le fait et s'en fiche."
 
 #: src-en/data/events_special_multiverse.xml.append:2956
 msgid ""
-<<<<<<< Updated upstream
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[1]/text"
 msgstr "Attaquez le vaisseau avant qu'il n'ait de mauvaises idées."
-=======
-"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[1]/text"
-msgstr "Attaquez le vaisseau avant qu'il n'ait d'autres idées lumineuses."
->>>>>>> Stashed changes
 
 #: src-en/data/events_special_multiverse.xml.append:2958
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Le vaisseau active ses armes."
 
 #: src-en/data/events_special_multiverse.xml.append:2961
 msgid ""
-<<<<<<< Updated upstream
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[1]/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:2967
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
-msgstr "Consultez votre scrapper."
-=======
-"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
-msgstr "Consultez votre Ferrailleur."
->>>>>>> Stashed changes
+msgstr "Consultez votre ferrailleur."
 
 #: src-en/data/events_special_multiverse.xml.append:2969
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/text"
 msgstr ""
-"Votre Ferrailleur vous informe que le vaisseau de soutien semble perdu. Il est censé être avec d'autres, dans une flotte, mais celui-ci est seul. Ils peuvent avoir besoin d'aide mais se trouvent peut-être incapables de demander. \n"
-"\t\t\tVotre Ferrailleur vous dit qu'il serait bon de les contacter, car les Ferrailleurs ne se soucient généralement que d'une chose et ne sont pas trop hostiles envers les aliens ou les humains."
+"Votre ferrailleur vous conseille que le vaisseau de soutien semble perdu. Il est censé être avec d'autres, faisant partie d'une flotte, mais celui-ci est seul. Ils peuvent avoir besoin d'aide mais peuvent se trouver incapables de demander. \n"
+"\t\t\tVotre ferrailleur vous dit qu'il serait bon de les appeler, car les ferrailleurs ne se soucient généralement que d'une chose et ne sont généralement pas trop hostiles envers les aliens ou les humains."
 
 #: src-en/data/events_special_multiverse.xml.append:2972
 msgid ""
-<<<<<<< Updated upstream
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/text"
-msgstr "Contactez le vaisseau de support scrapper et offrez votre aide."
-=======
-"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/text"
-msgstr ""
-"Contactez le vaisseau de soutien des Ferrailleurs et proposez votre aide."
->>>>>>> Stashed changes
+msgstr "Appelez le vaisseau de soutien ferrailleur et offrez votre aide."
 
 #: src-en/data/events_special_multiverse.xml.append:2974
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-=======
-"Le capitaine Ferrailleur vous répond d'un ton un peu agité, \"HEUR3UX D3 "
-"V0!R D3 L@ CH@!R C@PTA!N3 0N A B3S0!N D3 R3P@R@T!0NS!! P0UV3Z-V0US D0NN3R D3"
-" L@ F3RR@!LL3!!???\""
->>>>>>> Stashed changes
+"Le capitaine Ferrailleur vous répond avec un ton un peu troublé, \"H3UR3UX D3 V0!R UN C@PITA!N3 CH@IRU!!! N0US AV0NS B3S0!N D3 R3P@R@T!0NS !! P0UV3Z-V0US N0US D0NN3R D3 L@ F3RR@!LL3 !!???\"\n"
+"\t\t\t\tIl semble que le ferrailleur n'ait effectivement qu'une seule chose en tête."
 
 #: src-en/data/events_special_multiverse.xml.append:2977
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[1]/text"
-msgstr ""
-<<<<<<< Updated upstream
-=======
-"Il semble que le Ferrailleur n'ait effectivement qu'une seule chose en tête."
->>>>>>> Stashed changes
+msgstr "Transférez de la ferraille pour faciliter leurs réparations."
 
 #: src-en/data/events_special_multiverse.xml.append:2979
 msgid ""
-<<<<<<< Updated upstream
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[1]/event/text"
-=======
-"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
-msgstr "Demandez à votre Ferrailleur ce qu'il en pense."
-
-#: src-en/data/events_special_multiverse.xml.append:1932
-msgid ""
-"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/text"
-msgstr ""
-"Votre Ferrailleur vous dit que le capitaine Ferrailleur semble sincère, mais qu'on ne peut jamais être sûr puisqu'il demande de la ferraille, bien sûr.\n"
-"\t\t\t\t\t\t\tMais si vous pouvez aider quelqu'un, ne pensez-vous pas que vous devriez le faire ?"
-
-#: src-en/data/events_special_multiverse.xml.append:1935
-msgid ""
-"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice/text"
-msgstr ""
-"Transférez de la ferraille au Ferrailleur pour faciliter ses réparations."
-
-#: src-en/data/events_special_multiverse.xml.append:1937
-msgid ""
-"data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice/event/text"
->>>>>>> Stashed changes
 msgstr "Vous envoyez la ferraille..."
 
 #: src-en/data/events_special_multiverse.xml.append:2984
@@ -3341,6 +3356,8 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
 msgstr ""
+"Faites transférer de la ferraille par votre Ferrailleur pour faciliter leurs"
+" réparations."
 
 #: src-en/data/events_special_multiverse.xml.append:2992
 msgid ""
@@ -3356,18 +3373,20 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice/event/text"
 msgstr ""
-"\"M3RC! CAPT@!N3! 0N P3UT F@!R3 F0NCT!0NN3R N0S M0T3URS À N0UV3AU!! PR3N3Z "
-"C3TT3 B3LL3 M@CH!N3 QU3 0N A TR0UV3\""
+"\"M3RC! C@PITA!N3 ! N0US P0UV0NS D3 N0UV3@U 0P3R3R N0S M0T3URS !! PR3N3Z L@ "
+"M@CH!N3 F@NCY QU3 N0US AV0NS TR0UV3\""
 
 #: src-en/data/events_special_multiverse.xml.append:3006
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Cela pourrait être un piège, partez."
 
 #: src-en/data/events_special_multiverse.xml.append:3008
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Vous vous éloignez du vaisseau Ferrailleur et il ne fait aucun mouvement "
+"pour vous arrêter."
 
 #: src-en/data/events_special_multiverse.xml.append:3014
 msgid ""
@@ -3377,7 +3396,7 @@ msgstr "Ordonnez à votre équipage de se préparer au combat !"
 #: src-en/data/events_special_multiverse.xml.append:3016
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SUPPORT\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Vous activez vos armes."
 
 #: src-en/data/events_special_multiverse.xml.append:3019
 msgid ""
@@ -3398,13 +3417,15 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//eventList[@name=\"SCRAPPER_ENCOUNTER_SUPPORT_CHEK\"]/event[1]/text"
 msgstr ""
-"\"M3RCI C@PITAIN ! NOUZ@VONS D3 NOUV3AU D3 L'ÉL3CTRICIT3 POUR NOZ MOTEURZ !!"
-" PR3N3Z C3TT3 B3LL3 M@CHINE QU3 NOUZ@VONS TROUV3Z\""
+"\"M3RC! C@PITA!N3 ! N0US P0UV0NS D3 N0UV3@U 0P3R3R N0S M0T3URS !! PR3N3Z L@ "
+"M@CH!N3 F@NCY QU3 N0US AV0NS TR0UV3\""
 
 #: src-en/data/events_special_multiverse.xml.append:3042
 msgid ""
 "data/events_special_multiverse.xml.append$//eventList[@name=\"SCRAPPER_ENCOUNTER_SUPPORT_CHEK\"]/event[2]/text"
 msgstr ""
+"Le vaisseau Ferrailleur prend votre ferraille et procède à l'activation de "
+"ses armes !"
 
 #: src-en/data/events_special_multiverse.xml.append:3045
 msgid ""
@@ -3415,8 +3436,8 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_HUNTER\"]/text"
 msgstr ""
-"Un vaisseau de Ferrailleurs est dans ce secteur. Il ne vous donne aucun "
-"avertissement avant d'activer ses armes. Il vous contacte, hurlant quelque "
+"Un vaisseau ferrailleur est dans ce secteur. Il ne vous donne aucun "
+"avertissement avant d'activer ses armes. Il vous appelle, criant quelque "
 "chose à propos de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:3055
@@ -3428,8 +3449,8 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_CORVETTE\"]/text"
 msgstr ""
-"Un vaisseau de Ferrailleurs est dans ce secteur. Il ne vous donne aucun "
-"avertissement avant d'activer ses armes. Il vous contacte, hurlant quelque "
+"Un vaisseau ferrailleur est dans ce secteur. Il ne vous donne aucun "
+"avertissement avant d'activer ses armes. Il vous appelle, criant quelque "
 "chose à propos de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:3064
@@ -3441,8 +3462,8 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_ENCOUNTER_SCOUT\"]/text"
 msgstr ""
-"Un vaisseau de Ferrailleurs est dans ce secteur. Il ne vous donne aucun "
-"avertissement avant d'activer ses armes. Il vous contacte, hurlant quelque "
+"Un vaisseau ferrailleur est dans ce secteur. Il ne vous donne aucun "
+"avertissement avant d'activer ses armes. Il vous appelle, criant quelque "
 "chose à propos de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:3073
@@ -3454,139 +3475,137 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_SCOUT_DESTROYED\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs explose, laissant derrière lui une grande "
-"quantité de ferraille."
+"Le vaisseau ferrailleur explose, laissant derrière lui une grande quantité "
+"de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:3084
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_SCOUT_DEADCREW\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs est vide, vous donnant tout le temps nécessaire"
-" pour démonter le vaisseau."
+"Le vaisseau ferrailleur est vide, vous donnant amplement le temps de "
+"démonter le vaisseau."
 
 #: src-en/data/events_special_multiverse.xml.append:3089
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_BOMBER_DESTROYED\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs explose, laissant derrière lui une grande "
-"quantité de ferraille."
+"Le vaisseau ferrailleur explose, laissant derrière lui une grande quantité "
+"de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:3094
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_BOMBER_DEADCREW\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs est vide, vous donnant tout le temps nécessaire"
-" pour démonter le vaisseau."
+"Le vaisseau ferrailleur est vide, vous donnant amplement le temps de "
+"démonter le vaisseau."
 
 #: src-en/data/events_special_multiverse.xml.append:3099
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_SHOP_DESTROYED\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs explose, laissant derrière lui une grande "
-"quantité de ferraille."
+"Le vaisseau ferrailleur explose, laissant derrière lui une grande quantité "
+"de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:3104
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_SHOP_DEADCREW\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs est vide, vous donnant tout le temps nécessaire"
-" pour démonter le vaisseau."
+"Le vaisseau ferrailleur est vide, vous donnant amplement le temps de "
+"démonter le vaisseau."
 
 #: src-en/data/events_special_multiverse.xml.append:3109
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_CORVETTE_DESTROYED\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs explose, laissant derrière lui une grande "
-"quantité de ferraille."
+"Le vaisseau ferrailleur explose, laissant derrière lui une grande quantité "
+"de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:3116
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_CORVETTE_DEADCREW\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs est vide, vous donnant tout le temps nécessaire"
-" pour démonter le vaisseau."
+"Le vaisseau ferrailleur est vide, vous donnant amplement le temps de "
+"démonter le vaisseau."
 
 #: src-en/data/events_special_multiverse.xml.append:3123
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_HUNTER_DESTROYED\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs explose, laissant derrière lui une grande "
-"quantité de ferraille."
+"Le vaisseau ferrailleur explose, laissant derrière lui une grande quantité "
+"de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:3130
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_HUNTER_DEADCREW\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs est vide, vous donnant tout le temps nécessaire"
-" pour démonter le vaisseau."
+"Le vaisseau ferrailleur est vide, vous donnant amplement le temps de "
+"démonter le vaisseau."
 
 #: src-en/data/events_special_multiverse.xml.append:3137
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_SUPPORT_DESTROYED\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs explose, laissant derrière lui une grande "
-"quantité de ferraille."
+"Le vaisseau ferrailleur explose, laissant derrière lui une grande quantité "
+"de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:3144
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC_SCRAPPER_SUPPORT_DEADCREW\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs est vide, vous donnant tout le temps nécessaire"
-" pour démonter le vaisseau."
+"Le vaisseau ferrailleur est vide, vous donnant amplement le temps de "
+"démonter le vaisseau."
 
 #: src-en/data/events_special_multiverse.xml.append:3151
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_CRUISER_DESTROYED\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs explose, laissant derrière lui une grande "
-"quantité de ferraille."
+"Le vaisseau ferrailleur explose, laissant derrière lui une grande quantité "
+"de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:3156
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_CRUISER_DEADCREW\"]/text"
 msgstr ""
-"Le vaisseau des Ferrailleurs est vide, vous donnant tout le temps nécessaire"
-" pour démonter le vaisseau."
+"Le vaisseau ferrailleur est vide, vous donnant amplement le temps de "
+"démonter le vaisseau."
 
 #: src-en/data/events_special_multiverse.xml.append:3161
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_DESTROYED\"]/text"
 msgstr ""
-"Le vaisseau scrapper explose, laissant derrière lui une grande quantité de "
-"ferraille."
+"Le vaisseau ferrailleur explose, laissant derrière lui une grande quantité "
+"de ferraille."
 
 #: src-en/data/events_special_multiverse.xml.append:3166
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SCRAPPER_DEADCREW\"]/text"
 msgstr ""
-"Le vaisseau scrapper est vide, vous donnant amplement le temps de démanteler"
-" le vaisseau."
+"Le vaisseau ferrailleur est vide, vous donnant amplement le temps de "
+"démonter le vaisseau."
 
 #: src-en/data/events_special_multiverse.xml.append:3175
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"SYLVAN_ROYAL_NORMAL\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
 msgstr ""
-"Demandez à Leah de se tenir à côté de vous pendant que vous répondez à son "
-"appel."
+"Faites en sorte que Leah se tienne à côté de vous pendant que vous répondez "
+"à son appel."
 
 #: src-en/data/events_special_multiverse.xml.append:3183
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SYLVAN_ROYAL_LEAH_DIALOGUE\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-=======
-"\"Pas possible. C'est pas possible que t'aies fait ça. Pas possible que "
-"t'aies trouvé... UNE AUTRE LEAH ? Et nous ? Et notre rivalité, la rivalité "
-"la plus légendaire qui ait jamais existé, et tu as trouvé UNE AUTRE moi ? Je"
-" pensais qu'on avait quelque chose de spécial, on s'est battus tant de fois,"
-" on a eu tant de moments incroyables et toi... tu... tu me trompes !\" Leah "
-"frappe la table du poing et bondit de son siège. \"Fini de jouer capitaine, "
-"notre rivalité est terminée, et une seule d'entre nous sortira d'ici "
-"vivante. Ooh, mais si on mourait toutes les deux en même temps, ça ne ferait"
-" pas un moment tellement cool et épique-\" Vous coupez les communications et"
-" commencez à charger vos armes."
->>>>>>> Stashed changes
+"\"C'est pas possible. C'est pas possible que tu aies fait ça. C'est pas "
+"possible que tu aies trouvé... UNE AUTRE LEAH ? Qu'en est-il de nous ? Qu'en"
+" est-il de notre rivalité, la rivalité la plus légendaire qui ait jamais "
+"existé, et tu as trouvé UNE AUTRE moi ? Je pensais que nous avions quelque "
+"chose de spécial, nous nous sommes battus tant de fois, nous avons eu tant "
+"de moments incroyables et toi... tu... tu me trompes !\" Leah frappe la "
+"table du poing et bondit de son siège. \"Fini les jeux capitaine, notre "
+"rivalité est terminée, et seulement l'un de nous va s'en sortir vivant. Ooh,"
+" mais et si nous mourions tous les deux en même temps, ça ne ferait pas un "
+"mo- épique et cool ?\" Vous coupez les communications et commencez à charger"
+" vos armes."
 
 #: src-en/data/events_special_multiverse.xml.append:3186
 msgid ""
@@ -3604,10 +3623,10 @@ msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"\"Les... accumulateurs Lanius. Leur avidité pour... la ferraille les a "
+"\"Les... accumulateurs de Lanius. Leur avidité pour... la ferraille les a "
 "changés. En inviter un sur votre vaisseau est... surprenant. Oui, je suis..."
-" impressionné. Bien joué, voyageur. Attendez-vous à... des récompenses avant"
-" votre prochain voyage.\""
+" impressionnée. Bien joué, voyageur. Attendez-vous à... des récompenses "
+"avant votre prochain voyage.\""
 
 #: src-en/data/events_special_multiverse.xml.append:3200
 msgid ""
