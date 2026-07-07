@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-04 18:36+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2026-07-08 15:36+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -4029,8 +4029,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_EATER\"]/unlock"
 msgstr ""
-"Чтобы разблокировать этот корабль, обратитесь за советом к одному из принцев "
-"рода ланиусов по поводу некоего артефакта."
+"Посоветуйтесь с одним из принцев рода ланиусов по поводу конкретного "
+"артефакта, чтобы разблокировать корабль."
 
 #: src-en/data/blueprints.xml.append:8066
 msgid "data/blueprints.xml.append$//trash_eater[@name=\"Trash Eater\"]/@name"
@@ -4057,8 +4057,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_EATER_2\"]/unlock"
 msgstr ""
-"Чтобы разблокировать этот корабль, обратитесь за советом к определенному "
-"Архитектору по поводу определенного артефакта."
+"Посоветуйтесь с Архитектором по поводу конкретного артефакта, чтобы "
+"разблокировать корабль."
 
 #: src-en/data/blueprints.xml.append:8147
 msgid "data/blueprints.xml.append$//unique_zog[@name=\"Zog\"]/@name"
