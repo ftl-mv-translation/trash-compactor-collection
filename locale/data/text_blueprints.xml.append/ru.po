@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-04 18:36+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2026-07-08 15:36+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datatext_blueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -179,8 +179,8 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_EATER_unlock\"]"
 msgstr ""
-"Чтобы разблокировать этот корабль, обратитесь за советом к одному из принцев "
-"рода ланиусов по поводу некоего артефакта."
+"Посоветуйтесь с одним из принцев рода ланиусов по поводу конкретного "
+"артефакта, чтобы разблокировать корабль."
 
 #: src-en/data/text_blueprints.xml.append:52
 msgid "data/text_blueprints.xml.append$/dummyroot/text[34]"
@@ -841,8 +841,8 @@ msgstr "Крейсер Лии"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_NEWTONBEAMA_3_unlock\"]"
 msgstr ""
-"Чтобы разблокировать этот корабль, обратитесь за советом к одному знатоку "
-"лучей по поводу определенного артефакта."
+"Посоветуйтесь с одним знатоком лучей по поводу конкретного артефакта, чтобы "
+"разблокировать корабль."
 
 #: src-en/data/text_blueprints.xml.append:235
 msgid ""
@@ -927,7 +927,9 @@ msgstr "Победите на типе A."
 #: src-en/data/text_blueprints.xml.append:258
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAVIOR_3_unlock\"]"
-msgstr "Спросите у некого флагмана, что делать с определенным устройством."
+msgstr ""
+"Посоветуйтесь с Флагманом Мультивселенной по поводу конкретного артефакта, "
+"чтобы разблокировать корабль."
 
 #: src-en/data/text_blueprints.xml.append:259
 msgid ""
