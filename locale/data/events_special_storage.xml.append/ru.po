@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-04 18:36+0000\n"
+"PO-Revision-Date: 2026-07-26 14:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_storagexmlappend/ru/>\n"
@@ -2877,8 +2877,7 @@ msgstr "Осн: Заостренные зубы. [Улучшение уже до
 #: src-en/data/events_special_storage.xml.append:2575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[10]/text"
-msgstr ""
-"[ПРОДВИНУТЫЙ ПЕРЕРАБОТЧИК ЛОМА] Модернизировать и улучшить своих скрапперов."
+msgstr "Осн: Заостренные зубы [Цена: 35~, 2}]"
 
 #: src-en/data/events_special_storage.xml.append:2579
 msgid ""
