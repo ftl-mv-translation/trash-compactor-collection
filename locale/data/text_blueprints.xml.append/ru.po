@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-08 15:36+0000\n"
+"PO-Revision-Date: 2026-07-28 16:36+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datatext_blueprintsxmlappend/ru/>\n"
@@ -367,7 +367,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:103
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_ARMORED_WASP_unlock\"]"
-msgstr "Победите в игре на любом типе транспортного челнока."
+msgstr "Победите в игре на любом типе модифицированного транспортника."
 
 #: src-en/data/text_blueprints.xml.append:105
 msgid ""
