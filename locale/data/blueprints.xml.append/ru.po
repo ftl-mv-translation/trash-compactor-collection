@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-08-07 11:36+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -4149,7 +4149,7 @@ msgstr "Доберитесь до 5 сектора на типе Б или вы�
 #: src-en/data/blueprints.xml.append:8387
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER\"]/class"
-msgstr "\"Пустельга\" Мусорной коллекции"
+msgstr "\"Пустельга\" Мусор. коллекции"
 
 #: src-en/data/blueprints.xml.append:8388
 msgid ""
@@ -4169,7 +4169,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8465
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER_2\"]/class"
-msgstr "\"Пустельга\" Мусорной коллекции"
+msgstr "\"Пустельга\" Мусор. коллекции"
 
 #: src-en/data/blueprints.xml.append:8466
 msgid ""
@@ -4188,7 +4188,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8543
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER_3\"]/class"
-msgstr "\"Пустельга\" Мусорной коллекции"
+msgstr "\"Пустельга\" Мусор. коллекции"
 
 #: src-en/data/blueprints.xml.append:8544
 msgid ""
@@ -5044,7 +5044,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12095
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FEDERATION_CARRIER\"]/class"
-msgstr "Авианосец поддержки флота Фед."
+msgstr "Авианосец поддержки Фед."
 
 #: src-en/data/blueprints.xml.append:12096
 msgid ""
