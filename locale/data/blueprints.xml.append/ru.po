@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-07 11:36+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-08-10 16:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -7751,7 +7751,7 @@ msgstr "2x скорость ремонта и 0.7x урон в бою"
 #: src-en/data/blueprints.xml.append:13261
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"robottos_machinist\"]/powerList/power[3]"
-msgstr "Не получает урона от удушья и имеет иммунитет от урона от огня"
+msgstr "Не получает урона от удушья и огня"
 
 #: src-en/data/blueprints.xml.append:13266
 msgid ""
