@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-10 16:36+0000\n"
+"PO-Revision-Date: 2026-08-12 23:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
@@ -6044,7 +6044,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12610
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_2\"]/title"
-msgstr "Улучшенный розово-золотой скраппер"
+msgstr "Усиленный розово-золотой скраппер"
 
 #: src-en/data/blueprints.xml.append:12611
 msgid ""
@@ -6460,7 +6460,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12768
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper_2\"]/title"
-msgstr "Улучшенный адамантиновый скраппер"
+msgstr "Усиленный адамантиновый скраппер"
 
 #: src-en/data/blueprints.xml.append:12769
 msgid ""
@@ -6843,7 +6843,7 @@ msgstr "Урон от всех источников уменьшен на 10%"
 #: src-en/data/blueprints.xml.append:12920
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_2\"]/title"
-msgstr "Улучшенный золотой скраппер"
+msgstr "Усиленный золотой скраппер"
 
 #: src-en/data/blueprints.xml.append:12921
 msgid ""
