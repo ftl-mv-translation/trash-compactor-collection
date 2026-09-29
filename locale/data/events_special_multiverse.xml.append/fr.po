@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-02 18:36+0000\n"
+"PO-Revision-Date: 2026-09-30 11:36+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_multiversexmlappend/fr/>\n"
@@ -184,7 +184,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:162
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest_completed\"]/event/choice[8]/text"
 msgstr "Laisser tomber."
@@ -215,13 +214,11 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:185
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"tc_quest2_completed\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_multiverse.xml.append:200
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[11]/text"
 msgstr "Laisser tomber."
@@ -911,7 +908,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:946
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_VANILLA\"]/choice[16]/text"
 msgstr "Laisser tomber."
@@ -992,7 +988,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:1043
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_CUSTOM\"]/choice[8]/text"
 msgstr "Laisser tomber."
@@ -1143,7 +1138,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:1209
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_BOMB\"]/choice[15]/text"
 msgstr "Laisser tomber."
@@ -1204,7 +1198,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:1273
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[6]/text"
 msgstr "Laisser tomber."
@@ -1285,7 +1278,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:1351
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ELEMENTAL\"]/choice[8]/text"
 msgstr "Laisser tomber."
@@ -1336,7 +1328,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:1399
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_ZOG\"]/choice[5]/text"
 msgstr "Laisser tomber."
@@ -1529,7 +1520,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:1606
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FUEL_RESERVOIR_RANDOM\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1971,7 +1961,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:1985
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/choice[@req=\"TC5_DEAD\""
 " and @lvl=\"0\"]/event/choice/text"
@@ -2863,7 +2852,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_multiverse.xml.append:2904
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$/dummyroot/FTL/event[@name=\"SCRAPPER_ENCOUNTER_SHOP\"]/choice[1]/text"
 msgstr "Les attaquer !"
