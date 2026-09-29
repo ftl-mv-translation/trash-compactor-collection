@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-02 18:36+0000\n"
+"PO-Revision-Date: 2026-09-30 11:36+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_storagexmlappend/fr/>\n"
@@ -132,7 +132,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:130
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"TC_CLONEBAY_NOLOSS_INSTALL\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -163,7 +162,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:154
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_CLONEBAY_NOLOSS\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -198,7 +196,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:182
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_MULTIVERSAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -233,7 +230,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:211
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"MULTIVERSAL_INSTALL_AMPLIFIER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -259,7 +255,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:241
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"MULTIVERSAL_INSTALL_CAPACITOR\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -302,7 +297,6 @@ msgstr ""
 "niveau 10."
 
 #: src-en/data/events_special_storage.xml.append:278
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_SEALANT\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -345,7 +339,6 @@ msgstr ""
 "niveau 10."
 
 #: src-en/data/events_special_storage.xml.append:313
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_EXTINGUISHERS\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -388,7 +381,6 @@ msgstr ""
 "niveau 8."
 
 #: src-en/data/events_special_storage.xml.append:347
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_BYPASS\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -431,7 +423,6 @@ msgstr ""
 "niveau 8."
 
 #: src-en/data/events_special_storage.xml.append:381
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_SCRAMBLER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -463,7 +454,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:411
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_LIFEFORM\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -495,7 +485,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:440
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_RESPIRATOR\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -527,7 +516,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:470
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ARM_SCRAP\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -559,7 +547,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:501
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ARM_MAGNET\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -591,7 +578,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:532
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ARM_DRONE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -623,7 +609,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:562
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ARM_REPAIR\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -664,7 +649,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:597
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ENGINE_JUMPER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -705,7 +689,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:631
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ENGINE_PERFORMANCE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -746,7 +729,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:665
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SHIELD_ION\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -787,7 +769,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:700
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SHIELD_STUN\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -819,7 +800,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:731
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SHIELD_PERFORMANCE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -862,7 +842,6 @@ msgstr ""
 "5."
 
 #: src-en/data/events_special_storage.xml.append:765
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_WEAPON_REPLICATOR\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -905,7 +884,6 @@ msgstr ""
 "5."
 
 #: src-en/data/events_special_storage.xml.append:799
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_WEAPON_PERFORMANCE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -942,7 +920,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:833
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_WEAPON_BEAM\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -974,7 +951,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:864
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_MIND_BUFF\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1017,7 +993,6 @@ msgstr ""
 "Contrôle mental."
 
 #: src-en/data/events_special_storage.xml.append:899
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_MIND_IMMUNITY\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1049,7 +1024,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:930
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_HACK_STUN\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1081,7 +1055,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:960
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_HACK_JAMMER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1113,7 +1086,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:991
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_BATTERY_PERFORMANCE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1145,7 +1117,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1022
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_BATTERY_GENERATOR\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1177,7 +1148,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1053
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_NOPHASE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1220,7 +1190,6 @@ msgstr ""
 "Contrôle de Drone."
 
 #: src-en/data/events_special_storage.xml.append:1086
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_DRONE_SPEED\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1263,7 +1232,6 @@ msgstr ""
 "niveau 3."
 
 #: src-en/data/events_special_storage.xml.append:1121
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_TELEPORTER_LEVEL4\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1312,7 +1280,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1160
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_TELEPORTER_HEAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1358,7 +1325,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1201
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL3\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1404,7 +1370,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1241
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL4\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1450,7 +1415,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1281
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL5\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1496,7 +1460,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1320
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_FIRE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1537,7 +1500,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1355
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_LEVEL4\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1578,7 +1540,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1389
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_NANO\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1610,7 +1571,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1419
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_SPEED\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1642,7 +1602,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1448
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_RESISTANCE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1674,7 +1633,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1478
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLONEBAY_DNA\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1715,7 +1673,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1512
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_ARTILLERY_TARGETING\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1758,7 +1715,6 @@ msgstr ""
 "niveau 3."
 
 #: src-en/data/events_special_storage.xml.append:1546
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_TELEPORTER_POWER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1798,7 +1754,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1580
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_PILOT_REPAIR\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -1830,7 +1785,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1609
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_PILOT_REROUTE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1862,7 +1816,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1639
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MIND_KILLSWITCH\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1905,7 +1858,6 @@ msgstr ""
 "5."
 
 #: src-en/data/events_special_storage.xml.append:1673
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_WEAPONS_PERFORMANCE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2093,7 +2045,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1846
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_SCRAP\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2732,7 +2683,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2643
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_TOXIC_METAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2758,7 +2708,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2674
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_SOLIDIFIED_SCRAP\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2784,7 +2733,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2706
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_SHARPENED_TEETH\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2819,7 +2767,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2747
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_DEFENDER_SCRAP_SHIELDING\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2854,7 +2801,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2781
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_HEAVY_EXPLOSIVE_ENHANCEMENTS\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2889,7 +2835,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2814
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_SCAVENGER_SUPER_SPEED\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -5325,7 +5270,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:5799
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AVALI_CYBERNETIC\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -5351,7 +5295,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:5827
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AVALI_FLAMECLOAKS\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -5377,7 +5320,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:5855
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AVALI_DENSEFLUFF\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
