@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-02 18:36+0000\n"
+"PO-Revision-Date: 2026-09-30 11:36+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_lightspeedxmlappend/fr/>\n"
@@ -158,7 +158,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:146
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[8]/text"
 msgstr "Laisser tomber."
